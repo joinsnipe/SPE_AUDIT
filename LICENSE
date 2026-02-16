@@ -1,0 +1,58 @@
+Business Source License 1.1
+
+License text copyright (c) 2024-2026 SPE Audit / Joinsnipe
+Licensed work: SPE — Stateless Proof Engine
+Change date: February 16, 2030
+Change license: Apache License, Version 2.0
+
+Terms
+
+The Licensor hereby grants you the right to copy, modify, create derivative
+works, redistribute, and make non-production use of the Licensed Work. The
+Licensor may make an Additional Use Grant, below.
+
+Additional Use Grant:
+
+You may use the Licensed Work for non-commercial purposes, including:
+- Personal projects and experimentation
+- Academic research and education
+- Internal evaluation and testing
+- Open source projects with compatible licenses
+- Building verification tools for SPE proof bundles
+
+You may NOT use the Licensed Work for commercial purposes without a separate
+commercial license from the Licensor. Commercial purposes include, but are
+not limited to:
+- Offering the Licensed Work as a service (SaaS)
+- Integrating the Licensed Work into commercial products
+- Using the Licensed Work to generate revenue directly or indirectly
+- White-labeling or reselling the Licensed Work
+
+For commercial licensing inquiries, contact: contacto@speaudit.com
+
+Change Date
+
+On the Change Date, or the fourth anniversary of the first publicly available
+distribution of a specific version of the Licensed Work under this License,
+whichever comes first, the Licensor hereby grants you rights under the terms
+of the Change License, and the rights granted in the paragraph above terminate.
+
+Patent Notice
+
+The cryptographic proof generation and verification methods implemented in this
+software are the subject of a pending patent application. The Business Source
+License grants you the right to use the software as described above, but does
+NOT grant any patent license. Use of the patented methods for commercial
+purposes requires a separate patent license from the Licensor.
+
+Patent Pending — © 2024-2026 SPE Audit / Joinsnipe / Capriciousecret S.L.
+
+Disclaimer
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.

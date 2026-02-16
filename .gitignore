@@ -1,0 +1,41 @@
+# SPE Audit — Recommended .gitignore
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg-info/
+dist/
+build/
+*.egg
+.eggs/
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Test artifacts
+*.sqlite
+*.zip
+out_attest/
+spe_verify_*/
+
+# Secrets (NEVER commit these)
+.env
+*.pem
+*.key
+private_key*
