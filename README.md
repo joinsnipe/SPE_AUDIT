@@ -6,7 +6,8 @@
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
 [![Ed25519](https://img.shields.io/badge/crypto-Ed25519-green.svg)](#cryptographic-stack)
 [![SHA-256](https://img.shields.io/badge/hash-SHA--256-green.svg)](#cryptographic-stack)
-[![Tests](https://img.shields.io/badge/tests-14%2F14%20passed-brightgreen.svg)](#tests)
+[![Tests](https://img.shields.io/badge/tests-15%2F15%20passed-brightgreen.svg)](#tests)
+[![White Paper](https://img.shields.io/badge/White%20Paper-v1.0-orange.svg)](docs/WHITE_PAPER.md)
 
 ---
 
@@ -183,9 +184,9 @@ SPE_AUDIT/
 │   └── capsule_ledger/       # Portable data structures for verification
 ├── tests/                    # Test suite
 ├── docs/                     # Technical documentation
-│   ├── TECHNICAL_OVERVIEW.md
+│   ├── WHITE_PAPER.md        # White Paper v1.0
 │   ├── PROTOCOL_SPEC.md
-│   ├── VERIFICATION_GUIDE.md
+│   ├── ARCHITECTURE.md
 │   └── AI_CERTIFICATION_GUIDE.md
 ├── examples/                 # Usage examples
 └── requirements.txt
