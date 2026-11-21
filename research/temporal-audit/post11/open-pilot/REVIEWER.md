@@ -1,0 +1,7 @@
+# Lectura individual · Independent reading
+
+Extrae tu ZIP en una carpeta local. Con Python 3.10 o posterior, abre ABRIR_Windows.cmd o ABRIR_macOS.command. En Linux o desde la terminal, entra en la carpeta y ejecuta `python3 -B desk/desk.py A.sqlite --authored-holdout` (usa B.sqlite si te corresponde). Trabaja a solas y evita abrir la demo pública o las decisiones del artículo hasta que termines. Si ya las viste, indícalo a coordinación.
+
+Lee la pregunta, el texto, la fecha de corte y la ficha del suceso. Decide si la respuesta afirma que el suceso estaba consumado después del corte, si corresponde otra interpretación o si la evidencia deja abierta la decisión. Registra la expresión pertinente o lo que falta. Pausa al interrumpir. Cuando termines, sella el paquete y devuelve solo tu archivo A.sqlite o B.sqlite por el canal privado acordado. Conserva el recibo y comunica su huella por separado. Puedes retirarte en cualquier momento.
+
+Extract your own archive locally and open the launcher for your operating system. Python 3.10+ is required. On Linux use the command above with your assigned packet. Read each case independently with the assistance setting agreed beforehand. Decide whether the text asserts a completed post-cutoff event, has another interpretation, or is indeterminate. Cite the phrase or state what evidence is missing. Pause during breaks. Seal your packet and privately return your SQLite file. Keep the receipt and send its digest separately. Prior exposure and withdrawal can be reported to the coordinator.

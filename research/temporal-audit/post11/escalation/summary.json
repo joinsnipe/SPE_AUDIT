@@ -1,0 +1,46 @@
+{
+  "rule": {
+    "n": 48,
+    "pending": 24,
+    "automatic": 24,
+    "true_alert": 1,
+    "false_alert": 1,
+    "false_clear": 0,
+    "ambiguous_auto": 3,
+    "ambiguous_pending": 3,
+    "administrative_loss": 78
+  },
+  "cascade": {
+    "n": 48,
+    "pending": 3,
+    "automatic": 45,
+    "true_alert": 18,
+    "false_alert": 1,
+    "false_clear": 0,
+    "ambiguous_auto": 3,
+    "ambiguous_pending": 3,
+    "administrative_loss": 57
+  },
+  "agreement": {
+    "n": 48,
+    "pending": 28,
+    "automatic": 20,
+    "true_alert": 1,
+    "false_alert": 0,
+    "false_clear": 0,
+    "ambiguous_auto": 0,
+    "ambiguous_pending": 6,
+    "administrative_loss": 28
+  },
+  "individual_dispute": {
+    "n": 48,
+    "pending": 48,
+    "automatic": 0,
+    "true_alert": 0,
+    "false_alert": 0,
+    "false_clear": 0,
+    "ambiguous_auto": 0,
+    "ambiguous_pending": 6,
+    "administrative_loss": 48
+  }
+}

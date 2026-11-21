@@ -14,6 +14,8 @@ In the new 48-case bilingual challenge, the frozen proposition rule flagged **1 
 | [Artículo en español](research/temporal-audit/v11/FULL_ES.pdf) · [English paper](research/temporal-audit/v11/FULL_EN.pdf) | [Demo en español](https://www.spetrace.com/es/research/temporal-audit) · [English demo](https://www.spetrace.com/research/temporal-audit) · [Demo sin conexión](research/temporal-audit/v11/explore/offline.zip) | [Datos, código e instrucciones](research/temporal-audit/v11/) |
 | [DOI 10.5281/zenodo.24424024](https://doi.org/10.5281/zenodo.24424024) | [Diapositivas](research/temporal-audit/v11/outreach/slides_es.pdf) · [Technical blog](research/temporal-audit/v11/outreach/blog_en.md) | [54 registros históricos](research/temporal-audit/landscape/legacy.csv) · [116 referencias](research/temporal-audit/landscape/bibliography.csv) · [Revisión de fechas](research/temporal-audit/v11/sources/dating_ledger.csv) |
 
+[Laboratorio abierto y piloto ciego de 16 casos · Open lab and 16-case pilot](research/temporal-audit/post11/)
+
 ## Stateless Proof Engine
 
 The original Python engine packages a supplied file, text or digest and checks its integrity against the resulting bundle. The optional signature, local clock, declared model identifier and caller-supplied context indicator have different evidentiary roles. The November study adds a separate local request capture and reports the performance of the public year rule. [Research methods and limits](research/temporal-audit/PAPER_EN.md)

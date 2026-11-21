@@ -18,6 +18,8 @@ En el desafío nuevo de 48 respuestas en español e inglés, la regla de proposi
 
 Original text and original figures © Rubén Abella, licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Trademarks and third-party materials retain their respective rights. [Software licence BSL 1.1](../../LICENSE).
 
+[Piloto abierto de 16 casos y estudios posteriores · Open pilot and follow-up studies](post11/)
+
 ## Estudio base · Original study
 
 **Rubén Abella · SPE Audit · 21 noviembre / November 2026 · Edición 1.0**
