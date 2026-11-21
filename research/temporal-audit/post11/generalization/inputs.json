@@ -1,0 +1,26 @@
+{
+  "schema": "spe-reanalysis-inputs/1",
+  "sha256": {
+    "study/data/cases.json": "ebecece10af756bbd468114ab0923e028307ee7ab6a273709712ee5852718761",
+    "study/data/challenge.json": "c308ddbbab195d97662840196e9543f31af11b2b6372aa5f3f65eb66d7ffe2fb",
+    "study/data/challenge_labels.json": "247096b67b489b0fe33bdb1cff2c3dc3a8dadd78e5bd99cf4eaa6a4ff4d5b466",
+    "study/data/events.json": "ef2c925913f842b8e69662410ed7c93e62c7ab48dde1b5450135652d1dea1f34",
+    "study/data/labels.json": "0f0d7cd0ad85fcfd498dfeca1d548ba9046ac59f3762d016b060f28f518c71f6",
+    "study/matcher.py": "a79045f6c8dd59aba75ed65982e48609a4e44622d981570618d6c5af7046ee8e",
+    "study/vendor/spe_engine/tvoc/detector.py": "b55fcc819563bae6dc73fad8845f95ceaaff8afdee261f0fb403a9f284cc86a6",
+    "study/vendor/spe_engine/tvoc/extract.py": "5218428140b66805b913ab43e58f307af19a0ae4aa3a963b628eca9f53bb80bc",
+    "v11/EVALUATION.md": "2f93b94e1e87bf044223be4c4fc0d579ac58ba854b8d6933a304b5410a5c60e3",
+    "v11/evaluate.py": "a755222a01b35ee5da1dea399b6e1493b839be13e068300a83591313d2d13917",
+    "v11/holdout/cases.json": "d9522257ada3bca4d718e2f502441551c1071793f19f65b27406833ecc4d3a11",
+    "v11/holdout/events.json": "c9fb3715e3e6488fe13a51b455ed312834899292ef103835252fd04f82666369",
+    "v11/holdout/labels.json": "54fa1ac2e9d7222607e4ccda0e174025437daadd917fe8985062c6271b869445",
+    "v11/languages/french.json": "bc980aa0310fae652ac1232980d4793d997ac7c8100ab9e5a5671d00286dbf89",
+    "v11/languages/german.json": "7150c470ba35fd38078108e1d9a26258364a18c7229f637320cdd958e123d133",
+    "v11/method/development_events.json": "a580345fc98ebe6cc324dca0672da12fe46899193e1035e06a5ec4bd835a913c",
+    "v11/method/freeze.sha256": "7c030ea1132d993131a8285ed79297a78c9d607671ca07da776763fcb4baf96a",
+    "v11/method/proposition.py": "dd9245530240ebf2fb4d20e42f4db2a4f8f2a2fcb6497aefbd6797abe864ea67",
+    "v11/method/threshold.json": "c03fdf6e32472972188e855914bb8cab2261e1a00804303300a0c017d5f9a498",
+    "v11/results/metrics.json": "0289442fda466b964ac25216d9e759bb23a3bb86c032e54380fff52b7b2b3124",
+    "v11/results/predictions.jsonl": "213100c8630b63b697c6b79c51659cb863511bd3b1c370a4f8104a8d8cf7df15"
+  }
+}

@@ -1,0 +1,13 @@
+cohort,method,cohort_rows,supported,unsupported,positive_n,control_n,indeterminate_n,positive_alert,positive_other,positive_review,control_alert,control_other,control_review,indeterminate_alert,indeterminate_other,indeterminate_review,review_n
+constructed,year,96,96,0,32,64,0,4,28,0,12,52,0,0,0,0,0
+constructed,dated_native,96,96,0,32,64,0,24,0,8,0,60,4,0,0,0,12
+constructed,proposition,96,96,0,32,64,0,30,0,2,0,64,0,0,0,0,2
+constructed,dated_transfer,96,0,96,0,0,0,0,0,0,0,0,0,0,0,0,0
+old_challenge,year,16,16,0,8,8,0,1,7,0,2,6,0,0,0,0,0
+old_challenge,dated_native,16,16,0,8,8,0,0,0,8,0,2,6,0,0,0,14
+old_challenge,proposition,16,16,0,8,8,0,4,0,4,0,7,1,0,0,0,5
+old_challenge,dated_transfer,16,0,16,0,0,0,0,0,0,0,0,0,0,0,0,0
+new_challenge,year,48,48,0,18,24,6,0,18,0,2,22,0,0,6,0,0
+new_challenge,dated_native,48,0,48,0,0,0,0,0,0,0,0,0,0,0,0,0
+new_challenge,proposition,48,48,0,18,24,6,1,0,17,1,19,4,0,3,3,24
+new_challenge,dated_transfer,48,48,0,18,24,6,2,0,16,1,4,19,0,0,6,41

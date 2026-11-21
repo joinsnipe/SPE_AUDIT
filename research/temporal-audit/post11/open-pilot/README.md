@@ -15,4 +15,4 @@
 
 Download and extract the kit, then run `python3 organize.py` (Windows: `py -3 organize.py`). Send each individual ZIP to a different bilingual reviewer. Keep the coordination folder private. A third reader adjudicates disagreements after both packets have been sealed and returned. Each reviewer receives the same 16 public authored examples in a different order with unrelated tickets. The selection is fixed before labels or predictions are read, with eight cases per language and all six events represented. Record prior exposure. This open exercise measures feasibility in the participating group. It has no central registration or automatic results collection. Use the [reviewer instructions](REVIEWER.md) and [coordination guide](COORDINATOR.md).
 
-[Estudio de referencia · Reference paper](https://doi.org/10.5281/zenodo.24424024) · [Licencia de software · Software licence](../../LICENSE)
+[Estudio de referencia · Reference paper](https://doi.org/10.5281/zenodo.24424024) · [Licencia de software · Software licence](LICENSE)
