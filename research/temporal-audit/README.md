@@ -4,6 +4,10 @@
 
 **Rubén Abella · SPE Audit · 21 de noviembre de 2026 · Edición 1.1**
 
+El estudio y la solicitud provisional estadounidense de la que parte esta publicación corresponden a Rubén Abella. Para citar la edición ampliada en cualquiera de los dos idiomas, utilice el [registro en Zenodo](https://doi.org/10.5281/zenodo.24424024).
+
+Rubén Abella is the author of the study and filed the original US provisional patent application in his own name. The [Zenodo record](https://doi.org/10.5281/zenodo.24424024) identifies the expanded bilingual edition.
+
 | Acceso | Español | English |
 |---|---|---|
 | Estudio completo | [Descargar artículo](v11/FULL_ES.pdf) | [Download paper](v11/FULL_EN.pdf) |

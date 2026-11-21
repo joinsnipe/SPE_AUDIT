@@ -5,9 +5,11 @@
 **Rubén Abella · SPE Audit**  
 Auditoría temporal de las respuestas de IA · Temporal auditing of AI outputs
 
-El 1 de enero de 2022 ya se podía decir que DART intentaría impactar contra un asteroide. El impacto ocurrió el 26 de septiembre. ¿Qué pasa si una respuesta redactada desde enero lo da por hecho? El artículo reconstruye qué fuentes estaban disponibles y la demo permite cambiar la fecha y comprobar los bytes de la respuesta.
+Este proyecto de Rubén Abella nació de un estudio previo sobre auditoría temporal de sistemas de IA que dio lugar a una solicitud provisional estadounidense presentada por el autor a título personal. La publicación reúne la revisión de antecedentes, el método de captura, los experimentos y sus límites. El artículo y los materiales de reproducción quedan disponibles para su cita, contraste y continuación.
 
-In the new 48-case bilingual challenge, the frozen proposition rule flagged **1 of 18** post-cutoff assertions, raised one false alert and sent **24 of 48** answers to review. The data show which words, dates and source records a reviewer can inspect for each decision.
+This research grew out of Rubén Abella’s earlier study of temporal auditing of AI systems and his US provisional patent application. The public edition documents the prior art, the capture method, the experiments and the limits of the evidence.
+
+**Estudio base firmado · Original manuscripts** — [Español](https://github.com/joinsnipe/SPE_AUDIT/blob/main/research/temporal-audit/PAPER_ES.md) · [English](https://github.com/joinsnipe/SPE_AUDIT/blob/main/research/temporal-audit/PAPER_EN.md)
 
 | Leer · Read | Explorar · Explore | Reproducir · Reproduce |
 |---|---|---|

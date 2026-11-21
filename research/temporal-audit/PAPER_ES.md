@@ -2,7 +2,9 @@
 
 **Evidencia por petición, antecedentes técnicos y límites de la detección automática**
 
-Rubén Abella · SPE Audit · 21 de noviembre de 2026 · Edición de investigación 1.0
+**Rubén Abella · SPE Audit**  
+Autor del estudio · 21 de noviembre de 2026 · Edición de investigación 1.0  
+[Edición ampliada en Zenodo](https://doi.org/10.5281/zenodo.24424024)
 
 ## Resumen
 

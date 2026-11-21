@@ -2,7 +2,9 @@
 
 **Request-level evidence, prior art and the limits of automated detection**
 
-Rubén Abella · SPE Audit · 21 November 2026 · Research edition 1.0
+**Rubén Abella · SPE Audit**  
+Research author · 21 November 2026 · Research edition 1.0  
+[Expanded edition on Zenodo](https://doi.org/10.5281/zenodo.24424024)
 
 ## Abstract
 
