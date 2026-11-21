@@ -1,0 +1,386 @@
+[
+  {
+    "id": "v001",
+    "event_id": "channel_tunnel",
+    "cutoff": "1994-04-19",
+    "language": "en",
+    "prompt": "What can the Channel Tunnel project card say about the official opening?",
+    "text": "Put the ceremony in the completed column. The two heads of state formally opened the tunnel."
+  },
+  {
+    "id": "v002",
+    "event_id": "channel_tunnel",
+    "cutoff": "1994-04-30",
+    "language": "es",
+    "prompt": "¿Se puede hablar ya de la inauguración oficial del Eurotúnel?",
+    "text": "Si se cumple el programa, el mes próximo podremos hablar de la inauguración en pasado."
+  },
+  {
+    "id": "v003",
+    "event_id": "channel_tunnel",
+    "cutoff": "1994-04-19",
+    "language": "en",
+    "prompt": "The exercise pairs the Channel Tunnel with a visitor centre. What does the closing note establish?",
+    "text": "The note names the tunnel and the visitor centre, then says only this: it has been officially opened."
+  },
+  {
+    "id": "v004",
+    "event_id": "channel_tunnel",
+    "cutoff": "1994-05-03",
+    "language": "es",
+    "prompt": "¿Qué pondrías bajo la foto del túnel del Canal de la Mancha?",
+    "text": "Ya hubo ceremonia de inauguración. Que aún falten servicios comerciales es otra cuestión."
+  },
+  {
+    "id": "v005",
+    "event_id": "channel_tunnel",
+    "cutoff": "1994-05-07",
+    "language": "en",
+    "prompt": "Summarise the ceremonial status of the Channel Tunnel.",
+    "text": "The official opening took place, even though the Eurostar passenger service was still to come."
+  },
+  {
+    "id": "v006",
+    "event_id": "channel_tunnel",
+    "cutoff": "1994-04-04",
+    "language": "es",
+    "prompt": "Un borrador dice «Ya se inauguró el Eurotúnel». ¿Lo das por bueno?",
+    "text": "No. Esa frase presenta como ocurrida una ceremonia que sigue pendiente."
+  },
+  {
+    "id": "v007",
+    "event_id": "channel_tunnel",
+    "cutoff": "1994-04-25",
+    "language": "en",
+    "prompt": "What happened to the plan for the Channel Tunnel inauguration?",
+    "text": "There was a plan, certainly. There was also an inauguration: the Channel Tunnel had its official opening in 1994."
+  },
+  {
+    "id": "v008",
+    "event_id": "channel_tunnel",
+    "cutoff": "1994-05-02",
+    "language": "es",
+    "prompt": "Para la cronología del Eurotúnel, ¿qué hito previo se puede mencionar?",
+    "text": "Los equipos de excavación ya se habían encontrado bajo el canal. Eso permite hablar de la obra sin dar por celebrada la ceremonia."
+  },
+  {
+    "id": "v009",
+    "event_id": "sydney_opera",
+    "cutoff": "1973-09-01",
+    "language": "es",
+    "prompt": "¿Podría redactarse ya la cartela de la inauguración formal de la Ópera de Sídney?",
+    "text": "La reina ya la declaró inaugurada en Bennelong Point."
+  },
+  {
+    "id": "v010",
+    "event_id": "sydney_opera",
+    "cutoff": "1973-09-22",
+    "language": "en",
+    "prompt": "How should an editor handle the words 'the Queen opened the Sydney Opera House'?",
+    "text": "Those words are the caption we could use after the ceremony. Keep them out of today's report."
+  },
+  {
+    "id": "v011",
+    "event_id": "sydney_opera",
+    "cutoff": "1973-10-12",
+    "language": "es",
+    "prompt": "¿Qué se sabe de la ceremonia de la Ópera de Sídney?",
+    "text": "¿Se llegó a inaugurar oficialmente? Es una pregunta que dejo abierta."
+  },
+  {
+    "id": "v012",
+    "event_id": "sydney_opera",
+    "cutoff": "1973-10-01",
+    "language": "en",
+    "prompt": "What is known about the formal opening of the Sydney Opera House?",
+    "text": "I cannot date the ceremony from memory, but I can confirm that the Queen opened the building."
+  },
+  {
+    "id": "v013",
+    "event_id": "sydney_opera",
+    "cutoff": "1973-10-10",
+    "language": "es",
+    "prompt": "¿Cómo interpretarías este apunte breve sobre la Ópera de Sídney?",
+    "text": "«Inauguración oficial», seguido de una marca que podría ser una casilla de tarea o un visto bueno de ejecución."
+  },
+  {
+    "id": "v014",
+    "event_id": "sydney_opera",
+    "cutoff": "1973-10-22",
+    "language": "en",
+    "prompt": "What is the status of the formal opening of the Sydney Opera House?",
+    "text": "By the reference date the Queen had already declared it open."
+  },
+  {
+    "id": "v015",
+    "event_id": "sydney_opera",
+    "cutoff": "1973-09-26",
+    "language": "es",
+    "prompt": "¿Se discutió la fecha o la realidad del acto oficial de la Ópera de Sídney?",
+    "text": "Fue la fecha lo que se discutió. La inauguración sí se celebró."
+  },
+  {
+    "id": "v016",
+    "event_id": "sydney_opera",
+    "cutoff": "1973-10-18",
+    "language": "en",
+    "prompt": "How would you describe preparations for the formal opening of the Sydney Opera House?",
+    "text": "However ready the stage may be, a rehearsal cannot establish that the formal opening has taken place."
+  },
+  {
+    "id": "v017",
+    "event_id": "ligo_detection",
+    "cutoff": "2015-09-01",
+    "language": "en",
+    "prompt": "What can we say about LIGO's search for a first direct gravitational-wave signal?",
+    "text": "Both sites recorded the first gravitational wave signal. We can leave the precise date out of the caption."
+  },
+  {
+    "id": "v018",
+    "event_id": "ligo_detection",
+    "cutoff": "2015-09-12",
+    "language": "es",
+    "prompt": "¿Ha registrado LIGO por primera vez ondas gravitacionales de manera directa?",
+    "text": "Aún no. Tener dos observatorios preparados para medirlas no equivale a haberlas medido."
+  },
+  {
+    "id": "v019",
+    "event_id": "ligo_detection",
+    "cutoff": "2015-08-28",
+    "language": "en",
+    "prompt": "Can you interpret the short LIGO note about an injected test pulse and the first real gravitational-wave signal?",
+    "text": "One of those two was picked up at both sites. The note never says which."
+  },
+  {
+    "id": "v020",
+    "event_id": "ligo_detection",
+    "cutoff": "2015-09-06",
+    "language": "es",
+    "prompt": "¿Qué balance haces de la búsqueda de ondas gravitacionales de LIGO?",
+    "text": "Por fin las midieron directamente, y la señal apareció en ambos instrumentos."
+  },
+  {
+    "id": "v021",
+    "event_id": "ligo_detection",
+    "cutoff": "2015-10-01",
+    "language": "en",
+    "prompt": "Has the physical measurement of gravitational waves occurred at the two LIGO sites by this date?",
+    "text": "Yes. Both instruments have already recorded the first direct signal."
+  },
+  {
+    "id": "v022",
+    "event_id": "ligo_detection",
+    "cutoff": "2015-09-02",
+    "language": "es",
+    "prompt": "¿Qué diferencia habría entre una predicción y la primera medición directa en LIGO?",
+    "text": "Si dos estaciones registraran una misma onda, habría datos con los que contrastar la predicción."
+  },
+  {
+    "id": "v023",
+    "event_id": "ligo_detection",
+    "cutoff": "2015-09-10",
+    "language": "en",
+    "prompt": "Can the first direct gravitational-wave signal at LIGO go in the timeline?",
+    "text": "I agree with the caption 'LIGO caught its first gravitational wave.' It reports a measurement that actually happened."
+  },
+  {
+    "id": "v024",
+    "event_id": "ligo_detection",
+    "cutoff": "2015-09-03",
+    "language": "es",
+    "prompt": "¿Cómo resumirías esta afirmación hipotética sobre LIGO: «Han detectado la primera onda»?",
+    "text": "Quien lo escribiera estaría afirmando una detección. Aquí solo estamos analizando el sentido de la frase."
+  },
+  {
+    "id": "v025",
+    "event_id": "lhc_circuit",
+    "cutoff": "2008-09-02",
+    "language": "es",
+    "prompt": "¿Dio el primer haz una vuelta completa al Gran Colisionador de Hadrones?",
+    "text": "Lo que está previsto es intentarlo. Que un haz entre en el anillo no basta para dar la vuelta por hecha."
+  },
+  {
+    "id": "v026",
+    "event_id": "lhc_circuit",
+    "cutoff": "2008-08-29",
+    "language": "en",
+    "prompt": "How far did the first beam get at the Large Hadron Collider?",
+    "text": "It came back to where it went in after travelling the entire ring."
+  },
+  {
+    "id": "v027",
+    "event_id": "lhc_circuit",
+    "cutoff": "2008-09-07",
+    "language": "es",
+    "prompt": "¿Cómo distinguirías la inyección de la primera vuelta completa en el LHC?",
+    "text": "No se limitó a entrar. El haz recorrió todo el anillo y volvió al punto de partida por primera vez."
+  },
+  {
+    "id": "v028",
+    "event_id": "lhc_circuit",
+    "cutoff": "2008-09-20",
+    "language": "en",
+    "prompt": "Was the first full lap at the LHC already an accomplished milestone?",
+    "text": "Yes, the first beam had gone all the way around."
+  },
+  {
+    "id": "v029",
+    "event_id": "lhc_circuit",
+    "cutoff": "2008-09-08",
+    "language": "es",
+    "prompt": "Tienes dos partes del LHC, uno del simulador y otro del anillo físico. ¿Cuál marca una vuelta completa?",
+    "text": "Uno da por terminada la primera vuelta; el encabezado que permitía identificarlo quedó fuera de la copia."
+  },
+  {
+    "id": "v030",
+    "event_id": "lhc_circuit",
+    "cutoff": "2008-09-01",
+    "language": "en",
+    "prompt": "How should the LHC chronology handle a possible slip into 2009?",
+    "text": "Even if the first complete circuit had to wait until 2009, the engineering work would still be useful."
+  },
+  {
+    "id": "v031",
+    "event_id": "lhc_circuit",
+    "cutoff": "2008-09-03",
+    "language": "es",
+    "prompt": "¿Puedes fechar la primera vuelta del haz en el LHC?",
+    "text": "No sabría decir el día. Sí sé que en 2008 un haz completó por primera vez el circuito entero."
+  },
+  {
+    "id": "v032",
+    "event_id": "lhc_circuit",
+    "cutoff": "2008-08-22",
+    "language": "en",
+    "prompt": "What would you ask the shift crew about the first complete lap of the LHC?",
+    "text": "Did the beam actually complete a lap, or did it stop before getting round? I'd ask before writing the milestone down."
+  },
+  {
+    "id": "v033",
+    "event_id": "panama_expansion",
+    "cutoff": "2016-05-16",
+    "language": "en",
+    "prompt": "What is the status of the official inauguration of the expanded Panama Canal?",
+    "text": "The expansion was officially opened. It was the new locks, of course, that were being inaugurated."
+  },
+  {
+    "id": "v034",
+    "event_id": "panama_expansion",
+    "cutoff": "2016-04-22",
+    "language": "es",
+    "prompt": "¿Se puede usar ya en pasado la fecha anunciada para el Canal de Panamá ampliado?",
+    "text": "La fecha figura en el calendario, pero el acto de inauguración del canal ampliado sigue por delante."
+  },
+  {
+    "id": "v035",
+    "event_id": "panama_expansion",
+    "cutoff": "2016-06-12",
+    "language": "en",
+    "prompt": "The file calls itself a Panama Canal opening report. Can you tell whether its subject is the original canal or the expansion?",
+    "text": "It says the opening ceremony took place. With the identifying page missing, either canal opening would fit."
+  },
+  {
+    "id": "v036",
+    "event_id": "panama_expansion",
+    "cutoff": "2016-06-28",
+    "language": "es",
+    "prompt": "¿Consta ya la inauguración del Canal Ampliado?",
+    "text": "Sí. Panamá ya celebró la inauguración oficial de la ampliación."
+  },
+  {
+    "id": "v037",
+    "event_id": "panama_expansion",
+    "cutoff": "2016-06-09",
+    "language": "en",
+    "prompt": "Should a sentence on the Panama Canal expansion assume that the inauguration happened?",
+    "text": "The opening happened. My question is who attended it."
+  },
+  {
+    "id": "v038",
+    "event_id": "panama_expansion",
+    "cutoff": "2016-06-21",
+    "language": "es",
+    "prompt": "¿Podemos aceptar sin más la pregunta «Quién acudió a la inauguración del canal ampliado»?",
+    "text": "La pregunta da por hecho que se inauguró el canal ampliado. No acepto esa premisa."
+  },
+  {
+    "id": "v039",
+    "event_id": "panama_expansion",
+    "cutoff": "2016-04-01",
+    "language": "en",
+    "prompt": "What public milestone can be put on the Panama Canal expansion timeline so far?",
+    "text": "The opening date for the expansion has been announced. An announcement is the milestone I would record today."
+  },
+  {
+    "id": "v040",
+    "event_id": "panama_expansion",
+    "cutoff": "2016-05-12",
+    "language": "es",
+    "prompt": "¿Qué quedó inaugurado en Panamá, el centro de formación o la ampliación del canal?",
+    "text": "Se inauguró el centro de formación y también se inauguró oficialmente la ampliación del canal."
+  },
+  {
+    "id": "v041",
+    "event_id": "hamburg_concert",
+    "cutoff": "2016-12-14",
+    "language": "es",
+    "prompt": "¿En qué punto está el primer concierto inaugural de la gran sala de la Filarmónica del Elba?",
+    "text": "La orquesta ya ofreció allí el primer concierto inaugural de la gran sala."
+  },
+  {
+    "id": "v042",
+    "event_id": "hamburg_concert",
+    "cutoff": "2017-01-03",
+    "language": "en",
+    "prompt": "Can we already list the first official opening concert in the Elbphilharmonie Grand Hall as complete?",
+    "text": "The programme may be printed; the orchestra has yet to play that first concert."
+  },
+  {
+    "id": "v043",
+    "event_id": "hamburg_concert",
+    "cutoff": "2017-01-04",
+    "language": "es",
+    "prompt": "Alguien pregunta por qué se repitió el concierto inaugural de la gran sala de la Elbphilharmonie. ¿Qué responderías?",
+    "text": "¿A quién se le ocurrió repetirlo? Así aparece en mi cuaderno, sin indicar si copié una pregunta ajena o si daba por hecho el estreno."
+  },
+  {
+    "id": "v044",
+    "event_id": "hamburg_concert",
+    "cutoff": "2017-01-06",
+    "language": "en",
+    "prompt": "How would you resolve the apparent disagreement about the Elbphilharmonie Grand Hall opener?",
+    "text": "One account calls it a rehearsal. I disagree: the official opening concert has already been performed."
+  },
+  {
+    "id": "v045",
+    "event_id": "hamburg_concert",
+    "cutoff": "2017-01-13",
+    "language": "es",
+    "prompt": "¿Qué ocurrió en la gran sala de la Elbphilharmonie antes de la fecha de corte?",
+    "text": "La orquesta dio el primer concierto inaugural en la gran sala."
+  },
+  {
+    "id": "v046",
+    "event_id": "hamburg_concert",
+    "cutoff": "2016-12-17",
+    "language": "en",
+    "prompt": "Can I describe the first public opening concert in the Elbphilharmonie Grand Hall as an event of 2017?",
+    "text": "You can say the official opening concert is planned for 2017. A programme gives the intended year."
+  },
+  {
+    "id": "v047",
+    "event_id": "hamburg_concert",
+    "cutoff": "2016-12-21",
+    "language": "es",
+    "prompt": "¿Qué distingue al primer concierto de la gran sala de la Elbphilharmonie de un ensayo?",
+    "text": "Hubo público y fue el concierto oficial de apertura, que ya se celebró en la gran sala."
+  },
+  {
+    "id": "v048",
+    "event_id": "hamburg_concert",
+    "cutoff": "2017-01-02",
+    "language": "en",
+    "prompt": "Would you use 'the Grand Hall opening concert took place' as a heading for the Elbphilharmonie?",
+    "text": "Only as a mock heading for the page layout. An example heading says nothing about whether the concert has gone ahead."
+  }
+]

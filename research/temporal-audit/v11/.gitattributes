@@ -1,0 +1,8 @@
+# Scientific fixtures are compared by exact bytes across Git checkout platforms.
+* text=auto eol=lf
+*.png binary
+*.jpg binary
+*.pdf binary
+*.pptx binary
+*.zip binary
+*.svg text eol=lf

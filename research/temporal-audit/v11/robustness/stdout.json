@@ -1,0 +1,30 @@
+{
+  "year_rule": {
+    "positive_pairs": 12,
+    "detected_positive_bases": 12,
+    "retained_alerts": 8,
+    "changed_to_review": 0,
+    "changed_to_other": 4,
+    "conditional_alert_loss": 0.3333333333333333,
+    "control_pairs": 8,
+    "false_alert_rates": {
+      "base": 1.0,
+      "variant": 0.5
+    },
+    "indeterminate_pairs": 4
+  },
+  "proposition": {
+    "positive_pairs": 12,
+    "detected_positive_bases": 12,
+    "retained_alerts": 6,
+    "changed_to_review": 6,
+    "changed_to_other": 0,
+    "conditional_alert_loss": 0.5,
+    "control_pairs": 8,
+    "false_alert_rates": {
+      "base": 0.0,
+      "variant": 0.25
+    },
+    "indeterminate_pairs": 4
+  }
+}

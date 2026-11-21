@@ -1,0 +1,546 @@
+{
+  "known16/de": {
+    "neural": {
+      "alerts_determinate": 2,
+      "alerts_on_indeterminate": 0,
+      "automatic_on_indeterminate": 0,
+      "confusion": {
+        "INDETERMINATE": {
+          "OTHER": 0,
+          "POST_ASSERTION": 0,
+          "REVIEW": 0
+        },
+        "OTHER": {
+          "OTHER": 2,
+          "POST_ASSERTION": 1,
+          "REVIEW": 5
+        },
+        "POST_ASSERTION": {
+          "OTHER": 1,
+          "POST_ASSERTION": 1,
+          "REVIEW": 6
+        }
+      },
+      "coverage": 0.3125,
+      "n": 16,
+      "precision_determinate": 0.5,
+      "referral_rate": 0.6875,
+      "referred": 11,
+      "selective_error_determinate": 0.4,
+      "sensitivity": 0.125
+    }
+  },
+  "known16/en": {
+    "neural": {
+      "alerts_determinate": 0,
+      "alerts_on_indeterminate": 0,
+      "automatic_on_indeterminate": 0,
+      "confusion": {
+        "INDETERMINATE": {
+          "OTHER": 0,
+          "POST_ASSERTION": 0,
+          "REVIEW": 0
+        },
+        "OTHER": {
+          "OTHER": 4,
+          "POST_ASSERTION": 0,
+          "REVIEW": 4
+        },
+        "POST_ASSERTION": {
+          "OTHER": 2,
+          "POST_ASSERTION": 0,
+          "REVIEW": 6
+        }
+      },
+      "coverage": 0.375,
+      "n": 16,
+      "precision_determinate": null,
+      "referral_rate": 0.625,
+      "referred": 10,
+      "selective_error_determinate": 0.3333333333333333,
+      "sensitivity": 0.0
+    },
+    "ngram_nb": {
+      "alerts_determinate": 3,
+      "alerts_on_indeterminate": 0,
+      "automatic_on_indeterminate": 0,
+      "confusion": {
+        "INDETERMINATE": {
+          "OTHER": 0,
+          "POST_ASSERTION": 0,
+          "REVIEW": 0
+        },
+        "OTHER": {
+          "OTHER": 7,
+          "POST_ASSERTION": 1,
+          "REVIEW": 0
+        },
+        "POST_ASSERTION": {
+          "OTHER": 6,
+          "POST_ASSERTION": 2,
+          "REVIEW": 0
+        }
+      },
+      "coverage": 1.0,
+      "n": 16,
+      "precision_determinate": 0.6666666666666666,
+      "referral_rate": 0.0,
+      "referred": 0,
+      "selective_error_determinate": 0.4375,
+      "sensitivity": 0.25
+    }
+  },
+  "known16/es": {
+    "neural": {
+      "alerts_determinate": 0,
+      "alerts_on_indeterminate": 0,
+      "automatic_on_indeterminate": 0,
+      "confusion": {
+        "INDETERMINATE": {
+          "OTHER": 0,
+          "POST_ASSERTION": 0,
+          "REVIEW": 0
+        },
+        "OTHER": {
+          "OTHER": 3,
+          "POST_ASSERTION": 0,
+          "REVIEW": 5
+        },
+        "POST_ASSERTION": {
+          "OTHER": 2,
+          "POST_ASSERTION": 0,
+          "REVIEW": 6
+        }
+      },
+      "coverage": 0.3125,
+      "n": 16,
+      "precision_determinate": null,
+      "referral_rate": 0.6875,
+      "referred": 11,
+      "selective_error_determinate": 0.4,
+      "sensitivity": 0.0
+    },
+    "ngram_nb": {
+      "alerts_determinate": 1,
+      "alerts_on_indeterminate": 0,
+      "automatic_on_indeterminate": 0,
+      "confusion": {
+        "INDETERMINATE": {
+          "OTHER": 0,
+          "POST_ASSERTION": 0,
+          "REVIEW": 0
+        },
+        "OTHER": {
+          "OTHER": 8,
+          "POST_ASSERTION": 0,
+          "REVIEW": 0
+        },
+        "POST_ASSERTION": {
+          "OTHER": 7,
+          "POST_ASSERTION": 1,
+          "REVIEW": 0
+        }
+      },
+      "coverage": 1.0,
+      "n": 16,
+      "precision_determinate": 1.0,
+      "referral_rate": 0.0,
+      "referred": 0,
+      "selective_error_determinate": 0.4375,
+      "sensitivity": 0.125
+    }
+  },
+  "known16/fr": {
+    "neural": {
+      "alerts_determinate": 1,
+      "alerts_on_indeterminate": 0,
+      "automatic_on_indeterminate": 0,
+      "confusion": {
+        "INDETERMINATE": {
+          "OTHER": 0,
+          "POST_ASSERTION": 0,
+          "REVIEW": 0
+        },
+        "OTHER": {
+          "OTHER": 3,
+          "POST_ASSERTION": 1,
+          "REVIEW": 4
+        },
+        "POST_ASSERTION": {
+          "OTHER": 2,
+          "POST_ASSERTION": 0,
+          "REVIEW": 6
+        }
+      },
+      "coverage": 0.375,
+      "n": 16,
+      "precision_determinate": 0.0,
+      "referral_rate": 0.625,
+      "referred": 10,
+      "selective_error_determinate": 0.5,
+      "sensitivity": 0.0
+    }
+  },
+  "known96/de": {
+    "neural": {
+      "alerts_determinate": 24,
+      "alerts_on_indeterminate": 0,
+      "automatic_on_indeterminate": 0,
+      "confusion": {
+        "INDETERMINATE": {
+          "OTHER": 0,
+          "POST_ASSERTION": 0,
+          "REVIEW": 0
+        },
+        "OTHER": {
+          "OTHER": 36,
+          "POST_ASSERTION": 0,
+          "REVIEW": 28
+        },
+        "POST_ASSERTION": {
+          "OTHER": 0,
+          "POST_ASSERTION": 24,
+          "REVIEW": 8
+        }
+      },
+      "coverage": 0.625,
+      "n": 96,
+      "precision_determinate": 1.0,
+      "referral_rate": 0.375,
+      "referred": 36,
+      "selective_error_determinate": 0.0,
+      "sensitivity": 0.75
+    }
+  },
+  "known96/en": {
+    "neural": {
+      "alerts_determinate": 20,
+      "alerts_on_indeterminate": 0,
+      "automatic_on_indeterminate": 0,
+      "confusion": {
+        "INDETERMINATE": {
+          "OTHER": 0,
+          "POST_ASSERTION": 0,
+          "REVIEW": 0
+        },
+        "OTHER": {
+          "OTHER": 50,
+          "POST_ASSERTION": 0,
+          "REVIEW": 14
+        },
+        "POST_ASSERTION": {
+          "OTHER": 2,
+          "POST_ASSERTION": 20,
+          "REVIEW": 10
+        }
+      },
+      "coverage": 0.75,
+      "n": 96,
+      "precision_determinate": 1.0,
+      "referral_rate": 0.25,
+      "referred": 24,
+      "selective_error_determinate": 0.027777777777777776,
+      "sensitivity": 0.625
+    },
+    "ngram_nb": {
+      "alerts_determinate": 28,
+      "alerts_on_indeterminate": 0,
+      "automatic_on_indeterminate": 0,
+      "confusion": {
+        "INDETERMINATE": {
+          "OTHER": 0,
+          "POST_ASSERTION": 0,
+          "REVIEW": 0
+        },
+        "OTHER": {
+          "OTHER": 60,
+          "POST_ASSERTION": 4,
+          "REVIEW": 0
+        },
+        "POST_ASSERTION": {
+          "OTHER": 8,
+          "POST_ASSERTION": 24,
+          "REVIEW": 0
+        }
+      },
+      "coverage": 1.0,
+      "n": 96,
+      "precision_determinate": 0.8571428571428571,
+      "referral_rate": 0.0,
+      "referred": 0,
+      "selective_error_determinate": 0.125,
+      "sensitivity": 0.75
+    }
+  },
+  "known96/es": {
+    "neural": {
+      "alerts_determinate": 22,
+      "alerts_on_indeterminate": 0,
+      "automatic_on_indeterminate": 0,
+      "confusion": {
+        "INDETERMINATE": {
+          "OTHER": 0,
+          "POST_ASSERTION": 0,
+          "REVIEW": 0
+        },
+        "OTHER": {
+          "OTHER": 38,
+          "POST_ASSERTION": 8,
+          "REVIEW": 18
+        },
+        "POST_ASSERTION": {
+          "OTHER": 2,
+          "POST_ASSERTION": 14,
+          "REVIEW": 16
+        }
+      },
+      "coverage": 0.6458333333333334,
+      "n": 96,
+      "precision_determinate": 0.6363636363636364,
+      "referral_rate": 0.3541666666666667,
+      "referred": 34,
+      "selective_error_determinate": 0.16129032258064516,
+      "sensitivity": 0.4375
+    },
+    "ngram_nb": {
+      "alerts_determinate": 22,
+      "alerts_on_indeterminate": 0,
+      "automatic_on_indeterminate": 0,
+      "confusion": {
+        "INDETERMINATE": {
+          "OTHER": 0,
+          "POST_ASSERTION": 0,
+          "REVIEW": 0
+        },
+        "OTHER": {
+          "OTHER": 64,
+          "POST_ASSERTION": 0,
+          "REVIEW": 0
+        },
+        "POST_ASSERTION": {
+          "OTHER": 10,
+          "POST_ASSERTION": 22,
+          "REVIEW": 0
+        }
+      },
+      "coverage": 1.0,
+      "n": 96,
+      "precision_determinate": 1.0,
+      "referral_rate": 0.0,
+      "referred": 0,
+      "selective_error_determinate": 0.10416666666666667,
+      "sensitivity": 0.6875
+    }
+  },
+  "known96/fr": {
+    "neural": {
+      "alerts_determinate": 22,
+      "alerts_on_indeterminate": 0,
+      "automatic_on_indeterminate": 0,
+      "confusion": {
+        "INDETERMINATE": {
+          "OTHER": 0,
+          "POST_ASSERTION": 0,
+          "REVIEW": 0
+        },
+        "OTHER": {
+          "OTHER": 44,
+          "POST_ASSERTION": 0,
+          "REVIEW": 20
+        },
+        "POST_ASSERTION": {
+          "OTHER": 0,
+          "POST_ASSERTION": 22,
+          "REVIEW": 10
+        }
+      },
+      "coverage": 0.6875,
+      "n": 96,
+      "precision_determinate": 1.0,
+      "referral_rate": 0.3125,
+      "referred": 30,
+      "selective_error_determinate": 0.0,
+      "sensitivity": 0.6875
+    }
+  },
+  "new48/all": {
+    "neural": {
+      "alerts_determinate": 0,
+      "alerts_on_indeterminate": 0,
+      "automatic_on_indeterminate": 0,
+      "confusion": {
+        "INDETERMINATE": {
+          "OTHER": 0,
+          "POST_ASSERTION": 0,
+          "REVIEW": 6
+        },
+        "OTHER": {
+          "OTHER": 8,
+          "POST_ASSERTION": 0,
+          "REVIEW": 16
+        },
+        "POST_ASSERTION": {
+          "OTHER": 1,
+          "POST_ASSERTION": 0,
+          "REVIEW": 17
+        }
+      },
+      "coverage": 0.1875,
+      "n": 48,
+      "precision_determinate": null,
+      "referral_rate": 0.8125,
+      "referred": 39,
+      "selective_error_determinate": 0.1111111111111111,
+      "sensitivity": 0.0
+    },
+    "ngram_nb": {
+      "alerts_determinate": 17,
+      "alerts_on_indeterminate": 3,
+      "automatic_on_indeterminate": 6,
+      "confusion": {
+        "INDETERMINATE": {
+          "OTHER": 3,
+          "POST_ASSERTION": 3,
+          "REVIEW": 0
+        },
+        "OTHER": {
+          "OTHER": 18,
+          "POST_ASSERTION": 6,
+          "REVIEW": 0
+        },
+        "POST_ASSERTION": {
+          "OTHER": 7,
+          "POST_ASSERTION": 11,
+          "REVIEW": 0
+        }
+      },
+      "coverage": 1.0,
+      "n": 48,
+      "precision_determinate": 0.6470588235294118,
+      "referral_rate": 0.0,
+      "referred": 0,
+      "selective_error_determinate": 0.30952380952380953,
+      "sensitivity": 0.6111111111111112
+    }
+  },
+  "new48/en": {
+    "neural": {
+      "alerts_determinate": 0,
+      "alerts_on_indeterminate": 0,
+      "automatic_on_indeterminate": 0,
+      "confusion": {
+        "INDETERMINATE": {
+          "OTHER": 0,
+          "POST_ASSERTION": 0,
+          "REVIEW": 3
+        },
+        "OTHER": {
+          "OTHER": 5,
+          "POST_ASSERTION": 0,
+          "REVIEW": 7
+        },
+        "POST_ASSERTION": {
+          "OTHER": 0,
+          "POST_ASSERTION": 0,
+          "REVIEW": 9
+        }
+      },
+      "coverage": 0.20833333333333334,
+      "n": 24,
+      "precision_determinate": null,
+      "referral_rate": 0.7916666666666666,
+      "referred": 19,
+      "selective_error_determinate": 0.0,
+      "sensitivity": 0.0
+    },
+    "ngram_nb": {
+      "alerts_determinate": 8,
+      "alerts_on_indeterminate": 3,
+      "automatic_on_indeterminate": 3,
+      "confusion": {
+        "INDETERMINATE": {
+          "OTHER": 0,
+          "POST_ASSERTION": 3,
+          "REVIEW": 0
+        },
+        "OTHER": {
+          "OTHER": 9,
+          "POST_ASSERTION": 3,
+          "REVIEW": 0
+        },
+        "POST_ASSERTION": {
+          "OTHER": 4,
+          "POST_ASSERTION": 5,
+          "REVIEW": 0
+        }
+      },
+      "coverage": 1.0,
+      "n": 24,
+      "precision_determinate": 0.625,
+      "referral_rate": 0.0,
+      "referred": 0,
+      "selective_error_determinate": 0.3333333333333333,
+      "sensitivity": 0.5555555555555556
+    }
+  },
+  "new48/es": {
+    "neural": {
+      "alerts_determinate": 0,
+      "alerts_on_indeterminate": 0,
+      "automatic_on_indeterminate": 0,
+      "confusion": {
+        "INDETERMINATE": {
+          "OTHER": 0,
+          "POST_ASSERTION": 0,
+          "REVIEW": 3
+        },
+        "OTHER": {
+          "OTHER": 3,
+          "POST_ASSERTION": 0,
+          "REVIEW": 9
+        },
+        "POST_ASSERTION": {
+          "OTHER": 1,
+          "POST_ASSERTION": 0,
+          "REVIEW": 8
+        }
+      },
+      "coverage": 0.16666666666666666,
+      "n": 24,
+      "precision_determinate": null,
+      "referral_rate": 0.8333333333333334,
+      "referred": 20,
+      "selective_error_determinate": 0.25,
+      "sensitivity": 0.0
+    },
+    "ngram_nb": {
+      "alerts_determinate": 9,
+      "alerts_on_indeterminate": 0,
+      "automatic_on_indeterminate": 3,
+      "confusion": {
+        "INDETERMINATE": {
+          "OTHER": 3,
+          "POST_ASSERTION": 0,
+          "REVIEW": 0
+        },
+        "OTHER": {
+          "OTHER": 9,
+          "POST_ASSERTION": 3,
+          "REVIEW": 0
+        },
+        "POST_ASSERTION": {
+          "OTHER": 3,
+          "POST_ASSERTION": 6,
+          "REVIEW": 0
+        }
+      },
+      "coverage": 1.0,
+      "n": 24,
+      "precision_determinate": 0.6666666666666666,
+      "referral_rate": 0.0,
+      "referred": 0,
+      "selective_error_determinate": 0.2857142857142857,
+      "sensitivity": 0.6666666666666666
+    }
+  }
+}

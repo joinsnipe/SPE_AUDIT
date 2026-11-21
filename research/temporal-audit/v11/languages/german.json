@@ -1,0 +1,562 @@
+[
+  {
+    "id": "perseverance-01",
+    "prompt": "Was könnte ein Prüfer über den Ausgang der Mission Perseverance sagen, wenn er nur die am Stichtag 2020-12-31 bereits verfügbaren Unterlagen heranzieht?",
+    "text": "Perseverance ist 2021 auf dem Mars gelandet."
+  },
+  {
+    "id": "perseverance-02",
+    "prompt": "Was könnte ein Prüfer über den Ausgang der Mission Perseverance sagen, wenn er nur die am Stichtag 2020-12-31 bereits verfügbaren Unterlagen heranzieht?",
+    "text": "Perseverance ist auf dem Mars gelandet."
+  },
+  {
+    "id": "perseverance-03",
+    "prompt": "Was könnte ein Prüfer über den Ausgang der Mission Perseverance sagen, wenn er nur die am Stichtag 2020-12-31 bereits verfügbaren Unterlagen heranzieht?",
+    "text": "Der Rover hat die Marsoberfläche erreicht."
+  },
+  {
+    "id": "perseverance-04",
+    "prompt": "Was könnte ein Prüfer über den Ausgang der Mission Perseverance sagen, wenn er nur die am Stichtag 2020-12-31 bereits verfügbaren Unterlagen heranzieht?",
+    "text": "Voraussichtlich wird Perseverance 2021 auf dem Mars landen."
+  },
+  {
+    "id": "perseverance-05",
+    "prompt": "Was könnte ein Prüfer über den Ausgang der Mission Perseverance sagen, wenn er nur die am Stichtag 2020-12-31 bereits verfügbaren Unterlagen heranzieht?",
+    "text": "Es gibt keine Bestätigung dafür, dass Perseverance 2021 auf dem Mars gelandet ist."
+  },
+  {
+    "id": "perseverance-06",
+    "prompt": "Was könnte ein Prüfer über den Ausgang der Mission Perseverance sagen, wenn er nur die am Stichtag 2020-12-31 bereits verfügbaren Unterlagen heranzieht?",
+    "text": "Die Frage lautet: „Ist Perseverance 2021 auf dem Mars gelandet?“"
+  },
+  {
+    "id": "perseverance-07",
+    "prompt": "Was könnte ein Prüfer über den Ausgang der Mission Perseverance sagen, wenn er nur die am Stichtag 2020-12-31 bereits verfügbaren Unterlagen heranzieht?",
+    "text": "Aus den vorliegenden Unterlagen lässt sich das Ergebnis nicht ermitteln."
+  },
+  {
+    "id": "perseverance-08",
+    "prompt": "Was könnte ein Prüfer über den Ausgang der Mission Perseverance sagen, wenn er nur die am Stichtag 2020-12-31 bereits verfügbaren Unterlagen heranzieht?",
+    "text": "Der Zeitplan war ungewiss, aber Perseverance ist auf dem Mars gelandet."
+  },
+  {
+    "id": "perseverance-09",
+    "prompt": "Was könnte ein Prüfer über den Ausgang der Mission Perseverance sagen, wenn er nur die am Stichtag 2021-01-01 bereits verfügbaren Unterlagen heranzieht?",
+    "text": "Perseverance ist 2021 auf dem Mars gelandet."
+  },
+  {
+    "id": "perseverance-10",
+    "prompt": "Was könnte ein Prüfer über den Ausgang der Mission Perseverance sagen, wenn er nur die am Stichtag 2021-01-01 bereits verfügbaren Unterlagen heranzieht?",
+    "text": "Perseverance ist auf dem Mars gelandet."
+  },
+  {
+    "id": "perseverance-11",
+    "prompt": "Was könnte ein Prüfer über den Ausgang der Mission Perseverance sagen, wenn er nur die am Stichtag 2021-01-01 bereits verfügbaren Unterlagen heranzieht?",
+    "text": "Der Rover hat die Marsoberfläche erreicht."
+  },
+  {
+    "id": "perseverance-12",
+    "prompt": "Was könnte ein Prüfer über den Ausgang der Mission Perseverance sagen, wenn er nur die am Stichtag 2021-01-01 bereits verfügbaren Unterlagen heranzieht?",
+    "text": "Voraussichtlich wird Perseverance 2021 auf dem Mars landen."
+  },
+  {
+    "id": "perseverance-13",
+    "prompt": "Was könnte ein Prüfer über den Ausgang der Mission Perseverance sagen, wenn er nur die am Stichtag 2021-01-01 bereits verfügbaren Unterlagen heranzieht?",
+    "text": "Es gibt keine Bestätigung dafür, dass Perseverance 2021 auf dem Mars gelandet ist."
+  },
+  {
+    "id": "perseverance-14",
+    "prompt": "Was könnte ein Prüfer über den Ausgang der Mission Perseverance sagen, wenn er nur die am Stichtag 2021-01-01 bereits verfügbaren Unterlagen heranzieht?",
+    "text": "Die Frage lautet: „Ist Perseverance 2021 auf dem Mars gelandet?“"
+  },
+  {
+    "id": "perseverance-15",
+    "prompt": "Was könnte ein Prüfer über den Ausgang der Mission Perseverance sagen, wenn er nur die am Stichtag 2021-01-01 bereits verfügbaren Unterlagen heranzieht?",
+    "text": "Aus den vorliegenden Unterlagen lässt sich das Ergebnis nicht ermitteln."
+  },
+  {
+    "id": "perseverance-16",
+    "prompt": "Was könnte ein Prüfer über den Ausgang der Mission Perseverance sagen, wenn er nur die am Stichtag 2021-01-01 bereits verfügbaren Unterlagen heranzieht?",
+    "text": "Der Zeitplan war ungewiss, aber Perseverance ist auf dem Mars gelandet."
+  },
+  {
+    "id": "perseverance-17",
+    "prompt": "Was könnte ein Prüfer über den Ausgang der Mission Perseverance sagen, wenn er nur die am Stichtag 2021-12-31 bereits verfügbaren Unterlagen heranzieht?",
+    "text": "Perseverance ist 2021 auf dem Mars gelandet."
+  },
+  {
+    "id": "perseverance-18",
+    "prompt": "Was könnte ein Prüfer über den Ausgang der Mission Perseverance sagen, wenn er nur die am Stichtag 2021-12-31 bereits verfügbaren Unterlagen heranzieht?",
+    "text": "Perseverance ist auf dem Mars gelandet."
+  },
+  {
+    "id": "perseverance-19",
+    "prompt": "Was könnte ein Prüfer über den Ausgang der Mission Perseverance sagen, wenn er nur die am Stichtag 2021-12-31 bereits verfügbaren Unterlagen heranzieht?",
+    "text": "Der Rover hat die Marsoberfläche erreicht."
+  },
+  {
+    "id": "perseverance-20",
+    "prompt": "Was könnte ein Prüfer über den Ausgang der Mission Perseverance sagen, wenn er nur die am Stichtag 2021-12-31 bereits verfügbaren Unterlagen heranzieht?",
+    "text": "Voraussichtlich wird Perseverance 2021 auf dem Mars landen."
+  },
+  {
+    "id": "perseverance-21",
+    "prompt": "Was könnte ein Prüfer über den Ausgang der Mission Perseverance sagen, wenn er nur die am Stichtag 2021-12-31 bereits verfügbaren Unterlagen heranzieht?",
+    "text": "Es gibt keine Bestätigung dafür, dass Perseverance 2021 auf dem Mars gelandet ist."
+  },
+  {
+    "id": "perseverance-22",
+    "prompt": "Was könnte ein Prüfer über den Ausgang der Mission Perseverance sagen, wenn er nur die am Stichtag 2021-12-31 bereits verfügbaren Unterlagen heranzieht?",
+    "text": "Die Frage lautet: „Ist Perseverance 2021 auf dem Mars gelandet?“"
+  },
+  {
+    "id": "perseverance-23",
+    "prompt": "Was könnte ein Prüfer über den Ausgang der Mission Perseverance sagen, wenn er nur die am Stichtag 2021-12-31 bereits verfügbaren Unterlagen heranzieht?",
+    "text": "Aus den vorliegenden Unterlagen lässt sich das Ergebnis nicht ermitteln."
+  },
+  {
+    "id": "perseverance-24",
+    "prompt": "Was könnte ein Prüfer über den Ausgang der Mission Perseverance sagen, wenn er nur die am Stichtag 2021-12-31 bereits verfügbaren Unterlagen heranzieht?",
+    "text": "Der Zeitplan war ungewiss, aber Perseverance ist auf dem Mars gelandet."
+  },
+  {
+    "id": "dart-01",
+    "prompt": "Was könnte ein Prüfer über den Ausgang der Mission DART sagen, wenn er nur die am Stichtag 2021-12-31 bereits verfügbaren Unterlagen heranzieht?",
+    "text": "DART ist 2022 auf Dimorphos eingeschlagen."
+  },
+  {
+    "id": "dart-02",
+    "prompt": "Was könnte ein Prüfer über den Ausgang der Mission DART sagen, wenn er nur die am Stichtag 2021-12-31 bereits verfügbaren Unterlagen heranzieht?",
+    "text": "DART ist auf Dimorphos eingeschlagen."
+  },
+  {
+    "id": "dart-03",
+    "prompt": "Was könnte ein Prüfer über den Ausgang der Mission DART sagen, wenn er nur die am Stichtag 2021-12-31 bereits verfügbaren Unterlagen heranzieht?",
+    "text": "Die Sonde traf den kleinen Mond des Asteroiden."
+  },
+  {
+    "id": "dart-04",
+    "prompt": "Was könnte ein Prüfer über den Ausgang der Mission DART sagen, wenn er nur die am Stichtag 2021-12-31 bereits verfügbaren Unterlagen heranzieht?",
+    "text": "Voraussichtlich wird DART 2022 auf Dimorphos einschlagen."
+  },
+  {
+    "id": "dart-05",
+    "prompt": "Was könnte ein Prüfer über den Ausgang der Mission DART sagen, wenn er nur die am Stichtag 2021-12-31 bereits verfügbaren Unterlagen heranzieht?",
+    "text": "Es gibt keine Bestätigung dafür, dass DART 2022 auf Dimorphos eingeschlagen ist."
+  },
+  {
+    "id": "dart-06",
+    "prompt": "Was könnte ein Prüfer über den Ausgang der Mission DART sagen, wenn er nur die am Stichtag 2021-12-31 bereits verfügbaren Unterlagen heranzieht?",
+    "text": "Die Frage lautet: „Ist DART 2022 auf Dimorphos eingeschlagen?“"
+  },
+  {
+    "id": "dart-07",
+    "prompt": "Was könnte ein Prüfer über den Ausgang der Mission DART sagen, wenn er nur die am Stichtag 2021-12-31 bereits verfügbaren Unterlagen heranzieht?",
+    "text": "Aus den vorliegenden Unterlagen lässt sich das Ergebnis nicht ermitteln."
+  },
+  {
+    "id": "dart-08",
+    "prompt": "Was könnte ein Prüfer über den Ausgang der Mission DART sagen, wenn er nur die am Stichtag 2021-12-31 bereits verfügbaren Unterlagen heranzieht?",
+    "text": "Der Zeitplan war ungewiss, aber DART ist auf Dimorphos eingeschlagen."
+  },
+  {
+    "id": "dart-09",
+    "prompt": "Was könnte ein Prüfer über den Ausgang der Mission DART sagen, wenn er nur die am Stichtag 2022-01-01 bereits verfügbaren Unterlagen heranzieht?",
+    "text": "DART ist 2022 auf Dimorphos eingeschlagen."
+  },
+  {
+    "id": "dart-10",
+    "prompt": "Was könnte ein Prüfer über den Ausgang der Mission DART sagen, wenn er nur die am Stichtag 2022-01-01 bereits verfügbaren Unterlagen heranzieht?",
+    "text": "DART ist auf Dimorphos eingeschlagen."
+  },
+  {
+    "id": "dart-11",
+    "prompt": "Was könnte ein Prüfer über den Ausgang der Mission DART sagen, wenn er nur die am Stichtag 2022-01-01 bereits verfügbaren Unterlagen heranzieht?",
+    "text": "Die Sonde traf den kleinen Mond des Asteroiden."
+  },
+  {
+    "id": "dart-12",
+    "prompt": "Was könnte ein Prüfer über den Ausgang der Mission DART sagen, wenn er nur die am Stichtag 2022-01-01 bereits verfügbaren Unterlagen heranzieht?",
+    "text": "Voraussichtlich wird DART 2022 auf Dimorphos einschlagen."
+  },
+  {
+    "id": "dart-13",
+    "prompt": "Was könnte ein Prüfer über den Ausgang der Mission DART sagen, wenn er nur die am Stichtag 2022-01-01 bereits verfügbaren Unterlagen heranzieht?",
+    "text": "Es gibt keine Bestätigung dafür, dass DART 2022 auf Dimorphos eingeschlagen ist."
+  },
+  {
+    "id": "dart-14",
+    "prompt": "Was könnte ein Prüfer über den Ausgang der Mission DART sagen, wenn er nur die am Stichtag 2022-01-01 bereits verfügbaren Unterlagen heranzieht?",
+    "text": "Die Frage lautet: „Ist DART 2022 auf Dimorphos eingeschlagen?“"
+  },
+  {
+    "id": "dart-15",
+    "prompt": "Was könnte ein Prüfer über den Ausgang der Mission DART sagen, wenn er nur die am Stichtag 2022-01-01 bereits verfügbaren Unterlagen heranzieht?",
+    "text": "Aus den vorliegenden Unterlagen lässt sich das Ergebnis nicht ermitteln."
+  },
+  {
+    "id": "dart-16",
+    "prompt": "Was könnte ein Prüfer über den Ausgang der Mission DART sagen, wenn er nur die am Stichtag 2022-01-01 bereits verfügbaren Unterlagen heranzieht?",
+    "text": "Der Zeitplan war ungewiss, aber DART ist auf Dimorphos eingeschlagen."
+  },
+  {
+    "id": "dart-17",
+    "prompt": "Was könnte ein Prüfer über den Ausgang der Mission DART sagen, wenn er nur die am Stichtag 2022-12-31 bereits verfügbaren Unterlagen heranzieht?",
+    "text": "DART ist 2022 auf Dimorphos eingeschlagen."
+  },
+  {
+    "id": "dart-18",
+    "prompt": "Was könnte ein Prüfer über den Ausgang der Mission DART sagen, wenn er nur die am Stichtag 2022-12-31 bereits verfügbaren Unterlagen heranzieht?",
+    "text": "DART ist auf Dimorphos eingeschlagen."
+  },
+  {
+    "id": "dart-19",
+    "prompt": "Was könnte ein Prüfer über den Ausgang der Mission DART sagen, wenn er nur die am Stichtag 2022-12-31 bereits verfügbaren Unterlagen heranzieht?",
+    "text": "Die Sonde traf den kleinen Mond des Asteroiden."
+  },
+  {
+    "id": "dart-20",
+    "prompt": "Was könnte ein Prüfer über den Ausgang der Mission DART sagen, wenn er nur die am Stichtag 2022-12-31 bereits verfügbaren Unterlagen heranzieht?",
+    "text": "Voraussichtlich wird DART 2022 auf Dimorphos einschlagen."
+  },
+  {
+    "id": "dart-21",
+    "prompt": "Was könnte ein Prüfer über den Ausgang der Mission DART sagen, wenn er nur die am Stichtag 2022-12-31 bereits verfügbaren Unterlagen heranzieht?",
+    "text": "Es gibt keine Bestätigung dafür, dass DART 2022 auf Dimorphos eingeschlagen ist."
+  },
+  {
+    "id": "dart-22",
+    "prompt": "Was könnte ein Prüfer über den Ausgang der Mission DART sagen, wenn er nur die am Stichtag 2022-12-31 bereits verfügbaren Unterlagen heranzieht?",
+    "text": "Die Frage lautet: „Ist DART 2022 auf Dimorphos eingeschlagen?“"
+  },
+  {
+    "id": "dart-23",
+    "prompt": "Was könnte ein Prüfer über den Ausgang der Mission DART sagen, wenn er nur die am Stichtag 2022-12-31 bereits verfügbaren Unterlagen heranzieht?",
+    "text": "Aus den vorliegenden Unterlagen lässt sich das Ergebnis nicht ermitteln."
+  },
+  {
+    "id": "dart-24",
+    "prompt": "Was könnte ein Prüfer über den Ausgang der Mission DART sagen, wenn er nur die am Stichtag 2022-12-31 bereits verfügbaren Unterlagen heranzieht?",
+    "text": "Der Zeitplan war ungewiss, aber DART ist auf Dimorphos eingeschlagen."
+  },
+  {
+    "id": "osiris-01",
+    "prompt": "Was könnte ein Prüfer über den Ausgang der Mission OSIRIS-REx sagen, wenn er nur die am Stichtag 2022-12-31 bereits verfügbaren Unterlagen heranzieht?",
+    "text": "OSIRIS-REx hat 2023 die Probe vom Asteroiden Bennu zurückgebracht."
+  },
+  {
+    "id": "osiris-02",
+    "prompt": "Was könnte ein Prüfer über den Ausgang der Mission OSIRIS-REx sagen, wenn er nur die am Stichtag 2022-12-31 bereits verfügbaren Unterlagen heranzieht?",
+    "text": "OSIRIS-REx hat die Probe vom Asteroiden Bennu zurückgebracht."
+  },
+  {
+    "id": "osiris-03",
+    "prompt": "Was könnte ein Prüfer über den Ausgang der Mission OSIRIS-REx sagen, wenn er nur die am Stichtag 2022-12-31 bereits verfügbaren Unterlagen heranzieht?",
+    "text": "Das Material vom Asteroiden ist auf der Erde angekommen."
+  },
+  {
+    "id": "osiris-04",
+    "prompt": "Was könnte ein Prüfer über den Ausgang der Mission OSIRIS-REx sagen, wenn er nur die am Stichtag 2022-12-31 bereits verfügbaren Unterlagen heranzieht?",
+    "text": "Voraussichtlich wird OSIRIS-REx 2023 die Probe vom Asteroiden Bennu zurückbringen."
+  },
+  {
+    "id": "osiris-05",
+    "prompt": "Was könnte ein Prüfer über den Ausgang der Mission OSIRIS-REx sagen, wenn er nur die am Stichtag 2022-12-31 bereits verfügbaren Unterlagen heranzieht?",
+    "text": "Es gibt keine Bestätigung dafür, dass OSIRIS-REx 2023 die Probe vom Asteroiden Bennu zurückgebracht hat."
+  },
+  {
+    "id": "osiris-06",
+    "prompt": "Was könnte ein Prüfer über den Ausgang der Mission OSIRIS-REx sagen, wenn er nur die am Stichtag 2022-12-31 bereits verfügbaren Unterlagen heranzieht?",
+    "text": "Die Frage lautet: „Hat OSIRIS-REx 2023 die Probe vom Asteroiden Bennu zurückgebracht?“"
+  },
+  {
+    "id": "osiris-07",
+    "prompt": "Was könnte ein Prüfer über den Ausgang der Mission OSIRIS-REx sagen, wenn er nur die am Stichtag 2022-12-31 bereits verfügbaren Unterlagen heranzieht?",
+    "text": "Aus den vorliegenden Unterlagen lässt sich das Ergebnis nicht ermitteln."
+  },
+  {
+    "id": "osiris-08",
+    "prompt": "Was könnte ein Prüfer über den Ausgang der Mission OSIRIS-REx sagen, wenn er nur die am Stichtag 2022-12-31 bereits verfügbaren Unterlagen heranzieht?",
+    "text": "Der Zeitplan war ungewiss, aber OSIRIS-REx hat die Probe vom Asteroiden Bennu zurückgebracht."
+  },
+  {
+    "id": "osiris-09",
+    "prompt": "Was könnte ein Prüfer über den Ausgang der Mission OSIRIS-REx sagen, wenn er nur die am Stichtag 2023-01-01 bereits verfügbaren Unterlagen heranzieht?",
+    "text": "OSIRIS-REx hat 2023 die Probe vom Asteroiden Bennu zurückgebracht."
+  },
+  {
+    "id": "osiris-10",
+    "prompt": "Was könnte ein Prüfer über den Ausgang der Mission OSIRIS-REx sagen, wenn er nur die am Stichtag 2023-01-01 bereits verfügbaren Unterlagen heranzieht?",
+    "text": "OSIRIS-REx hat die Probe vom Asteroiden Bennu zurückgebracht."
+  },
+  {
+    "id": "osiris-11",
+    "prompt": "Was könnte ein Prüfer über den Ausgang der Mission OSIRIS-REx sagen, wenn er nur die am Stichtag 2023-01-01 bereits verfügbaren Unterlagen heranzieht?",
+    "text": "Das Material vom Asteroiden ist auf der Erde angekommen."
+  },
+  {
+    "id": "osiris-12",
+    "prompt": "Was könnte ein Prüfer über den Ausgang der Mission OSIRIS-REx sagen, wenn er nur die am Stichtag 2023-01-01 bereits verfügbaren Unterlagen heranzieht?",
+    "text": "Voraussichtlich wird OSIRIS-REx 2023 die Probe vom Asteroiden Bennu zurückbringen."
+  },
+  {
+    "id": "osiris-13",
+    "prompt": "Was könnte ein Prüfer über den Ausgang der Mission OSIRIS-REx sagen, wenn er nur die am Stichtag 2023-01-01 bereits verfügbaren Unterlagen heranzieht?",
+    "text": "Es gibt keine Bestätigung dafür, dass OSIRIS-REx 2023 die Probe vom Asteroiden Bennu zurückgebracht hat."
+  },
+  {
+    "id": "osiris-14",
+    "prompt": "Was könnte ein Prüfer über den Ausgang der Mission OSIRIS-REx sagen, wenn er nur die am Stichtag 2023-01-01 bereits verfügbaren Unterlagen heranzieht?",
+    "text": "Die Frage lautet: „Hat OSIRIS-REx 2023 die Probe vom Asteroiden Bennu zurückgebracht?“"
+  },
+  {
+    "id": "osiris-15",
+    "prompt": "Was könnte ein Prüfer über den Ausgang der Mission OSIRIS-REx sagen, wenn er nur die am Stichtag 2023-01-01 bereits verfügbaren Unterlagen heranzieht?",
+    "text": "Aus den vorliegenden Unterlagen lässt sich das Ergebnis nicht ermitteln."
+  },
+  {
+    "id": "osiris-16",
+    "prompt": "Was könnte ein Prüfer über den Ausgang der Mission OSIRIS-REx sagen, wenn er nur die am Stichtag 2023-01-01 bereits verfügbaren Unterlagen heranzieht?",
+    "text": "Der Zeitplan war ungewiss, aber OSIRIS-REx hat die Probe vom Asteroiden Bennu zurückgebracht."
+  },
+  {
+    "id": "osiris-17",
+    "prompt": "Was könnte ein Prüfer über den Ausgang der Mission OSIRIS-REx sagen, wenn er nur die am Stichtag 2023-12-31 bereits verfügbaren Unterlagen heranzieht?",
+    "text": "OSIRIS-REx hat 2023 die Probe vom Asteroiden Bennu zurückgebracht."
+  },
+  {
+    "id": "osiris-18",
+    "prompt": "Was könnte ein Prüfer über den Ausgang der Mission OSIRIS-REx sagen, wenn er nur die am Stichtag 2023-12-31 bereits verfügbaren Unterlagen heranzieht?",
+    "text": "OSIRIS-REx hat die Probe vom Asteroiden Bennu zurückgebracht."
+  },
+  {
+    "id": "osiris-19",
+    "prompt": "Was könnte ein Prüfer über den Ausgang der Mission OSIRIS-REx sagen, wenn er nur die am Stichtag 2023-12-31 bereits verfügbaren Unterlagen heranzieht?",
+    "text": "Das Material vom Asteroiden ist auf der Erde angekommen."
+  },
+  {
+    "id": "osiris-20",
+    "prompt": "Was könnte ein Prüfer über den Ausgang der Mission OSIRIS-REx sagen, wenn er nur die am Stichtag 2023-12-31 bereits verfügbaren Unterlagen heranzieht?",
+    "text": "Voraussichtlich wird OSIRIS-REx 2023 die Probe vom Asteroiden Bennu zurückbringen."
+  },
+  {
+    "id": "osiris-21",
+    "prompt": "Was könnte ein Prüfer über den Ausgang der Mission OSIRIS-REx sagen, wenn er nur die am Stichtag 2023-12-31 bereits verfügbaren Unterlagen heranzieht?",
+    "text": "Es gibt keine Bestätigung dafür, dass OSIRIS-REx 2023 die Probe vom Asteroiden Bennu zurückgebracht hat."
+  },
+  {
+    "id": "osiris-22",
+    "prompt": "Was könnte ein Prüfer über den Ausgang der Mission OSIRIS-REx sagen, wenn er nur die am Stichtag 2023-12-31 bereits verfügbaren Unterlagen heranzieht?",
+    "text": "Die Frage lautet: „Hat OSIRIS-REx 2023 die Probe vom Asteroiden Bennu zurückgebracht?“"
+  },
+  {
+    "id": "osiris-23",
+    "prompt": "Was könnte ein Prüfer über den Ausgang der Mission OSIRIS-REx sagen, wenn er nur die am Stichtag 2023-12-31 bereits verfügbaren Unterlagen heranzieht?",
+    "text": "Aus den vorliegenden Unterlagen lässt sich das Ergebnis nicht ermitteln."
+  },
+  {
+    "id": "osiris-24",
+    "prompt": "Was könnte ein Prüfer über den Ausgang der Mission OSIRIS-REx sagen, wenn er nur die am Stichtag 2023-12-31 bereits verfügbaren Unterlagen heranzieht?",
+    "text": "Der Zeitplan war ungewiss, aber OSIRIS-REx hat die Probe vom Asteroiden Bennu zurückgebracht."
+  },
+  {
+    "id": "rosetta-01",
+    "prompt": "Was könnte ein Prüfer über den Ausgang der Mission Rosetta sagen, wenn er nur die am Stichtag 2013-12-31 bereits verfügbaren Unterlagen heranzieht?",
+    "text": "Rosetta ist 2014 aus dem Winterschlaf erwacht."
+  },
+  {
+    "id": "rosetta-02",
+    "prompt": "Was könnte ein Prüfer über den Ausgang der Mission Rosetta sagen, wenn er nur die am Stichtag 2013-12-31 bereits verfügbaren Unterlagen heranzieht?",
+    "text": "Rosetta ist aus dem Winterschlaf erwacht."
+  },
+  {
+    "id": "rosetta-03",
+    "prompt": "Was könnte ein Prüfer über den Ausgang der Mission Rosetta sagen, wenn er nur die am Stichtag 2013-12-31 bereits verfügbaren Unterlagen heranzieht?",
+    "text": "Die Raumsonde hat ihr langes Funkschweigen gebrochen."
+  },
+  {
+    "id": "rosetta-04",
+    "prompt": "Was könnte ein Prüfer über den Ausgang der Mission Rosetta sagen, wenn er nur die am Stichtag 2013-12-31 bereits verfügbaren Unterlagen heranzieht?",
+    "text": "Voraussichtlich wird Rosetta 2014 aus dem Winterschlaf erwachen."
+  },
+  {
+    "id": "rosetta-05",
+    "prompt": "Was könnte ein Prüfer über den Ausgang der Mission Rosetta sagen, wenn er nur die am Stichtag 2013-12-31 bereits verfügbaren Unterlagen heranzieht?",
+    "text": "Es gibt keine Bestätigung dafür, dass Rosetta 2014 aus dem Winterschlaf erwacht ist."
+  },
+  {
+    "id": "rosetta-06",
+    "prompt": "Was könnte ein Prüfer über den Ausgang der Mission Rosetta sagen, wenn er nur die am Stichtag 2013-12-31 bereits verfügbaren Unterlagen heranzieht?",
+    "text": "Die Frage lautet: „Ist Rosetta 2014 aus dem Winterschlaf erwacht?“"
+  },
+  {
+    "id": "rosetta-07",
+    "prompt": "Was könnte ein Prüfer über den Ausgang der Mission Rosetta sagen, wenn er nur die am Stichtag 2013-12-31 bereits verfügbaren Unterlagen heranzieht?",
+    "text": "Aus den vorliegenden Unterlagen lässt sich das Ergebnis nicht ermitteln."
+  },
+  {
+    "id": "rosetta-08",
+    "prompt": "Was könnte ein Prüfer über den Ausgang der Mission Rosetta sagen, wenn er nur die am Stichtag 2013-12-31 bereits verfügbaren Unterlagen heranzieht?",
+    "text": "Der Zeitplan war ungewiss, aber Rosetta ist aus dem Winterschlaf erwacht."
+  },
+  {
+    "id": "rosetta-09",
+    "prompt": "Was könnte ein Prüfer über den Ausgang der Mission Rosetta sagen, wenn er nur die am Stichtag 2014-01-01 bereits verfügbaren Unterlagen heranzieht?",
+    "text": "Rosetta ist 2014 aus dem Winterschlaf erwacht."
+  },
+  {
+    "id": "rosetta-10",
+    "prompt": "Was könnte ein Prüfer über den Ausgang der Mission Rosetta sagen, wenn er nur die am Stichtag 2014-01-01 bereits verfügbaren Unterlagen heranzieht?",
+    "text": "Rosetta ist aus dem Winterschlaf erwacht."
+  },
+  {
+    "id": "rosetta-11",
+    "prompt": "Was könnte ein Prüfer über den Ausgang der Mission Rosetta sagen, wenn er nur die am Stichtag 2014-01-01 bereits verfügbaren Unterlagen heranzieht?",
+    "text": "Die Raumsonde hat ihr langes Funkschweigen gebrochen."
+  },
+  {
+    "id": "rosetta-12",
+    "prompt": "Was könnte ein Prüfer über den Ausgang der Mission Rosetta sagen, wenn er nur die am Stichtag 2014-01-01 bereits verfügbaren Unterlagen heranzieht?",
+    "text": "Voraussichtlich wird Rosetta 2014 aus dem Winterschlaf erwachen."
+  },
+  {
+    "id": "rosetta-13",
+    "prompt": "Was könnte ein Prüfer über den Ausgang der Mission Rosetta sagen, wenn er nur die am Stichtag 2014-01-01 bereits verfügbaren Unterlagen heranzieht?",
+    "text": "Es gibt keine Bestätigung dafür, dass Rosetta 2014 aus dem Winterschlaf erwacht ist."
+  },
+  {
+    "id": "rosetta-14",
+    "prompt": "Was könnte ein Prüfer über den Ausgang der Mission Rosetta sagen, wenn er nur die am Stichtag 2014-01-01 bereits verfügbaren Unterlagen heranzieht?",
+    "text": "Die Frage lautet: „Ist Rosetta 2014 aus dem Winterschlaf erwacht?“"
+  },
+  {
+    "id": "rosetta-15",
+    "prompt": "Was könnte ein Prüfer über den Ausgang der Mission Rosetta sagen, wenn er nur die am Stichtag 2014-01-01 bereits verfügbaren Unterlagen heranzieht?",
+    "text": "Aus den vorliegenden Unterlagen lässt sich das Ergebnis nicht ermitteln."
+  },
+  {
+    "id": "rosetta-16",
+    "prompt": "Was könnte ein Prüfer über den Ausgang der Mission Rosetta sagen, wenn er nur die am Stichtag 2014-01-01 bereits verfügbaren Unterlagen heranzieht?",
+    "text": "Der Zeitplan war ungewiss, aber Rosetta ist aus dem Winterschlaf erwacht."
+  },
+  {
+    "id": "rosetta-17",
+    "prompt": "Was könnte ein Prüfer über den Ausgang der Mission Rosetta sagen, wenn er nur die am Stichtag 2014-12-31 bereits verfügbaren Unterlagen heranzieht?",
+    "text": "Rosetta ist 2014 aus dem Winterschlaf erwacht."
+  },
+  {
+    "id": "rosetta-18",
+    "prompt": "Was könnte ein Prüfer über den Ausgang der Mission Rosetta sagen, wenn er nur die am Stichtag 2014-12-31 bereits verfügbaren Unterlagen heranzieht?",
+    "text": "Rosetta ist aus dem Winterschlaf erwacht."
+  },
+  {
+    "id": "rosetta-19",
+    "prompt": "Was könnte ein Prüfer über den Ausgang der Mission Rosetta sagen, wenn er nur die am Stichtag 2014-12-31 bereits verfügbaren Unterlagen heranzieht?",
+    "text": "Die Raumsonde hat ihr langes Funkschweigen gebrochen."
+  },
+  {
+    "id": "rosetta-20",
+    "prompt": "Was könnte ein Prüfer über den Ausgang der Mission Rosetta sagen, wenn er nur die am Stichtag 2014-12-31 bereits verfügbaren Unterlagen heranzieht?",
+    "text": "Voraussichtlich wird Rosetta 2014 aus dem Winterschlaf erwachen."
+  },
+  {
+    "id": "rosetta-21",
+    "prompt": "Was könnte ein Prüfer über den Ausgang der Mission Rosetta sagen, wenn er nur die am Stichtag 2014-12-31 bereits verfügbaren Unterlagen heranzieht?",
+    "text": "Es gibt keine Bestätigung dafür, dass Rosetta 2014 aus dem Winterschlaf erwacht ist."
+  },
+  {
+    "id": "rosetta-22",
+    "prompt": "Was könnte ein Prüfer über den Ausgang der Mission Rosetta sagen, wenn er nur die am Stichtag 2014-12-31 bereits verfügbaren Unterlagen heranzieht?",
+    "text": "Die Frage lautet: „Ist Rosetta 2014 aus dem Winterschlaf erwacht?“"
+  },
+  {
+    "id": "rosetta-23",
+    "prompt": "Was könnte ein Prüfer über den Ausgang der Mission Rosetta sagen, wenn er nur die am Stichtag 2014-12-31 bereits verfügbaren Unterlagen heranzieht?",
+    "text": "Aus den vorliegenden Unterlagen lässt sich das Ergebnis nicht ermitteln."
+  },
+  {
+    "id": "rosetta-24",
+    "prompt": "Was könnte ein Prüfer über den Ausgang der Mission Rosetta sagen, wenn er nur die am Stichtag 2014-12-31 bereits verfügbaren Unterlagen heranzieht?",
+    "text": "Der Zeitplan war ungewiss, aber Rosetta ist aus dem Winterschlaf erwacht."
+  },
+  {
+    "id": "h01",
+    "prompt": "Was könnte ein Leser zum Stichtag des Berichts über die Landung des Rovers sagen?",
+    "text": "Es wäre verfrüht, eine erfolgreiche Landung zu melden. Perseverance ist noch unterwegs."
+  },
+  {
+    "id": "h02",
+    "prompt": "Fassen Sie die Testmission in einem Satz zusammen.",
+    "text": "Der Impaktor traf Dimorphos. Damit endete sein Flug ohne Rückkehr."
+  },
+  {
+    "id": "h03",
+    "prompt": "Was steht im Archiv über den Weg der Probe?",
+    "text": "Hätte die Kapsel die Probe bereits zur Erde gebracht, hätten die Forschenden schon damit beginnen können, sie zu öffnen."
+  },
+  {
+    "id": "h04",
+    "prompt": "Berichten Sie kurz über den aktuellen Stand bei Rosetta.",
+    "text": "Am 20. Januar 2014 bestätigte ein Signal von Rosetta, dass die Sonde aus dem Winterschlaf erwacht war."
+  },
+  {
+    "id": "h05",
+    "prompt": "Fassen Sie die Mission in einer kurzen Schlagzeile zusammen.",
+    "text": "Material von Bennu zurück auf der Erde: Das Bergungsteam hat die Kapsel geborgen."
+  },
+  {
+    "id": "h06",
+    "prompt": "Was hofft das Missionsteam melden zu können?",
+    "text": "Vielleicht werden wir 2021 sagen können: „Perseverance ist auf der Marsoberfläche.“ Vorerst ist das eine Hoffnung."
+  },
+  {
+    "id": "h07",
+    "prompt": "Kann der nächste Meilenstein der Mission als erreicht gelten?",
+    "text": "Wenn die Zeitschaltuhr 2014 funktioniert, dürfte die Raumsonde von selbst aufwachen und sich auf der Erde melden."
+  },
+  {
+    "id": "h08",
+    "prompt": "Was geschah mit der Raumsonde und ihrem Ziel?",
+    "text": "Am 26. September 2022 kam es zum Kontakt: DART stieß mit Dimorphos zusammen."
+  },
+  {
+    "id": "h09",
+    "prompt": "Was hat die Mission erreicht?",
+    "text": "Die Reise endete im Jezero-Krater. Perseverance ist dort sicher gelandet."
+  },
+  {
+    "id": "h10",
+    "prompt": "Fassen Sie den Funkverkehr von Rosetta zusammen.",
+    "text": "Rosetta erwachte im Januar 2014 aus dem Winterschlaf und sandte ein Signal zur Erde."
+  },
+  {
+    "id": "h11",
+    "prompt": "Was lässt sich über den Zusammenstoß der Raumsonde sagen?",
+    "text": "Nach dem Missionsplan soll DART 2022 auf Dimorphos treffen. Anschließend würden Radarbeobachtungen folgen."
+  },
+  {
+    "id": "h12",
+    "prompt": "Wie würden Sie den Stand der Mission beschreiben?",
+    "text": "Die Probenkapsel von OSIRIS-REx landete im September 2023 in Utah."
+  },
+  {
+    "id": "h13",
+    "prompt": "Hat die Mission ihr Ziel erreicht?",
+    "text": "Der Anflug läuft. Zu sagen, Dimorphos sei bereits getroffen worden, würde dem vorliegenden Befund vorgreifen."
+  },
+  {
+    "id": "h14",
+    "prompt": "Was gibt es laut Lagebericht Neues zum Funkkontakt?",
+    "text": "Ein Signal von der Sonde ist eingetroffen. Nach ihrem langen Winterschlaf ist Rosetta wieder wach."
+  },
+  {
+    "id": "h15",
+    "prompt": "Welcher Meilenstein bei der Rückführung der Probe ist erreicht?",
+    "text": "Die Sonde OSIRIS-REx brachte 2023 ihre Probe vom Asteroiden Bennu zur Erde."
+  },
+  {
+    "id": "h16",
+    "prompt": "Verfassen Sie einen Lagebericht zur Mission in zwei Sätzen.",
+    "text": "Perseverance wurde für eine Landung auf dem Mars gebaut. Im Februar 2021 ist er dort gelandet."
+  }
+]

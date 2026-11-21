@@ -1,15 +1,18 @@
-<p align="center"><img src="research/temporal-audit/assets/banner.png" width="100%" alt="SPE Audit · Temporal auditing of AI outputs / Auditoría temporal de las respuestas de IA. A timeline shows evidence available before a cutoff and evidence published later."></p>
+<p align="center"><img src="research/temporal-audit/assets/banner.png" width="100%" alt="SPE Audit. Auditoría temporal de las respuestas de IA / Temporal auditing of AI outputs. DART: lanzamiento 2021-11-24, fecha de corte 2022-01-01, impacto 2022-09-26."></p>
 
 # SPE Audit
 
-**¿Qué podía afirmarse en esa fecha y qué puede comprobar hoy quien recibe la respuesta?** Esta investigación pública reconstruye los antecedentes, abre las capturas y somete las reglas de SPE a un desafío de redacción. El informe incluye todos los registros de las listas recuperadas, sus fuentes y las pistas pendientes de identificar.
+**Rubén Abella · SPE Audit**  
+Auditoría temporal de las respuestas de IA · Temporal auditing of AI outputs
 
-**What could be asserted at the time, and what can a reader verify today?** The public study combines an annotated landscape, request-level captures, and a reproducible wording challenge. The event-aware rule flagged 24 of 32 positives on constructed examples. With independently worded examples covering the same events, it flagged zero of eight and referred all eight for review.
+El 1 de enero de 2022 ya se podía decir que DART intentaría impactar contra un asteroide. El impacto ocurrió el 26 de septiembre. ¿Qué pasa si una respuesta redactada desde enero lo da por hecho? El artículo reconstruye qué fuentes estaban disponibles y la demo permite cambiar la fecha y comprobar los bytes de la respuesta.
+
+In the new 48-case bilingual challenge, the frozen proposition rule flagged **1 of 18** post-cutoff assertions, raised one false alert and sent **24 of 48** answers to review. The data show which words, dates and source records a reviewer can inspect for each decision.
 
 | Leer · Read | Explorar · Explore | Reproducir · Reproduce |
 |---|---|---|
-| [PDF en español](research/temporal-audit/PAPER_ES.pdf) · [English PDF](research/temporal-audit/PAPER_EN.pdf) | [Estudio y demo · Study and demo](research/temporal-audit/) | [Download the offline kit](https://github.com/joinsnipe/SPE_AUDIT/raw/refs/heads/main/research/temporal-audit/replication.zip) |
-| [Texto español](research/temporal-audit/PAPER_ES.md) · [English text](research/temporal-audit/PAPER_EN.md) | [54 registros históricos](research/temporal-audit/landscape/legacy.csv) · [116 referencias adicionales o reconciliadas](research/temporal-audit/landscape/bibliography.csv) | [Read the verification report](research/temporal-audit/study/REVIEW.md) |
+| [Artículo en español](research/temporal-audit/v11/FULL_ES.pdf) · [English paper](research/temporal-audit/v11/FULL_EN.pdf) | [Demo en español](https://www.spetrace.com/es/research/temporal-audit) · [English demo](https://www.spetrace.com/research/temporal-audit) · [Demo sin conexión](research/temporal-audit/v11/explore/offline.zip) | [Datos, código e instrucciones](research/temporal-audit/v11/) |
+| [DOI 10.5281/zenodo.24424024](https://doi.org/10.5281/zenodo.24424024) | [Diapositivas](research/temporal-audit/v11/outreach/slides_es.pdf) · [Technical blog](research/temporal-audit/v11/outreach/blog_en.md) | [54 registros históricos](research/temporal-audit/landscape/legacy.csv) · [116 referencias](research/temporal-audit/landscape/bibliography.csv) · [Revisión de fechas](research/temporal-audit/v11/sources/dating_ledger.csv) |
 
 ## Stateless Proof Engine
 
@@ -30,7 +33,8 @@ The original Python engine packages a supplied file, text or digest and checks i
 | ---------------- | -------------------- | ------------------------------------------- |
 | Hashing          | SHA-256              | Cryptographic fingerprint of content        |
 | Signing          | Ed25519 (Curve25519) | Digital signature ensuring proof origin     |
-| Proof Structure  | Merkle Tree          | Tamper detection for context items          |
+| February context digest | SHA-256 over the full serialization | Recompute with the full serialized context |
+| Research inclusion proof | Ordered Merkle tree in the [1.1 evidence module](research/temporal-audit/v11/evidence/) | Verify a disclosed item using its inclusion path and the committed root |
 | Hash Chain       | SHA-256 Append-Only  | Sequential anti-tampering ledger            |
 | Encoding         | Base64               | Portable binary-to-text for signatures      |
 | Canonicalization | Deterministic JSON   | Reproducible hashing across implementations |
@@ -216,7 +220,7 @@ We welcome contributions! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for guid
 
 ## License
 
-This project is licensed under the **Business Source License 1.1 (BSL 1.1)**.
+The SPE software is licensed under the **Business Source License 1.1 (BSL 1.1)**. Rubén Abella licenses the original article text and original figures under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Trademarks and third-party materials retain their respective rights.
 
 - ✅ **Free for non-commercial use**, research, education, and personal projects
 - ✅ **Free for internal evaluation** and testing
@@ -238,4 +242,4 @@ See [LICENSE](LICENSE) for full terms.
 
 **SPE** — _Stateless. Portable. Verifiable._
 
-© 2024–2026 SPE Audit / Joinsnipe
+© 2024–2026 Rubén Abella · SPE Audit

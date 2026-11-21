@@ -1,0 +1,3 @@
+## Reuse and attribution
+
+© 2026 Rubén Abella. The original text and original figures in this publication are available under the Creative Commons Attribution 4.0 International license. When reusing them, credit Rubén Abella, link to the license and indicate changes. The license grant covers only the author’s original text and figures. Third-party material retains its own terms. The SPE Audit name, logo and other trademarks are excluded from this grant. Software has its own terms under the repository’s Business Source License 1.1. [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) · [Software license](https://github.com/joinsnipe/SPE_AUDIT/blob/main/LICENSE)

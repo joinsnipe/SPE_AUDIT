@@ -1,0 +1,86 @@
+[
+  {
+    "id": "perseverance",
+    "name": "Perseverance",
+    "event_date": "2021-02-18",
+    "aliases": [
+      "Jezero",
+      "Mars",
+      "Marte"
+    ],
+    "outcome_terms": [
+      "land on Mars",
+      "landed on Mars",
+      "touch down",
+      "reach the Martian surface",
+      "land",
+      "aterrizó en Marte",
+      "aterrizar",
+      "llegar a la superficie",
+      "tocar suelo",
+      "posarse en Marte"
+    ],
+    "source_url": "https://science.nasa.gov/resource/nasas-perseverance-rover-lands-successfully-on-mars/"
+  },
+  {
+    "id": "dart",
+    "name": "DART",
+    "event_date": "2022-09-26",
+    "aliases": [
+      "Dimorphos"
+    ],
+    "outcome_terms": [
+      "hit Dimorphos",
+      "struck the asteroid moonlet",
+      "collide with Dimorphos",
+      "struck Dimorphos",
+      "collide",
+      "impactar",
+      "chocó con Dimorphos",
+      "colisionar",
+      "golpeó el asteroide"
+    ],
+    "source_url": "https://www.nasa.gov/solar-system/darts-final-images-prior-to-impact/"
+  },
+  {
+    "id": "osiris",
+    "name": "OSIRIS-REx",
+    "event_date": "2023-09-24",
+    "aliases": [
+      "OSIRIS REx",
+      "Bennu"
+    ],
+    "outcome_terms": [
+      "delivered the Bennu sample",
+      "deliver the sample",
+      "returned the sample",
+      "touched down in Utah",
+      "sample arrived",
+      "aterrizar",
+      "entregó la muestra",
+      "devolver la muestra",
+      "regresó a la Tierra"
+    ],
+    "source_url": "https://www.nasa.gov/news-release/nasas-first-asteroid-sample-has-landed-now-secure-in-clean-room/"
+  },
+  {
+    "id": "rosetta",
+    "name": "Rosetta",
+    "event_date": "2014-01-20",
+    "aliases": [
+      "Rosetta"
+    ],
+    "outcome_terms": [
+      "woke from hibernation",
+      "woke up",
+      "emerged from hibernation",
+      "returned from hibernation",
+      "broke its long radio silence",
+      "despertó",
+      "salió de la hibernación",
+      "reanudó el contacto",
+      "envió una señal"
+    ],
+    "source_url": "https://www.esa.int/Newsroom/Press_Releases/Rosetta_ESA_s_sleeping_beauty_wakes_up_from_deep_space_hibernation"
+  }
+]

@@ -1,8 +1,26 @@
-![SPE Audit. A timeline shows documents available before the cutoff and material published afterwards.](assets/banner.png)
+![SPE Audit. DART mission timeline: launch on 24 November 2021, study cutoff on 1 January 2022, impact on 26 September 2022.](assets/banner.png)
 
 # Auditoría temporal de las respuestas de IA · Temporal auditing of AI outputs
 
-**SPE Audit · Capriciousecret S.L. · 21 noviembre / November 2026 · Edición 1.0**
+**Rubén Abella · SPE Audit · 21 de noviembre de 2026 · Edición 1.1**
+
+| Acceso | Español | English |
+|---|---|---|
+| Estudio completo | [Descargar artículo](v11/FULL_ES.pdf) | [Download paper](v11/FULL_EN.pdf) |
+| Texto accesible | [Estudio ampliado](v11/SUPPLEMENT_ES.md) · [Estudio base](PAPER_ES.md) | [Extended study](v11/SUPPLEMENT_EN.md) · [Base paper](PAPER_EN.md) |
+| Demostración | [Abrir la demo en español](https://www.spetrace.com/es/research/temporal-audit) · [Descargar demo](v11/explore/offline.zip) | [Interactive research site](https://www.spetrace.com/research/temporal-audit) · [Download demo](v11/explore/offline.zip) |
+| Presentación | [Diapositivas](v11/outreach/slides_es.pdf) · [Artículo técnico](v11/outreach/blog_es.md) | [Slides](v11/outreach/slides_en.pdf) · [Technical article](v11/outreach/blog_en.md) |
+| Reproducción | [Código y datos](v11/) · [Decisiones caso a caso](v11/results/decisions.csv) | [Code and data](v11/) · [Updated dating register](v11/sources/dating_ledger.csv) |
+
+En el desafío nuevo de 48 respuestas en español e inglés, la regla de proposiciones detectó **1/18** afirmaciones posteriores al corte, produjo **una falsa alarma** y remitió **24/48** casos a revisión. El registro bibliográfico conserva los identificadores de las 116 referencias y detalla la búsqueda de las 58 que necesitaban fecharse. El estudio completo incorpora ambos bloques de la investigación.
+
+**Citation.** Abella, Rubén (2026). *Temporal auditing of AI outputs: request-level evidence, prior art and the limits of automated detection*. Version 1.1. [DOI 10.5281/zenodo.24424024](https://doi.org/10.5281/zenodo.24424024).
+
+Original text and original figures © Rubén Abella, licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Trademarks and third-party materials retain their respective rights. [Software licence BSL 1.1](../../LICENSE).
+
+## Estudio base · Original study
+
+**Rubén Abella · SPE Audit · 21 noviembre / November 2026 · Edición 1.0**
 
 | | Español | English |
 |---|---|---|
@@ -42,6 +60,6 @@ Download the ZIP above, extract it and open `demo.html` to explore eight cases i
 | [Piloto histórico · Archived pilot](field/README.md) | A separate application log comprises 25 attempts, 22 returned texts and three capacity errors. The public release contains a minimised recount with source notes. |
 | [Licencia · Licence](https://github.com/joinsnipe/SPE_AUDIT/blob/main/LICENSE) | The repository retains its Business Source License 1.1 terms. A copy accompanies the vendored baseline and offline package. |
 
-**Cita sugerida · Suggested citation.** SPE Audit / Capriciousecret S.L. (2026). *Temporal auditing of AI outputs: request-level evidence, prior art and the limits of automated detection*. Public research edition 1.0, 21 November 2026. Spanish and English. Cite the Git commit of the release you consulted.
+**Cita sugerida · Suggested citation.** Rubén Abella · SPE Audit (2026). *Temporal auditing of AI outputs: request-level evidence, prior art and the limits of automated detection*. Public research edition 1.0, 21 November 2026. Spanish and English. Cite the Git commit of the release you consulted.
 
 Las correcciones públicas pueden identificar un caso, una fuente M, N o B, y la prueba que cambia su interpretación. Public corrections can identify a case or source and the evidence for the proposed change. [Incidencias · Issues](https://github.com/joinsnipe/SPE_AUDIT/issues)

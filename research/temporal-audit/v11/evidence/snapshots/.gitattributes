@@ -1,0 +1,3 @@
+# Preserve the captured source bytes on every checkout.
+core-merkle.py.txt -text
+root.txt text eol=lf

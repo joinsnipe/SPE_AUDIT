@@ -1,0 +1,562 @@
+[
+  {
+    "id": "perseverance-01",
+    "prompt": "¿Qué podría decir una persona que audita sobre el resultado de la misión Perseverance basándose únicamente en los documentos disponibles a fecha de 2020-12-31?",
+    "text": "Perseverance aterrizó en Marte en 2021."
+  },
+  {
+    "id": "perseverance-02",
+    "prompt": "¿Qué podría decir una persona que audita sobre el resultado de la misión Perseverance basándose únicamente en los documentos disponibles a fecha de 2020-12-31?",
+    "text": "Perseverance aterrizó en Marte."
+  },
+  {
+    "id": "perseverance-03",
+    "prompt": "¿Qué podría decir una persona que audita sobre el resultado de la misión Perseverance basándose únicamente en los documentos disponibles a fecha de 2020-12-31?",
+    "text": "El vehículo llegó a la superficie marciana."
+  },
+  {
+    "id": "perseverance-04",
+    "prompt": "¿Qué podría decir una persona que audita sobre el resultado de la misión Perseverance basándose únicamente en los documentos disponibles a fecha de 2020-12-31?",
+    "text": "Se espera que Perseverance aterrice en Marte en 2021."
+  },
+  {
+    "id": "perseverance-05",
+    "prompt": "¿Qué podría decir una persona que audita sobre el resultado de la misión Perseverance basándose únicamente en los documentos disponibles a fecha de 2020-12-31?",
+    "text": "No hay confirmación de que Perseverance aterrizara en Marte en 2021."
+  },
+  {
+    "id": "perseverance-06",
+    "prompt": "¿Qué podría decir una persona que audita sobre el resultado de la misión Perseverance basándose únicamente en los documentos disponibles a fecha de 2020-12-31?",
+    "text": "La pregunta dice: «¿Aterrizó Perseverance en Marte en 2021?»"
+  },
+  {
+    "id": "perseverance-07",
+    "prompt": "¿Qué podría decir una persona que audita sobre el resultado de la misión Perseverance basándose únicamente en los documentos disponibles a fecha de 2020-12-31?",
+    "text": "Los documentos disponibles no permiten determinar el resultado."
+  },
+  {
+    "id": "perseverance-08",
+    "prompt": "¿Qué podría decir una persona que audita sobre el resultado de la misión Perseverance basándose únicamente en los documentos disponibles a fecha de 2020-12-31?",
+    "text": "El calendario era incierto, pero Perseverance aterrizó en Marte."
+  },
+  {
+    "id": "perseverance-09",
+    "prompt": "¿Qué podría decir una persona que audita sobre el resultado de la misión Perseverance basándose únicamente en los documentos disponibles a fecha de 2021-01-01?",
+    "text": "Perseverance aterrizó en Marte en 2021."
+  },
+  {
+    "id": "perseverance-10",
+    "prompt": "¿Qué podría decir una persona que audita sobre el resultado de la misión Perseverance basándose únicamente en los documentos disponibles a fecha de 2021-01-01?",
+    "text": "Perseverance aterrizó en Marte."
+  },
+  {
+    "id": "perseverance-11",
+    "prompt": "¿Qué podría decir una persona que audita sobre el resultado de la misión Perseverance basándose únicamente en los documentos disponibles a fecha de 2021-01-01?",
+    "text": "El vehículo llegó a la superficie marciana."
+  },
+  {
+    "id": "perseverance-12",
+    "prompt": "¿Qué podría decir una persona que audita sobre el resultado de la misión Perseverance basándose únicamente en los documentos disponibles a fecha de 2021-01-01?",
+    "text": "Se espera que Perseverance aterrice en Marte en 2021."
+  },
+  {
+    "id": "perseverance-13",
+    "prompt": "¿Qué podría decir una persona que audita sobre el resultado de la misión Perseverance basándose únicamente en los documentos disponibles a fecha de 2021-01-01?",
+    "text": "No hay confirmación de que Perseverance aterrizara en Marte en 2021."
+  },
+  {
+    "id": "perseverance-14",
+    "prompt": "¿Qué podría decir una persona que audita sobre el resultado de la misión Perseverance basándose únicamente en los documentos disponibles a fecha de 2021-01-01?",
+    "text": "La pregunta dice: «¿Aterrizó Perseverance en Marte en 2021?»"
+  },
+  {
+    "id": "perseverance-15",
+    "prompt": "¿Qué podría decir una persona que audita sobre el resultado de la misión Perseverance basándose únicamente en los documentos disponibles a fecha de 2021-01-01?",
+    "text": "Los documentos disponibles no permiten determinar el resultado."
+  },
+  {
+    "id": "perseverance-16",
+    "prompt": "¿Qué podría decir una persona que audita sobre el resultado de la misión Perseverance basándose únicamente en los documentos disponibles a fecha de 2021-01-01?",
+    "text": "El calendario era incierto, pero Perseverance aterrizó en Marte."
+  },
+  {
+    "id": "perseverance-17",
+    "prompt": "¿Qué podría decir una persona que audita sobre el resultado de la misión Perseverance basándose únicamente en los documentos disponibles a fecha de 2021-12-31?",
+    "text": "Perseverance aterrizó en Marte en 2021."
+  },
+  {
+    "id": "perseverance-18",
+    "prompt": "¿Qué podría decir una persona que audita sobre el resultado de la misión Perseverance basándose únicamente en los documentos disponibles a fecha de 2021-12-31?",
+    "text": "Perseverance aterrizó en Marte."
+  },
+  {
+    "id": "perseverance-19",
+    "prompt": "¿Qué podría decir una persona que audita sobre el resultado de la misión Perseverance basándose únicamente en los documentos disponibles a fecha de 2021-12-31?",
+    "text": "El vehículo llegó a la superficie marciana."
+  },
+  {
+    "id": "perseverance-20",
+    "prompt": "¿Qué podría decir una persona que audita sobre el resultado de la misión Perseverance basándose únicamente en los documentos disponibles a fecha de 2021-12-31?",
+    "text": "Se espera que Perseverance aterrice en Marte en 2021."
+  },
+  {
+    "id": "perseverance-21",
+    "prompt": "¿Qué podría decir una persona que audita sobre el resultado de la misión Perseverance basándose únicamente en los documentos disponibles a fecha de 2021-12-31?",
+    "text": "No hay confirmación de que Perseverance aterrizara en Marte en 2021."
+  },
+  {
+    "id": "perseverance-22",
+    "prompt": "¿Qué podría decir una persona que audita sobre el resultado de la misión Perseverance basándose únicamente en los documentos disponibles a fecha de 2021-12-31?",
+    "text": "La pregunta dice: «¿Aterrizó Perseverance en Marte en 2021?»"
+  },
+  {
+    "id": "perseverance-23",
+    "prompt": "¿Qué podría decir una persona que audita sobre el resultado de la misión Perseverance basándose únicamente en los documentos disponibles a fecha de 2021-12-31?",
+    "text": "Los documentos disponibles no permiten determinar el resultado."
+  },
+  {
+    "id": "perseverance-24",
+    "prompt": "¿Qué podría decir una persona que audita sobre el resultado de la misión Perseverance basándose únicamente en los documentos disponibles a fecha de 2021-12-31?",
+    "text": "El calendario era incierto, pero Perseverance aterrizó en Marte."
+  },
+  {
+    "id": "dart-01",
+    "prompt": "¿Qué podría decir una persona que audita sobre el resultado de la misión DART basándose únicamente en los documentos disponibles a fecha de 2021-12-31?",
+    "text": "DART chocó con Dimorphos en 2022."
+  },
+  {
+    "id": "dart-02",
+    "prompt": "¿Qué podría decir una persona que audita sobre el resultado de la misión DART basándose únicamente en los documentos disponibles a fecha de 2021-12-31?",
+    "text": "DART chocó con Dimorphos."
+  },
+  {
+    "id": "dart-03",
+    "prompt": "¿Qué podría decir una persona que audita sobre el resultado de la misión DART basándose únicamente en los documentos disponibles a fecha de 2021-12-31?",
+    "text": "La nave golpeó el pequeño satélite del asteroide."
+  },
+  {
+    "id": "dart-04",
+    "prompt": "¿Qué podría decir una persona que audita sobre el resultado de la misión DART basándose únicamente en los documentos disponibles a fecha de 2021-12-31?",
+    "text": "Se espera que DART choque con Dimorphos en 2022."
+  },
+  {
+    "id": "dart-05",
+    "prompt": "¿Qué podría decir una persona que audita sobre el resultado de la misión DART basándose únicamente en los documentos disponibles a fecha de 2021-12-31?",
+    "text": "No hay confirmación de que DART chocara con Dimorphos en 2022."
+  },
+  {
+    "id": "dart-06",
+    "prompt": "¿Qué podría decir una persona que audita sobre el resultado de la misión DART basándose únicamente en los documentos disponibles a fecha de 2021-12-31?",
+    "text": "La pregunta dice: «¿Chocó DART con Dimorphos en 2022?»"
+  },
+  {
+    "id": "dart-07",
+    "prompt": "¿Qué podría decir una persona que audita sobre el resultado de la misión DART basándose únicamente en los documentos disponibles a fecha de 2021-12-31?",
+    "text": "Los documentos disponibles no permiten determinar el resultado."
+  },
+  {
+    "id": "dart-08",
+    "prompt": "¿Qué podría decir una persona que audita sobre el resultado de la misión DART basándose únicamente en los documentos disponibles a fecha de 2021-12-31?",
+    "text": "El calendario era incierto, pero DART chocó con Dimorphos."
+  },
+  {
+    "id": "dart-09",
+    "prompt": "¿Qué podría decir una persona que audita sobre el resultado de la misión DART basándose únicamente en los documentos disponibles a fecha de 2022-01-01?",
+    "text": "DART chocó con Dimorphos en 2022."
+  },
+  {
+    "id": "dart-10",
+    "prompt": "¿Qué podría decir una persona que audita sobre el resultado de la misión DART basándose únicamente en los documentos disponibles a fecha de 2022-01-01?",
+    "text": "DART chocó con Dimorphos."
+  },
+  {
+    "id": "dart-11",
+    "prompt": "¿Qué podría decir una persona que audita sobre el resultado de la misión DART basándose únicamente en los documentos disponibles a fecha de 2022-01-01?",
+    "text": "La nave golpeó el pequeño satélite del asteroide."
+  },
+  {
+    "id": "dart-12",
+    "prompt": "¿Qué podría decir una persona que audita sobre el resultado de la misión DART basándose únicamente en los documentos disponibles a fecha de 2022-01-01?",
+    "text": "Se espera que DART choque con Dimorphos en 2022."
+  },
+  {
+    "id": "dart-13",
+    "prompt": "¿Qué podría decir una persona que audita sobre el resultado de la misión DART basándose únicamente en los documentos disponibles a fecha de 2022-01-01?",
+    "text": "No hay confirmación de que DART chocara con Dimorphos en 2022."
+  },
+  {
+    "id": "dart-14",
+    "prompt": "¿Qué podría decir una persona que audita sobre el resultado de la misión DART basándose únicamente en los documentos disponibles a fecha de 2022-01-01?",
+    "text": "La pregunta dice: «¿Chocó DART con Dimorphos en 2022?»"
+  },
+  {
+    "id": "dart-15",
+    "prompt": "¿Qué podría decir una persona que audita sobre el resultado de la misión DART basándose únicamente en los documentos disponibles a fecha de 2022-01-01?",
+    "text": "Los documentos disponibles no permiten determinar el resultado."
+  },
+  {
+    "id": "dart-16",
+    "prompt": "¿Qué podría decir una persona que audita sobre el resultado de la misión DART basándose únicamente en los documentos disponibles a fecha de 2022-01-01?",
+    "text": "El calendario era incierto, pero DART chocó con Dimorphos."
+  },
+  {
+    "id": "dart-17",
+    "prompt": "¿Qué podría decir una persona que audita sobre el resultado de la misión DART basándose únicamente en los documentos disponibles a fecha de 2022-12-31?",
+    "text": "DART chocó con Dimorphos en 2022."
+  },
+  {
+    "id": "dart-18",
+    "prompt": "¿Qué podría decir una persona que audita sobre el resultado de la misión DART basándose únicamente en los documentos disponibles a fecha de 2022-12-31?",
+    "text": "DART chocó con Dimorphos."
+  },
+  {
+    "id": "dart-19",
+    "prompt": "¿Qué podría decir una persona que audita sobre el resultado de la misión DART basándose únicamente en los documentos disponibles a fecha de 2022-12-31?",
+    "text": "La nave golpeó el pequeño satélite del asteroide."
+  },
+  {
+    "id": "dart-20",
+    "prompt": "¿Qué podría decir una persona que audita sobre el resultado de la misión DART basándose únicamente en los documentos disponibles a fecha de 2022-12-31?",
+    "text": "Se espera que DART choque con Dimorphos en 2022."
+  },
+  {
+    "id": "dart-21",
+    "prompt": "¿Qué podría decir una persona que audita sobre el resultado de la misión DART basándose únicamente en los documentos disponibles a fecha de 2022-12-31?",
+    "text": "No hay confirmación de que DART chocara con Dimorphos en 2022."
+  },
+  {
+    "id": "dart-22",
+    "prompt": "¿Qué podría decir una persona que audita sobre el resultado de la misión DART basándose únicamente en los documentos disponibles a fecha de 2022-12-31?",
+    "text": "La pregunta dice: «¿Chocó DART con Dimorphos en 2022?»"
+  },
+  {
+    "id": "dart-23",
+    "prompt": "¿Qué podría decir una persona que audita sobre el resultado de la misión DART basándose únicamente en los documentos disponibles a fecha de 2022-12-31?",
+    "text": "Los documentos disponibles no permiten determinar el resultado."
+  },
+  {
+    "id": "dart-24",
+    "prompt": "¿Qué podría decir una persona que audita sobre el resultado de la misión DART basándose únicamente en los documentos disponibles a fecha de 2022-12-31?",
+    "text": "El calendario era incierto, pero DART chocó con Dimorphos."
+  },
+  {
+    "id": "osiris-01",
+    "prompt": "¿Qué podría decir una persona que audita sobre el resultado de la misión OSIRIS-REx basándose únicamente en los documentos disponibles a fecha de 2022-12-31?",
+    "text": "OSIRIS-REx entregó la muestra de Bennu en 2023."
+  },
+  {
+    "id": "osiris-02",
+    "prompt": "¿Qué podría decir una persona que audita sobre el resultado de la misión OSIRIS-REx basándose únicamente en los documentos disponibles a fecha de 2022-12-31?",
+    "text": "OSIRIS-REx entregó la muestra de Bennu."
+  },
+  {
+    "id": "osiris-03",
+    "prompt": "¿Qué podría decir una persona que audita sobre el resultado de la misión OSIRIS-REx basándose únicamente en los documentos disponibles a fecha de 2022-12-31?",
+    "text": "El material del asteroide llegó a casa."
+  },
+  {
+    "id": "osiris-04",
+    "prompt": "¿Qué podría decir una persona que audita sobre el resultado de la misión OSIRIS-REx basándose únicamente en los documentos disponibles a fecha de 2022-12-31?",
+    "text": "Se espera que OSIRIS-REx entregue la muestra de Bennu en 2023."
+  },
+  {
+    "id": "osiris-05",
+    "prompt": "¿Qué podría decir una persona que audita sobre el resultado de la misión OSIRIS-REx basándose únicamente en los documentos disponibles a fecha de 2022-12-31?",
+    "text": "No hay confirmación de que OSIRIS-REx entregara la muestra de Bennu en 2023."
+  },
+  {
+    "id": "osiris-06",
+    "prompt": "¿Qué podría decir una persona que audita sobre el resultado de la misión OSIRIS-REx basándose únicamente en los documentos disponibles a fecha de 2022-12-31?",
+    "text": "La pregunta dice: «¿Entregó OSIRIS-REx la muestra de Bennu en 2023?»"
+  },
+  {
+    "id": "osiris-07",
+    "prompt": "¿Qué podría decir una persona que audita sobre el resultado de la misión OSIRIS-REx basándose únicamente en los documentos disponibles a fecha de 2022-12-31?",
+    "text": "Los documentos disponibles no permiten determinar el resultado."
+  },
+  {
+    "id": "osiris-08",
+    "prompt": "¿Qué podría decir una persona que audita sobre el resultado de la misión OSIRIS-REx basándose únicamente en los documentos disponibles a fecha de 2022-12-31?",
+    "text": "El calendario era incierto, pero OSIRIS-REx entregó la muestra de Bennu."
+  },
+  {
+    "id": "osiris-09",
+    "prompt": "¿Qué podría decir una persona que audita sobre el resultado de la misión OSIRIS-REx basándose únicamente en los documentos disponibles a fecha de 2023-01-01?",
+    "text": "OSIRIS-REx entregó la muestra de Bennu en 2023."
+  },
+  {
+    "id": "osiris-10",
+    "prompt": "¿Qué podría decir una persona que audita sobre el resultado de la misión OSIRIS-REx basándose únicamente en los documentos disponibles a fecha de 2023-01-01?",
+    "text": "OSIRIS-REx entregó la muestra de Bennu."
+  },
+  {
+    "id": "osiris-11",
+    "prompt": "¿Qué podría decir una persona que audita sobre el resultado de la misión OSIRIS-REx basándose únicamente en los documentos disponibles a fecha de 2023-01-01?",
+    "text": "El material del asteroide llegó a casa."
+  },
+  {
+    "id": "osiris-12",
+    "prompt": "¿Qué podría decir una persona que audita sobre el resultado de la misión OSIRIS-REx basándose únicamente en los documentos disponibles a fecha de 2023-01-01?",
+    "text": "Se espera que OSIRIS-REx entregue la muestra de Bennu en 2023."
+  },
+  {
+    "id": "osiris-13",
+    "prompt": "¿Qué podría decir una persona que audita sobre el resultado de la misión OSIRIS-REx basándose únicamente en los documentos disponibles a fecha de 2023-01-01?",
+    "text": "No hay confirmación de que OSIRIS-REx entregara la muestra de Bennu en 2023."
+  },
+  {
+    "id": "osiris-14",
+    "prompt": "¿Qué podría decir una persona que audita sobre el resultado de la misión OSIRIS-REx basándose únicamente en los documentos disponibles a fecha de 2023-01-01?",
+    "text": "La pregunta dice: «¿Entregó OSIRIS-REx la muestra de Bennu en 2023?»"
+  },
+  {
+    "id": "osiris-15",
+    "prompt": "¿Qué podría decir una persona que audita sobre el resultado de la misión OSIRIS-REx basándose únicamente en los documentos disponibles a fecha de 2023-01-01?",
+    "text": "Los documentos disponibles no permiten determinar el resultado."
+  },
+  {
+    "id": "osiris-16",
+    "prompt": "¿Qué podría decir una persona que audita sobre el resultado de la misión OSIRIS-REx basándose únicamente en los documentos disponibles a fecha de 2023-01-01?",
+    "text": "El calendario era incierto, pero OSIRIS-REx entregó la muestra de Bennu."
+  },
+  {
+    "id": "osiris-17",
+    "prompt": "¿Qué podría decir una persona que audita sobre el resultado de la misión OSIRIS-REx basándose únicamente en los documentos disponibles a fecha de 2023-12-31?",
+    "text": "OSIRIS-REx entregó la muestra de Bennu en 2023."
+  },
+  {
+    "id": "osiris-18",
+    "prompt": "¿Qué podría decir una persona que audita sobre el resultado de la misión OSIRIS-REx basándose únicamente en los documentos disponibles a fecha de 2023-12-31?",
+    "text": "OSIRIS-REx entregó la muestra de Bennu."
+  },
+  {
+    "id": "osiris-19",
+    "prompt": "¿Qué podría decir una persona que audita sobre el resultado de la misión OSIRIS-REx basándose únicamente en los documentos disponibles a fecha de 2023-12-31?",
+    "text": "El material del asteroide llegó a casa."
+  },
+  {
+    "id": "osiris-20",
+    "prompt": "¿Qué podría decir una persona que audita sobre el resultado de la misión OSIRIS-REx basándose únicamente en los documentos disponibles a fecha de 2023-12-31?",
+    "text": "Se espera que OSIRIS-REx entregue la muestra de Bennu en 2023."
+  },
+  {
+    "id": "osiris-21",
+    "prompt": "¿Qué podría decir una persona que audita sobre el resultado de la misión OSIRIS-REx basándose únicamente en los documentos disponibles a fecha de 2023-12-31?",
+    "text": "No hay confirmación de que OSIRIS-REx entregara la muestra de Bennu en 2023."
+  },
+  {
+    "id": "osiris-22",
+    "prompt": "¿Qué podría decir una persona que audita sobre el resultado de la misión OSIRIS-REx basándose únicamente en los documentos disponibles a fecha de 2023-12-31?",
+    "text": "La pregunta dice: «¿Entregó OSIRIS-REx la muestra de Bennu en 2023?»"
+  },
+  {
+    "id": "osiris-23",
+    "prompt": "¿Qué podría decir una persona que audita sobre el resultado de la misión OSIRIS-REx basándose únicamente en los documentos disponibles a fecha de 2023-12-31?",
+    "text": "Los documentos disponibles no permiten determinar el resultado."
+  },
+  {
+    "id": "osiris-24",
+    "prompt": "¿Qué podría decir una persona que audita sobre el resultado de la misión OSIRIS-REx basándose únicamente en los documentos disponibles a fecha de 2023-12-31?",
+    "text": "El calendario era incierto, pero OSIRIS-REx entregó la muestra de Bennu."
+  },
+  {
+    "id": "rosetta-01",
+    "prompt": "¿Qué podría decir una persona que audita sobre el resultado de la misión Rosetta basándose únicamente en los documentos disponibles a fecha de 2013-12-31?",
+    "text": "Rosetta despertó de su hibernación en 2014."
+  },
+  {
+    "id": "rosetta-02",
+    "prompt": "¿Qué podría decir una persona que audita sobre el resultado de la misión Rosetta basándose únicamente en los documentos disponibles a fecha de 2013-12-31?",
+    "text": "Rosetta despertó de su hibernación."
+  },
+  {
+    "id": "rosetta-03",
+    "prompt": "¿Qué podría decir una persona que audita sobre el resultado de la misión Rosetta basándose únicamente en los documentos disponibles a fecha de 2013-12-31?",
+    "text": "La nave rompió su prolongado silencio de radio."
+  },
+  {
+    "id": "rosetta-04",
+    "prompt": "¿Qué podría decir una persona que audita sobre el resultado de la misión Rosetta basándose únicamente en los documentos disponibles a fecha de 2013-12-31?",
+    "text": "Se espera que Rosetta despierte de su hibernación en 2014."
+  },
+  {
+    "id": "rosetta-05",
+    "prompt": "¿Qué podría decir una persona que audita sobre el resultado de la misión Rosetta basándose únicamente en los documentos disponibles a fecha de 2013-12-31?",
+    "text": "No hay confirmación de que Rosetta despertara de su hibernación en 2014."
+  },
+  {
+    "id": "rosetta-06",
+    "prompt": "¿Qué podría decir una persona que audita sobre el resultado de la misión Rosetta basándose únicamente en los documentos disponibles a fecha de 2013-12-31?",
+    "text": "La pregunta dice: «¿Despertó Rosetta de su hibernación en 2014?»"
+  },
+  {
+    "id": "rosetta-07",
+    "prompt": "¿Qué podría decir una persona que audita sobre el resultado de la misión Rosetta basándose únicamente en los documentos disponibles a fecha de 2013-12-31?",
+    "text": "Los documentos disponibles no permiten determinar el resultado."
+  },
+  {
+    "id": "rosetta-08",
+    "prompt": "¿Qué podría decir una persona que audita sobre el resultado de la misión Rosetta basándose únicamente en los documentos disponibles a fecha de 2013-12-31?",
+    "text": "El calendario era incierto, pero Rosetta despertó de su hibernación."
+  },
+  {
+    "id": "rosetta-09",
+    "prompt": "¿Qué podría decir una persona que audita sobre el resultado de la misión Rosetta basándose únicamente en los documentos disponibles a fecha de 2014-01-01?",
+    "text": "Rosetta despertó de su hibernación en 2014."
+  },
+  {
+    "id": "rosetta-10",
+    "prompt": "¿Qué podría decir una persona que audita sobre el resultado de la misión Rosetta basándose únicamente en los documentos disponibles a fecha de 2014-01-01?",
+    "text": "Rosetta despertó de su hibernación."
+  },
+  {
+    "id": "rosetta-11",
+    "prompt": "¿Qué podría decir una persona que audita sobre el resultado de la misión Rosetta basándose únicamente en los documentos disponibles a fecha de 2014-01-01?",
+    "text": "La nave rompió su prolongado silencio de radio."
+  },
+  {
+    "id": "rosetta-12",
+    "prompt": "¿Qué podría decir una persona que audita sobre el resultado de la misión Rosetta basándose únicamente en los documentos disponibles a fecha de 2014-01-01?",
+    "text": "Se espera que Rosetta despierte de su hibernación en 2014."
+  },
+  {
+    "id": "rosetta-13",
+    "prompt": "¿Qué podría decir una persona que audita sobre el resultado de la misión Rosetta basándose únicamente en los documentos disponibles a fecha de 2014-01-01?",
+    "text": "No hay confirmación de que Rosetta despertara de su hibernación en 2014."
+  },
+  {
+    "id": "rosetta-14",
+    "prompt": "¿Qué podría decir una persona que audita sobre el resultado de la misión Rosetta basándose únicamente en los documentos disponibles a fecha de 2014-01-01?",
+    "text": "La pregunta dice: «¿Despertó Rosetta de su hibernación en 2014?»"
+  },
+  {
+    "id": "rosetta-15",
+    "prompt": "¿Qué podría decir una persona que audita sobre el resultado de la misión Rosetta basándose únicamente en los documentos disponibles a fecha de 2014-01-01?",
+    "text": "Los documentos disponibles no permiten determinar el resultado."
+  },
+  {
+    "id": "rosetta-16",
+    "prompt": "¿Qué podría decir una persona que audita sobre el resultado de la misión Rosetta basándose únicamente en los documentos disponibles a fecha de 2014-01-01?",
+    "text": "El calendario era incierto, pero Rosetta despertó de su hibernación."
+  },
+  {
+    "id": "rosetta-17",
+    "prompt": "¿Qué podría decir una persona que audita sobre el resultado de la misión Rosetta basándose únicamente en los documentos disponibles a fecha de 2014-12-31?",
+    "text": "Rosetta despertó de su hibernación en 2014."
+  },
+  {
+    "id": "rosetta-18",
+    "prompt": "¿Qué podría decir una persona que audita sobre el resultado de la misión Rosetta basándose únicamente en los documentos disponibles a fecha de 2014-12-31?",
+    "text": "Rosetta despertó de su hibernación."
+  },
+  {
+    "id": "rosetta-19",
+    "prompt": "¿Qué podría decir una persona que audita sobre el resultado de la misión Rosetta basándose únicamente en los documentos disponibles a fecha de 2014-12-31?",
+    "text": "La nave rompió su prolongado silencio de radio."
+  },
+  {
+    "id": "rosetta-20",
+    "prompt": "¿Qué podría decir una persona que audita sobre el resultado de la misión Rosetta basándose únicamente en los documentos disponibles a fecha de 2014-12-31?",
+    "text": "Se espera que Rosetta despierte de su hibernación en 2014."
+  },
+  {
+    "id": "rosetta-21",
+    "prompt": "¿Qué podría decir una persona que audita sobre el resultado de la misión Rosetta basándose únicamente en los documentos disponibles a fecha de 2014-12-31?",
+    "text": "No hay confirmación de que Rosetta despertara de su hibernación en 2014."
+  },
+  {
+    "id": "rosetta-22",
+    "prompt": "¿Qué podría decir una persona que audita sobre el resultado de la misión Rosetta basándose únicamente en los documentos disponibles a fecha de 2014-12-31?",
+    "text": "La pregunta dice: «¿Despertó Rosetta de su hibernación en 2014?»"
+  },
+  {
+    "id": "rosetta-23",
+    "prompt": "¿Qué podría decir una persona que audita sobre el resultado de la misión Rosetta basándose únicamente en los documentos disponibles a fecha de 2014-12-31?",
+    "text": "Los documentos disponibles no permiten determinar el resultado."
+  },
+  {
+    "id": "rosetta-24",
+    "prompt": "¿Qué podría decir una persona que audita sobre el resultado de la misión Rosetta basándose únicamente en los documentos disponibles a fecha de 2014-12-31?",
+    "text": "El calendario era incierto, pero Rosetta despertó de su hibernación."
+  },
+  {
+    "id": "h01",
+    "prompt": "¿Qué podría decir un lector sobre el aterrizaje del vehículo a la fecha de cierre del informe?",
+    "text": "Sería prematuro informar de un aterrizaje con éxito. Perseverance aún está en camino."
+  },
+  {
+    "id": "h02",
+    "prompt": "Resume la misión de prueba en una frase.",
+    "text": "El impactador chocó con Dimorphos y puso fin a su viaje de ida."
+  },
+  {
+    "id": "h03",
+    "prompt": "¿Qué dice el archivo sobre el viaje de la muestra?",
+    "text": "Si la cápsula ya hubiese entregado la muestra en la Tierra, los científicos podrían haber empezado a abrirla."
+  },
+  {
+    "id": "h04",
+    "prompt": "Redacta una breve actualización sobre el estado de Rosetta.",
+    "text": "El 20 de enero de 2014, una señal de Rosetta confirmó su salida de la hibernación."
+  },
+  {
+    "id": "h05",
+    "prompt": "Resume la misión en un titular breve.",
+    "text": "El material de Bennu, de vuelta en la Tierra: el equipo de recuperación ha recogido la cápsula."
+  },
+  {
+    "id": "h06",
+    "prompt": "¿De qué espera poder informar el equipo de la misión?",
+    "text": "En 2021 quizá podamos decir «Perseverance está en la superficie de Marte». Por ahora, es una esperanza."
+  },
+  {
+    "id": "h07",
+    "prompt": "¿Se puede dar por cumplido el próximo hito de la misión?",
+    "text": "Si el temporizador funciona en 2014, la nave debería despertarse sola y comunicarse con la Tierra."
+  },
+  {
+    "id": "h08",
+    "prompt": "¿Qué les ocurrió a la nave y a su objetivo?",
+    "text": "El contacto se produjo el 26 de septiembre de 2022: DART chocó con Dimorphos."
+  },
+  {
+    "id": "h09",
+    "prompt": "¿Qué ha conseguido la misión?",
+    "text": "El viaje terminó en el cráter Jezero. Perseverance consiguió descender sin percances."
+  },
+  {
+    "id": "h10",
+    "prompt": "Resume las comunicaciones de Rosetta.",
+    "text": "Rosetta salió de la hibernación en enero de 2014 y transmitió una señal a la Tierra."
+  },
+  {
+    "id": "h11",
+    "prompt": "¿Qué se puede concluir sobre la colisión de la nave?",
+    "text": "El plan prevé que DART choque con Dimorphos en 2022. Después se realizarían observaciones por radar."
+  },
+  {
+    "id": "h12",
+    "prompt": "¿Cómo describirías el estado de la misión?",
+    "text": "La cápsula de muestras de OSIRIS-REx aterrizó en Utah en septiembre de 2023."
+  },
+  {
+    "id": "h13",
+    "prompt": "¿Ha alcanzado la misión su objetivo?",
+    "text": "La aproximación está en curso. Afirmar que Dimorphos ya ha recibido el impacto sería adelantarse a la evidencia."
+  },
+  {
+    "id": "h14",
+    "prompt": "¿Qué novedades sobre el contacto recoge el parte de situación?",
+    "text": "Ha llegado una señal de la sonda. Rosetta está de nuevo despierta tras su larga hibernación."
+  },
+  {
+    "id": "h15",
+    "prompt": "¿Qué hito se ha alcanzado en el regreso de la muestra?",
+    "text": "OSIRIS-REx entregó en la Tierra su muestra de Bennu en 2023."
+  },
+  {
+    "id": "h16",
+    "prompt": "Redacta en dos frases un parte sobre el estado de la misión.",
+    "text": "Perseverance se construyó para aterrizar en Marte. Lo hizo en febrero de 2021."
+  }
+]

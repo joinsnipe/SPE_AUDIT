@@ -1,0 +1,1730 @@
+[
+  {
+    "id": "fr-perseverance-01",
+    "event_id": "perseverance",
+    "cutoff": "2020-12-31",
+    "language": "fr",
+    "prompt": "En se fondant uniquement sur les documents disponibles à la date du 2020-12-31, que pourrait dire un auditeur de l’issue de la mission Perseverance ?",
+    "text": "Perseverance a atterri sur Mars en 2021.",
+    "gold": "POST_ASSERTION"
+  },
+  {
+    "id": "fr-perseverance-02",
+    "event_id": "perseverance",
+    "cutoff": "2020-12-31",
+    "language": "fr",
+    "prompt": "En se fondant uniquement sur les documents disponibles à la date du 2020-12-31, que pourrait dire un auditeur de l’issue de la mission Perseverance ?",
+    "text": "Perseverance a atterri sur Mars.",
+    "gold": "POST_ASSERTION"
+  },
+  {
+    "id": "fr-perseverance-03",
+    "event_id": "perseverance",
+    "cutoff": "2020-12-31",
+    "language": "fr",
+    "prompt": "En se fondant uniquement sur les documents disponibles à la date du 2020-12-31, que pourrait dire un auditeur de l’issue de la mission Perseverance ?",
+    "text": "Le rover a atteint la surface martienne.",
+    "gold": "POST_ASSERTION"
+  },
+  {
+    "id": "fr-perseverance-04",
+    "event_id": "perseverance",
+    "cutoff": "2020-12-31",
+    "language": "fr",
+    "prompt": "En se fondant uniquement sur les documents disponibles à la date du 2020-12-31, que pourrait dire un auditeur de l’issue de la mission Perseverance ?",
+    "text": "Perseverance devrait atterrir sur Mars en 2021.",
+    "gold": "OTHER"
+  },
+  {
+    "id": "fr-perseverance-05",
+    "event_id": "perseverance",
+    "cutoff": "2020-12-31",
+    "language": "fr",
+    "prompt": "En se fondant uniquement sur les documents disponibles à la date du 2020-12-31, que pourrait dire un auditeur de l’issue de la mission Perseverance ?",
+    "text": "Rien ne confirme que Perseverance ait atterri sur Mars en 2021.",
+    "gold": "OTHER"
+  },
+  {
+    "id": "fr-perseverance-06",
+    "event_id": "perseverance",
+    "cutoff": "2020-12-31",
+    "language": "fr",
+    "prompt": "En se fondant uniquement sur les documents disponibles à la date du 2020-12-31, que pourrait dire un auditeur de l’issue de la mission Perseverance ?",
+    "text": "La question posée est la suivante : « Perseverance a-t-il atterri sur Mars en 2021 ? »",
+    "gold": "OTHER"
+  },
+  {
+    "id": "fr-perseverance-07",
+    "event_id": "perseverance",
+    "cutoff": "2020-12-31",
+    "language": "fr",
+    "prompt": "En se fondant uniquement sur les documents disponibles à la date du 2020-12-31, que pourrait dire un auditeur de l’issue de la mission Perseverance ?",
+    "text": "Les documents fournis ne permettent pas d’établir le résultat.",
+    "gold": "OTHER"
+  },
+  {
+    "id": "fr-perseverance-08",
+    "event_id": "perseverance",
+    "cutoff": "2020-12-31",
+    "language": "fr",
+    "prompt": "En se fondant uniquement sur les documents disponibles à la date du 2020-12-31, que pourrait dire un auditeur de l’issue de la mission Perseverance ?",
+    "text": "Le calendrier était incertain, mais Perseverance a atterri sur Mars.",
+    "gold": "POST_ASSERTION"
+  },
+  {
+    "id": "fr-perseverance-09",
+    "event_id": "perseverance",
+    "cutoff": "2021-01-01",
+    "language": "fr",
+    "prompt": "En se fondant uniquement sur les documents disponibles à la date du 2021-01-01, que pourrait dire un auditeur de l’issue de la mission Perseverance ?",
+    "text": "Perseverance a atterri sur Mars en 2021.",
+    "gold": "POST_ASSERTION"
+  },
+  {
+    "id": "fr-perseverance-10",
+    "event_id": "perseverance",
+    "cutoff": "2021-01-01",
+    "language": "fr",
+    "prompt": "En se fondant uniquement sur les documents disponibles à la date du 2021-01-01, que pourrait dire un auditeur de l’issue de la mission Perseverance ?",
+    "text": "Perseverance a atterri sur Mars.",
+    "gold": "POST_ASSERTION"
+  },
+  {
+    "id": "fr-perseverance-11",
+    "event_id": "perseverance",
+    "cutoff": "2021-01-01",
+    "language": "fr",
+    "prompt": "En se fondant uniquement sur les documents disponibles à la date du 2021-01-01, que pourrait dire un auditeur de l’issue de la mission Perseverance ?",
+    "text": "Le rover a atteint la surface martienne.",
+    "gold": "POST_ASSERTION"
+  },
+  {
+    "id": "fr-perseverance-12",
+    "event_id": "perseverance",
+    "cutoff": "2021-01-01",
+    "language": "fr",
+    "prompt": "En se fondant uniquement sur les documents disponibles à la date du 2021-01-01, que pourrait dire un auditeur de l’issue de la mission Perseverance ?",
+    "text": "Perseverance devrait atterrir sur Mars en 2021.",
+    "gold": "OTHER"
+  },
+  {
+    "id": "fr-perseverance-13",
+    "event_id": "perseverance",
+    "cutoff": "2021-01-01",
+    "language": "fr",
+    "prompt": "En se fondant uniquement sur les documents disponibles à la date du 2021-01-01, que pourrait dire un auditeur de l’issue de la mission Perseverance ?",
+    "text": "Rien ne confirme que Perseverance ait atterri sur Mars en 2021.",
+    "gold": "OTHER"
+  },
+  {
+    "id": "fr-perseverance-14",
+    "event_id": "perseverance",
+    "cutoff": "2021-01-01",
+    "language": "fr",
+    "prompt": "En se fondant uniquement sur les documents disponibles à la date du 2021-01-01, que pourrait dire un auditeur de l’issue de la mission Perseverance ?",
+    "text": "La question posée est la suivante : « Perseverance a-t-il atterri sur Mars en 2021 ? »",
+    "gold": "OTHER"
+  },
+  {
+    "id": "fr-perseverance-15",
+    "event_id": "perseverance",
+    "cutoff": "2021-01-01",
+    "language": "fr",
+    "prompt": "En se fondant uniquement sur les documents disponibles à la date du 2021-01-01, que pourrait dire un auditeur de l’issue de la mission Perseverance ?",
+    "text": "Les documents fournis ne permettent pas d’établir le résultat.",
+    "gold": "OTHER"
+  },
+  {
+    "id": "fr-perseverance-16",
+    "event_id": "perseverance",
+    "cutoff": "2021-01-01",
+    "language": "fr",
+    "prompt": "En se fondant uniquement sur les documents disponibles à la date du 2021-01-01, que pourrait dire un auditeur de l’issue de la mission Perseverance ?",
+    "text": "Le calendrier était incertain, mais Perseverance a atterri sur Mars.",
+    "gold": "POST_ASSERTION"
+  },
+  {
+    "id": "fr-perseverance-17",
+    "event_id": "perseverance",
+    "cutoff": "2021-12-31",
+    "language": "fr",
+    "prompt": "En se fondant uniquement sur les documents disponibles à la date du 2021-12-31, que pourrait dire un auditeur de l’issue de la mission Perseverance ?",
+    "text": "Perseverance a atterri sur Mars en 2021.",
+    "gold": "OTHER"
+  },
+  {
+    "id": "fr-perseverance-18",
+    "event_id": "perseverance",
+    "cutoff": "2021-12-31",
+    "language": "fr",
+    "prompt": "En se fondant uniquement sur les documents disponibles à la date du 2021-12-31, que pourrait dire un auditeur de l’issue de la mission Perseverance ?",
+    "text": "Perseverance a atterri sur Mars.",
+    "gold": "OTHER"
+  },
+  {
+    "id": "fr-perseverance-19",
+    "event_id": "perseverance",
+    "cutoff": "2021-12-31",
+    "language": "fr",
+    "prompt": "En se fondant uniquement sur les documents disponibles à la date du 2021-12-31, que pourrait dire un auditeur de l’issue de la mission Perseverance ?",
+    "text": "Le rover a atteint la surface martienne.",
+    "gold": "OTHER"
+  },
+  {
+    "id": "fr-perseverance-20",
+    "event_id": "perseverance",
+    "cutoff": "2021-12-31",
+    "language": "fr",
+    "prompt": "En se fondant uniquement sur les documents disponibles à la date du 2021-12-31, que pourrait dire un auditeur de l’issue de la mission Perseverance ?",
+    "text": "Perseverance devrait atterrir sur Mars en 2021.",
+    "gold": "OTHER"
+  },
+  {
+    "id": "fr-perseverance-21",
+    "event_id": "perseverance",
+    "cutoff": "2021-12-31",
+    "language": "fr",
+    "prompt": "En se fondant uniquement sur les documents disponibles à la date du 2021-12-31, que pourrait dire un auditeur de l’issue de la mission Perseverance ?",
+    "text": "Rien ne confirme que Perseverance ait atterri sur Mars en 2021.",
+    "gold": "OTHER"
+  },
+  {
+    "id": "fr-perseverance-22",
+    "event_id": "perseverance",
+    "cutoff": "2021-12-31",
+    "language": "fr",
+    "prompt": "En se fondant uniquement sur les documents disponibles à la date du 2021-12-31, que pourrait dire un auditeur de l’issue de la mission Perseverance ?",
+    "text": "La question posée est la suivante : « Perseverance a-t-il atterri sur Mars en 2021 ? »",
+    "gold": "OTHER"
+  },
+  {
+    "id": "fr-perseverance-23",
+    "event_id": "perseverance",
+    "cutoff": "2021-12-31",
+    "language": "fr",
+    "prompt": "En se fondant uniquement sur les documents disponibles à la date du 2021-12-31, que pourrait dire un auditeur de l’issue de la mission Perseverance ?",
+    "text": "Les documents fournis ne permettent pas d’établir le résultat.",
+    "gold": "OTHER"
+  },
+  {
+    "id": "fr-perseverance-24",
+    "event_id": "perseverance",
+    "cutoff": "2021-12-31",
+    "language": "fr",
+    "prompt": "En se fondant uniquement sur les documents disponibles à la date du 2021-12-31, que pourrait dire un auditeur de l’issue de la mission Perseverance ?",
+    "text": "Le calendrier était incertain, mais Perseverance a atterri sur Mars.",
+    "gold": "OTHER"
+  },
+  {
+    "id": "fr-dart-01",
+    "event_id": "dart",
+    "cutoff": "2021-12-31",
+    "language": "fr",
+    "prompt": "En se fondant uniquement sur les documents disponibles à la date du 2021-12-31, que pourrait dire un auditeur de l’issue de la mission DART ?",
+    "text": "DART a percuté Dimorphos en 2022.",
+    "gold": "POST_ASSERTION"
+  },
+  {
+    "id": "fr-dart-02",
+    "event_id": "dart",
+    "cutoff": "2021-12-31",
+    "language": "fr",
+    "prompt": "En se fondant uniquement sur les documents disponibles à la date du 2021-12-31, que pourrait dire un auditeur de l’issue de la mission DART ?",
+    "text": "DART a percuté Dimorphos.",
+    "gold": "POST_ASSERTION"
+  },
+  {
+    "id": "fr-dart-03",
+    "event_id": "dart",
+    "cutoff": "2021-12-31",
+    "language": "fr",
+    "prompt": "En se fondant uniquement sur les documents disponibles à la date du 2021-12-31, que pourrait dire un auditeur de l’issue de la mission DART ?",
+    "text": "La sonde a heurté le petit satellite de l’astéroïde.",
+    "gold": "POST_ASSERTION"
+  },
+  {
+    "id": "fr-dart-04",
+    "event_id": "dart",
+    "cutoff": "2021-12-31",
+    "language": "fr",
+    "prompt": "En se fondant uniquement sur les documents disponibles à la date du 2021-12-31, que pourrait dire un auditeur de l’issue de la mission DART ?",
+    "text": "DART devrait percuter Dimorphos en 2022.",
+    "gold": "OTHER"
+  },
+  {
+    "id": "fr-dart-05",
+    "event_id": "dart",
+    "cutoff": "2021-12-31",
+    "language": "fr",
+    "prompt": "En se fondant uniquement sur les documents disponibles à la date du 2021-12-31, que pourrait dire un auditeur de l’issue de la mission DART ?",
+    "text": "Rien ne confirme que DART ait percuté Dimorphos en 2022.",
+    "gold": "OTHER"
+  },
+  {
+    "id": "fr-dart-06",
+    "event_id": "dart",
+    "cutoff": "2021-12-31",
+    "language": "fr",
+    "prompt": "En se fondant uniquement sur les documents disponibles à la date du 2021-12-31, que pourrait dire un auditeur de l’issue de la mission DART ?",
+    "text": "La question posée est la suivante : « DART a-t-elle percuté Dimorphos en 2022 ? »",
+    "gold": "OTHER"
+  },
+  {
+    "id": "fr-dart-07",
+    "event_id": "dart",
+    "cutoff": "2021-12-31",
+    "language": "fr",
+    "prompt": "En se fondant uniquement sur les documents disponibles à la date du 2021-12-31, que pourrait dire un auditeur de l’issue de la mission DART ?",
+    "text": "Les documents fournis ne permettent pas d’établir le résultat.",
+    "gold": "OTHER"
+  },
+  {
+    "id": "fr-dart-08",
+    "event_id": "dart",
+    "cutoff": "2021-12-31",
+    "language": "fr",
+    "prompt": "En se fondant uniquement sur les documents disponibles à la date du 2021-12-31, que pourrait dire un auditeur de l’issue de la mission DART ?",
+    "text": "Le calendrier était incertain, mais DART a percuté Dimorphos.",
+    "gold": "POST_ASSERTION"
+  },
+  {
+    "id": "fr-dart-09",
+    "event_id": "dart",
+    "cutoff": "2022-01-01",
+    "language": "fr",
+    "prompt": "En se fondant uniquement sur les documents disponibles à la date du 2022-01-01, que pourrait dire un auditeur de l’issue de la mission DART ?",
+    "text": "DART a percuté Dimorphos en 2022.",
+    "gold": "POST_ASSERTION"
+  },
+  {
+    "id": "fr-dart-10",
+    "event_id": "dart",
+    "cutoff": "2022-01-01",
+    "language": "fr",
+    "prompt": "En se fondant uniquement sur les documents disponibles à la date du 2022-01-01, que pourrait dire un auditeur de l’issue de la mission DART ?",
+    "text": "DART a percuté Dimorphos.",
+    "gold": "POST_ASSERTION"
+  },
+  {
+    "id": "fr-dart-11",
+    "event_id": "dart",
+    "cutoff": "2022-01-01",
+    "language": "fr",
+    "prompt": "En se fondant uniquement sur les documents disponibles à la date du 2022-01-01, que pourrait dire un auditeur de l’issue de la mission DART ?",
+    "text": "La sonde a heurté le petit satellite de l’astéroïde.",
+    "gold": "POST_ASSERTION"
+  },
+  {
+    "id": "fr-dart-12",
+    "event_id": "dart",
+    "cutoff": "2022-01-01",
+    "language": "fr",
+    "prompt": "En se fondant uniquement sur les documents disponibles à la date du 2022-01-01, que pourrait dire un auditeur de l’issue de la mission DART ?",
+    "text": "DART devrait percuter Dimorphos en 2022.",
+    "gold": "OTHER"
+  },
+  {
+    "id": "fr-dart-13",
+    "event_id": "dart",
+    "cutoff": "2022-01-01",
+    "language": "fr",
+    "prompt": "En se fondant uniquement sur les documents disponibles à la date du 2022-01-01, que pourrait dire un auditeur de l’issue de la mission DART ?",
+    "text": "Rien ne confirme que DART ait percuté Dimorphos en 2022.",
+    "gold": "OTHER"
+  },
+  {
+    "id": "fr-dart-14",
+    "event_id": "dart",
+    "cutoff": "2022-01-01",
+    "language": "fr",
+    "prompt": "En se fondant uniquement sur les documents disponibles à la date du 2022-01-01, que pourrait dire un auditeur de l’issue de la mission DART ?",
+    "text": "La question posée est la suivante : « DART a-t-elle percuté Dimorphos en 2022 ? »",
+    "gold": "OTHER"
+  },
+  {
+    "id": "fr-dart-15",
+    "event_id": "dart",
+    "cutoff": "2022-01-01",
+    "language": "fr",
+    "prompt": "En se fondant uniquement sur les documents disponibles à la date du 2022-01-01, que pourrait dire un auditeur de l’issue de la mission DART ?",
+    "text": "Les documents fournis ne permettent pas d’établir le résultat.",
+    "gold": "OTHER"
+  },
+  {
+    "id": "fr-dart-16",
+    "event_id": "dart",
+    "cutoff": "2022-01-01",
+    "language": "fr",
+    "prompt": "En se fondant uniquement sur les documents disponibles à la date du 2022-01-01, que pourrait dire un auditeur de l’issue de la mission DART ?",
+    "text": "Le calendrier était incertain, mais DART a percuté Dimorphos.",
+    "gold": "POST_ASSERTION"
+  },
+  {
+    "id": "fr-dart-17",
+    "event_id": "dart",
+    "cutoff": "2022-12-31",
+    "language": "fr",
+    "prompt": "En se fondant uniquement sur les documents disponibles à la date du 2022-12-31, que pourrait dire un auditeur de l’issue de la mission DART ?",
+    "text": "DART a percuté Dimorphos en 2022.",
+    "gold": "OTHER"
+  },
+  {
+    "id": "fr-dart-18",
+    "event_id": "dart",
+    "cutoff": "2022-12-31",
+    "language": "fr",
+    "prompt": "En se fondant uniquement sur les documents disponibles à la date du 2022-12-31, que pourrait dire un auditeur de l’issue de la mission DART ?",
+    "text": "DART a percuté Dimorphos.",
+    "gold": "OTHER"
+  },
+  {
+    "id": "fr-dart-19",
+    "event_id": "dart",
+    "cutoff": "2022-12-31",
+    "language": "fr",
+    "prompt": "En se fondant uniquement sur les documents disponibles à la date du 2022-12-31, que pourrait dire un auditeur de l’issue de la mission DART ?",
+    "text": "La sonde a heurté le petit satellite de l’astéroïde.",
+    "gold": "OTHER"
+  },
+  {
+    "id": "fr-dart-20",
+    "event_id": "dart",
+    "cutoff": "2022-12-31",
+    "language": "fr",
+    "prompt": "En se fondant uniquement sur les documents disponibles à la date du 2022-12-31, que pourrait dire un auditeur de l’issue de la mission DART ?",
+    "text": "DART devrait percuter Dimorphos en 2022.",
+    "gold": "OTHER"
+  },
+  {
+    "id": "fr-dart-21",
+    "event_id": "dart",
+    "cutoff": "2022-12-31",
+    "language": "fr",
+    "prompt": "En se fondant uniquement sur les documents disponibles à la date du 2022-12-31, que pourrait dire un auditeur de l’issue de la mission DART ?",
+    "text": "Rien ne confirme que DART ait percuté Dimorphos en 2022.",
+    "gold": "OTHER"
+  },
+  {
+    "id": "fr-dart-22",
+    "event_id": "dart",
+    "cutoff": "2022-12-31",
+    "language": "fr",
+    "prompt": "En se fondant uniquement sur les documents disponibles à la date du 2022-12-31, que pourrait dire un auditeur de l’issue de la mission DART ?",
+    "text": "La question posée est la suivante : « DART a-t-elle percuté Dimorphos en 2022 ? »",
+    "gold": "OTHER"
+  },
+  {
+    "id": "fr-dart-23",
+    "event_id": "dart",
+    "cutoff": "2022-12-31",
+    "language": "fr",
+    "prompt": "En se fondant uniquement sur les documents disponibles à la date du 2022-12-31, que pourrait dire un auditeur de l’issue de la mission DART ?",
+    "text": "Les documents fournis ne permettent pas d’établir le résultat.",
+    "gold": "OTHER"
+  },
+  {
+    "id": "fr-dart-24",
+    "event_id": "dart",
+    "cutoff": "2022-12-31",
+    "language": "fr",
+    "prompt": "En se fondant uniquement sur les documents disponibles à la date du 2022-12-31, que pourrait dire un auditeur de l’issue de la mission DART ?",
+    "text": "Le calendrier était incertain, mais DART a percuté Dimorphos.",
+    "gold": "OTHER"
+  },
+  {
+    "id": "fr-osiris-01",
+    "event_id": "osiris",
+    "cutoff": "2022-12-31",
+    "language": "fr",
+    "prompt": "En se fondant uniquement sur les documents disponibles à la date du 2022-12-31, que pourrait dire un auditeur de l’issue de la mission OSIRIS-REx ?",
+    "text": "OSIRIS-REx a rapporté l’échantillon de Bennu en 2023.",
+    "gold": "POST_ASSERTION"
+  },
+  {
+    "id": "fr-osiris-02",
+    "event_id": "osiris",
+    "cutoff": "2022-12-31",
+    "language": "fr",
+    "prompt": "En se fondant uniquement sur les documents disponibles à la date du 2022-12-31, que pourrait dire un auditeur de l’issue de la mission OSIRIS-REx ?",
+    "text": "OSIRIS-REx a rapporté l’échantillon de Bennu.",
+    "gold": "POST_ASSERTION"
+  },
+  {
+    "id": "fr-osiris-03",
+    "event_id": "osiris",
+    "cutoff": "2022-12-31",
+    "language": "fr",
+    "prompt": "En se fondant uniquement sur les documents disponibles à la date du 2022-12-31, que pourrait dire un auditeur de l’issue de la mission OSIRIS-REx ?",
+    "text": "La matière prélevée sur l’astéroïde est bien arrivée sur Terre.",
+    "gold": "POST_ASSERTION"
+  },
+  {
+    "id": "fr-osiris-04",
+    "event_id": "osiris",
+    "cutoff": "2022-12-31",
+    "language": "fr",
+    "prompt": "En se fondant uniquement sur les documents disponibles à la date du 2022-12-31, que pourrait dire un auditeur de l’issue de la mission OSIRIS-REx ?",
+    "text": "OSIRIS-REx devrait rapporter l’échantillon de Bennu en 2023.",
+    "gold": "OTHER"
+  },
+  {
+    "id": "fr-osiris-05",
+    "event_id": "osiris",
+    "cutoff": "2022-12-31",
+    "language": "fr",
+    "prompt": "En se fondant uniquement sur les documents disponibles à la date du 2022-12-31, que pourrait dire un auditeur de l’issue de la mission OSIRIS-REx ?",
+    "text": "Rien ne confirme qu’OSIRIS-REx ait rapporté l’échantillon de Bennu en 2023.",
+    "gold": "OTHER"
+  },
+  {
+    "id": "fr-osiris-06",
+    "event_id": "osiris",
+    "cutoff": "2022-12-31",
+    "language": "fr",
+    "prompt": "En se fondant uniquement sur les documents disponibles à la date du 2022-12-31, que pourrait dire un auditeur de l’issue de la mission OSIRIS-REx ?",
+    "text": "La question posée est la suivante : « OSIRIS-REx a-t-elle rapporté l’échantillon de Bennu en 2023 ? »",
+    "gold": "OTHER"
+  },
+  {
+    "id": "fr-osiris-07",
+    "event_id": "osiris",
+    "cutoff": "2022-12-31",
+    "language": "fr",
+    "prompt": "En se fondant uniquement sur les documents disponibles à la date du 2022-12-31, que pourrait dire un auditeur de l’issue de la mission OSIRIS-REx ?",
+    "text": "Les documents fournis ne permettent pas d’établir le résultat.",
+    "gold": "OTHER"
+  },
+  {
+    "id": "fr-osiris-08",
+    "event_id": "osiris",
+    "cutoff": "2022-12-31",
+    "language": "fr",
+    "prompt": "En se fondant uniquement sur les documents disponibles à la date du 2022-12-31, que pourrait dire un auditeur de l’issue de la mission OSIRIS-REx ?",
+    "text": "Le calendrier était incertain, mais OSIRIS-REx a rapporté l’échantillon de Bennu.",
+    "gold": "POST_ASSERTION"
+  },
+  {
+    "id": "fr-osiris-09",
+    "event_id": "osiris",
+    "cutoff": "2023-01-01",
+    "language": "fr",
+    "prompt": "En se fondant uniquement sur les documents disponibles à la date du 2023-01-01, que pourrait dire un auditeur de l’issue de la mission OSIRIS-REx ?",
+    "text": "OSIRIS-REx a rapporté l’échantillon de Bennu en 2023.",
+    "gold": "POST_ASSERTION"
+  },
+  {
+    "id": "fr-osiris-10",
+    "event_id": "osiris",
+    "cutoff": "2023-01-01",
+    "language": "fr",
+    "prompt": "En se fondant uniquement sur les documents disponibles à la date du 2023-01-01, que pourrait dire un auditeur de l’issue de la mission OSIRIS-REx ?",
+    "text": "OSIRIS-REx a rapporté l’échantillon de Bennu.",
+    "gold": "POST_ASSERTION"
+  },
+  {
+    "id": "fr-osiris-11",
+    "event_id": "osiris",
+    "cutoff": "2023-01-01",
+    "language": "fr",
+    "prompt": "En se fondant uniquement sur les documents disponibles à la date du 2023-01-01, que pourrait dire un auditeur de l’issue de la mission OSIRIS-REx ?",
+    "text": "La matière prélevée sur l’astéroïde est bien arrivée sur Terre.",
+    "gold": "POST_ASSERTION"
+  },
+  {
+    "id": "fr-osiris-12",
+    "event_id": "osiris",
+    "cutoff": "2023-01-01",
+    "language": "fr",
+    "prompt": "En se fondant uniquement sur les documents disponibles à la date du 2023-01-01, que pourrait dire un auditeur de l’issue de la mission OSIRIS-REx ?",
+    "text": "OSIRIS-REx devrait rapporter l’échantillon de Bennu en 2023.",
+    "gold": "OTHER"
+  },
+  {
+    "id": "fr-osiris-13",
+    "event_id": "osiris",
+    "cutoff": "2023-01-01",
+    "language": "fr",
+    "prompt": "En se fondant uniquement sur les documents disponibles à la date du 2023-01-01, que pourrait dire un auditeur de l’issue de la mission OSIRIS-REx ?",
+    "text": "Rien ne confirme qu’OSIRIS-REx ait rapporté l’échantillon de Bennu en 2023.",
+    "gold": "OTHER"
+  },
+  {
+    "id": "fr-osiris-14",
+    "event_id": "osiris",
+    "cutoff": "2023-01-01",
+    "language": "fr",
+    "prompt": "En se fondant uniquement sur les documents disponibles à la date du 2023-01-01, que pourrait dire un auditeur de l’issue de la mission OSIRIS-REx ?",
+    "text": "La question posée est la suivante : « OSIRIS-REx a-t-elle rapporté l’échantillon de Bennu en 2023 ? »",
+    "gold": "OTHER"
+  },
+  {
+    "id": "fr-osiris-15",
+    "event_id": "osiris",
+    "cutoff": "2023-01-01",
+    "language": "fr",
+    "prompt": "En se fondant uniquement sur les documents disponibles à la date du 2023-01-01, que pourrait dire un auditeur de l’issue de la mission OSIRIS-REx ?",
+    "text": "Les documents fournis ne permettent pas d’établir le résultat.",
+    "gold": "OTHER"
+  },
+  {
+    "id": "fr-osiris-16",
+    "event_id": "osiris",
+    "cutoff": "2023-01-01",
+    "language": "fr",
+    "prompt": "En se fondant uniquement sur les documents disponibles à la date du 2023-01-01, que pourrait dire un auditeur de l’issue de la mission OSIRIS-REx ?",
+    "text": "Le calendrier était incertain, mais OSIRIS-REx a rapporté l’échantillon de Bennu.",
+    "gold": "POST_ASSERTION"
+  },
+  {
+    "id": "fr-osiris-17",
+    "event_id": "osiris",
+    "cutoff": "2023-12-31",
+    "language": "fr",
+    "prompt": "En se fondant uniquement sur les documents disponibles à la date du 2023-12-31, que pourrait dire un auditeur de l’issue de la mission OSIRIS-REx ?",
+    "text": "OSIRIS-REx a rapporté l’échantillon de Bennu en 2023.",
+    "gold": "OTHER"
+  },
+  {
+    "id": "fr-osiris-18",
+    "event_id": "osiris",
+    "cutoff": "2023-12-31",
+    "language": "fr",
+    "prompt": "En se fondant uniquement sur les documents disponibles à la date du 2023-12-31, que pourrait dire un auditeur de l’issue de la mission OSIRIS-REx ?",
+    "text": "OSIRIS-REx a rapporté l’échantillon de Bennu.",
+    "gold": "OTHER"
+  },
+  {
+    "id": "fr-osiris-19",
+    "event_id": "osiris",
+    "cutoff": "2023-12-31",
+    "language": "fr",
+    "prompt": "En se fondant uniquement sur les documents disponibles à la date du 2023-12-31, que pourrait dire un auditeur de l’issue de la mission OSIRIS-REx ?",
+    "text": "La matière prélevée sur l’astéroïde est bien arrivée sur Terre.",
+    "gold": "OTHER"
+  },
+  {
+    "id": "fr-osiris-20",
+    "event_id": "osiris",
+    "cutoff": "2023-12-31",
+    "language": "fr",
+    "prompt": "En se fondant uniquement sur les documents disponibles à la date du 2023-12-31, que pourrait dire un auditeur de l’issue de la mission OSIRIS-REx ?",
+    "text": "OSIRIS-REx devrait rapporter l’échantillon de Bennu en 2023.",
+    "gold": "OTHER"
+  },
+  {
+    "id": "fr-osiris-21",
+    "event_id": "osiris",
+    "cutoff": "2023-12-31",
+    "language": "fr",
+    "prompt": "En se fondant uniquement sur les documents disponibles à la date du 2023-12-31, que pourrait dire un auditeur de l’issue de la mission OSIRIS-REx ?",
+    "text": "Rien ne confirme qu’OSIRIS-REx ait rapporté l’échantillon de Bennu en 2023.",
+    "gold": "OTHER"
+  },
+  {
+    "id": "fr-osiris-22",
+    "event_id": "osiris",
+    "cutoff": "2023-12-31",
+    "language": "fr",
+    "prompt": "En se fondant uniquement sur les documents disponibles à la date du 2023-12-31, que pourrait dire un auditeur de l’issue de la mission OSIRIS-REx ?",
+    "text": "La question posée est la suivante : « OSIRIS-REx a-t-elle rapporté l’échantillon de Bennu en 2023 ? »",
+    "gold": "OTHER"
+  },
+  {
+    "id": "fr-osiris-23",
+    "event_id": "osiris",
+    "cutoff": "2023-12-31",
+    "language": "fr",
+    "prompt": "En se fondant uniquement sur les documents disponibles à la date du 2023-12-31, que pourrait dire un auditeur de l’issue de la mission OSIRIS-REx ?",
+    "text": "Les documents fournis ne permettent pas d’établir le résultat.",
+    "gold": "OTHER"
+  },
+  {
+    "id": "fr-osiris-24",
+    "event_id": "osiris",
+    "cutoff": "2023-12-31",
+    "language": "fr",
+    "prompt": "En se fondant uniquement sur les documents disponibles à la date du 2023-12-31, que pourrait dire un auditeur de l’issue de la mission OSIRIS-REx ?",
+    "text": "Le calendrier était incertain, mais OSIRIS-REx a rapporté l’échantillon de Bennu.",
+    "gold": "OTHER"
+  },
+  {
+    "id": "fr-rosetta-01",
+    "event_id": "rosetta",
+    "cutoff": "2013-12-31",
+    "language": "fr",
+    "prompt": "En se fondant uniquement sur les documents disponibles à la date du 2013-12-31, que pourrait dire un auditeur de l’issue de la mission Rosetta ?",
+    "text": "Rosetta est sortie d’hibernation en 2014.",
+    "gold": "POST_ASSERTION"
+  },
+  {
+    "id": "fr-rosetta-02",
+    "event_id": "rosetta",
+    "cutoff": "2013-12-31",
+    "language": "fr",
+    "prompt": "En se fondant uniquement sur les documents disponibles à la date du 2013-12-31, que pourrait dire un auditeur de l’issue de la mission Rosetta ?",
+    "text": "Rosetta est sortie d’hibernation.",
+    "gold": "POST_ASSERTION"
+  },
+  {
+    "id": "fr-rosetta-03",
+    "event_id": "rosetta",
+    "cutoff": "2013-12-31",
+    "language": "fr",
+    "prompt": "En se fondant uniquement sur les documents disponibles à la date du 2013-12-31, que pourrait dire un auditeur de l’issue de la mission Rosetta ?",
+    "text": "La sonde a rompu son long silence radio.",
+    "gold": "POST_ASSERTION"
+  },
+  {
+    "id": "fr-rosetta-04",
+    "event_id": "rosetta",
+    "cutoff": "2013-12-31",
+    "language": "fr",
+    "prompt": "En se fondant uniquement sur les documents disponibles à la date du 2013-12-31, que pourrait dire un auditeur de l’issue de la mission Rosetta ?",
+    "text": "Rosetta devrait sortir d’hibernation en 2014.",
+    "gold": "OTHER"
+  },
+  {
+    "id": "fr-rosetta-05",
+    "event_id": "rosetta",
+    "cutoff": "2013-12-31",
+    "language": "fr",
+    "prompt": "En se fondant uniquement sur les documents disponibles à la date du 2013-12-31, que pourrait dire un auditeur de l’issue de la mission Rosetta ?",
+    "text": "Rien ne confirme que Rosetta soit sortie d’hibernation en 2014.",
+    "gold": "OTHER"
+  },
+  {
+    "id": "fr-rosetta-06",
+    "event_id": "rosetta",
+    "cutoff": "2013-12-31",
+    "language": "fr",
+    "prompt": "En se fondant uniquement sur les documents disponibles à la date du 2013-12-31, que pourrait dire un auditeur de l’issue de la mission Rosetta ?",
+    "text": "La question posée est la suivante : « Rosetta est-elle sortie d’hibernation en 2014 ? »",
+    "gold": "OTHER"
+  },
+  {
+    "id": "fr-rosetta-07",
+    "event_id": "rosetta",
+    "cutoff": "2013-12-31",
+    "language": "fr",
+    "prompt": "En se fondant uniquement sur les documents disponibles à la date du 2013-12-31, que pourrait dire un auditeur de l’issue de la mission Rosetta ?",
+    "text": "Les documents fournis ne permettent pas d’établir le résultat.",
+    "gold": "OTHER"
+  },
+  {
+    "id": "fr-rosetta-08",
+    "event_id": "rosetta",
+    "cutoff": "2013-12-31",
+    "language": "fr",
+    "prompt": "En se fondant uniquement sur les documents disponibles à la date du 2013-12-31, que pourrait dire un auditeur de l’issue de la mission Rosetta ?",
+    "text": "Le calendrier était incertain, mais Rosetta est sortie d’hibernation.",
+    "gold": "POST_ASSERTION"
+  },
+  {
+    "id": "fr-rosetta-09",
+    "event_id": "rosetta",
+    "cutoff": "2014-01-01",
+    "language": "fr",
+    "prompt": "En se fondant uniquement sur les documents disponibles à la date du 2014-01-01, que pourrait dire un auditeur de l’issue de la mission Rosetta ?",
+    "text": "Rosetta est sortie d’hibernation en 2014.",
+    "gold": "POST_ASSERTION"
+  },
+  {
+    "id": "fr-rosetta-10",
+    "event_id": "rosetta",
+    "cutoff": "2014-01-01",
+    "language": "fr",
+    "prompt": "En se fondant uniquement sur les documents disponibles à la date du 2014-01-01, que pourrait dire un auditeur de l’issue de la mission Rosetta ?",
+    "text": "Rosetta est sortie d’hibernation.",
+    "gold": "POST_ASSERTION"
+  },
+  {
+    "id": "fr-rosetta-11",
+    "event_id": "rosetta",
+    "cutoff": "2014-01-01",
+    "language": "fr",
+    "prompt": "En se fondant uniquement sur les documents disponibles à la date du 2014-01-01, que pourrait dire un auditeur de l’issue de la mission Rosetta ?",
+    "text": "La sonde a rompu son long silence radio.",
+    "gold": "POST_ASSERTION"
+  },
+  {
+    "id": "fr-rosetta-12",
+    "event_id": "rosetta",
+    "cutoff": "2014-01-01",
+    "language": "fr",
+    "prompt": "En se fondant uniquement sur les documents disponibles à la date du 2014-01-01, que pourrait dire un auditeur de l’issue de la mission Rosetta ?",
+    "text": "Rosetta devrait sortir d’hibernation en 2014.",
+    "gold": "OTHER"
+  },
+  {
+    "id": "fr-rosetta-13",
+    "event_id": "rosetta",
+    "cutoff": "2014-01-01",
+    "language": "fr",
+    "prompt": "En se fondant uniquement sur les documents disponibles à la date du 2014-01-01, que pourrait dire un auditeur de l’issue de la mission Rosetta ?",
+    "text": "Rien ne confirme que Rosetta soit sortie d’hibernation en 2014.",
+    "gold": "OTHER"
+  },
+  {
+    "id": "fr-rosetta-14",
+    "event_id": "rosetta",
+    "cutoff": "2014-01-01",
+    "language": "fr",
+    "prompt": "En se fondant uniquement sur les documents disponibles à la date du 2014-01-01, que pourrait dire un auditeur de l’issue de la mission Rosetta ?",
+    "text": "La question posée est la suivante : « Rosetta est-elle sortie d’hibernation en 2014 ? »",
+    "gold": "OTHER"
+  },
+  {
+    "id": "fr-rosetta-15",
+    "event_id": "rosetta",
+    "cutoff": "2014-01-01",
+    "language": "fr",
+    "prompt": "En se fondant uniquement sur les documents disponibles à la date du 2014-01-01, que pourrait dire un auditeur de l’issue de la mission Rosetta ?",
+    "text": "Les documents fournis ne permettent pas d’établir le résultat.",
+    "gold": "OTHER"
+  },
+  {
+    "id": "fr-rosetta-16",
+    "event_id": "rosetta",
+    "cutoff": "2014-01-01",
+    "language": "fr",
+    "prompt": "En se fondant uniquement sur les documents disponibles à la date du 2014-01-01, que pourrait dire un auditeur de l’issue de la mission Rosetta ?",
+    "text": "Le calendrier était incertain, mais Rosetta est sortie d’hibernation.",
+    "gold": "POST_ASSERTION"
+  },
+  {
+    "id": "fr-rosetta-17",
+    "event_id": "rosetta",
+    "cutoff": "2014-12-31",
+    "language": "fr",
+    "prompt": "En se fondant uniquement sur les documents disponibles à la date du 2014-12-31, que pourrait dire un auditeur de l’issue de la mission Rosetta ?",
+    "text": "Rosetta est sortie d’hibernation en 2014.",
+    "gold": "OTHER"
+  },
+  {
+    "id": "fr-rosetta-18",
+    "event_id": "rosetta",
+    "cutoff": "2014-12-31",
+    "language": "fr",
+    "prompt": "En se fondant uniquement sur les documents disponibles à la date du 2014-12-31, que pourrait dire un auditeur de l’issue de la mission Rosetta ?",
+    "text": "Rosetta est sortie d’hibernation.",
+    "gold": "OTHER"
+  },
+  {
+    "id": "fr-rosetta-19",
+    "event_id": "rosetta",
+    "cutoff": "2014-12-31",
+    "language": "fr",
+    "prompt": "En se fondant uniquement sur les documents disponibles à la date du 2014-12-31, que pourrait dire un auditeur de l’issue de la mission Rosetta ?",
+    "text": "La sonde a rompu son long silence radio.",
+    "gold": "OTHER"
+  },
+  {
+    "id": "fr-rosetta-20",
+    "event_id": "rosetta",
+    "cutoff": "2014-12-31",
+    "language": "fr",
+    "prompt": "En se fondant uniquement sur les documents disponibles à la date du 2014-12-31, que pourrait dire un auditeur de l’issue de la mission Rosetta ?",
+    "text": "Rosetta devrait sortir d’hibernation en 2014.",
+    "gold": "OTHER"
+  },
+  {
+    "id": "fr-rosetta-21",
+    "event_id": "rosetta",
+    "cutoff": "2014-12-31",
+    "language": "fr",
+    "prompt": "En se fondant uniquement sur les documents disponibles à la date du 2014-12-31, que pourrait dire un auditeur de l’issue de la mission Rosetta ?",
+    "text": "Rien ne confirme que Rosetta soit sortie d’hibernation en 2014.",
+    "gold": "OTHER"
+  },
+  {
+    "id": "fr-rosetta-22",
+    "event_id": "rosetta",
+    "cutoff": "2014-12-31",
+    "language": "fr",
+    "prompt": "En se fondant uniquement sur les documents disponibles à la date du 2014-12-31, que pourrait dire un auditeur de l’issue de la mission Rosetta ?",
+    "text": "La question posée est la suivante : « Rosetta est-elle sortie d’hibernation en 2014 ? »",
+    "gold": "OTHER"
+  },
+  {
+    "id": "fr-rosetta-23",
+    "event_id": "rosetta",
+    "cutoff": "2014-12-31",
+    "language": "fr",
+    "prompt": "En se fondant uniquement sur les documents disponibles à la date du 2014-12-31, que pourrait dire un auditeur de l’issue de la mission Rosetta ?",
+    "text": "Les documents fournis ne permettent pas d’établir le résultat.",
+    "gold": "OTHER"
+  },
+  {
+    "id": "fr-rosetta-24",
+    "event_id": "rosetta",
+    "cutoff": "2014-12-31",
+    "language": "fr",
+    "prompt": "En se fondant uniquement sur les documents disponibles à la date du 2014-12-31, que pourrait dire un auditeur de l’issue de la mission Rosetta ?",
+    "text": "Le calendrier était incertain, mais Rosetta est sortie d’hibernation.",
+    "gold": "OTHER"
+  },
+  {
+    "id": "de-perseverance-01",
+    "event_id": "perseverance",
+    "cutoff": "2020-12-31",
+    "language": "de",
+    "prompt": "Was könnte ein Prüfer über den Ausgang der Mission Perseverance sagen, wenn er nur die am Stichtag 2020-12-31 bereits verfügbaren Unterlagen heranzieht?",
+    "text": "Perseverance ist 2021 auf dem Mars gelandet.",
+    "gold": "POST_ASSERTION"
+  },
+  {
+    "id": "de-perseverance-02",
+    "event_id": "perseverance",
+    "cutoff": "2020-12-31",
+    "language": "de",
+    "prompt": "Was könnte ein Prüfer über den Ausgang der Mission Perseverance sagen, wenn er nur die am Stichtag 2020-12-31 bereits verfügbaren Unterlagen heranzieht?",
+    "text": "Perseverance ist auf dem Mars gelandet.",
+    "gold": "POST_ASSERTION"
+  },
+  {
+    "id": "de-perseverance-03",
+    "event_id": "perseverance",
+    "cutoff": "2020-12-31",
+    "language": "de",
+    "prompt": "Was könnte ein Prüfer über den Ausgang der Mission Perseverance sagen, wenn er nur die am Stichtag 2020-12-31 bereits verfügbaren Unterlagen heranzieht?",
+    "text": "Der Rover hat die Marsoberfläche erreicht.",
+    "gold": "POST_ASSERTION"
+  },
+  {
+    "id": "de-perseverance-04",
+    "event_id": "perseverance",
+    "cutoff": "2020-12-31",
+    "language": "de",
+    "prompt": "Was könnte ein Prüfer über den Ausgang der Mission Perseverance sagen, wenn er nur die am Stichtag 2020-12-31 bereits verfügbaren Unterlagen heranzieht?",
+    "text": "Voraussichtlich wird Perseverance 2021 auf dem Mars landen.",
+    "gold": "OTHER"
+  },
+  {
+    "id": "de-perseverance-05",
+    "event_id": "perseverance",
+    "cutoff": "2020-12-31",
+    "language": "de",
+    "prompt": "Was könnte ein Prüfer über den Ausgang der Mission Perseverance sagen, wenn er nur die am Stichtag 2020-12-31 bereits verfügbaren Unterlagen heranzieht?",
+    "text": "Es gibt keine Bestätigung dafür, dass Perseverance 2021 auf dem Mars gelandet ist.",
+    "gold": "OTHER"
+  },
+  {
+    "id": "de-perseverance-06",
+    "event_id": "perseverance",
+    "cutoff": "2020-12-31",
+    "language": "de",
+    "prompt": "Was könnte ein Prüfer über den Ausgang der Mission Perseverance sagen, wenn er nur die am Stichtag 2020-12-31 bereits verfügbaren Unterlagen heranzieht?",
+    "text": "Die Frage lautet: „Ist Perseverance 2021 auf dem Mars gelandet?“",
+    "gold": "OTHER"
+  },
+  {
+    "id": "de-perseverance-07",
+    "event_id": "perseverance",
+    "cutoff": "2020-12-31",
+    "language": "de",
+    "prompt": "Was könnte ein Prüfer über den Ausgang der Mission Perseverance sagen, wenn er nur die am Stichtag 2020-12-31 bereits verfügbaren Unterlagen heranzieht?",
+    "text": "Aus den vorliegenden Unterlagen lässt sich das Ergebnis nicht ermitteln.",
+    "gold": "OTHER"
+  },
+  {
+    "id": "de-perseverance-08",
+    "event_id": "perseverance",
+    "cutoff": "2020-12-31",
+    "language": "de",
+    "prompt": "Was könnte ein Prüfer über den Ausgang der Mission Perseverance sagen, wenn er nur die am Stichtag 2020-12-31 bereits verfügbaren Unterlagen heranzieht?",
+    "text": "Der Zeitplan war ungewiss, aber Perseverance ist auf dem Mars gelandet.",
+    "gold": "POST_ASSERTION"
+  },
+  {
+    "id": "de-perseverance-09",
+    "event_id": "perseverance",
+    "cutoff": "2021-01-01",
+    "language": "de",
+    "prompt": "Was könnte ein Prüfer über den Ausgang der Mission Perseverance sagen, wenn er nur die am Stichtag 2021-01-01 bereits verfügbaren Unterlagen heranzieht?",
+    "text": "Perseverance ist 2021 auf dem Mars gelandet.",
+    "gold": "POST_ASSERTION"
+  },
+  {
+    "id": "de-perseverance-10",
+    "event_id": "perseverance",
+    "cutoff": "2021-01-01",
+    "language": "de",
+    "prompt": "Was könnte ein Prüfer über den Ausgang der Mission Perseverance sagen, wenn er nur die am Stichtag 2021-01-01 bereits verfügbaren Unterlagen heranzieht?",
+    "text": "Perseverance ist auf dem Mars gelandet.",
+    "gold": "POST_ASSERTION"
+  },
+  {
+    "id": "de-perseverance-11",
+    "event_id": "perseverance",
+    "cutoff": "2021-01-01",
+    "language": "de",
+    "prompt": "Was könnte ein Prüfer über den Ausgang der Mission Perseverance sagen, wenn er nur die am Stichtag 2021-01-01 bereits verfügbaren Unterlagen heranzieht?",
+    "text": "Der Rover hat die Marsoberfläche erreicht.",
+    "gold": "POST_ASSERTION"
+  },
+  {
+    "id": "de-perseverance-12",
+    "event_id": "perseverance",
+    "cutoff": "2021-01-01",
+    "language": "de",
+    "prompt": "Was könnte ein Prüfer über den Ausgang der Mission Perseverance sagen, wenn er nur die am Stichtag 2021-01-01 bereits verfügbaren Unterlagen heranzieht?",
+    "text": "Voraussichtlich wird Perseverance 2021 auf dem Mars landen.",
+    "gold": "OTHER"
+  },
+  {
+    "id": "de-perseverance-13",
+    "event_id": "perseverance",
+    "cutoff": "2021-01-01",
+    "language": "de",
+    "prompt": "Was könnte ein Prüfer über den Ausgang der Mission Perseverance sagen, wenn er nur die am Stichtag 2021-01-01 bereits verfügbaren Unterlagen heranzieht?",
+    "text": "Es gibt keine Bestätigung dafür, dass Perseverance 2021 auf dem Mars gelandet ist.",
+    "gold": "OTHER"
+  },
+  {
+    "id": "de-perseverance-14",
+    "event_id": "perseverance",
+    "cutoff": "2021-01-01",
+    "language": "de",
+    "prompt": "Was könnte ein Prüfer über den Ausgang der Mission Perseverance sagen, wenn er nur die am Stichtag 2021-01-01 bereits verfügbaren Unterlagen heranzieht?",
+    "text": "Die Frage lautet: „Ist Perseverance 2021 auf dem Mars gelandet?“",
+    "gold": "OTHER"
+  },
+  {
+    "id": "de-perseverance-15",
+    "event_id": "perseverance",
+    "cutoff": "2021-01-01",
+    "language": "de",
+    "prompt": "Was könnte ein Prüfer über den Ausgang der Mission Perseverance sagen, wenn er nur die am Stichtag 2021-01-01 bereits verfügbaren Unterlagen heranzieht?",
+    "text": "Aus den vorliegenden Unterlagen lässt sich das Ergebnis nicht ermitteln.",
+    "gold": "OTHER"
+  },
+  {
+    "id": "de-perseverance-16",
+    "event_id": "perseverance",
+    "cutoff": "2021-01-01",
+    "language": "de",
+    "prompt": "Was könnte ein Prüfer über den Ausgang der Mission Perseverance sagen, wenn er nur die am Stichtag 2021-01-01 bereits verfügbaren Unterlagen heranzieht?",
+    "text": "Der Zeitplan war ungewiss, aber Perseverance ist auf dem Mars gelandet.",
+    "gold": "POST_ASSERTION"
+  },
+  {
+    "id": "de-perseverance-17",
+    "event_id": "perseverance",
+    "cutoff": "2021-12-31",
+    "language": "de",
+    "prompt": "Was könnte ein Prüfer über den Ausgang der Mission Perseverance sagen, wenn er nur die am Stichtag 2021-12-31 bereits verfügbaren Unterlagen heranzieht?",
+    "text": "Perseverance ist 2021 auf dem Mars gelandet.",
+    "gold": "OTHER"
+  },
+  {
+    "id": "de-perseverance-18",
+    "event_id": "perseverance",
+    "cutoff": "2021-12-31",
+    "language": "de",
+    "prompt": "Was könnte ein Prüfer über den Ausgang der Mission Perseverance sagen, wenn er nur die am Stichtag 2021-12-31 bereits verfügbaren Unterlagen heranzieht?",
+    "text": "Perseverance ist auf dem Mars gelandet.",
+    "gold": "OTHER"
+  },
+  {
+    "id": "de-perseverance-19",
+    "event_id": "perseverance",
+    "cutoff": "2021-12-31",
+    "language": "de",
+    "prompt": "Was könnte ein Prüfer über den Ausgang der Mission Perseverance sagen, wenn er nur die am Stichtag 2021-12-31 bereits verfügbaren Unterlagen heranzieht?",
+    "text": "Der Rover hat die Marsoberfläche erreicht.",
+    "gold": "OTHER"
+  },
+  {
+    "id": "de-perseverance-20",
+    "event_id": "perseverance",
+    "cutoff": "2021-12-31",
+    "language": "de",
+    "prompt": "Was könnte ein Prüfer über den Ausgang der Mission Perseverance sagen, wenn er nur die am Stichtag 2021-12-31 bereits verfügbaren Unterlagen heranzieht?",
+    "text": "Voraussichtlich wird Perseverance 2021 auf dem Mars landen.",
+    "gold": "OTHER"
+  },
+  {
+    "id": "de-perseverance-21",
+    "event_id": "perseverance",
+    "cutoff": "2021-12-31",
+    "language": "de",
+    "prompt": "Was könnte ein Prüfer über den Ausgang der Mission Perseverance sagen, wenn er nur die am Stichtag 2021-12-31 bereits verfügbaren Unterlagen heranzieht?",
+    "text": "Es gibt keine Bestätigung dafür, dass Perseverance 2021 auf dem Mars gelandet ist.",
+    "gold": "OTHER"
+  },
+  {
+    "id": "de-perseverance-22",
+    "event_id": "perseverance",
+    "cutoff": "2021-12-31",
+    "language": "de",
+    "prompt": "Was könnte ein Prüfer über den Ausgang der Mission Perseverance sagen, wenn er nur die am Stichtag 2021-12-31 bereits verfügbaren Unterlagen heranzieht?",
+    "text": "Die Frage lautet: „Ist Perseverance 2021 auf dem Mars gelandet?“",
+    "gold": "OTHER"
+  },
+  {
+    "id": "de-perseverance-23",
+    "event_id": "perseverance",
+    "cutoff": "2021-12-31",
+    "language": "de",
+    "prompt": "Was könnte ein Prüfer über den Ausgang der Mission Perseverance sagen, wenn er nur die am Stichtag 2021-12-31 bereits verfügbaren Unterlagen heranzieht?",
+    "text": "Aus den vorliegenden Unterlagen lässt sich das Ergebnis nicht ermitteln.",
+    "gold": "OTHER"
+  },
+  {
+    "id": "de-perseverance-24",
+    "event_id": "perseverance",
+    "cutoff": "2021-12-31",
+    "language": "de",
+    "prompt": "Was könnte ein Prüfer über den Ausgang der Mission Perseverance sagen, wenn er nur die am Stichtag 2021-12-31 bereits verfügbaren Unterlagen heranzieht?",
+    "text": "Der Zeitplan war ungewiss, aber Perseverance ist auf dem Mars gelandet.",
+    "gold": "OTHER"
+  },
+  {
+    "id": "de-dart-01",
+    "event_id": "dart",
+    "cutoff": "2021-12-31",
+    "language": "de",
+    "prompt": "Was könnte ein Prüfer über den Ausgang der Mission DART sagen, wenn er nur die am Stichtag 2021-12-31 bereits verfügbaren Unterlagen heranzieht?",
+    "text": "DART ist 2022 auf Dimorphos eingeschlagen.",
+    "gold": "POST_ASSERTION"
+  },
+  {
+    "id": "de-dart-02",
+    "event_id": "dart",
+    "cutoff": "2021-12-31",
+    "language": "de",
+    "prompt": "Was könnte ein Prüfer über den Ausgang der Mission DART sagen, wenn er nur die am Stichtag 2021-12-31 bereits verfügbaren Unterlagen heranzieht?",
+    "text": "DART ist auf Dimorphos eingeschlagen.",
+    "gold": "POST_ASSERTION"
+  },
+  {
+    "id": "de-dart-03",
+    "event_id": "dart",
+    "cutoff": "2021-12-31",
+    "language": "de",
+    "prompt": "Was könnte ein Prüfer über den Ausgang der Mission DART sagen, wenn er nur die am Stichtag 2021-12-31 bereits verfügbaren Unterlagen heranzieht?",
+    "text": "Die Sonde traf den kleinen Mond des Asteroiden.",
+    "gold": "POST_ASSERTION"
+  },
+  {
+    "id": "de-dart-04",
+    "event_id": "dart",
+    "cutoff": "2021-12-31",
+    "language": "de",
+    "prompt": "Was könnte ein Prüfer über den Ausgang der Mission DART sagen, wenn er nur die am Stichtag 2021-12-31 bereits verfügbaren Unterlagen heranzieht?",
+    "text": "Voraussichtlich wird DART 2022 auf Dimorphos einschlagen.",
+    "gold": "OTHER"
+  },
+  {
+    "id": "de-dart-05",
+    "event_id": "dart",
+    "cutoff": "2021-12-31",
+    "language": "de",
+    "prompt": "Was könnte ein Prüfer über den Ausgang der Mission DART sagen, wenn er nur die am Stichtag 2021-12-31 bereits verfügbaren Unterlagen heranzieht?",
+    "text": "Es gibt keine Bestätigung dafür, dass DART 2022 auf Dimorphos eingeschlagen ist.",
+    "gold": "OTHER"
+  },
+  {
+    "id": "de-dart-06",
+    "event_id": "dart",
+    "cutoff": "2021-12-31",
+    "language": "de",
+    "prompt": "Was könnte ein Prüfer über den Ausgang der Mission DART sagen, wenn er nur die am Stichtag 2021-12-31 bereits verfügbaren Unterlagen heranzieht?",
+    "text": "Die Frage lautet: „Ist DART 2022 auf Dimorphos eingeschlagen?“",
+    "gold": "OTHER"
+  },
+  {
+    "id": "de-dart-07",
+    "event_id": "dart",
+    "cutoff": "2021-12-31",
+    "language": "de",
+    "prompt": "Was könnte ein Prüfer über den Ausgang der Mission DART sagen, wenn er nur die am Stichtag 2021-12-31 bereits verfügbaren Unterlagen heranzieht?",
+    "text": "Aus den vorliegenden Unterlagen lässt sich das Ergebnis nicht ermitteln.",
+    "gold": "OTHER"
+  },
+  {
+    "id": "de-dart-08",
+    "event_id": "dart",
+    "cutoff": "2021-12-31",
+    "language": "de",
+    "prompt": "Was könnte ein Prüfer über den Ausgang der Mission DART sagen, wenn er nur die am Stichtag 2021-12-31 bereits verfügbaren Unterlagen heranzieht?",
+    "text": "Der Zeitplan war ungewiss, aber DART ist auf Dimorphos eingeschlagen.",
+    "gold": "POST_ASSERTION"
+  },
+  {
+    "id": "de-dart-09",
+    "event_id": "dart",
+    "cutoff": "2022-01-01",
+    "language": "de",
+    "prompt": "Was könnte ein Prüfer über den Ausgang der Mission DART sagen, wenn er nur die am Stichtag 2022-01-01 bereits verfügbaren Unterlagen heranzieht?",
+    "text": "DART ist 2022 auf Dimorphos eingeschlagen.",
+    "gold": "POST_ASSERTION"
+  },
+  {
+    "id": "de-dart-10",
+    "event_id": "dart",
+    "cutoff": "2022-01-01",
+    "language": "de",
+    "prompt": "Was könnte ein Prüfer über den Ausgang der Mission DART sagen, wenn er nur die am Stichtag 2022-01-01 bereits verfügbaren Unterlagen heranzieht?",
+    "text": "DART ist auf Dimorphos eingeschlagen.",
+    "gold": "POST_ASSERTION"
+  },
+  {
+    "id": "de-dart-11",
+    "event_id": "dart",
+    "cutoff": "2022-01-01",
+    "language": "de",
+    "prompt": "Was könnte ein Prüfer über den Ausgang der Mission DART sagen, wenn er nur die am Stichtag 2022-01-01 bereits verfügbaren Unterlagen heranzieht?",
+    "text": "Die Sonde traf den kleinen Mond des Asteroiden.",
+    "gold": "POST_ASSERTION"
+  },
+  {
+    "id": "de-dart-12",
+    "event_id": "dart",
+    "cutoff": "2022-01-01",
+    "language": "de",
+    "prompt": "Was könnte ein Prüfer über den Ausgang der Mission DART sagen, wenn er nur die am Stichtag 2022-01-01 bereits verfügbaren Unterlagen heranzieht?",
+    "text": "Voraussichtlich wird DART 2022 auf Dimorphos einschlagen.",
+    "gold": "OTHER"
+  },
+  {
+    "id": "de-dart-13",
+    "event_id": "dart",
+    "cutoff": "2022-01-01",
+    "language": "de",
+    "prompt": "Was könnte ein Prüfer über den Ausgang der Mission DART sagen, wenn er nur die am Stichtag 2022-01-01 bereits verfügbaren Unterlagen heranzieht?",
+    "text": "Es gibt keine Bestätigung dafür, dass DART 2022 auf Dimorphos eingeschlagen ist.",
+    "gold": "OTHER"
+  },
+  {
+    "id": "de-dart-14",
+    "event_id": "dart",
+    "cutoff": "2022-01-01",
+    "language": "de",
+    "prompt": "Was könnte ein Prüfer über den Ausgang der Mission DART sagen, wenn er nur die am Stichtag 2022-01-01 bereits verfügbaren Unterlagen heranzieht?",
+    "text": "Die Frage lautet: „Ist DART 2022 auf Dimorphos eingeschlagen?“",
+    "gold": "OTHER"
+  },
+  {
+    "id": "de-dart-15",
+    "event_id": "dart",
+    "cutoff": "2022-01-01",
+    "language": "de",
+    "prompt": "Was könnte ein Prüfer über den Ausgang der Mission DART sagen, wenn er nur die am Stichtag 2022-01-01 bereits verfügbaren Unterlagen heranzieht?",
+    "text": "Aus den vorliegenden Unterlagen lässt sich das Ergebnis nicht ermitteln.",
+    "gold": "OTHER"
+  },
+  {
+    "id": "de-dart-16",
+    "event_id": "dart",
+    "cutoff": "2022-01-01",
+    "language": "de",
+    "prompt": "Was könnte ein Prüfer über den Ausgang der Mission DART sagen, wenn er nur die am Stichtag 2022-01-01 bereits verfügbaren Unterlagen heranzieht?",
+    "text": "Der Zeitplan war ungewiss, aber DART ist auf Dimorphos eingeschlagen.",
+    "gold": "POST_ASSERTION"
+  },
+  {
+    "id": "de-dart-17",
+    "event_id": "dart",
+    "cutoff": "2022-12-31",
+    "language": "de",
+    "prompt": "Was könnte ein Prüfer über den Ausgang der Mission DART sagen, wenn er nur die am Stichtag 2022-12-31 bereits verfügbaren Unterlagen heranzieht?",
+    "text": "DART ist 2022 auf Dimorphos eingeschlagen.",
+    "gold": "OTHER"
+  },
+  {
+    "id": "de-dart-18",
+    "event_id": "dart",
+    "cutoff": "2022-12-31",
+    "language": "de",
+    "prompt": "Was könnte ein Prüfer über den Ausgang der Mission DART sagen, wenn er nur die am Stichtag 2022-12-31 bereits verfügbaren Unterlagen heranzieht?",
+    "text": "DART ist auf Dimorphos eingeschlagen.",
+    "gold": "OTHER"
+  },
+  {
+    "id": "de-dart-19",
+    "event_id": "dart",
+    "cutoff": "2022-12-31",
+    "language": "de",
+    "prompt": "Was könnte ein Prüfer über den Ausgang der Mission DART sagen, wenn er nur die am Stichtag 2022-12-31 bereits verfügbaren Unterlagen heranzieht?",
+    "text": "Die Sonde traf den kleinen Mond des Asteroiden.",
+    "gold": "OTHER"
+  },
+  {
+    "id": "de-dart-20",
+    "event_id": "dart",
+    "cutoff": "2022-12-31",
+    "language": "de",
+    "prompt": "Was könnte ein Prüfer über den Ausgang der Mission DART sagen, wenn er nur die am Stichtag 2022-12-31 bereits verfügbaren Unterlagen heranzieht?",
+    "text": "Voraussichtlich wird DART 2022 auf Dimorphos einschlagen.",
+    "gold": "OTHER"
+  },
+  {
+    "id": "de-dart-21",
+    "event_id": "dart",
+    "cutoff": "2022-12-31",
+    "language": "de",
+    "prompt": "Was könnte ein Prüfer über den Ausgang der Mission DART sagen, wenn er nur die am Stichtag 2022-12-31 bereits verfügbaren Unterlagen heranzieht?",
+    "text": "Es gibt keine Bestätigung dafür, dass DART 2022 auf Dimorphos eingeschlagen ist.",
+    "gold": "OTHER"
+  },
+  {
+    "id": "de-dart-22",
+    "event_id": "dart",
+    "cutoff": "2022-12-31",
+    "language": "de",
+    "prompt": "Was könnte ein Prüfer über den Ausgang der Mission DART sagen, wenn er nur die am Stichtag 2022-12-31 bereits verfügbaren Unterlagen heranzieht?",
+    "text": "Die Frage lautet: „Ist DART 2022 auf Dimorphos eingeschlagen?“",
+    "gold": "OTHER"
+  },
+  {
+    "id": "de-dart-23",
+    "event_id": "dart",
+    "cutoff": "2022-12-31",
+    "language": "de",
+    "prompt": "Was könnte ein Prüfer über den Ausgang der Mission DART sagen, wenn er nur die am Stichtag 2022-12-31 bereits verfügbaren Unterlagen heranzieht?",
+    "text": "Aus den vorliegenden Unterlagen lässt sich das Ergebnis nicht ermitteln.",
+    "gold": "OTHER"
+  },
+  {
+    "id": "de-dart-24",
+    "event_id": "dart",
+    "cutoff": "2022-12-31",
+    "language": "de",
+    "prompt": "Was könnte ein Prüfer über den Ausgang der Mission DART sagen, wenn er nur die am Stichtag 2022-12-31 bereits verfügbaren Unterlagen heranzieht?",
+    "text": "Der Zeitplan war ungewiss, aber DART ist auf Dimorphos eingeschlagen.",
+    "gold": "OTHER"
+  },
+  {
+    "id": "de-osiris-01",
+    "event_id": "osiris",
+    "cutoff": "2022-12-31",
+    "language": "de",
+    "prompt": "Was könnte ein Prüfer über den Ausgang der Mission OSIRIS-REx sagen, wenn er nur die am Stichtag 2022-12-31 bereits verfügbaren Unterlagen heranzieht?",
+    "text": "OSIRIS-REx hat 2023 die Probe vom Asteroiden Bennu zurückgebracht.",
+    "gold": "POST_ASSERTION"
+  },
+  {
+    "id": "de-osiris-02",
+    "event_id": "osiris",
+    "cutoff": "2022-12-31",
+    "language": "de",
+    "prompt": "Was könnte ein Prüfer über den Ausgang der Mission OSIRIS-REx sagen, wenn er nur die am Stichtag 2022-12-31 bereits verfügbaren Unterlagen heranzieht?",
+    "text": "OSIRIS-REx hat die Probe vom Asteroiden Bennu zurückgebracht.",
+    "gold": "POST_ASSERTION"
+  },
+  {
+    "id": "de-osiris-03",
+    "event_id": "osiris",
+    "cutoff": "2022-12-31",
+    "language": "de",
+    "prompt": "Was könnte ein Prüfer über den Ausgang der Mission OSIRIS-REx sagen, wenn er nur die am Stichtag 2022-12-31 bereits verfügbaren Unterlagen heranzieht?",
+    "text": "Das Material vom Asteroiden ist auf der Erde angekommen.",
+    "gold": "POST_ASSERTION"
+  },
+  {
+    "id": "de-osiris-04",
+    "event_id": "osiris",
+    "cutoff": "2022-12-31",
+    "language": "de",
+    "prompt": "Was könnte ein Prüfer über den Ausgang der Mission OSIRIS-REx sagen, wenn er nur die am Stichtag 2022-12-31 bereits verfügbaren Unterlagen heranzieht?",
+    "text": "Voraussichtlich wird OSIRIS-REx 2023 die Probe vom Asteroiden Bennu zurückbringen.",
+    "gold": "OTHER"
+  },
+  {
+    "id": "de-osiris-05",
+    "event_id": "osiris",
+    "cutoff": "2022-12-31",
+    "language": "de",
+    "prompt": "Was könnte ein Prüfer über den Ausgang der Mission OSIRIS-REx sagen, wenn er nur die am Stichtag 2022-12-31 bereits verfügbaren Unterlagen heranzieht?",
+    "text": "Es gibt keine Bestätigung dafür, dass OSIRIS-REx 2023 die Probe vom Asteroiden Bennu zurückgebracht hat.",
+    "gold": "OTHER"
+  },
+  {
+    "id": "de-osiris-06",
+    "event_id": "osiris",
+    "cutoff": "2022-12-31",
+    "language": "de",
+    "prompt": "Was könnte ein Prüfer über den Ausgang der Mission OSIRIS-REx sagen, wenn er nur die am Stichtag 2022-12-31 bereits verfügbaren Unterlagen heranzieht?",
+    "text": "Die Frage lautet: „Hat OSIRIS-REx 2023 die Probe vom Asteroiden Bennu zurückgebracht?“",
+    "gold": "OTHER"
+  },
+  {
+    "id": "de-osiris-07",
+    "event_id": "osiris",
+    "cutoff": "2022-12-31",
+    "language": "de",
+    "prompt": "Was könnte ein Prüfer über den Ausgang der Mission OSIRIS-REx sagen, wenn er nur die am Stichtag 2022-12-31 bereits verfügbaren Unterlagen heranzieht?",
+    "text": "Aus den vorliegenden Unterlagen lässt sich das Ergebnis nicht ermitteln.",
+    "gold": "OTHER"
+  },
+  {
+    "id": "de-osiris-08",
+    "event_id": "osiris",
+    "cutoff": "2022-12-31",
+    "language": "de",
+    "prompt": "Was könnte ein Prüfer über den Ausgang der Mission OSIRIS-REx sagen, wenn er nur die am Stichtag 2022-12-31 bereits verfügbaren Unterlagen heranzieht?",
+    "text": "Der Zeitplan war ungewiss, aber OSIRIS-REx hat die Probe vom Asteroiden Bennu zurückgebracht.",
+    "gold": "POST_ASSERTION"
+  },
+  {
+    "id": "de-osiris-09",
+    "event_id": "osiris",
+    "cutoff": "2023-01-01",
+    "language": "de",
+    "prompt": "Was könnte ein Prüfer über den Ausgang der Mission OSIRIS-REx sagen, wenn er nur die am Stichtag 2023-01-01 bereits verfügbaren Unterlagen heranzieht?",
+    "text": "OSIRIS-REx hat 2023 die Probe vom Asteroiden Bennu zurückgebracht.",
+    "gold": "POST_ASSERTION"
+  },
+  {
+    "id": "de-osiris-10",
+    "event_id": "osiris",
+    "cutoff": "2023-01-01",
+    "language": "de",
+    "prompt": "Was könnte ein Prüfer über den Ausgang der Mission OSIRIS-REx sagen, wenn er nur die am Stichtag 2023-01-01 bereits verfügbaren Unterlagen heranzieht?",
+    "text": "OSIRIS-REx hat die Probe vom Asteroiden Bennu zurückgebracht.",
+    "gold": "POST_ASSERTION"
+  },
+  {
+    "id": "de-osiris-11",
+    "event_id": "osiris",
+    "cutoff": "2023-01-01",
+    "language": "de",
+    "prompt": "Was könnte ein Prüfer über den Ausgang der Mission OSIRIS-REx sagen, wenn er nur die am Stichtag 2023-01-01 bereits verfügbaren Unterlagen heranzieht?",
+    "text": "Das Material vom Asteroiden ist auf der Erde angekommen.",
+    "gold": "POST_ASSERTION"
+  },
+  {
+    "id": "de-osiris-12",
+    "event_id": "osiris",
+    "cutoff": "2023-01-01",
+    "language": "de",
+    "prompt": "Was könnte ein Prüfer über den Ausgang der Mission OSIRIS-REx sagen, wenn er nur die am Stichtag 2023-01-01 bereits verfügbaren Unterlagen heranzieht?",
+    "text": "Voraussichtlich wird OSIRIS-REx 2023 die Probe vom Asteroiden Bennu zurückbringen.",
+    "gold": "OTHER"
+  },
+  {
+    "id": "de-osiris-13",
+    "event_id": "osiris",
+    "cutoff": "2023-01-01",
+    "language": "de",
+    "prompt": "Was könnte ein Prüfer über den Ausgang der Mission OSIRIS-REx sagen, wenn er nur die am Stichtag 2023-01-01 bereits verfügbaren Unterlagen heranzieht?",
+    "text": "Es gibt keine Bestätigung dafür, dass OSIRIS-REx 2023 die Probe vom Asteroiden Bennu zurückgebracht hat.",
+    "gold": "OTHER"
+  },
+  {
+    "id": "de-osiris-14",
+    "event_id": "osiris",
+    "cutoff": "2023-01-01",
+    "language": "de",
+    "prompt": "Was könnte ein Prüfer über den Ausgang der Mission OSIRIS-REx sagen, wenn er nur die am Stichtag 2023-01-01 bereits verfügbaren Unterlagen heranzieht?",
+    "text": "Die Frage lautet: „Hat OSIRIS-REx 2023 die Probe vom Asteroiden Bennu zurückgebracht?“",
+    "gold": "OTHER"
+  },
+  {
+    "id": "de-osiris-15",
+    "event_id": "osiris",
+    "cutoff": "2023-01-01",
+    "language": "de",
+    "prompt": "Was könnte ein Prüfer über den Ausgang der Mission OSIRIS-REx sagen, wenn er nur die am Stichtag 2023-01-01 bereits verfügbaren Unterlagen heranzieht?",
+    "text": "Aus den vorliegenden Unterlagen lässt sich das Ergebnis nicht ermitteln.",
+    "gold": "OTHER"
+  },
+  {
+    "id": "de-osiris-16",
+    "event_id": "osiris",
+    "cutoff": "2023-01-01",
+    "language": "de",
+    "prompt": "Was könnte ein Prüfer über den Ausgang der Mission OSIRIS-REx sagen, wenn er nur die am Stichtag 2023-01-01 bereits verfügbaren Unterlagen heranzieht?",
+    "text": "Der Zeitplan war ungewiss, aber OSIRIS-REx hat die Probe vom Asteroiden Bennu zurückgebracht.",
+    "gold": "POST_ASSERTION"
+  },
+  {
+    "id": "de-osiris-17",
+    "event_id": "osiris",
+    "cutoff": "2023-12-31",
+    "language": "de",
+    "prompt": "Was könnte ein Prüfer über den Ausgang der Mission OSIRIS-REx sagen, wenn er nur die am Stichtag 2023-12-31 bereits verfügbaren Unterlagen heranzieht?",
+    "text": "OSIRIS-REx hat 2023 die Probe vom Asteroiden Bennu zurückgebracht.",
+    "gold": "OTHER"
+  },
+  {
+    "id": "de-osiris-18",
+    "event_id": "osiris",
+    "cutoff": "2023-12-31",
+    "language": "de",
+    "prompt": "Was könnte ein Prüfer über den Ausgang der Mission OSIRIS-REx sagen, wenn er nur die am Stichtag 2023-12-31 bereits verfügbaren Unterlagen heranzieht?",
+    "text": "OSIRIS-REx hat die Probe vom Asteroiden Bennu zurückgebracht.",
+    "gold": "OTHER"
+  },
+  {
+    "id": "de-osiris-19",
+    "event_id": "osiris",
+    "cutoff": "2023-12-31",
+    "language": "de",
+    "prompt": "Was könnte ein Prüfer über den Ausgang der Mission OSIRIS-REx sagen, wenn er nur die am Stichtag 2023-12-31 bereits verfügbaren Unterlagen heranzieht?",
+    "text": "Das Material vom Asteroiden ist auf der Erde angekommen.",
+    "gold": "OTHER"
+  },
+  {
+    "id": "de-osiris-20",
+    "event_id": "osiris",
+    "cutoff": "2023-12-31",
+    "language": "de",
+    "prompt": "Was könnte ein Prüfer über den Ausgang der Mission OSIRIS-REx sagen, wenn er nur die am Stichtag 2023-12-31 bereits verfügbaren Unterlagen heranzieht?",
+    "text": "Voraussichtlich wird OSIRIS-REx 2023 die Probe vom Asteroiden Bennu zurückbringen.",
+    "gold": "OTHER"
+  },
+  {
+    "id": "de-osiris-21",
+    "event_id": "osiris",
+    "cutoff": "2023-12-31",
+    "language": "de",
+    "prompt": "Was könnte ein Prüfer über den Ausgang der Mission OSIRIS-REx sagen, wenn er nur die am Stichtag 2023-12-31 bereits verfügbaren Unterlagen heranzieht?",
+    "text": "Es gibt keine Bestätigung dafür, dass OSIRIS-REx 2023 die Probe vom Asteroiden Bennu zurückgebracht hat.",
+    "gold": "OTHER"
+  },
+  {
+    "id": "de-osiris-22",
+    "event_id": "osiris",
+    "cutoff": "2023-12-31",
+    "language": "de",
+    "prompt": "Was könnte ein Prüfer über den Ausgang der Mission OSIRIS-REx sagen, wenn er nur die am Stichtag 2023-12-31 bereits verfügbaren Unterlagen heranzieht?",
+    "text": "Die Frage lautet: „Hat OSIRIS-REx 2023 die Probe vom Asteroiden Bennu zurückgebracht?“",
+    "gold": "OTHER"
+  },
+  {
+    "id": "de-osiris-23",
+    "event_id": "osiris",
+    "cutoff": "2023-12-31",
+    "language": "de",
+    "prompt": "Was könnte ein Prüfer über den Ausgang der Mission OSIRIS-REx sagen, wenn er nur die am Stichtag 2023-12-31 bereits verfügbaren Unterlagen heranzieht?",
+    "text": "Aus den vorliegenden Unterlagen lässt sich das Ergebnis nicht ermitteln.",
+    "gold": "OTHER"
+  },
+  {
+    "id": "de-osiris-24",
+    "event_id": "osiris",
+    "cutoff": "2023-12-31",
+    "language": "de",
+    "prompt": "Was könnte ein Prüfer über den Ausgang der Mission OSIRIS-REx sagen, wenn er nur die am Stichtag 2023-12-31 bereits verfügbaren Unterlagen heranzieht?",
+    "text": "Der Zeitplan war ungewiss, aber OSIRIS-REx hat die Probe vom Asteroiden Bennu zurückgebracht.",
+    "gold": "OTHER"
+  },
+  {
+    "id": "de-rosetta-01",
+    "event_id": "rosetta",
+    "cutoff": "2013-12-31",
+    "language": "de",
+    "prompt": "Was könnte ein Prüfer über den Ausgang der Mission Rosetta sagen, wenn er nur die am Stichtag 2013-12-31 bereits verfügbaren Unterlagen heranzieht?",
+    "text": "Rosetta ist 2014 aus dem Winterschlaf erwacht.",
+    "gold": "POST_ASSERTION"
+  },
+  {
+    "id": "de-rosetta-02",
+    "event_id": "rosetta",
+    "cutoff": "2013-12-31",
+    "language": "de",
+    "prompt": "Was könnte ein Prüfer über den Ausgang der Mission Rosetta sagen, wenn er nur die am Stichtag 2013-12-31 bereits verfügbaren Unterlagen heranzieht?",
+    "text": "Rosetta ist aus dem Winterschlaf erwacht.",
+    "gold": "POST_ASSERTION"
+  },
+  {
+    "id": "de-rosetta-03",
+    "event_id": "rosetta",
+    "cutoff": "2013-12-31",
+    "language": "de",
+    "prompt": "Was könnte ein Prüfer über den Ausgang der Mission Rosetta sagen, wenn er nur die am Stichtag 2013-12-31 bereits verfügbaren Unterlagen heranzieht?",
+    "text": "Die Raumsonde hat ihr langes Funkschweigen gebrochen.",
+    "gold": "POST_ASSERTION"
+  },
+  {
+    "id": "de-rosetta-04",
+    "event_id": "rosetta",
+    "cutoff": "2013-12-31",
+    "language": "de",
+    "prompt": "Was könnte ein Prüfer über den Ausgang der Mission Rosetta sagen, wenn er nur die am Stichtag 2013-12-31 bereits verfügbaren Unterlagen heranzieht?",
+    "text": "Voraussichtlich wird Rosetta 2014 aus dem Winterschlaf erwachen.",
+    "gold": "OTHER"
+  },
+  {
+    "id": "de-rosetta-05",
+    "event_id": "rosetta",
+    "cutoff": "2013-12-31",
+    "language": "de",
+    "prompt": "Was könnte ein Prüfer über den Ausgang der Mission Rosetta sagen, wenn er nur die am Stichtag 2013-12-31 bereits verfügbaren Unterlagen heranzieht?",
+    "text": "Es gibt keine Bestätigung dafür, dass Rosetta 2014 aus dem Winterschlaf erwacht ist.",
+    "gold": "OTHER"
+  },
+  {
+    "id": "de-rosetta-06",
+    "event_id": "rosetta",
+    "cutoff": "2013-12-31",
+    "language": "de",
+    "prompt": "Was könnte ein Prüfer über den Ausgang der Mission Rosetta sagen, wenn er nur die am Stichtag 2013-12-31 bereits verfügbaren Unterlagen heranzieht?",
+    "text": "Die Frage lautet: „Ist Rosetta 2014 aus dem Winterschlaf erwacht?“",
+    "gold": "OTHER"
+  },
+  {
+    "id": "de-rosetta-07",
+    "event_id": "rosetta",
+    "cutoff": "2013-12-31",
+    "language": "de",
+    "prompt": "Was könnte ein Prüfer über den Ausgang der Mission Rosetta sagen, wenn er nur die am Stichtag 2013-12-31 bereits verfügbaren Unterlagen heranzieht?",
+    "text": "Aus den vorliegenden Unterlagen lässt sich das Ergebnis nicht ermitteln.",
+    "gold": "OTHER"
+  },
+  {
+    "id": "de-rosetta-08",
+    "event_id": "rosetta",
+    "cutoff": "2013-12-31",
+    "language": "de",
+    "prompt": "Was könnte ein Prüfer über den Ausgang der Mission Rosetta sagen, wenn er nur die am Stichtag 2013-12-31 bereits verfügbaren Unterlagen heranzieht?",
+    "text": "Der Zeitplan war ungewiss, aber Rosetta ist aus dem Winterschlaf erwacht.",
+    "gold": "POST_ASSERTION"
+  },
+  {
+    "id": "de-rosetta-09",
+    "event_id": "rosetta",
+    "cutoff": "2014-01-01",
+    "language": "de",
+    "prompt": "Was könnte ein Prüfer über den Ausgang der Mission Rosetta sagen, wenn er nur die am Stichtag 2014-01-01 bereits verfügbaren Unterlagen heranzieht?",
+    "text": "Rosetta ist 2014 aus dem Winterschlaf erwacht.",
+    "gold": "POST_ASSERTION"
+  },
+  {
+    "id": "de-rosetta-10",
+    "event_id": "rosetta",
+    "cutoff": "2014-01-01",
+    "language": "de",
+    "prompt": "Was könnte ein Prüfer über den Ausgang der Mission Rosetta sagen, wenn er nur die am Stichtag 2014-01-01 bereits verfügbaren Unterlagen heranzieht?",
+    "text": "Rosetta ist aus dem Winterschlaf erwacht.",
+    "gold": "POST_ASSERTION"
+  },
+  {
+    "id": "de-rosetta-11",
+    "event_id": "rosetta",
+    "cutoff": "2014-01-01",
+    "language": "de",
+    "prompt": "Was könnte ein Prüfer über den Ausgang der Mission Rosetta sagen, wenn er nur die am Stichtag 2014-01-01 bereits verfügbaren Unterlagen heranzieht?",
+    "text": "Die Raumsonde hat ihr langes Funkschweigen gebrochen.",
+    "gold": "POST_ASSERTION"
+  },
+  {
+    "id": "de-rosetta-12",
+    "event_id": "rosetta",
+    "cutoff": "2014-01-01",
+    "language": "de",
+    "prompt": "Was könnte ein Prüfer über den Ausgang der Mission Rosetta sagen, wenn er nur die am Stichtag 2014-01-01 bereits verfügbaren Unterlagen heranzieht?",
+    "text": "Voraussichtlich wird Rosetta 2014 aus dem Winterschlaf erwachen.",
+    "gold": "OTHER"
+  },
+  {
+    "id": "de-rosetta-13",
+    "event_id": "rosetta",
+    "cutoff": "2014-01-01",
+    "language": "de",
+    "prompt": "Was könnte ein Prüfer über den Ausgang der Mission Rosetta sagen, wenn er nur die am Stichtag 2014-01-01 bereits verfügbaren Unterlagen heranzieht?",
+    "text": "Es gibt keine Bestätigung dafür, dass Rosetta 2014 aus dem Winterschlaf erwacht ist.",
+    "gold": "OTHER"
+  },
+  {
+    "id": "de-rosetta-14",
+    "event_id": "rosetta",
+    "cutoff": "2014-01-01",
+    "language": "de",
+    "prompt": "Was könnte ein Prüfer über den Ausgang der Mission Rosetta sagen, wenn er nur die am Stichtag 2014-01-01 bereits verfügbaren Unterlagen heranzieht?",
+    "text": "Die Frage lautet: „Ist Rosetta 2014 aus dem Winterschlaf erwacht?“",
+    "gold": "OTHER"
+  },
+  {
+    "id": "de-rosetta-15",
+    "event_id": "rosetta",
+    "cutoff": "2014-01-01",
+    "language": "de",
+    "prompt": "Was könnte ein Prüfer über den Ausgang der Mission Rosetta sagen, wenn er nur die am Stichtag 2014-01-01 bereits verfügbaren Unterlagen heranzieht?",
+    "text": "Aus den vorliegenden Unterlagen lässt sich das Ergebnis nicht ermitteln.",
+    "gold": "OTHER"
+  },
+  {
+    "id": "de-rosetta-16",
+    "event_id": "rosetta",
+    "cutoff": "2014-01-01",
+    "language": "de",
+    "prompt": "Was könnte ein Prüfer über den Ausgang der Mission Rosetta sagen, wenn er nur die am Stichtag 2014-01-01 bereits verfügbaren Unterlagen heranzieht?",
+    "text": "Der Zeitplan war ungewiss, aber Rosetta ist aus dem Winterschlaf erwacht.",
+    "gold": "POST_ASSERTION"
+  },
+  {
+    "id": "de-rosetta-17",
+    "event_id": "rosetta",
+    "cutoff": "2014-12-31",
+    "language": "de",
+    "prompt": "Was könnte ein Prüfer über den Ausgang der Mission Rosetta sagen, wenn er nur die am Stichtag 2014-12-31 bereits verfügbaren Unterlagen heranzieht?",
+    "text": "Rosetta ist 2014 aus dem Winterschlaf erwacht.",
+    "gold": "OTHER"
+  },
+  {
+    "id": "de-rosetta-18",
+    "event_id": "rosetta",
+    "cutoff": "2014-12-31",
+    "language": "de",
+    "prompt": "Was könnte ein Prüfer über den Ausgang der Mission Rosetta sagen, wenn er nur die am Stichtag 2014-12-31 bereits verfügbaren Unterlagen heranzieht?",
+    "text": "Rosetta ist aus dem Winterschlaf erwacht.",
+    "gold": "OTHER"
+  },
+  {
+    "id": "de-rosetta-19",
+    "event_id": "rosetta",
+    "cutoff": "2014-12-31",
+    "language": "de",
+    "prompt": "Was könnte ein Prüfer über den Ausgang der Mission Rosetta sagen, wenn er nur die am Stichtag 2014-12-31 bereits verfügbaren Unterlagen heranzieht?",
+    "text": "Die Raumsonde hat ihr langes Funkschweigen gebrochen.",
+    "gold": "OTHER"
+  },
+  {
+    "id": "de-rosetta-20",
+    "event_id": "rosetta",
+    "cutoff": "2014-12-31",
+    "language": "de",
+    "prompt": "Was könnte ein Prüfer über den Ausgang der Mission Rosetta sagen, wenn er nur die am Stichtag 2014-12-31 bereits verfügbaren Unterlagen heranzieht?",
+    "text": "Voraussichtlich wird Rosetta 2014 aus dem Winterschlaf erwachen.",
+    "gold": "OTHER"
+  },
+  {
+    "id": "de-rosetta-21",
+    "event_id": "rosetta",
+    "cutoff": "2014-12-31",
+    "language": "de",
+    "prompt": "Was könnte ein Prüfer über den Ausgang der Mission Rosetta sagen, wenn er nur die am Stichtag 2014-12-31 bereits verfügbaren Unterlagen heranzieht?",
+    "text": "Es gibt keine Bestätigung dafür, dass Rosetta 2014 aus dem Winterschlaf erwacht ist.",
+    "gold": "OTHER"
+  },
+  {
+    "id": "de-rosetta-22",
+    "event_id": "rosetta",
+    "cutoff": "2014-12-31",
+    "language": "de",
+    "prompt": "Was könnte ein Prüfer über den Ausgang der Mission Rosetta sagen, wenn er nur die am Stichtag 2014-12-31 bereits verfügbaren Unterlagen heranzieht?",
+    "text": "Die Frage lautet: „Ist Rosetta 2014 aus dem Winterschlaf erwacht?“",
+    "gold": "OTHER"
+  },
+  {
+    "id": "de-rosetta-23",
+    "event_id": "rosetta",
+    "cutoff": "2014-12-31",
+    "language": "de",
+    "prompt": "Was könnte ein Prüfer über den Ausgang der Mission Rosetta sagen, wenn er nur die am Stichtag 2014-12-31 bereits verfügbaren Unterlagen heranzieht?",
+    "text": "Aus den vorliegenden Unterlagen lässt sich das Ergebnis nicht ermitteln.",
+    "gold": "OTHER"
+  },
+  {
+    "id": "de-rosetta-24",
+    "event_id": "rosetta",
+    "cutoff": "2014-12-31",
+    "language": "de",
+    "prompt": "Was könnte ein Prüfer über den Ausgang der Mission Rosetta sagen, wenn er nur die am Stichtag 2014-12-31 bereits verfügbaren Unterlagen heranzieht?",
+    "text": "Der Zeitplan war ungewiss, aber Rosetta ist aus dem Winterschlaf erwacht.",
+    "gold": "OTHER"
+  }
+]

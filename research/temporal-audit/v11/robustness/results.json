@@ -1,0 +1,1152 @@
+{
+  "corpus_sha256": "8780c0ca1292a23ca9594f6e0f1a4861f3536a34394962ea47988efa0ab9f596",
+  "frozen_files": {
+    "proposition.py": "dd9245530240ebf2fb4d20e42f4db2a4f8f2a2fcb6497aefbd6797abe864ea67",
+    "threshold.json": "c03fdf6e32472972188e855914bb8cab2261e1a00804303300a0c017d5f9a498",
+    "development_events.json": "a580345fc98ebe6cc324dca0672da12fe46899193e1035e06a5ec4bd835a913c",
+    "calibration.json": "c642b9739f6b05a7b5544aadb6bac1923eff97fe2b7f68a9cfbcf7e04512750f",
+    "calibrate.py": "8fb5579f379f2c7d2f921264d1b892cb8208db0f00f24e38ebaf479d93ae0f20",
+    "calibration_report.json": "213e4729492f82eb6cee75f3fbd2a1569d5bc81c3278cdcb017f4ab1e540e7dc"
+  },
+  "year_detector_sha256": "b55fcc819563bae6dc73fad8845f95ceaaff8afdee261f0fb403a9f284cc86a6",
+  "year_extractor_sha256": "5218428140b66805b913ab43e58f307af19a0ae4aa3a963b628eca9f53bb80bc",
+  "threshold": 5,
+  "distinct_texts": 48,
+  "exact_casefolded_overlap_with_development_and_calibration": [
+    "perseverance is expected to land on mars in 2021."
+  ],
+  "sources": {
+    "perseverance": {
+      "event_date": "2021-02-18",
+      "source_url": "https://science.nasa.gov/resource/nasas-perseverance-rover-lands-successfully-on-mars/"
+    },
+    "dart": {
+      "event_date": "2022-09-26",
+      "source_url": "https://www.nasa.gov/solar-system/darts-final-images-prior-to-impact/"
+    },
+    "osiris": {
+      "event_date": "2023-09-24",
+      "source_url": "https://www.nasa.gov/news-release/nasas-first-asteroid-sample-has-landed-now-secure-in-clean-room/"
+    },
+    "rosetta": {
+      "event_date": "2014-01-20",
+      "source_url": "https://www.esa.int/Newsroom/Press_Releases/Rosetta_ESA_s_sleeping_beauty_wakes_up_from_deep_space_hibernation"
+    }
+  },
+  "groups": {
+    "overall": {
+      "year_rule": {
+        "pairs": 24,
+        "positive_pairs": 12,
+        "detected_positive_bases": 12,
+        "all_positive_variants_alerted": 8,
+        "retained_alerts": 8,
+        "changed_to_review": 0,
+        "changed_to_other": 4,
+        "conditional_alert_loss": 0.3333333333333333,
+        "conditional_review": 0.0,
+        "conditional_other": 0.3333333333333333,
+        "control_pairs": 8,
+        "indeterminate_pairs": 4,
+        "controls": {
+          "base": {
+            "POST_ASSERTION": 8,
+            "OTHER": 0,
+            "REVIEW": 0
+          },
+          "variant": {
+            "POST_ASSERTION": 4,
+            "OTHER": 4,
+            "REVIEW": 0
+          }
+        },
+        "false_alert_rates": {
+          "base": 1.0,
+          "variant": 0.5
+        },
+        "indeterminate": {
+          "base": {
+            "POST_ASSERTION": 0,
+            "OTHER": 4,
+            "REVIEW": 0
+          },
+          "variant": {
+            "POST_ASSERTION": 0,
+            "OTHER": 4,
+            "REVIEW": 0
+          }
+        },
+        "transitions": [
+          {
+            "reference": "INDETERMINATE",
+            "base": "OTHER",
+            "variant": "OTHER",
+            "n": 4
+          },
+          {
+            "reference": "OTHER",
+            "base": "POST_ASSERTION",
+            "variant": "OTHER",
+            "n": 4
+          },
+          {
+            "reference": "OTHER",
+            "base": "POST_ASSERTION",
+            "variant": "POST_ASSERTION",
+            "n": 4
+          },
+          {
+            "reference": "POST_ASSERTION",
+            "base": "POST_ASSERTION",
+            "variant": "OTHER",
+            "n": 4
+          },
+          {
+            "reference": "POST_ASSERTION",
+            "base": "POST_ASSERTION",
+            "variant": "POST_ASSERTION",
+            "n": 8
+          }
+        ]
+      },
+      "proposition": {
+        "pairs": 24,
+        "positive_pairs": 12,
+        "detected_positive_bases": 12,
+        "all_positive_variants_alerted": 6,
+        "retained_alerts": 6,
+        "changed_to_review": 6,
+        "changed_to_other": 0,
+        "conditional_alert_loss": 0.5,
+        "conditional_review": 0.5,
+        "conditional_other": 0.0,
+        "control_pairs": 8,
+        "indeterminate_pairs": 4,
+        "controls": {
+          "base": {
+            "POST_ASSERTION": 0,
+            "OTHER": 7,
+            "REVIEW": 1
+          },
+          "variant": {
+            "POST_ASSERTION": 2,
+            "OTHER": 4,
+            "REVIEW": 2
+          }
+        },
+        "false_alert_rates": {
+          "base": 0.0,
+          "variant": 0.25
+        },
+        "indeterminate": {
+          "base": {
+            "POST_ASSERTION": 1,
+            "OTHER": 0,
+            "REVIEW": 3
+          },
+          "variant": {
+            "POST_ASSERTION": 1,
+            "OTHER": 1,
+            "REVIEW": 2
+          }
+        },
+        "transitions": [
+          {
+            "reference": "INDETERMINATE",
+            "base": "POST_ASSERTION",
+            "variant": "POST_ASSERTION",
+            "n": 1
+          },
+          {
+            "reference": "INDETERMINATE",
+            "base": "REVIEW",
+            "variant": "OTHER",
+            "n": 1
+          },
+          {
+            "reference": "INDETERMINATE",
+            "base": "REVIEW",
+            "variant": "REVIEW",
+            "n": 2
+          },
+          {
+            "reference": "OTHER",
+            "base": "OTHER",
+            "variant": "OTHER",
+            "n": 3
+          },
+          {
+            "reference": "OTHER",
+            "base": "OTHER",
+            "variant": "POST_ASSERTION",
+            "n": 2
+          },
+          {
+            "reference": "OTHER",
+            "base": "OTHER",
+            "variant": "REVIEW",
+            "n": 2
+          },
+          {
+            "reference": "OTHER",
+            "base": "REVIEW",
+            "variant": "OTHER",
+            "n": 1
+          },
+          {
+            "reference": "POST_ASSERTION",
+            "base": "POST_ASSERTION",
+            "variant": "POST_ASSERTION",
+            "n": 6
+          },
+          {
+            "reference": "POST_ASSERTION",
+            "base": "POST_ASSERTION",
+            "variant": "REVIEW",
+            "n": 6
+          }
+        ]
+      }
+    },
+    "en": {
+      "year_rule": {
+        "pairs": 12,
+        "positive_pairs": 6,
+        "detected_positive_bases": 6,
+        "all_positive_variants_alerted": 4,
+        "retained_alerts": 4,
+        "changed_to_review": 0,
+        "changed_to_other": 2,
+        "conditional_alert_loss": 0.3333333333333333,
+        "conditional_review": 0.0,
+        "conditional_other": 0.3333333333333333,
+        "control_pairs": 4,
+        "indeterminate_pairs": 2,
+        "controls": {
+          "base": {
+            "POST_ASSERTION": 4,
+            "OTHER": 0,
+            "REVIEW": 0
+          },
+          "variant": {
+            "POST_ASSERTION": 2,
+            "OTHER": 2,
+            "REVIEW": 0
+          }
+        },
+        "false_alert_rates": {
+          "base": 1.0,
+          "variant": 0.5
+        },
+        "indeterminate": {
+          "base": {
+            "POST_ASSERTION": 0,
+            "OTHER": 2,
+            "REVIEW": 0
+          },
+          "variant": {
+            "POST_ASSERTION": 0,
+            "OTHER": 2,
+            "REVIEW": 0
+          }
+        },
+        "transitions": [
+          {
+            "reference": "INDETERMINATE",
+            "base": "OTHER",
+            "variant": "OTHER",
+            "n": 2
+          },
+          {
+            "reference": "OTHER",
+            "base": "POST_ASSERTION",
+            "variant": "OTHER",
+            "n": 2
+          },
+          {
+            "reference": "OTHER",
+            "base": "POST_ASSERTION",
+            "variant": "POST_ASSERTION",
+            "n": 2
+          },
+          {
+            "reference": "POST_ASSERTION",
+            "base": "POST_ASSERTION",
+            "variant": "OTHER",
+            "n": 2
+          },
+          {
+            "reference": "POST_ASSERTION",
+            "base": "POST_ASSERTION",
+            "variant": "POST_ASSERTION",
+            "n": 4
+          }
+        ]
+      },
+      "proposition": {
+        "pairs": 12,
+        "positive_pairs": 6,
+        "detected_positive_bases": 6,
+        "all_positive_variants_alerted": 3,
+        "retained_alerts": 3,
+        "changed_to_review": 3,
+        "changed_to_other": 0,
+        "conditional_alert_loss": 0.5,
+        "conditional_review": 0.5,
+        "conditional_other": 0.0,
+        "control_pairs": 4,
+        "indeterminate_pairs": 2,
+        "controls": {
+          "base": {
+            "POST_ASSERTION": 0,
+            "OTHER": 3,
+            "REVIEW": 1
+          },
+          "variant": {
+            "POST_ASSERTION": 1,
+            "OTHER": 2,
+            "REVIEW": 1
+          }
+        },
+        "false_alert_rates": {
+          "base": 0.0,
+          "variant": 0.25
+        },
+        "indeterminate": {
+          "base": {
+            "POST_ASSERTION": 0,
+            "OTHER": 0,
+            "REVIEW": 2
+          },
+          "variant": {
+            "POST_ASSERTION": 0,
+            "OTHER": 1,
+            "REVIEW": 1
+          }
+        },
+        "transitions": [
+          {
+            "reference": "INDETERMINATE",
+            "base": "REVIEW",
+            "variant": "OTHER",
+            "n": 1
+          },
+          {
+            "reference": "INDETERMINATE",
+            "base": "REVIEW",
+            "variant": "REVIEW",
+            "n": 1
+          },
+          {
+            "reference": "OTHER",
+            "base": "OTHER",
+            "variant": "OTHER",
+            "n": 1
+          },
+          {
+            "reference": "OTHER",
+            "base": "OTHER",
+            "variant": "POST_ASSERTION",
+            "n": 1
+          },
+          {
+            "reference": "OTHER",
+            "base": "OTHER",
+            "variant": "REVIEW",
+            "n": 1
+          },
+          {
+            "reference": "OTHER",
+            "base": "REVIEW",
+            "variant": "OTHER",
+            "n": 1
+          },
+          {
+            "reference": "POST_ASSERTION",
+            "base": "POST_ASSERTION",
+            "variant": "POST_ASSERTION",
+            "n": 3
+          },
+          {
+            "reference": "POST_ASSERTION",
+            "base": "POST_ASSERTION",
+            "variant": "REVIEW",
+            "n": 3
+          }
+        ]
+      }
+    },
+    "es": {
+      "year_rule": {
+        "pairs": 12,
+        "positive_pairs": 6,
+        "detected_positive_bases": 6,
+        "all_positive_variants_alerted": 4,
+        "retained_alerts": 4,
+        "changed_to_review": 0,
+        "changed_to_other": 2,
+        "conditional_alert_loss": 0.3333333333333333,
+        "conditional_review": 0.0,
+        "conditional_other": 0.3333333333333333,
+        "control_pairs": 4,
+        "indeterminate_pairs": 2,
+        "controls": {
+          "base": {
+            "POST_ASSERTION": 4,
+            "OTHER": 0,
+            "REVIEW": 0
+          },
+          "variant": {
+            "POST_ASSERTION": 2,
+            "OTHER": 2,
+            "REVIEW": 0
+          }
+        },
+        "false_alert_rates": {
+          "base": 1.0,
+          "variant": 0.5
+        },
+        "indeterminate": {
+          "base": {
+            "POST_ASSERTION": 0,
+            "OTHER": 2,
+            "REVIEW": 0
+          },
+          "variant": {
+            "POST_ASSERTION": 0,
+            "OTHER": 2,
+            "REVIEW": 0
+          }
+        },
+        "transitions": [
+          {
+            "reference": "INDETERMINATE",
+            "base": "OTHER",
+            "variant": "OTHER",
+            "n": 2
+          },
+          {
+            "reference": "OTHER",
+            "base": "POST_ASSERTION",
+            "variant": "OTHER",
+            "n": 2
+          },
+          {
+            "reference": "OTHER",
+            "base": "POST_ASSERTION",
+            "variant": "POST_ASSERTION",
+            "n": 2
+          },
+          {
+            "reference": "POST_ASSERTION",
+            "base": "POST_ASSERTION",
+            "variant": "OTHER",
+            "n": 2
+          },
+          {
+            "reference": "POST_ASSERTION",
+            "base": "POST_ASSERTION",
+            "variant": "POST_ASSERTION",
+            "n": 4
+          }
+        ]
+      },
+      "proposition": {
+        "pairs": 12,
+        "positive_pairs": 6,
+        "detected_positive_bases": 6,
+        "all_positive_variants_alerted": 3,
+        "retained_alerts": 3,
+        "changed_to_review": 3,
+        "changed_to_other": 0,
+        "conditional_alert_loss": 0.5,
+        "conditional_review": 0.5,
+        "conditional_other": 0.0,
+        "control_pairs": 4,
+        "indeterminate_pairs": 2,
+        "controls": {
+          "base": {
+            "POST_ASSERTION": 0,
+            "OTHER": 4,
+            "REVIEW": 0
+          },
+          "variant": {
+            "POST_ASSERTION": 1,
+            "OTHER": 2,
+            "REVIEW": 1
+          }
+        },
+        "false_alert_rates": {
+          "base": 0.0,
+          "variant": 0.25
+        },
+        "indeterminate": {
+          "base": {
+            "POST_ASSERTION": 1,
+            "OTHER": 0,
+            "REVIEW": 1
+          },
+          "variant": {
+            "POST_ASSERTION": 1,
+            "OTHER": 0,
+            "REVIEW": 1
+          }
+        },
+        "transitions": [
+          {
+            "reference": "INDETERMINATE",
+            "base": "POST_ASSERTION",
+            "variant": "POST_ASSERTION",
+            "n": 1
+          },
+          {
+            "reference": "INDETERMINATE",
+            "base": "REVIEW",
+            "variant": "REVIEW",
+            "n": 1
+          },
+          {
+            "reference": "OTHER",
+            "base": "OTHER",
+            "variant": "OTHER",
+            "n": 2
+          },
+          {
+            "reference": "OTHER",
+            "base": "OTHER",
+            "variant": "POST_ASSERTION",
+            "n": 1
+          },
+          {
+            "reference": "OTHER",
+            "base": "OTHER",
+            "variant": "REVIEW",
+            "n": 1
+          },
+          {
+            "reference": "POST_ASSERTION",
+            "base": "POST_ASSERTION",
+            "variant": "POST_ASSERTION",
+            "n": 3
+          },
+          {
+            "reference": "POST_ASSERTION",
+            "base": "POST_ASSERTION",
+            "variant": "REVIEW",
+            "n": 3
+          }
+        ]
+      }
+    }
+  },
+  "predictions": [
+    {
+      "id": "R01-en",
+      "event_id": "rosetta",
+      "language": "en",
+      "cutoff": "2013-12-31",
+      "form": "metaphor",
+      "reference": "POST_ASSERTION",
+      "base": {
+        "year_rule": "POST_ASSERTION",
+        "proposition": "POST_ASSERTION",
+        "detected_years": [
+          2014
+        ],
+        "proposition_score": 7,
+        "proposition_reason": "completed_predicate"
+      },
+      "variant": {
+        "year_rule": "POST_ASSERTION",
+        "proposition": "REVIEW",
+        "detected_years": [
+          2014
+        ],
+        "proposition_score": 0,
+        "proposition_reason": "insufficient_proposition_evidence"
+      }
+    },
+    {
+      "id": "R01-es",
+      "event_id": "rosetta",
+      "language": "es",
+      "cutoff": "2013-12-31",
+      "form": "metaphor",
+      "reference": "POST_ASSERTION",
+      "base": {
+        "year_rule": "POST_ASSERTION",
+        "proposition": "POST_ASSERTION",
+        "detected_years": [
+          2014
+        ],
+        "proposition_score": 7,
+        "proposition_reason": "completed_predicate"
+      },
+      "variant": {
+        "year_rule": "POST_ASSERTION",
+        "proposition": "REVIEW",
+        "detected_years": [
+          2014
+        ],
+        "proposition_score": 0,
+        "proposition_reason": "insufficient_proposition_evidence"
+      }
+    },
+    {
+      "id": "R02-en",
+      "event_id": "dart",
+      "language": "en",
+      "cutoff": "2021-12-31",
+      "form": "passive",
+      "reference": "POST_ASSERTION",
+      "base": {
+        "year_rule": "POST_ASSERTION",
+        "proposition": "POST_ASSERTION",
+        "detected_years": [
+          2022
+        ],
+        "proposition_score": 7,
+        "proposition_reason": "completed_predicate"
+      },
+      "variant": {
+        "year_rule": "POST_ASSERTION",
+        "proposition": "REVIEW",
+        "detected_years": [
+          2022
+        ],
+        "proposition_score": 0,
+        "proposition_reason": "insufficient_proposition_evidence"
+      }
+    },
+    {
+      "id": "R02-es",
+      "event_id": "dart",
+      "language": "es",
+      "cutoff": "2021-12-31",
+      "form": "passive",
+      "reference": "POST_ASSERTION",
+      "base": {
+        "year_rule": "POST_ASSERTION",
+        "proposition": "POST_ASSERTION",
+        "detected_years": [
+          2022
+        ],
+        "proposition_score": 7,
+        "proposition_reason": "completed_predicate"
+      },
+      "variant": {
+        "year_rule": "POST_ASSERTION",
+        "proposition": "REVIEW",
+        "detected_years": [
+          2022
+        ],
+        "proposition_score": 0,
+        "proposition_reason": "insufficient_proposition_evidence"
+      }
+    },
+    {
+      "id": "R03-en",
+      "event_id": "perseverance",
+      "language": "en",
+      "cutoff": "2020-12-31",
+      "form": "date_words",
+      "reference": "POST_ASSERTION",
+      "base": {
+        "year_rule": "POST_ASSERTION",
+        "proposition": "POST_ASSERTION",
+        "detected_years": [
+          2021
+        ],
+        "proposition_score": 6,
+        "proposition_reason": "completed_predicate"
+      },
+      "variant": {
+        "year_rule": "OTHER",
+        "proposition": "POST_ASSERTION",
+        "detected_years": [],
+        "proposition_score": 6,
+        "proposition_reason": "completed_predicate"
+      }
+    },
+    {
+      "id": "R03-es",
+      "event_id": "perseverance",
+      "language": "es",
+      "cutoff": "2020-12-31",
+      "form": "date_words",
+      "reference": "POST_ASSERTION",
+      "base": {
+        "year_rule": "POST_ASSERTION",
+        "proposition": "POST_ASSERTION",
+        "detected_years": [
+          2021
+        ],
+        "proposition_score": 7,
+        "proposition_reason": "completed_predicate"
+      },
+      "variant": {
+        "year_rule": "OTHER",
+        "proposition": "POST_ASSERTION",
+        "detected_years": [],
+        "proposition_score": 7,
+        "proposition_reason": "completed_predicate"
+      }
+    },
+    {
+      "id": "R04-en",
+      "event_id": "osiris",
+      "language": "en",
+      "cutoff": "2022-12-31",
+      "form": "roman_year",
+      "reference": "POST_ASSERTION",
+      "base": {
+        "year_rule": "POST_ASSERTION",
+        "proposition": "POST_ASSERTION",
+        "detected_years": [
+          2023
+        ],
+        "proposition_score": 7,
+        "proposition_reason": "completed_predicate"
+      },
+      "variant": {
+        "year_rule": "OTHER",
+        "proposition": "POST_ASSERTION",
+        "detected_years": [],
+        "proposition_score": 7,
+        "proposition_reason": "completed_predicate"
+      }
+    },
+    {
+      "id": "R04-es",
+      "event_id": "osiris",
+      "language": "es",
+      "cutoff": "2022-12-31",
+      "form": "roman_year",
+      "reference": "POST_ASSERTION",
+      "base": {
+        "year_rule": "POST_ASSERTION",
+        "proposition": "POST_ASSERTION",
+        "detected_years": [
+          2023
+        ],
+        "proposition_score": 7,
+        "proposition_reason": "completed_predicate"
+      },
+      "variant": {
+        "year_rule": "OTHER",
+        "proposition": "POST_ASSERTION",
+        "detected_years": [],
+        "proposition_score": 7,
+        "proposition_reason": "completed_predicate"
+      }
+    },
+    {
+      "id": "R05-en",
+      "event_id": "rosetta",
+      "language": "en",
+      "cutoff": "2013-12-31",
+      "form": "sarcasm_explicit",
+      "reference": "POST_ASSERTION",
+      "base": {
+        "year_rule": "POST_ASSERTION",
+        "proposition": "POST_ASSERTION",
+        "detected_years": [
+          2014
+        ],
+        "proposition_score": 7,
+        "proposition_reason": "completed_predicate"
+      },
+      "variant": {
+        "year_rule": "POST_ASSERTION",
+        "proposition": "POST_ASSERTION",
+        "detected_years": [
+          2014
+        ],
+        "proposition_score": 7,
+        "proposition_reason": "completed_predicate"
+      }
+    },
+    {
+      "id": "R05-es",
+      "event_id": "rosetta",
+      "language": "es",
+      "cutoff": "2013-12-31",
+      "form": "sarcasm_explicit",
+      "reference": "POST_ASSERTION",
+      "base": {
+        "year_rule": "POST_ASSERTION",
+        "proposition": "POST_ASSERTION",
+        "detected_years": [
+          2014
+        ],
+        "proposition_score": 7,
+        "proposition_reason": "completed_predicate"
+      },
+      "variant": {
+        "year_rule": "POST_ASSERTION",
+        "proposition": "POST_ASSERTION",
+        "detected_years": [
+          2014
+        ],
+        "proposition_score": 7,
+        "proposition_reason": "completed_predicate"
+      }
+    },
+    {
+      "id": "R06-en",
+      "event_id": "perseverance",
+      "language": "en",
+      "cutoff": "2020-12-31",
+      "form": "noun_phrase",
+      "reference": "POST_ASSERTION",
+      "base": {
+        "year_rule": "POST_ASSERTION",
+        "proposition": "POST_ASSERTION",
+        "detected_years": [
+          2021
+        ],
+        "proposition_score": 6,
+        "proposition_reason": "completed_predicate"
+      },
+      "variant": {
+        "year_rule": "POST_ASSERTION",
+        "proposition": "REVIEW",
+        "detected_years": [
+          2021
+        ],
+        "proposition_score": 0,
+        "proposition_reason": "insufficient_proposition_evidence"
+      }
+    },
+    {
+      "id": "R06-es",
+      "event_id": "perseverance",
+      "language": "es",
+      "cutoff": "2020-12-31",
+      "form": "noun_phrase",
+      "reference": "POST_ASSERTION",
+      "base": {
+        "year_rule": "POST_ASSERTION",
+        "proposition": "POST_ASSERTION",
+        "detected_years": [
+          2021
+        ],
+        "proposition_score": 7,
+        "proposition_reason": "completed_predicate"
+      },
+      "variant": {
+        "year_rule": "POST_ASSERTION",
+        "proposition": "REVIEW",
+        "detected_years": [
+          2021
+        ],
+        "proposition_score": 0,
+        "proposition_reason": "insufficient_proposition_evidence"
+      }
+    },
+    {
+      "id": "R07-en",
+      "event_id": "dart",
+      "language": "en",
+      "cutoff": "2021-12-31",
+      "form": "quotation_mention",
+      "reference": "OTHER",
+      "base": {
+        "year_rule": "POST_ASSERTION",
+        "proposition": "REVIEW",
+        "detected_years": [
+          2022
+        ],
+        "proposition_score": 0,
+        "proposition_reason": "insufficient_proposition_evidence"
+      },
+      "variant": {
+        "year_rule": "POST_ASSERTION",
+        "proposition": "OTHER",
+        "detected_years": [
+          2022
+        ],
+        "proposition_score": 7,
+        "proposition_reason": "scoped_nonassertion"
+      }
+    },
+    {
+      "id": "R07-es",
+      "event_id": "dart",
+      "language": "es",
+      "cutoff": "2021-12-31",
+      "form": "quotation_mention",
+      "reference": "OTHER",
+      "base": {
+        "year_rule": "POST_ASSERTION",
+        "proposition": "OTHER",
+        "detected_years": [
+          2022
+        ],
+        "proposition_score": 7,
+        "proposition_reason": "scoped_nonassertion"
+      },
+      "variant": {
+        "year_rule": "POST_ASSERTION",
+        "proposition": "OTHER",
+        "detected_years": [
+          2022
+        ],
+        "proposition_score": 7,
+        "proposition_reason": "scoped_nonassertion"
+      }
+    },
+    {
+      "id": "R08-en",
+      "event_id": "osiris",
+      "language": "en",
+      "cutoff": "2022-12-31",
+      "form": "negation",
+      "reference": "OTHER",
+      "base": {
+        "year_rule": "POST_ASSERTION",
+        "proposition": "OTHER",
+        "detected_years": [
+          2023
+        ],
+        "proposition_score": 8,
+        "proposition_reason": "scoped_nonassertion"
+      },
+      "variant": {
+        "year_rule": "POST_ASSERTION",
+        "proposition": "POST_ASSERTION",
+        "detected_years": [
+          2023
+        ],
+        "proposition_score": 8,
+        "proposition_reason": "completed_predicate"
+      }
+    },
+    {
+      "id": "R08-es",
+      "event_id": "osiris",
+      "language": "es",
+      "cutoff": "2022-12-31",
+      "form": "negation",
+      "reference": "OTHER",
+      "base": {
+        "year_rule": "POST_ASSERTION",
+        "proposition": "OTHER",
+        "detected_years": [
+          2023
+        ],
+        "proposition_score": 8,
+        "proposition_reason": "scoped_nonassertion"
+      },
+      "variant": {
+        "year_rule": "POST_ASSERTION",
+        "proposition": "POST_ASSERTION",
+        "detected_years": [
+          2023
+        ],
+        "proposition_score": 7,
+        "proposition_reason": "completed_predicate"
+      }
+    },
+    {
+      "id": "R09-en",
+      "event_id": "perseverance",
+      "language": "en",
+      "cutoff": "2020-12-31",
+      "form": "forecast",
+      "reference": "OTHER",
+      "base": {
+        "year_rule": "POST_ASSERTION",
+        "proposition": "OTHER",
+        "detected_years": [
+          2021
+        ],
+        "proposition_score": 7,
+        "proposition_reason": "scoped_nonassertion"
+      },
+      "variant": {
+        "year_rule": "OTHER",
+        "proposition": "REVIEW",
+        "detected_years": [],
+        "proposition_score": 0,
+        "proposition_reason": "insufficient_proposition_evidence"
+      }
+    },
+    {
+      "id": "R09-es",
+      "event_id": "perseverance",
+      "language": "es",
+      "cutoff": "2020-12-31",
+      "form": "forecast",
+      "reference": "OTHER",
+      "base": {
+        "year_rule": "POST_ASSERTION",
+        "proposition": "OTHER",
+        "detected_years": [
+          2021
+        ],
+        "proposition_score": 7,
+        "proposition_reason": "scoped_nonassertion"
+      },
+      "variant": {
+        "year_rule": "OTHER",
+        "proposition": "REVIEW",
+        "detected_years": [],
+        "proposition_score": 0,
+        "proposition_reason": "insufficient_proposition_evidence"
+      }
+    },
+    {
+      "id": "R10-en",
+      "event_id": "dart",
+      "language": "en",
+      "cutoff": "2021-12-31",
+      "form": "question",
+      "reference": "OTHER",
+      "base": {
+        "year_rule": "POST_ASSERTION",
+        "proposition": "OTHER",
+        "detected_years": [
+          2022
+        ],
+        "proposition_score": 8,
+        "proposition_reason": "scoped_nonassertion"
+      },
+      "variant": {
+        "year_rule": "OTHER",
+        "proposition": "OTHER",
+        "detected_years": [],
+        "proposition_score": 8,
+        "proposition_reason": "scoped_nonassertion"
+      }
+    },
+    {
+      "id": "R10-es",
+      "event_id": "dart",
+      "language": "es",
+      "cutoff": "2021-12-31",
+      "form": "question",
+      "reference": "OTHER",
+      "base": {
+        "year_rule": "POST_ASSERTION",
+        "proposition": "OTHER",
+        "detected_years": [
+          2022
+        ],
+        "proposition_score": 8,
+        "proposition_reason": "scoped_nonassertion"
+      },
+      "variant": {
+        "year_rule": "OTHER",
+        "proposition": "OTHER",
+        "detected_years": [],
+        "proposition_score": 8,
+        "proposition_reason": "scoped_nonassertion"
+      }
+    },
+    {
+      "id": "R11-en",
+      "event_id": "rosetta",
+      "language": "en",
+      "cutoff": "2013-12-31",
+      "form": "sarcasm_unresolved",
+      "reference": "INDETERMINATE",
+      "base": {
+        "year_rule": "OTHER",
+        "proposition": "REVIEW",
+        "detected_years": [],
+        "proposition_score": 0,
+        "proposition_reason": "insufficient_proposition_evidence"
+      },
+      "variant": {
+        "year_rule": "OTHER",
+        "proposition": "REVIEW",
+        "detected_years": [],
+        "proposition_score": 0,
+        "proposition_reason": "insufficient_proposition_evidence"
+      }
+    },
+    {
+      "id": "R11-es",
+      "event_id": "rosetta",
+      "language": "es",
+      "cutoff": "2013-12-31",
+      "form": "sarcasm_unresolved",
+      "reference": "INDETERMINATE",
+      "base": {
+        "year_rule": "OTHER",
+        "proposition": "POST_ASSERTION",
+        "detected_years": [],
+        "proposition_score": 6,
+        "proposition_reason": "completed_predicate"
+      },
+      "variant": {
+        "year_rule": "OTHER",
+        "proposition": "POST_ASSERTION",
+        "detected_years": [],
+        "proposition_score": 6,
+        "proposition_reason": "completed_predicate"
+      }
+    },
+    {
+      "id": "R12-en",
+      "event_id": "osiris",
+      "language": "en",
+      "cutoff": "2022-12-31",
+      "form": "quotation_unresolved",
+      "reference": "INDETERMINATE",
+      "base": {
+        "year_rule": "OTHER",
+        "proposition": "REVIEW",
+        "detected_years": [],
+        "proposition_score": 0,
+        "proposition_reason": "insufficient_proposition_evidence"
+      },
+      "variant": {
+        "year_rule": "OTHER",
+        "proposition": "OTHER",
+        "detected_years": [],
+        "proposition_score": 7,
+        "proposition_reason": "scoped_nonassertion"
+      }
+    },
+    {
+      "id": "R12-es",
+      "event_id": "osiris",
+      "language": "es",
+      "cutoff": "2022-12-31",
+      "form": "quotation_unresolved",
+      "reference": "INDETERMINATE",
+      "base": {
+        "year_rule": "OTHER",
+        "proposition": "REVIEW",
+        "detected_years": [],
+        "proposition_score": 0,
+        "proposition_reason": "insufficient_proposition_evidence"
+      },
+      "variant": {
+        "year_rule": "OTHER",
+        "proposition": "REVIEW",
+        "detected_years": [],
+        "proposition_score": 0,
+        "proposition_reason": "insufficient_proposition_evidence"
+      }
+    }
+  ],
+  "inert_local_capture": {
+    "marker": "EDITORIAL NOTE · INERTE",
+    "location": "sources[0].text",
+    "same_policy_cutoff_and_prompt": true,
+    "only_sources_changed": true,
+    "marker_at_declared_location_only": true,
+    "eligible_id_unchanged": true,
+    "identical_output": true,
+    "request_hash_changed": true,
+    "both_receipts_validate": true,
+    "sender_calls": 2,
+    "request_hashes": [
+      "1d761dddca7bfc77d0b07205145f2c30235850347879f18af98a9840d91a4414",
+      "f0d4e1d963846813625abf33289c7c140a9b8f256ca5b894cd5f4863d99e5034"
+    ]
+  }
+}

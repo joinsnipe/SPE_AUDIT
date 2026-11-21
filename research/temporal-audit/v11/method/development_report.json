@@ -1,0 +1,47 @@
+{
+  "original96": {
+    "n": 96,
+    "decisions": 94,
+    "errors": 0,
+    "reviews": 2,
+    "coverage": 0.9791666666666666,
+    "selective_error": 0.0,
+    "confusion": {
+      "POST_ASSERTION": {
+        "POST_ASSERTION": 30,
+        "OTHER": 0,
+        "REVIEW": 2
+      },
+      "OTHER": {
+        "POST_ASSERTION": 0,
+        "OTHER": 64,
+        "REVIEW": 0
+      }
+    }
+  },
+  "public16": {
+    "n": 16,
+    "decisions": 11,
+    "errors": 0,
+    "reviews": 5,
+    "coverage": 0.6875,
+    "selective_error": 0.0,
+    "confusion": {
+      "POST_ASSERTION": {
+        "POST_ASSERTION": 4,
+        "OTHER": 0,
+        "REVIEW": 4
+      },
+      "OTHER": {
+        "POST_ASSERTION": 0,
+        "OTHER": 7,
+        "REVIEW": 1
+      }
+    }
+  },
+  "calibration_overlap": {
+    "exact_output_overlap_with_old": 0,
+    "distinct_calibration_texts": 48,
+    "shared_registered_events": 4
+  }
+}

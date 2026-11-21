@@ -1,0 +1,14 @@
+{
+  "purpose": "Blind review preparation after frozen model evaluation; retrospective human validation",
+  "sha256": {
+    "EVALUATION.md": "2f93b94e1e87bf044223be4c4fc0d579ac58ba854b8d6933a304b5410a5c60e3",
+    "holdout/cases.json": "d9522257ada3bca4d718e2f502441551c1071793f19f65b27406833ecc4d3a11",
+    "holdout/events.json": "c9fb3715e3e6488fe13a51b455ed312834899292ef103835252fd04f82666369",
+    "holdout/labels.json": "54fa1ac2e9d7222607e4ccda0e174025437daadd917fe8985062c6271b869445",
+    "method/proposition.py": "dd9245530240ebf2fb4d20e42f4db2a4f8f2a2fcb6497aefbd6797abe864ea67",
+    "method/threshold.json": "c03fdf6e32472972188e855914bb8cab2261e1a00804303300a0c017d5f9a498",
+    "review/review.py": "cb8b1856e0782eac254ac9628556331ebdf53e9a619c8c3e355ebae38644d642",
+    "review/review_en.md": "ccec76c4395d255e4ea266a8d633d5576f23e179ab61cef3deb6cc6b2b655355",
+    "review/review_es.md": "a6d4e321c0809940ea453e4317a8390f8bc1d52d989f267e628c266a607708c5"
+  }
+}

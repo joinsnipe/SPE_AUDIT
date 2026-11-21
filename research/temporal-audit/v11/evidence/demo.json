@@ -1,0 +1,159 @@
+{
+  "schema": "spe-intraday-dossier-v1",
+  "source_pool": [
+    {
+      "id": "bulletin",
+      "version": 1,
+      "text": "Status: scheduled.",
+      "text_sha256": "10eb0fcd735730fc9e81afe6bcfb5d511bf8064b3e6f02dea844c7affd86442d",
+      "times": {
+        "event": null,
+        "publication": "2026-06-01T09:00:00+02:00",
+        "effective": "2026-06-01T09:00:00+02:00",
+        "ingestion": null,
+        "capture": null
+      }
+    },
+    {
+      "id": "bulletin",
+      "version": 2,
+      "text": "Status: approved.",
+      "text_sha256": "a73051d862e78b6fd01aab8a45b2885a3ea6b92a8d1200d56698534e83db8aa9",
+      "times": {
+        "event": null,
+        "publication": "2026-06-01T12:25:00+02:00",
+        "effective": "2026-06-01T09:00:00+02:00",
+        "ingestion": null,
+        "capture": null
+      }
+    },
+    {
+      "id": "procedure",
+      "version": 1,
+      "text": "The bulletin states the current status.",
+      "text_sha256": "09e3cec58fa52cab966f555ef3be85e9c329f3533429a7214e37fcef239bf7fc",
+      "times": {
+        "event": null,
+        "publication": "2026-06-01T09:00:00+02:00",
+        "effective": "2026-06-01T09:00:00+02:00",
+        "ingestion": null,
+        "capture": null
+      }
+    },
+    {
+      "id": "undated-hour",
+      "version": 1,
+      "text": "A bulletin update is expected.",
+      "text_sha256": "aa3477df77af6768d6c1a607158b644935a795cbf7a306297e52177e04a4db28",
+      "times": {
+        "event": null,
+        "publication": {
+          "earliest": "2026-06-01T00:00:00+02:00",
+          "latest": "2026-06-01T23:59:59.999999+02:00"
+        },
+        "effective": "2026-06-01T09:00:00+02:00",
+        "ingestion": null,
+        "capture": null
+      }
+    }
+  ],
+  "before": {
+    "decisions": {
+      "[\"bulletin\",1]": {
+        "decision": "eligible",
+        "fields": {
+          "publication": "eligible",
+          "effective": "eligible"
+        }
+      },
+      "[\"bulletin\",2]": {
+        "decision": "ineligible",
+        "fields": {
+          "publication": "ineligible",
+          "effective": "eligible"
+        }
+      },
+      "[\"procedure\",1]": {
+        "decision": "eligible",
+        "fields": {
+          "publication": "eligible",
+          "effective": "eligible"
+        }
+      },
+      "[\"undated-hour\",1]": {
+        "decision": "indeterminate",
+        "fields": {
+          "publication": "indeterminate",
+          "effective": "eligible"
+        }
+      }
+    },
+    "cutoff": "2026-06-01T12:00:00+02:00",
+    "request_utf8": "{\"cutoff\":\"2026-06-01T12:00:00+02:00\",\"prompt\":\"What status does the latest eligible bulletin declare?\",\"required_fields\":[\"publication\",\"effective\"],\"schema\":\"spe-intraday-request-v1\",\"selected_root\":\"45fdcac04fe38185302075d5d4b644fdc496949ae8abc8e5fbff8b49316b0273\",\"sources\":[{\"id\":\"bulletin\",\"text\":\"Status: scheduled.\",\"text_sha256\":\"10eb0fcd735730fc9e81afe6bcfb5d511bf8064b3e6f02dea844c7affd86442d\",\"times\":{\"capture\":null,\"effective\":\"2026-06-01T09:00:00+02:00\",\"event\":null,\"ingestion\":null,\"publication\":\"2026-06-01T09:00:00+02:00\"},\"version\":1},{\"id\":\"procedure\",\"text\":\"The bulletin states the current status.\",\"text_sha256\":\"09e3cec58fa52cab966f555ef3be85e9c329f3533429a7214e37fcef239bf7fc\",\"times\":{\"capture\":null,\"effective\":\"2026-06-01T09:00:00+02:00\",\"event\":null,\"ingestion\":null,\"publication\":\"2026-06-01T09:00:00+02:00\"},\"version\":1}]}",
+    "request_sha256": "96122de79b7f67d4d0c11221ddc0483e96c565aaba900348c65c4f47dc209d15",
+    "output": "Status: scheduled.",
+    "output_sha256": "10eb0fcd735730fc9e81afe6bcfb5d511bf8064b3e6f02dea844c7affd86442d",
+    "sender": "local-bulletin-reader-v1",
+    "selected_root": "45fdcac04fe38185302075d5d4b644fdc496949ae8abc8e5fbff8b49316b0273",
+    "disclosed_leaf_utf8": "{\"id\":\"bulletin\",\"text\":\"Status: scheduled.\",\"text_sha256\":\"10eb0fcd735730fc9e81afe6bcfb5d511bf8064b3e6f02dea844c7affd86442d\",\"times\":{\"capture\":null,\"effective\":\"2026-06-01T09:00:00+02:00\",\"event\":null,\"ingestion\":null,\"publication\":\"2026-06-01T09:00:00+02:00\"},\"version\":1}",
+    "proof": {
+      "scheme": "spe-ordered-merkle-sha256-v1",
+      "size": 2,
+      "index": 0,
+      "siblings": [
+        "e32034a8f99217e7d9686687f02d15e9969c4262589a01ebb448878d33b17261"
+      ]
+    }
+  },
+  "after": {
+    "decisions": {
+      "[\"bulletin\",1]": {
+        "decision": "eligible",
+        "fields": {
+          "publication": "eligible",
+          "effective": "eligible"
+        }
+      },
+      "[\"bulletin\",2]": {
+        "decision": "eligible",
+        "fields": {
+          "publication": "eligible",
+          "effective": "eligible"
+        }
+      },
+      "[\"procedure\",1]": {
+        "decision": "eligible",
+        "fields": {
+          "publication": "eligible",
+          "effective": "eligible"
+        }
+      },
+      "[\"undated-hour\",1]": {
+        "decision": "indeterminate",
+        "fields": {
+          "publication": "indeterminate",
+          "effective": "eligible"
+        }
+      }
+    },
+    "cutoff": "2026-06-01T13:00:00+02:00",
+    "request_utf8": "{\"cutoff\":\"2026-06-01T13:00:00+02:00\",\"prompt\":\"What status does the latest eligible bulletin declare?\",\"required_fields\":[\"publication\",\"effective\"],\"schema\":\"spe-intraday-request-v1\",\"selected_root\":\"e8641485151ad89086f0884bbe83d7cc9b96ab16560ac1a9b970c112ad628812\",\"sources\":[{\"id\":\"bulletin\",\"text\":\"Status: scheduled.\",\"text_sha256\":\"10eb0fcd735730fc9e81afe6bcfb5d511bf8064b3e6f02dea844c7affd86442d\",\"times\":{\"capture\":null,\"effective\":\"2026-06-01T09:00:00+02:00\",\"event\":null,\"ingestion\":null,\"publication\":\"2026-06-01T09:00:00+02:00\"},\"version\":1},{\"id\":\"bulletin\",\"text\":\"Status: approved.\",\"text_sha256\":\"a73051d862e78b6fd01aab8a45b2885a3ea6b92a8d1200d56698534e83db8aa9\",\"times\":{\"capture\":null,\"effective\":\"2026-06-01T09:00:00+02:00\",\"event\":null,\"ingestion\":null,\"publication\":\"2026-06-01T12:25:00+02:00\"},\"version\":2},{\"id\":\"procedure\",\"text\":\"The bulletin states the current status.\",\"text_sha256\":\"09e3cec58fa52cab966f555ef3be85e9c329f3533429a7214e37fcef239bf7fc\",\"times\":{\"capture\":null,\"effective\":\"2026-06-01T09:00:00+02:00\",\"event\":null,\"ingestion\":null,\"publication\":\"2026-06-01T09:00:00+02:00\"},\"version\":1}]}",
+    "request_sha256": "8dbf9c7737fe5dd999f4e68e0350c3c5fd4033ddb226f782202ab30e8ebe43aa",
+    "output": "Status: approved.",
+    "output_sha256": "a73051d862e78b6fd01aab8a45b2885a3ea6b92a8d1200d56698534e83db8aa9",
+    "sender": "local-bulletin-reader-v1",
+    "selected_root": "e8641485151ad89086f0884bbe83d7cc9b96ab16560ac1a9b970c112ad628812",
+    "disclosed_leaf_utf8": "{\"id\":\"bulletin\",\"text\":\"Status: scheduled.\",\"text_sha256\":\"10eb0fcd735730fc9e81afe6bcfb5d511bf8064b3e6f02dea844c7affd86442d\",\"times\":{\"capture\":null,\"effective\":\"2026-06-01T09:00:00+02:00\",\"event\":null,\"ingestion\":null,\"publication\":\"2026-06-01T09:00:00+02:00\"},\"version\":1}",
+    "proof": {
+      "scheme": "spe-ordered-merkle-sha256-v1",
+      "size": 3,
+      "index": 0,
+      "siblings": [
+        "090f27da092930cb82e9f2ebc2effd84cda874de672dd19b166d0767d502d2e0",
+        "30eec34a5836f0116d23b68df8aea86f30d6d1141842cc4cf74a00c3f80cac8a"
+      ]
+    }
+  },
+  "mutated_disclosure_rejected": true,
+  "pinned_snapshot_sha256": "b8c426752b9feb2239dc9d356f5c01b30bdf3a614e68728eb717dba96671d17a"
+}

@@ -1,0 +1,741 @@
+{
+  "selection": {
+    "threshold": 5,
+    "policy": {
+      "grid": [
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "max_observed_error": 0.05,
+      "minimum_coverage": 0.4,
+      "minimum_per_language_and_decision": 2,
+      "objective": "maximize coverage, then minimize errors, then prefer higher threshold"
+    },
+    "calibration_sha256": "c642b9739f6b05a7b5544aadb6bac1923eff97fe2b7f68a9cfbcf7e04512750f"
+  },
+  "grid": [
+    {
+      "threshold": 4,
+      "eligible": true,
+      "n": 48,
+      "decisions": 42,
+      "errors": 0,
+      "reviews": 6,
+      "coverage": 0.875,
+      "selective_error": 0.0,
+      "confusion": {
+        "POST_ASSERTION": {
+          "POST_ASSERTION": 14,
+          "OTHER": 0,
+          "REVIEW": 2
+        },
+        "OTHER": {
+          "POST_ASSERTION": 0,
+          "OTHER": 28,
+          "REVIEW": 4
+        }
+      }
+    },
+    {
+      "threshold": 5,
+      "eligible": true,
+      "n": 48,
+      "decisions": 42,
+      "errors": 0,
+      "reviews": 6,
+      "coverage": 0.875,
+      "selective_error": 0.0,
+      "confusion": {
+        "POST_ASSERTION": {
+          "POST_ASSERTION": 14,
+          "OTHER": 0,
+          "REVIEW": 2
+        },
+        "OTHER": {
+          "POST_ASSERTION": 0,
+          "OTHER": 28,
+          "REVIEW": 4
+        }
+      }
+    },
+    {
+      "threshold": 6,
+      "eligible": true,
+      "n": 48,
+      "decisions": 39,
+      "errors": 0,
+      "reviews": 9,
+      "coverage": 0.8125,
+      "selective_error": 0.0,
+      "confusion": {
+        "POST_ASSERTION": {
+          "POST_ASSERTION": 11,
+          "OTHER": 0,
+          "REVIEW": 5
+        },
+        "OTHER": {
+          "POST_ASSERTION": 0,
+          "OTHER": 28,
+          "REVIEW": 4
+        }
+      }
+    },
+    {
+      "threshold": 7,
+      "eligible": true,
+      "n": 48,
+      "decisions": 37,
+      "errors": 0,
+      "reviews": 11,
+      "coverage": 0.7708333333333334,
+      "selective_error": 0.0,
+      "confusion": {
+        "POST_ASSERTION": {
+          "POST_ASSERTION": 9,
+          "OTHER": 0,
+          "REVIEW": 7
+        },
+        "OTHER": {
+          "POST_ASSERTION": 0,
+          "OTHER": 28,
+          "REVIEW": 4
+        }
+      }
+    },
+    {
+      "threshold": 8,
+      "eligible": false,
+      "n": 48,
+      "decisions": 18,
+      "errors": 0,
+      "reviews": 30,
+      "coverage": 0.375,
+      "selective_error": 0.0,
+      "confusion": {
+        "POST_ASSERTION": {
+          "POST_ASSERTION": 0,
+          "OTHER": 0,
+          "REVIEW": 16
+        },
+        "OTHER": {
+          "POST_ASSERTION": 0,
+          "OTHER": 18,
+          "REVIEW": 14
+        }
+      }
+    }
+  ],
+  "overall": {
+    "n": 48,
+    "decisions": 42,
+    "errors": 0,
+    "reviews": 6,
+    "coverage": 0.875,
+    "selective_error": 0.0,
+    "confusion": {
+      "POST_ASSERTION": {
+        "POST_ASSERTION": 14,
+        "OTHER": 0,
+        "REVIEW": 2
+      },
+      "OTHER": {
+        "POST_ASSERTION": 0,
+        "OTHER": 28,
+        "REVIEW": 4
+      }
+    }
+  },
+  "language": {
+    "en": {
+      "n": 24,
+      "decisions": 21,
+      "errors": 0,
+      "reviews": 3,
+      "coverage": 0.875,
+      "selective_error": 0.0,
+      "confusion": {
+        "POST_ASSERTION": {
+          "POST_ASSERTION": 7,
+          "OTHER": 0,
+          "REVIEW": 1
+        },
+        "OTHER": {
+          "POST_ASSERTION": 0,
+          "OTHER": 14,
+          "REVIEW": 2
+        }
+      }
+    },
+    "es": {
+      "n": 24,
+      "decisions": 21,
+      "errors": 0,
+      "reviews": 3,
+      "coverage": 0.875,
+      "selective_error": 0.0,
+      "confusion": {
+        "POST_ASSERTION": {
+          "POST_ASSERTION": 7,
+          "OTHER": 0,
+          "REVIEW": 1
+        },
+        "OTHER": {
+          "POST_ASSERTION": 0,
+          "OTHER": 14,
+          "REVIEW": 2
+        }
+      }
+    }
+  },
+  "stratum": {
+    "cutoff": {
+      "n": 6,
+      "decisions": 6,
+      "errors": 0,
+      "reviews": 0,
+      "coverage": 1.0,
+      "selective_error": 0.0,
+      "confusion": {
+        "POST_ASSERTION": {
+          "POST_ASSERTION": 0,
+          "OTHER": 0,
+          "REVIEW": 0
+        },
+        "OTHER": {
+          "POST_ASSERTION": 0,
+          "OTHER": 6,
+          "REVIEW": 0
+        }
+      }
+    },
+    "denial": {
+      "n": 6,
+      "decisions": 6,
+      "errors": 0,
+      "reviews": 0,
+      "coverage": 1.0,
+      "selective_error": 0.0,
+      "confusion": {
+        "POST_ASSERTION": {
+          "POST_ASSERTION": 0,
+          "OTHER": 0,
+          "REVIEW": 0
+        },
+        "OTHER": {
+          "POST_ASSERTION": 0,
+          "OTHER": 6,
+          "REVIEW": 0
+        }
+      }
+    },
+    "direct": {
+      "n": 6,
+      "decisions": 6,
+      "errors": 0,
+      "reviews": 0,
+      "coverage": 1.0,
+      "selective_error": 0.0,
+      "confusion": {
+        "POST_ASSERTION": {
+          "POST_ASSERTION": 6,
+          "OTHER": 0,
+          "REVIEW": 0
+        },
+        "OTHER": {
+          "POST_ASSERTION": 0,
+          "OTHER": 0,
+          "REVIEW": 0
+        }
+      }
+    },
+    "forecast": {
+      "n": 6,
+      "decisions": 6,
+      "errors": 0,
+      "reviews": 0,
+      "coverage": 1.0,
+      "selective_error": 0.0,
+      "confusion": {
+        "POST_ASSERTION": {
+          "POST_ASSERTION": 0,
+          "OTHER": 0,
+          "REVIEW": 0
+        },
+        "OTHER": {
+          "POST_ASSERTION": 0,
+          "OTHER": 6,
+          "REVIEW": 0
+        }
+      }
+    },
+    "mixed": {
+      "n": 6,
+      "decisions": 6,
+      "errors": 0,
+      "reviews": 0,
+      "coverage": 1.0,
+      "selective_error": 0.0,
+      "confusion": {
+        "POST_ASSERTION": {
+          "POST_ASSERTION": 6,
+          "OTHER": 0,
+          "REVIEW": 0
+        },
+        "OTHER": {
+          "POST_ASSERTION": 0,
+          "OTHER": 0,
+          "REVIEW": 0
+        }
+      }
+    },
+    "question": {
+      "n": 6,
+      "decisions": 6,
+      "errors": 0,
+      "reviews": 0,
+      "coverage": 1.0,
+      "selective_error": 0.0,
+      "confusion": {
+        "POST_ASSERTION": {
+          "POST_ASSERTION": 0,
+          "OTHER": 0,
+          "REVIEW": 0
+        },
+        "OTHER": {
+          "POST_ASSERTION": 0,
+          "OTHER": 6,
+          "REVIEW": 0
+        }
+      }
+    },
+    "quotation": {
+      "n": 6,
+      "decisions": 4,
+      "errors": 0,
+      "reviews": 2,
+      "coverage": 0.6666666666666666,
+      "selective_error": 0.0,
+      "confusion": {
+        "POST_ASSERTION": {
+          "POST_ASSERTION": 0,
+          "OTHER": 0,
+          "REVIEW": 0
+        },
+        "OTHER": {
+          "POST_ASSERTION": 0,
+          "OTHER": 4,
+          "REVIEW": 2
+        }
+      }
+    },
+    "reference": {
+      "n": 6,
+      "decisions": 2,
+      "errors": 0,
+      "reviews": 4,
+      "coverage": 0.3333333333333333,
+      "selective_error": 0.0,
+      "confusion": {
+        "POST_ASSERTION": {
+          "POST_ASSERTION": 2,
+          "OTHER": 0,
+          "REVIEW": 2
+        },
+        "OTHER": {
+          "POST_ASSERTION": 0,
+          "OTHER": 0,
+          "REVIEW": 2
+        }
+      }
+    }
+  },
+  "records": [
+    {
+      "id": "cal-001",
+      "language": "en",
+      "stratum": "direct",
+      "gold": "POST_ASSERTION",
+      "decision": "POST_ASSERTION",
+      "score": 7
+    },
+    {
+      "id": "cal-002",
+      "language": "en",
+      "stratum": "direct",
+      "gold": "POST_ASSERTION",
+      "decision": "POST_ASSERTION",
+      "score": 6
+    },
+    {
+      "id": "cal-003",
+      "language": "en",
+      "stratum": "direct",
+      "gold": "POST_ASSERTION",
+      "decision": "POST_ASSERTION",
+      "score": 7
+    },
+    {
+      "id": "cal-004",
+      "language": "en",
+      "stratum": "denial",
+      "gold": "OTHER",
+      "decision": "OTHER",
+      "score": 8
+    },
+    {
+      "id": "cal-005",
+      "language": "en",
+      "stratum": "denial",
+      "gold": "OTHER",
+      "decision": "OTHER",
+      "score": 8
+    },
+    {
+      "id": "cal-006",
+      "language": "en",
+      "stratum": "denial",
+      "gold": "OTHER",
+      "decision": "OTHER",
+      "score": 8
+    },
+    {
+      "id": "cal-007",
+      "language": "en",
+      "stratum": "forecast",
+      "gold": "OTHER",
+      "decision": "OTHER",
+      "score": 7
+    },
+    {
+      "id": "cal-008",
+      "language": "en",
+      "stratum": "forecast",
+      "gold": "OTHER",
+      "decision": "OTHER",
+      "score": 7
+    },
+    {
+      "id": "cal-009",
+      "language": "en",
+      "stratum": "forecast",
+      "gold": "OTHER",
+      "decision": "OTHER",
+      "score": 7
+    },
+    {
+      "id": "cal-010",
+      "language": "en",
+      "stratum": "question",
+      "gold": "OTHER",
+      "decision": "OTHER",
+      "score": 8
+    },
+    {
+      "id": "cal-011",
+      "language": "en",
+      "stratum": "question",
+      "gold": "OTHER",
+      "decision": "OTHER",
+      "score": 8
+    },
+    {
+      "id": "cal-012",
+      "language": "en",
+      "stratum": "question",
+      "gold": "OTHER",
+      "decision": "OTHER",
+      "score": 8
+    },
+    {
+      "id": "cal-013",
+      "language": "en",
+      "stratum": "quotation",
+      "gold": "OTHER",
+      "decision": "OTHER",
+      "score": 7
+    },
+    {
+      "id": "cal-014",
+      "language": "en",
+      "stratum": "quotation",
+      "gold": "OTHER",
+      "decision": "REVIEW",
+      "score": 0
+    },
+    {
+      "id": "cal-015",
+      "language": "en",
+      "stratum": "quotation",
+      "gold": "OTHER",
+      "decision": "OTHER",
+      "score": 7
+    },
+    {
+      "id": "cal-016",
+      "language": "en",
+      "stratum": "mixed",
+      "gold": "POST_ASSERTION",
+      "decision": "POST_ASSERTION",
+      "score": 7
+    },
+    {
+      "id": "cal-017",
+      "language": "en",
+      "stratum": "mixed",
+      "gold": "POST_ASSERTION",
+      "decision": "POST_ASSERTION",
+      "score": 7
+    },
+    {
+      "id": "cal-018",
+      "language": "en",
+      "stratum": "mixed",
+      "gold": "POST_ASSERTION",
+      "decision": "POST_ASSERTION",
+      "score": 6
+    },
+    {
+      "id": "cal-019",
+      "language": "en",
+      "stratum": "reference",
+      "gold": "POST_ASSERTION",
+      "decision": "POST_ASSERTION",
+      "score": 5
+    },
+    {
+      "id": "cal-020",
+      "language": "en",
+      "stratum": "reference",
+      "gold": "POST_ASSERTION",
+      "decision": "REVIEW",
+      "score": 0
+    },
+    {
+      "id": "cal-021",
+      "language": "en",
+      "stratum": "reference",
+      "gold": "OTHER",
+      "decision": "REVIEW",
+      "score": 0
+    },
+    {
+      "id": "cal-022",
+      "language": "en",
+      "stratum": "cutoff",
+      "gold": "OTHER",
+      "decision": "OTHER",
+      "score": 8
+    },
+    {
+      "id": "cal-023",
+      "language": "en",
+      "stratum": "cutoff",
+      "gold": "OTHER",
+      "decision": "OTHER",
+      "score": 8
+    },
+    {
+      "id": "cal-024",
+      "language": "en",
+      "stratum": "cutoff",
+      "gold": "OTHER",
+      "decision": "OTHER",
+      "score": 8
+    },
+    {
+      "id": "cal-025",
+      "language": "es",
+      "stratum": "direct",
+      "gold": "POST_ASSERTION",
+      "decision": "POST_ASSERTION",
+      "score": 7
+    },
+    {
+      "id": "cal-026",
+      "language": "es",
+      "stratum": "direct",
+      "gold": "POST_ASSERTION",
+      "decision": "POST_ASSERTION",
+      "score": 7
+    },
+    {
+      "id": "cal-027",
+      "language": "es",
+      "stratum": "direct",
+      "gold": "POST_ASSERTION",
+      "decision": "POST_ASSERTION",
+      "score": 5
+    },
+    {
+      "id": "cal-028",
+      "language": "es",
+      "stratum": "denial",
+      "gold": "OTHER",
+      "decision": "OTHER",
+      "score": 8
+    },
+    {
+      "id": "cal-029",
+      "language": "es",
+      "stratum": "denial",
+      "gold": "OTHER",
+      "decision": "OTHER",
+      "score": 8
+    },
+    {
+      "id": "cal-030",
+      "language": "es",
+      "stratum": "denial",
+      "gold": "OTHER",
+      "decision": "OTHER",
+      "score": 8
+    },
+    {
+      "id": "cal-031",
+      "language": "es",
+      "stratum": "forecast",
+      "gold": "OTHER",
+      "decision": "OTHER",
+      "score": 7
+    },
+    {
+      "id": "cal-032",
+      "language": "es",
+      "stratum": "forecast",
+      "gold": "OTHER",
+      "decision": "OTHER",
+      "score": 7
+    },
+    {
+      "id": "cal-033",
+      "language": "es",
+      "stratum": "forecast",
+      "gold": "OTHER",
+      "decision": "OTHER",
+      "score": 7
+    },
+    {
+      "id": "cal-034",
+      "language": "es",
+      "stratum": "question",
+      "gold": "OTHER",
+      "decision": "OTHER",
+      "score": 8
+    },
+    {
+      "id": "cal-035",
+      "language": "es",
+      "stratum": "question",
+      "gold": "OTHER",
+      "decision": "OTHER",
+      "score": 8
+    },
+    {
+      "id": "cal-036",
+      "language": "es",
+      "stratum": "question",
+      "gold": "OTHER",
+      "decision": "OTHER",
+      "score": 8
+    },
+    {
+      "id": "cal-037",
+      "language": "es",
+      "stratum": "quotation",
+      "gold": "OTHER",
+      "decision": "OTHER",
+      "score": 7
+    },
+    {
+      "id": "cal-038",
+      "language": "es",
+      "stratum": "quotation",
+      "gold": "OTHER",
+      "decision": "REVIEW",
+      "score": 0
+    },
+    {
+      "id": "cal-039",
+      "language": "es",
+      "stratum": "quotation",
+      "gold": "OTHER",
+      "decision": "OTHER",
+      "score": 7
+    },
+    {
+      "id": "cal-040",
+      "language": "es",
+      "stratum": "mixed",
+      "gold": "POST_ASSERTION",
+      "decision": "POST_ASSERTION",
+      "score": 7
+    },
+    {
+      "id": "cal-041",
+      "language": "es",
+      "stratum": "mixed",
+      "gold": "POST_ASSERTION",
+      "decision": "POST_ASSERTION",
+      "score": 7
+    },
+    {
+      "id": "cal-042",
+      "language": "es",
+      "stratum": "mixed",
+      "gold": "POST_ASSERTION",
+      "decision": "POST_ASSERTION",
+      "score": 7
+    },
+    {
+      "id": "cal-043",
+      "language": "es",
+      "stratum": "reference",
+      "gold": "POST_ASSERTION",
+      "decision": "POST_ASSERTION",
+      "score": 5
+    },
+    {
+      "id": "cal-044",
+      "language": "es",
+      "stratum": "reference",
+      "gold": "POST_ASSERTION",
+      "decision": "REVIEW",
+      "score": 0
+    },
+    {
+      "id": "cal-045",
+      "language": "es",
+      "stratum": "reference",
+      "gold": "OTHER",
+      "decision": "REVIEW",
+      "score": 0
+    },
+    {
+      "id": "cal-046",
+      "language": "es",
+      "stratum": "cutoff",
+      "gold": "OTHER",
+      "decision": "OTHER",
+      "score": 8
+    },
+    {
+      "id": "cal-047",
+      "language": "es",
+      "stratum": "cutoff",
+      "gold": "OTHER",
+      "decision": "OTHER",
+      "score": 8
+    },
+    {
+      "id": "cal-048",
+      "language": "es",
+      "stratum": "cutoff",
+      "gold": "OTHER",
+      "decision": "OTHER",
+      "score": 8
+    }
+  ]
+}

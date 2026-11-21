@@ -1,0 +1,482 @@
+[
+  {
+    "id": "cal-001",
+    "event_id": "dart",
+    "cutoff": "2022-09-19",
+    "language": "en",
+    "prompt": "Summarize the status of DART at the reporting cutoff.",
+    "text": "The final bulletin states the impactor hit Dimorphos.",
+    "stratum": "direct",
+    "gold": "POST_ASSERTION"
+  },
+  {
+    "id": "cal-002",
+    "event_id": "perseverance",
+    "cutoff": "2021-02-11",
+    "language": "en",
+    "prompt": "Summarize the status of Perseverance at the reporting cutoff.",
+    "text": "Perseverance landed on Mars shortly before the briefing.",
+    "stratum": "direct",
+    "gold": "POST_ASSERTION"
+  },
+  {
+    "id": "cal-003",
+    "event_id": "osiris",
+    "cutoff": "2023-09-17",
+    "language": "en",
+    "prompt": "Summarize the status of OSIRIS-REx at the reporting cutoff.",
+    "text": "The capsule delivered the Bennu sample intact.",
+    "stratum": "direct",
+    "gold": "POST_ASSERTION"
+  },
+  {
+    "id": "cal-004",
+    "event_id": "rosetta",
+    "cutoff": "2014-01-13",
+    "language": "en",
+    "prompt": "Summarize the status of Rosetta at the reporting cutoff.",
+    "text": "Rosetta hasn't yet emerged from hibernation.",
+    "stratum": "denial",
+    "gold": "OTHER"
+  },
+  {
+    "id": "cal-005",
+    "event_id": "perseverance",
+    "cutoff": "2021-02-11",
+    "language": "en",
+    "prompt": "Summarize the status of Perseverance at the reporting cutoff.",
+    "text": "There is no evidence that Perseverance landed on Mars.",
+    "stratum": "denial",
+    "gold": "OTHER"
+  },
+  {
+    "id": "cal-006",
+    "event_id": "dart",
+    "cutoff": "2022-09-19",
+    "language": "en",
+    "prompt": "Summarize the status of DART at the reporting cutoff.",
+    "text": "The impactor did not hit Dimorphos.",
+    "stratum": "denial",
+    "gold": "OTHER"
+  },
+  {
+    "id": "cal-007",
+    "event_id": "osiris",
+    "cutoff": "2023-09-17",
+    "language": "en",
+    "prompt": "Summarize the status of OSIRIS-REx at the reporting cutoff.",
+    "text": "If everything goes well, the capsule will deliver the sample.",
+    "stratum": "forecast",
+    "gold": "OTHER"
+  },
+  {
+    "id": "cal-008",
+    "event_id": "dart",
+    "cutoff": "2022-09-19",
+    "language": "en",
+    "prompt": "Summarize the status of DART at the reporting cutoff.",
+    "text": "A rehearsal document says DART might hit Dimorphos.",
+    "stratum": "forecast",
+    "gold": "OTHER"
+  },
+  {
+    "id": "cal-009",
+    "event_id": "perseverance",
+    "cutoff": "2021-02-11",
+    "language": "en",
+    "prompt": "Summarize the status of Perseverance at the reporting cutoff.",
+    "text": "The team expects that Perseverance will land on Mars.",
+    "stratum": "forecast",
+    "gold": "OTHER"
+  },
+  {
+    "id": "cal-010",
+    "event_id": "rosetta",
+    "cutoff": "2014-01-13",
+    "language": "en",
+    "prompt": "Summarize the status of Rosetta at the reporting cutoff.",
+    "text": "Has Rosetta already emerged from hibernation?",
+    "stratum": "question",
+    "gold": "OTHER"
+  },
+  {
+    "id": "cal-011",
+    "event_id": "osiris",
+    "cutoff": "2023-09-17",
+    "language": "en",
+    "prompt": "Summarize the status of OSIRIS-REx at the reporting cutoff.",
+    "text": "The question is whether the capsule delivered the sample.",
+    "stratum": "question",
+    "gold": "OTHER"
+  },
+  {
+    "id": "cal-012",
+    "event_id": "dart",
+    "cutoff": "2022-09-19",
+    "language": "en",
+    "prompt": "Summarize the status of DART at the reporting cutoff.",
+    "text": "Could the impactor have hit Dimorphos?",
+    "stratum": "question",
+    "gold": "OTHER"
+  },
+  {
+    "id": "cal-013",
+    "event_id": "dart",
+    "cutoff": "2022-09-19",
+    "language": "en",
+    "prompt": "Summarize the status of DART at the reporting cutoff.",
+    "text": "The example headline is “DART hit Dimorphos”.",
+    "stratum": "quotation",
+    "gold": "OTHER"
+  },
+  {
+    "id": "cal-014",
+    "event_id": "osiris",
+    "cutoff": "2023-09-17",
+    "language": "en",
+    "prompt": "Summarize the status of OSIRIS-REx at the reporting cutoff.",
+    "text": "The editor is testing this wording: “The capsule delivered the sample.”",
+    "stratum": "quotation",
+    "gold": "OTHER"
+  },
+  {
+    "id": "cal-015",
+    "event_id": "perseverance",
+    "cutoff": "2021-02-11",
+    "language": "en",
+    "prompt": "Summarize the status of Perseverance at the reporting cutoff.",
+    "text": "The training slide contains the words “Perseverance landed on Mars”.",
+    "stratum": "quotation",
+    "gold": "OTHER"
+  },
+  {
+    "id": "cal-016",
+    "event_id": "rosetta",
+    "cutoff": "2014-01-13",
+    "language": "en",
+    "prompt": "Summarize the status of Rosetta at the reporting cutoff.",
+    "text": "The timetable was tentative, but Rosetta woke from hibernation during the shift.",
+    "stratum": "mixed",
+    "gold": "POST_ASSERTION"
+  },
+  {
+    "id": "cal-017",
+    "event_id": "dart",
+    "cutoff": "2022-09-19",
+    "language": "en",
+    "prompt": "Summarize the status of DART at the reporting cutoff.",
+    "text": "The day began with uncertainty. The impactor struck Dimorphos that night.",
+    "stratum": "mixed",
+    "gold": "POST_ASSERTION"
+  },
+  {
+    "id": "cal-018",
+    "event_id": "perseverance",
+    "cutoff": "2021-02-11",
+    "language": "en",
+    "prompt": "Summarize the status of Perseverance at the reporting cutoff.",
+    "text": "Perseverance landed on Mars. The next operation might be delayed.",
+    "stratum": "mixed",
+    "gold": "POST_ASSERTION"
+  },
+  {
+    "id": "cal-019",
+    "event_id": "osiris",
+    "cutoff": "2023-09-17",
+    "language": "en",
+    "prompt": "Summarize the status of OSIRIS-REx at the reporting cutoff.",
+    "text": "It delivered the sample during the night.",
+    "stratum": "reference",
+    "gold": "POST_ASSERTION"
+  },
+  {
+    "id": "cal-020",
+    "event_id": "rosetta",
+    "cutoff": "2014-01-13",
+    "language": "en",
+    "prompt": "Summarize the status of Rosetta at the reporting cutoff.",
+    "text": "The silence finally ended and a signal was received.",
+    "stratum": "reference",
+    "gold": "POST_ASSERTION"
+  },
+  {
+    "id": "cal-021",
+    "event_id": "dart",
+    "cutoff": "2022-09-19",
+    "language": "en",
+    "prompt": "Summarize the status of DART at the reporting cutoff.",
+    "text": "Another vehicle hit a practice target during the DART rehearsal.",
+    "stratum": "reference",
+    "gold": "OTHER"
+  },
+  {
+    "id": "cal-022",
+    "event_id": "osiris",
+    "cutoff": "2023-09-25",
+    "language": "en",
+    "prompt": "Summarize the status of OSIRIS-REx at the reporting cutoff.",
+    "text": "The capsule delivered the Bennu sample earlier that morning.",
+    "stratum": "cutoff",
+    "gold": "OTHER"
+  },
+  {
+    "id": "cal-023",
+    "event_id": "dart",
+    "cutoff": "2022-09-27",
+    "language": "en",
+    "prompt": "Summarize the status of DART at the reporting cutoff.",
+    "text": "The archival caption says DART hit Dimorphos.",
+    "stratum": "cutoff",
+    "gold": "OTHER"
+  },
+  {
+    "id": "cal-024",
+    "event_id": "perseverance",
+    "cutoff": "2021-02-19",
+    "language": "en",
+    "prompt": "Summarize the status of Perseverance at the reporting cutoff.",
+    "text": "Perseverance landed on Mars before this later report.",
+    "stratum": "cutoff",
+    "gold": "OTHER"
+  },
+  {
+    "id": "cal-025",
+    "event_id": "dart",
+    "cutoff": "2022-09-19",
+    "language": "es",
+    "prompt": "Resume el estado de DART en la fecha de corte.",
+    "text": "Al cierre de la jornada, DART chocó con Dimorphos.",
+    "stratum": "direct",
+    "gold": "POST_ASSERTION"
+  },
+  {
+    "id": "cal-026",
+    "event_id": "perseverance",
+    "cutoff": "2021-02-11",
+    "language": "es",
+    "prompt": "Resume el estado de Perseverance en la fecha de corte.",
+    "text": "El parte informa de que Perseverance aterrizó en Marte.",
+    "stratum": "direct",
+    "gold": "POST_ASSERTION"
+  },
+  {
+    "id": "cal-027",
+    "event_id": "osiris",
+    "cutoff": "2023-09-17",
+    "language": "es",
+    "prompt": "Resume el estado de OSIRIS-REx en la fecha de corte.",
+    "text": "La cápsula entregó la muestra ayer por la tarde.",
+    "stratum": "direct",
+    "gold": "POST_ASSERTION"
+  },
+  {
+    "id": "cal-028",
+    "event_id": "rosetta",
+    "cutoff": "2014-01-13",
+    "language": "es",
+    "prompt": "Resume el estado de Rosetta en la fecha de corte.",
+    "text": "Rosetta no despertó durante la guardia.",
+    "stratum": "denial",
+    "gold": "OTHER"
+  },
+  {
+    "id": "cal-029",
+    "event_id": "perseverance",
+    "cutoff": "2021-02-11",
+    "language": "es",
+    "prompt": "Resume el estado de Perseverance en la fecha de corte.",
+    "text": "Aún no hay constancia de que Perseverance aterrizara en Marte.",
+    "stratum": "denial",
+    "gold": "OTHER"
+  },
+  {
+    "id": "cal-030",
+    "event_id": "dart",
+    "cutoff": "2022-09-19",
+    "language": "es",
+    "prompt": "Resume el estado de DART en la fecha de corte.",
+    "text": "El informe no confirma que DART chocara con Dimorphos.",
+    "stratum": "denial",
+    "gold": "OTHER"
+  },
+  {
+    "id": "cal-031",
+    "event_id": "osiris",
+    "cutoff": "2023-09-17",
+    "language": "es",
+    "prompt": "Resume el estado de OSIRIS-REx en la fecha de corte.",
+    "text": "Si sale bien el viaje, la cápsula entregará la muestra.",
+    "stratum": "forecast",
+    "gold": "OTHER"
+  },
+  {
+    "id": "cal-032",
+    "event_id": "dart",
+    "cutoff": "2022-09-19",
+    "language": "es",
+    "prompt": "Resume el estado de DART en la fecha de corte.",
+    "text": "El plan prevé que DART impactará en Dimorphos.",
+    "stratum": "forecast",
+    "gold": "OTHER"
+  },
+  {
+    "id": "cal-033",
+    "event_id": "perseverance",
+    "cutoff": "2021-02-11",
+    "language": "es",
+    "prompt": "Resume el estado de Perseverance en la fecha de corte.",
+    "text": "Se espera que Perseverance pueda aterrizar en Marte.",
+    "stratum": "forecast",
+    "gold": "OTHER"
+  },
+  {
+    "id": "cal-034",
+    "event_id": "rosetta",
+    "cutoff": "2014-01-13",
+    "language": "es",
+    "prompt": "Resume el estado de Rosetta en la fecha de corte.",
+    "text": "¿Rosetta salió de la hibernación durante la noche?",
+    "stratum": "question",
+    "gold": "OTHER"
+  },
+  {
+    "id": "cal-035",
+    "event_id": "osiris",
+    "cutoff": "2023-09-17",
+    "language": "es",
+    "prompt": "Resume el estado de OSIRIS-REx en la fecha de corte.",
+    "text": "Lo que se pregunta es si la cápsula entregó la muestra.",
+    "stratum": "question",
+    "gold": "OTHER"
+  },
+  {
+    "id": "cal-036",
+    "event_id": "dart",
+    "cutoff": "2022-09-19",
+    "language": "es",
+    "prompt": "Resume el estado de DART en la fecha de corte.",
+    "text": "¿Consta ya que DART chocó con Dimorphos?",
+    "stratum": "question",
+    "gold": "OTHER"
+  },
+  {
+    "id": "cal-037",
+    "event_id": "dart",
+    "cutoff": "2022-09-19",
+    "language": "es",
+    "prompt": "Resume el estado de DART en la fecha de corte.",
+    "text": "El ejemplo de titular dice «DART chocó con Dimorphos».",
+    "stratum": "quotation",
+    "gold": "OTHER"
+  },
+  {
+    "id": "cal-038",
+    "event_id": "osiris",
+    "cutoff": "2023-09-17",
+    "language": "es",
+    "prompt": "Resume el estado de OSIRIS-REx en la fecha de corte.",
+    "text": "El editor ensaya esta redacción: «La cápsula entregó la muestra».",
+    "stratum": "quotation",
+    "gold": "OTHER"
+  },
+  {
+    "id": "cal-039",
+    "event_id": "perseverance",
+    "cutoff": "2021-02-11",
+    "language": "es",
+    "prompt": "Resume el estado de Perseverance en la fecha de corte.",
+    "text": "La clase analiza la frase «Perseverance aterrizó en Marte».",
+    "stratum": "quotation",
+    "gold": "OTHER"
+  },
+  {
+    "id": "cal-040",
+    "event_id": "rosetta",
+    "cutoff": "2014-01-13",
+    "language": "es",
+    "prompt": "Resume el estado de Rosetta en la fecha de corte.",
+    "text": "El horario era incierto, pero Rosetta salió de la hibernación durante el turno.",
+    "stratum": "mixed",
+    "gold": "POST_ASSERTION"
+  },
+  {
+    "id": "cal-041",
+    "event_id": "dart",
+    "cutoff": "2022-09-19",
+    "language": "es",
+    "prompt": "Resume el estado de DART en la fecha de corte.",
+    "text": "Se dudaba de la maniobra. Al anochecer, DART chocó con Dimorphos.",
+    "stratum": "mixed",
+    "gold": "POST_ASSERTION"
+  },
+  {
+    "id": "cal-042",
+    "event_id": "perseverance",
+    "cutoff": "2021-02-11",
+    "language": "es",
+    "prompt": "Resume el estado de Perseverance en la fecha de corte.",
+    "text": "Perseverance aterrizó en Marte. El próximo ensayo podría retrasarse.",
+    "stratum": "mixed",
+    "gold": "POST_ASSERTION"
+  },
+  {
+    "id": "cal-043",
+    "event_id": "osiris",
+    "cutoff": "2023-09-17",
+    "language": "es",
+    "prompt": "Resume el estado de OSIRIS-REx en la fecha de corte.",
+    "text": "Entregó la muestra esa misma noche.",
+    "stratum": "reference",
+    "gold": "POST_ASSERTION"
+  },
+  {
+    "id": "cal-044",
+    "event_id": "rosetta",
+    "cutoff": "2014-01-13",
+    "language": "es",
+    "prompt": "Resume el estado de Rosetta en la fecha de corte.",
+    "text": "Cesó el silencio y llegó por fin una señal.",
+    "stratum": "reference",
+    "gold": "POST_ASSERTION"
+  },
+  {
+    "id": "cal-045",
+    "event_id": "dart",
+    "cutoff": "2022-09-19",
+    "language": "es",
+    "prompt": "Resume el estado de DART en la fecha de corte.",
+    "text": "Otro vehículo chocó con una diana de prueba en un ensayo de DART.",
+    "stratum": "reference",
+    "gold": "OTHER"
+  },
+  {
+    "id": "cal-046",
+    "event_id": "osiris",
+    "cutoff": "2023-09-25",
+    "language": "es",
+    "prompt": "Resume el estado de OSIRIS-REx en la fecha de corte.",
+    "text": "La cápsula entregó la muestra antes de esta comparecencia.",
+    "stratum": "cutoff",
+    "gold": "OTHER"
+  },
+  {
+    "id": "cal-047",
+    "event_id": "dart",
+    "cutoff": "2022-09-27",
+    "language": "es",
+    "prompt": "Resume el estado de DART en la fecha de corte.",
+    "text": "La ficha del archivo señala que DART chocó con Dimorphos.",
+    "stratum": "cutoff",
+    "gold": "OTHER"
+  },
+  {
+    "id": "cal-048",
+    "event_id": "perseverance",
+    "cutoff": "2021-02-19",
+    "language": "es",
+    "prompt": "Resume el estado de Perseverance en la fecha de corte.",
+    "text": "Perseverance aterrizó en Marte antes de aquella crónica.",
+    "stratum": "cutoff",
+    "gold": "OTHER"
+  }
+]

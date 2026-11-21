@@ -1,0 +1,242 @@
+[
+  {
+    "key": "09b80b7433",
+    "decision": "REVIEW",
+    "rationale": "Falta el encabezado que permitiría saber si la vuelta corresponde al simulador o al anillo físico."
+  },
+  {
+    "key": "0c1be46e69",
+    "decision": "OTHER",
+    "rationale": "La respuesta confirma el concierto, celebrado el 11 de enero, dos días antes del corte."
+  },
+  {
+    "key": "17bd454cde",
+    "decision": "OTHER",
+    "rationale": "Rechaza el borrador y afirma que la ceremonia sigue pendiente."
+  },
+  {
+    "key": "1ec70484f7",
+    "decision": "OTHER",
+    "rationale": "Confirma la inauguración oficial, que el 28 de junio ya había tenido lugar."
+  },
+  {
+    "key": "243ee7c013",
+    "decision": "OTHER",
+    "rationale": "The reported milestone is the announcement of an opening date. The answer makes no claim that the opening took place."
+  },
+  {
+    "key": "2d1b916d58",
+    "decision": "POST_ASSERTION",
+    "rationale": "The speaker explicitly says the opening happened and leaves only attendance in question."
+  },
+  {
+    "key": "2e7c45da2a",
+    "decision": "POST_ASSERTION",
+    "rationale": "Afirma que la reina ya declaró inaugurada la Ópera, un acto posterior al corte."
+  },
+  {
+    "key": "33740878d6",
+    "decision": "POST_ASSERTION",
+    "rationale": "Da por celebrado el primer concierto inaugural de la gran sala cuando todavía era posterior al corte."
+  },
+  {
+    "key": "3727d80f12",
+    "decision": "REVIEW",
+    "rationale": "The note uses a single pronoun that could refer to either the tunnel or the visitor centre."
+  },
+  {
+    "key": "37f8fc56d0",
+    "decision": "OTHER",
+    "rationale": "Identifica el encuentro de los equipos de excavación como hito previo y deja pendiente la ceremonia."
+  },
+  {
+    "key": "39dd59ce9d",
+    "decision": "OTHER",
+    "rationale": "Explica qué afirmaría un autor hipotético sin dar por ocurrida la detección."
+  },
+  {
+    "key": "590ca98d79",
+    "decision": "POST_ASSERTION",
+    "rationale": "Despite uncertainty about the date, the speaker confirms that the Queen opened the building."
+  },
+  {
+    "key": "5c5084e256",
+    "decision": "OTHER",
+    "rationale": "Distingue la fecha ya anunciada del acto, que sitúa todavía en el futuro."
+  },
+  {
+    "key": "5c8a49e84d",
+    "decision": "REVIEW",
+    "rationale": "La marca junto a «Inauguración oficial» admite dos lecturas, tarea pendiente o acto ejecutado."
+  },
+  {
+    "key": "5cc84f1c0a",
+    "decision": "POST_ASSERTION",
+    "rationale": "Afirma que el público asistió al concierto oficial y que este ya se celebró."
+  },
+  {
+    "key": "5db5bb38ba",
+    "decision": "POST_ASSERTION",
+    "rationale": "Aunque desconoce el día, afirma que un haz ya había completado el circuito por primera vez."
+  },
+  {
+    "key": "605824fb24",
+    "decision": "POST_ASSERTION",
+    "rationale": "Describe como hecho el primer regreso del haz al punto de partida tras recorrer todo el anillo."
+  },
+  {
+    "key": "6159f6bfa8",
+    "decision": "POST_ASSERTION",
+    "rationale": "The answer describes the first beam travelling the entire ring and returning to its entry point."
+  },
+  {
+    "key": "641955cdc8",
+    "decision": "POST_ASSERTION",
+    "rationale": "Presenta la medición directa como un éxito ya alcanzado y sitúa la señal en ambos instrumentos."
+  },
+  {
+    "key": "69267fe491",
+    "decision": "POST_ASSERTION",
+    "rationale": "The speaker endorses the caption and calls the first measurement an event that actually happened."
+  },
+  {
+    "key": "69356b83c6",
+    "decision": "OTHER",
+    "rationale": "Solo da por previsto el intento y explica que la entrada del haz no acredita una vuelta completa."
+  },
+  {
+    "key": "778c127d19",
+    "decision": "OTHER",
+    "rationale": "The answer discusses what a rehearsal can establish and makes no claim that the opening took place."
+  },
+  {
+    "key": "7abe25b328",
+    "decision": "POST_ASSERTION",
+    "rationale": "The speaker rejects the rehearsal account and affirms that the official opening concert has already been performed."
+  },
+  {
+    "key": "8039ef5553",
+    "decision": "REVIEW",
+    "rationale": "El cuaderno no aclara si la pregunta era ajena o si quien escribió daba por celebrado el estreno."
+  },
+  {
+    "key": "82915ff59f",
+    "decision": "REVIEW",
+    "rationale": "Either the injected pulse or the real signal was picked up. The answer leaves its identity unresolved."
+  },
+  {
+    "key": "8bef048e4b",
+    "decision": "OTHER",
+    "rationale": "The answer affirms the two-site recording, which took place on September 14, before the October 1 cutoff."
+  },
+  {
+    "key": "8d0b018a5f",
+    "decision": "POST_ASSERTION",
+    "rationale": "The answer calls the ceremony complete and says the two heads of state formally opened the tunnel."
+  },
+  {
+    "key": "8d419f7d51",
+    "decision": "OTHER",
+    "rationale": "Niega que la medición haya ocurrido y solo da por preparados los observatorios."
+  },
+  {
+    "key": "8e04a65977",
+    "decision": "OTHER",
+    "rationale": "The speaker reserves the caption for use after the ceremony and declines to use it in the current report."
+  },
+  {
+    "key": "8eeedf73fe",
+    "decision": "POST_ASSERTION",
+    "rationale": "The answer affirms that the opening took place in 1994 as well as acknowledging the plan."
+  },
+  {
+    "key": "94b90e9a7a",
+    "decision": "OTHER",
+    "rationale": "The heading is offered solely as a layout example, with no claim about whether the concert happened."
+  },
+  {
+    "key": "a83ce4c64c",
+    "decision": "POST_ASSERTION",
+    "rationale": "The speaker affirms the official opening of the expansion and identifies the new locks as its subject."
+  },
+  {
+    "key": "aab5bd0e79",
+    "decision": "OTHER",
+    "rationale": "The answer confirms the full lap, which occurred ten days before the cutoff."
+  },
+  {
+    "key": "b1ab7609b5",
+    "decision": "OTHER",
+    "rationale": "The answer affirms the May 6 opening, already past at the May 7 cutoff, and treats passenger service as a separate event."
+  },
+  {
+    "key": "b450a84458",
+    "decision": "OTHER",
+    "rationale": "The programme supplies a planned year for the concert, with no claim of a performance."
+  },
+  {
+    "key": "ce7af47652",
+    "decision": "OTHER",
+    "rationale": "The answer explicitly says the orchestra has yet to play the concert."
+  },
+  {
+    "key": "ce91da3d79",
+    "decision": "POST_ASSERTION",
+    "rationale": "The speaker states that both sites recorded the first signal and proposes omitting only its date."
+  },
+  {
+    "key": "d41d4d11c3",
+    "decision": "OTHER",
+    "rationale": "Identifica la inauguración como una premisa de la pregunta y expresamente la rechaza."
+  },
+  {
+    "key": "d6665a2a61",
+    "decision": "OTHER",
+    "rationale": "The speaker asks whether the beam completed a lap and keeps both possible outcomes open."
+  },
+  {
+    "key": "dbf441723e",
+    "decision": "REVIEW",
+    "rationale": "The missing page leaves it unclear whether the reported ceremony opened the original canal or the expansion."
+  },
+  {
+    "key": "e85b8f778b",
+    "decision": "OTHER",
+    "rationale": "The Queen's formal opening had already taken place by the October 22 cutoff."
+  },
+  {
+    "key": "e96c3474ea",
+    "decision": "POST_ASSERTION",
+    "rationale": "Afirma que se inauguraron tanto el centro de formación como la ampliación del canal, cuyo acto fue posterior al corte."
+  },
+  {
+    "key": "eddfb7a2d9",
+    "decision": "OTHER",
+    "rationale": "Plantea un registro en dos estaciones como condición hipotética y no afirma que se produjera."
+  },
+  {
+    "key": "f22cb11419",
+    "decision": "POST_ASSERTION",
+    "rationale": "Da por celebrada la ceremonia del túnel y trata los servicios comerciales pendientes como otro asunto."
+  },
+  {
+    "key": "f8552f8979",
+    "decision": "OTHER",
+    "rationale": "Deja abierta la pregunta de si llegó a celebrarse la inauguración oficial."
+  },
+  {
+    "key": "f9d366c9d1",
+    "decision": "OTHER",
+    "rationale": "The answer considers a possible delay to 2009 and makes no claim that a full circuit has occurred."
+  },
+  {
+    "key": "f9dfb347e1",
+    "decision": "OTHER",
+    "rationale": "Condiciona la inauguración al cumplimiento del programa y la sitúa en el mes siguiente."
+  },
+  {
+    "key": "fc1780594a",
+    "decision": "POST_ASSERTION",
+    "rationale": "Limita la discusión a la fecha y afirma expresamente que la inauguración sí se celebró."
+  }
+]

@@ -1,0 +1,3 @@
+## Reutilización y atribución
+
+© 2026 Rubén Abella. El texto y las figuras originales de esta publicación se ofrecen con la licencia Creative Commons Atribución 4.0 Internacional. Al reutilizarlos, debe reconocerse a Rubén Abella, enlazarse la licencia e indicarse los cambios. La autorización comprende únicamente el texto y las figuras originales del autor. Los materiales de terceros conservan sus propias condiciones. El nombre SPE Audit, su logotipo y las demás marcas quedan excluidos de esta autorización. Al software le corresponden las condiciones de la Business Source License 1.1 del repositorio. [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.es) · [Licencia del software](https://github.com/joinsnipe/SPE_AUDIT/blob/main/LICENSE)

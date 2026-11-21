@@ -1,0 +1,9 @@
+{
+  "scheme": "spe-ordered-merkle-sha256-v1",
+  "size": 3,
+  "index": 1,
+  "siblings": [
+    "97630527d4aaaa1bda8e5fd79962dde97343d55d263430341c6a6cb74d6b8801",
+    "a1f710b9626730d2e28d7c13356280f70e4b2bf16a61f622b993ae9c3bad7a84"
+  ]
+}

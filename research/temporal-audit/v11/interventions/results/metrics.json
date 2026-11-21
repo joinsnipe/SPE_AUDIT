@@ -1,0 +1,172 @@
+{
+  "conditions": [
+    {
+      "condition": "present",
+      "decoy": 0,
+      "future": 0,
+      "generic": 0,
+      "mode": "reader",
+      "n": 40,
+      "other": 0,
+      "target": 40,
+      "unavailable": 0
+    },
+    {
+      "condition": "absent",
+      "decoy": 0,
+      "future": 0,
+      "generic": 0,
+      "mode": "reader",
+      "n": 40,
+      "other": 0,
+      "target": 0,
+      "unavailable": 40
+    },
+    {
+      "condition": "decoy",
+      "decoy": 40,
+      "future": 0,
+      "generic": 0,
+      "mode": "reader",
+      "n": 40,
+      "other": 0,
+      "target": 0,
+      "unavailable": 0
+    },
+    {
+      "condition": "present",
+      "decoy": 0,
+      "future": 0,
+      "generic": 40,
+      "mode": "generic",
+      "n": 40,
+      "other": 0,
+      "target": 0,
+      "unavailable": 0
+    },
+    {
+      "condition": "absent",
+      "decoy": 0,
+      "future": 0,
+      "generic": 40,
+      "mode": "generic",
+      "n": 40,
+      "other": 0,
+      "target": 0,
+      "unavailable": 0
+    },
+    {
+      "condition": "decoy",
+      "decoy": 0,
+      "future": 0,
+      "generic": 40,
+      "mode": "generic",
+      "n": 40,
+      "other": 0,
+      "target": 0,
+      "unavailable": 0
+    },
+    {
+      "condition": "present",
+      "decoy": 0,
+      "future": 0,
+      "generic": 0,
+      "mode": "side",
+      "n": 40,
+      "other": 0,
+      "target": 40,
+      "unavailable": 0
+    },
+    {
+      "condition": "absent",
+      "decoy": 0,
+      "future": 0,
+      "generic": 0,
+      "mode": "side",
+      "n": 40,
+      "other": 0,
+      "target": 40,
+      "unavailable": 0
+    },
+    {
+      "condition": "decoy",
+      "decoy": 0,
+      "future": 0,
+      "generic": 0,
+      "mode": "side",
+      "n": 40,
+      "other": 0,
+      "target": 40,
+      "unavailable": 0
+    }
+  ],
+  "cutoff": "2026-01-10",
+  "local_calls": 360,
+  "paired_differences": [
+    {
+      "both": 0,
+      "contrast": "present minus absent",
+      "control_only": 0,
+      "mode": "reader",
+      "neither": 0,
+      "pairs": 40,
+      "present_only": 40,
+      "target_rate_difference": 1.0
+    },
+    {
+      "both": 0,
+      "contrast": "present minus decoy",
+      "control_only": 0,
+      "mode": "reader",
+      "neither": 0,
+      "pairs": 40,
+      "present_only": 40,
+      "target_rate_difference": 1.0
+    },
+    {
+      "both": 0,
+      "contrast": "present minus absent",
+      "control_only": 0,
+      "mode": "generic",
+      "neither": 40,
+      "pairs": 40,
+      "present_only": 0,
+      "target_rate_difference": 0.0
+    },
+    {
+      "both": 0,
+      "contrast": "present minus decoy",
+      "control_only": 0,
+      "mode": "generic",
+      "neither": 40,
+      "pairs": 40,
+      "present_only": 0,
+      "target_rate_difference": 0.0
+    },
+    {
+      "both": 40,
+      "contrast": "present minus absent",
+      "control_only": 0,
+      "mode": "side",
+      "neither": 0,
+      "pairs": 40,
+      "present_only": 0,
+      "target_rate_difference": 0.0
+    },
+    {
+      "both": 40,
+      "contrast": "present minus decoy",
+      "control_only": 0,
+      "mode": "side",
+      "neither": 0,
+      "pairs": 40,
+      "present_only": 0,
+      "target_rate_difference": 0.0
+    }
+  ],
+  "pairs": 40,
+  "prompt": "Return the ticket value recorded in the fictional archive card, if available.",
+  "schema": "spe-local-marker-study/1",
+  "seed": "SPE Audit | local controlled intervention | 2026-11-21 | v1",
+  "target_match": "entire output equals assigned case-sensitive value"
+}

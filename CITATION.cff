@@ -3,14 +3,17 @@ message: "If you use SPE Audit or the temporal-audit study, please cite the publ
 type: software
 title: "SPE Audit — Stateless Proof Engine"
 authors:
-  - name: "SPE Audit / Capriciousecret S.L."
+  - family-names: "Abella"
+    given-names: "Rubén"
 repository-code: "https://github.com/joinsnipe/SPE_AUDIT"
 preferred-citation:
   type: report
   authors:
-    - name: "SPE Audit / Capriciousecret S.L."
+    - family-names: "Abella"
+      given-names: "Rubén"
   title: "Temporal auditing of AI outputs: request-level evidence, prior art and the limits of automated detection"
   year: 2026
   date-released: "2026-11-21"
-  version: "1.0"
+  version: "1.1"
+  doi: "10.5281/zenodo.24424024"
   url: "https://github.com/joinsnipe/SPE_AUDIT/tree/main/research/temporal-audit"

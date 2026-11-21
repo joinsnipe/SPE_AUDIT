@@ -1,0 +1,234 @@
+{
+  "administration": {
+    "calibration_counts": {
+      "auto_ambiguous": 0,
+      "false_alert": 0,
+      "miss": 0,
+      "n": 48,
+      "refer": 6
+    },
+    "heldout_costs_by_threshold": {
+      "2": {
+        "counts": {
+          "auto_ambiguous": 3,
+          "false_alert": 1,
+          "miss": 0,
+          "n": 48,
+          "refer": 23
+        },
+        "loss": 77,
+        "within_budget": true
+      },
+      "3": {
+        "counts": {
+          "auto_ambiguous": 3,
+          "false_alert": 1,
+          "miss": 0,
+          "n": 48,
+          "refer": 23
+        },
+        "loss": 77,
+        "within_budget": true
+      },
+      "4": {
+        "counts": {
+          "auto_ambiguous": 3,
+          "false_alert": 1,
+          "miss": 0,
+          "n": 48,
+          "refer": 23
+        },
+        "loss": 77,
+        "within_budget": true
+      },
+      "5": {
+        "counts": {
+          "auto_ambiguous": 3,
+          "false_alert": 1,
+          "miss": 0,
+          "n": 48,
+          "refer": 24
+        },
+        "loss": 78,
+        "within_budget": true
+      },
+      "6": {
+        "counts": {
+          "auto_ambiguous": 3,
+          "false_alert": 1,
+          "miss": 0,
+          "n": 48,
+          "refer": 24
+        },
+        "loss": 78,
+        "within_budget": true
+      },
+      "7": {
+        "counts": {
+          "auto_ambiguous": 3,
+          "false_alert": 0,
+          "miss": 0,
+          "n": 48,
+          "refer": 25
+        },
+        "loss": 67,
+        "within_budget": true
+      },
+      "8": {
+        "counts": {
+          "auto_ambiguous": 1,
+          "false_alert": 0,
+          "miss": 0,
+          "n": 48,
+          "refer": 37
+        },
+        "loss": 51,
+        "within_budget": true
+      },
+      "review_all": {
+        "counts": {
+          "auto_ambiguous": 0,
+          "false_alert": 0,
+          "miss": 0,
+          "n": 48,
+          "refer": 48
+        },
+        "loss": 48,
+        "within_budget": true
+      }
+    },
+    "selected_on_calibration": "5",
+    "test_cost_units": 78,
+    "test_counts": {
+      "auto_ambiguous": 3,
+      "false_alert": 1,
+      "miss": 0,
+      "n": 48,
+      "refer": 24
+    },
+    "test_within_referral_budget": true,
+    "weights": {
+      "auto_ambiguous": 14,
+      "false_alert": 12,
+      "max_referral": null,
+      "miss": 25,
+      "refer": 1
+    }
+  },
+  "service": {
+    "calibration_counts": {
+      "auto_ambiguous": 0,
+      "false_alert": 0,
+      "miss": 0,
+      "n": 48,
+      "refer": 6
+    },
+    "heldout_costs_by_threshold": {
+      "2": {
+        "counts": {
+          "auto_ambiguous": 3,
+          "false_alert": 1,
+          "miss": 0,
+          "n": 48,
+          "refer": 23
+        },
+        "loss": 59,
+        "within_budget": false
+      },
+      "3": {
+        "counts": {
+          "auto_ambiguous": 3,
+          "false_alert": 1,
+          "miss": 0,
+          "n": 48,
+          "refer": 23
+        },
+        "loss": 59,
+        "within_budget": false
+      },
+      "4": {
+        "counts": {
+          "auto_ambiguous": 3,
+          "false_alert": 1,
+          "miss": 0,
+          "n": 48,
+          "refer": 23
+        },
+        "loss": 59,
+        "within_budget": false
+      },
+      "5": {
+        "counts": {
+          "auto_ambiguous": 3,
+          "false_alert": 1,
+          "miss": 0,
+          "n": 48,
+          "refer": 24
+        },
+        "loss": 61,
+        "within_budget": false
+      },
+      "6": {
+        "counts": {
+          "auto_ambiguous": 3,
+          "false_alert": 1,
+          "miss": 0,
+          "n": 48,
+          "refer": 24
+        },
+        "loss": 61,
+        "within_budget": false
+      },
+      "7": {
+        "counts": {
+          "auto_ambiguous": 3,
+          "false_alert": 0,
+          "miss": 0,
+          "n": 48,
+          "refer": 25
+        },
+        "loss": 59,
+        "within_budget": false
+      },
+      "8": {
+        "counts": {
+          "auto_ambiguous": 1,
+          "false_alert": 0,
+          "miss": 0,
+          "n": 48,
+          "refer": 37
+        },
+        "loss": 77,
+        "within_budget": false
+      },
+      "review_all": {
+        "counts": {
+          "auto_ambiguous": 0,
+          "false_alert": 0,
+          "miss": 0,
+          "n": 48,
+          "refer": 48
+        },
+        "loss": 96,
+        "within_budget": false
+      }
+    },
+    "selected_on_calibration": "5",
+    "test_cost_units": 61,
+    "test_counts": {
+      "auto_ambiguous": 3,
+      "false_alert": 1,
+      "miss": 0,
+      "n": 48,
+      "refer": 24
+    },
+    "test_within_referral_budget": false,
+    "weights": {
+      "auto_ambiguous": 3,
+      "false_alert": 4,
+      "max_referral": 0.2,
+      "miss": 5,
+      "refer": 2
+    }
+  }
+}

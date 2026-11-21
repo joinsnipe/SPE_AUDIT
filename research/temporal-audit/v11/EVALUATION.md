@@ -1,0 +1,17 @@
+# Evaluation design · Diseño de evaluación
+
+21 November 2026. This protocol was written before inspecting the new challenge or its labels. It is an internal dated record. Independent timestamping and prospective registration with a third party have not been performed.
+
+**Unit.** Each item is a written answer to a question about one nominated event. The input includes the event’s eventual date, name, aliases and outcome vocabulary. It is a retrospective comparison with a supplied event inventory. Discovering events in unrestricted text, multilingual equivalence and assigning causal provenance are different tasks.
+
+**Groups.** The 96 constructed cases and 16 earlier wording cases are public and available for development. Results on those 112 items are descriptive. An additional calibration set is authored separately from the earlier examples to choose a threshold on development events. The new challenge author receives the data contract and writes cases, event metadata and reference labels without seeing the new classifier. The classifier author receives the same contract and does not inspect the new challenge. Text, native-language evidence and event vocabularies are authored for a designed study. They are not a representative sample of deployments.
+
+**Comparators.** Apply the byte-pinned February year rule to all evaluation rows. Reproduce the November 1.0 dated matcher on its original four supported events. Apply the new proposition rule at its calibration-selected threshold to old and new events. Do not retrofit the old phrase dictionary to events it never contained. Save predictions and their digest before joining labels. Keep the three-way reference states and the three-way machine outputs separately.
+
+**Measures.** Report the full three-by-three count matrix. For determinate labels, automatic positive recall uses every reference positive (including referrals), alert precision uses positive alerts on determinately labelled cases, and selective error uses determinate cases actually decided. Coverage and referral rate use all cases, including indeterminate references. Count automatic decisions on indeterminate references and the number of alerts on them separately. A zero denominator is undefined. Report counts by event and language as well as overall, disclose duplicated or translated propositions and give examples of errors. A coverage gain may come at the cost of false alerts. Comparisons are conditional on the supplied event dictionary and dates.
+
+**Human workload.** Count the queue and demonstrate the review workflow. Real reviewer identity, agreement, minutes per item, estimated minutes saved and deployment utility require actual human sessions. Synthetic workflow tests are ineligible. Reviewers should have neither predictions nor reference labels and should work independently before adjudication.
+
+**Evidence.** Test same-day ordering only when both temporal references provide enough precision. A source observed today can establish its current bytes, and an external timestamp token can attest existence under its authority policy. Neither fact establishes that a remote model used that content. Treat semantic S, A and Δ as unmeasured research hypotheses outside the evaluated outputs.
+
+**Congelación y lectura.** Publicamos huellas y cuentas por clase. Las 16 frases antiguas pasan a ser material de desarrollo. El desafío nuevo se evalúa con el método fijado previamente. Cualquier modificación posterior constituye una versión nueva y requiere otro conjunto para medir su generalización.

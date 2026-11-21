@@ -1,0 +1,65 @@
+{
+  "case": {
+    "cutoff": "2000-12-31",
+    "event_id": "sample-museum",
+    "id": "illustration",
+    "language": "en",
+    "prompt": "What was the status of North Museum?",
+    "text": "North Museum opened."
+  },
+  "event": {
+    "aliases": [],
+    "event_date": "2001-01-02",
+    "id": "sample-museum",
+    "name": "North Museum",
+    "outcome_terms": [
+      "opened"
+    ],
+    "source_url": "urn:example:synthetic-event-card"
+  },
+  "kind": "constructed interface example; separate from evaluation",
+  "result": {
+    "decision": "POST_ASSERTION",
+    "p_assertion": 0.8963690897745902,
+    "reason": "above_fixed_upper_boundary",
+    "score": 0.8963690897745902,
+    "trace": {
+      "answer_quote": "North Museum opened.",
+      "answer_span": [
+        0,
+        20
+      ],
+      "case_id": "illustration",
+      "cutoff": "2000-12-31",
+      "event_date": "2001-01-02",
+      "language": "en",
+      "reason": "above_fixed_upper_boundary",
+      "registered_event_id": "sample-museum",
+      "registered_outcome_in_answer": [
+        {
+          "end": 19,
+          "start": 13,
+          "text": "opened"
+        }
+      ],
+      "source_url": "urn:example:synthetic-event-card",
+      "status": "POST_ASSERTION",
+      "subject_in_answer": [
+        {
+          "end": 12,
+          "start": 0,
+          "text": "North Museum"
+        }
+      ],
+      "subject_in_prompt": [
+        {
+          "end": 35,
+          "start": 23,
+          "text": "North Museum"
+        }
+      ],
+      "supplied_subject": "North Museum",
+      "weights_sha256": "8f444d23138b39c16a2bce1ada44f17cc971c296ed6bb7fa04c4be7f8f6897e2"
+    }
+  }
+}

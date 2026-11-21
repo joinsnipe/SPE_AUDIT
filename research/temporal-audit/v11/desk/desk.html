@@ -1,0 +1,19 @@
+<!doctype html>
+<html lang="es"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>SPE Audit · Mesa de revisión</title><link rel="stylesheet" href="/desk.css"><script src="/desk.js" defer></script></head>
+<body><a href="#workspace" class="skip" id="skip">Ir a la revisión</a>
+<header><b class="brand"><span class="bracket" aria-hidden="true">[ ]</span>SPE Audit</b><div role="group" aria-label="Idioma / Language"><button id="es" lang="es" aria-pressed="true">ES</button><button id="en" lang="en" aria-pressed="false">EN</button></div></header>
+<main id="workspace"><h1 id="title">Mesa de revisión</h1><p id="progress"></p><p id="message" role="status" aria-live="polite"></p>
+<div class="toolbar"><button id="start" class="primary">Empezar o reanudar</button><button id="pause" hidden>Pausar</button><b id="clock" aria-live="off"></b><span id="mode"></span></div>
+<section id="work" hidden>
+<div class="panels">
+<section><h2 id="hAnswer">Respuesta</h2><p id="cutoff"></p><details open><summary id="hPrompt">Pregunta</summary><p id="prompt" class="verbatim"></p></details><blockquote id="quote" tabindex="0" class="verbatim"></blockquote>
+<button id="mark">Subrayar selección</button><details><summary id="keyboard">Seleccionar mediante teclado</summary><label id="findLabel" for="phrase">Fragmento exacto</label><input id="phrase" type="text"><button id="find">Subrayar fragmento</button></details>
+<ul id="marks" aria-label="Fragmentos / Selections"></ul></section>
+<section><h2 id="hContext">Lo que recibió el sistema</h2><p id="contextKind"></p><div id="supplied"></div></section>
+<section><h2 id="hHistory">Referencia retrospectiva</h2><h3 id="event"></h3><p id="eventDate"></p><p id="historyHelp"></p><p id="url" class="url"></p></section>
+</div>
+<div class="review"><h2 id="hReview">Tu decisión</h2><p id="question"></p><label for="choice" id="choiceLabel">Etiqueta</label><select id="choice"><option value="" id="empty"></option><option value="post_cutoff_assertion" id="pos"></option><option value="other" id="other"></option><option value="indeterminate" id="indet"></option></select>
+<label for="note" id="reason">Motivo o dato que falta</label><textarea id="note" maxlength="8000" rows="3"></textarea><button id="finish" class="primary">Guardar y continuar</button>
+<details id="assistPanel"><summary id="assistTitle">Asistencia opcional</summary><p id="assistHelp"></p><button id="assist">Activar pistas para este caso</button></details></div>
+</section><section id="end" hidden><h2 id="endTitle">Paquete completado</h2><p id="endHelp"></p><button id="seal" class="primary">Cerrar paquete y obtener recibo</button><p id="receipt" class="url"></p></section>
+</main></body></html>

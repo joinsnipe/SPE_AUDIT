@@ -1,0 +1,123 @@
+[
+  {
+    "id": "channel_tunnel",
+    "name": "Ceremonial opening of the Channel Tunnel",
+    "event_date": "1994-05-06",
+    "source_url": "https://www.getlinkgroup.com/en/our-group/history/",
+    "aliases": [
+      "Channel Tunnel",
+      "Eurotunnel",
+      "Chunnel",
+      "Eurotúnel",
+      "túnel del Canal de la Mancha"
+    ],
+    "outcome_terms": [
+      "inaugurate",
+      "open officially",
+      "dedicate",
+      "inaugurar",
+      "abrir oficialmente",
+      "celebrar la inauguración"
+    ]
+  },
+  {
+    "id": "sydney_opera",
+    "name": "Formal opening of the Sydney Opera House",
+    "event_date": "1973-10-20",
+    "source_url": "https://www.sydneyoperahouse.com/our-story/50-years-extraordinary-moments",
+    "aliases": [
+      "Sydney Opera House",
+      "Ópera de Sídney",
+      "Ópera de Sydney",
+      "Bennelong Point"
+    ],
+    "outcome_terms": [
+      "inaugurate",
+      "declare open",
+      "open formally",
+      "inaugurar",
+      "declarar inaugurado",
+      "abrir oficialmente"
+    ]
+  },
+  {
+    "id": "ligo_detection",
+    "name": "First direct measurement of gravitational waves by the two LIGO detectors",
+    "event_date": "2015-09-14",
+    "source_url": "https://ligo.org/detections/gw150914/",
+    "aliases": [
+      "LIGO",
+      "Advanced LIGO",
+      "Laser Interferometer Gravitational-Wave Observatory",
+      "GW150914"
+    ],
+    "outcome_terms": [
+      "detect",
+      "record a signal",
+      "observe directly",
+      "detectar",
+      "registrar una señal",
+      "observar directamente"
+    ]
+  },
+  {
+    "id": "lhc_circuit",
+    "name": "First particle beam to complete a full circuit of the Large Hadron Collider",
+    "event_date": "2008-09-10",
+    "source_url": "https://home.cern/first-beam-in-the-lhc-accelerating-science/",
+    "aliases": [
+      "Large Hadron Collider",
+      "LHC",
+      "Gran Colisionador de Hadrones"
+    ],
+    "outcome_terms": [
+      "circulate",
+      "complete a circuit",
+      "go around",
+      "circular",
+      "completar una vuelta",
+      "recorrer el anillo"
+    ]
+  },
+  {
+    "id": "panama_expansion",
+    "name": "Official inauguration of the expanded Panama Canal",
+    "event_date": "2016-06-26",
+    "source_url": "https://pancanal.com/en/game-changer-inauguration-of-the-expanded-panama-canal-ushers-in-new-era-of-global-trade/",
+    "aliases": [
+      "Expanded Panama Canal",
+      "Panama Canal Expansion",
+      "Panama Canal",
+      "Canal de Panamá",
+      "Canal Ampliado"
+    ],
+    "outcome_terms": [
+      "inaugurate",
+      "open to traffic",
+      "put into service",
+      "inaugurar",
+      "abrir al tráfico",
+      "poner en servicio"
+    ]
+  },
+  {
+    "id": "hamburg_concert",
+    "name": "First official opening concert in the Elbphilharmonie Grand Hall",
+    "event_date": "2017-01-11",
+    "source_url": "https://www.elbphilharmonie.de/en/whats-on/elbphilharmonie-opening/7388",
+    "aliases": [
+      "Elbphilharmonie",
+      "Elbe Philharmonic Hall",
+      "Filarmónica del Elba",
+      "Elbphilharmonie Grand Hall"
+    ],
+    "outcome_terms": [
+      "give a concert",
+      "perform",
+      "hold an opening concert",
+      "dar un concierto",
+      "interpretar",
+      "celebrar el concierto inaugural"
+    ]
+  }
+]

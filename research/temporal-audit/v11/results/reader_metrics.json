@@ -1,0 +1,292 @@
+{
+  "all": {
+    "alerts_determinate": 18,
+    "alerts_on_indeterminate": 0,
+    "automatic_on_indeterminate": 0,
+    "confusion": {
+      "INDETERMINATE": {
+        "OTHER": 0,
+        "POST_ASSERTION": 0,
+        "REVIEW": 6
+      },
+      "OTHER": {
+        "OTHER": 24,
+        "POST_ASSERTION": 0,
+        "REVIEW": 0
+      },
+      "POST_ASSERTION": {
+        "OTHER": 0,
+        "POST_ASSERTION": 18,
+        "REVIEW": 0
+      }
+    },
+    "coverage": 0.875,
+    "n": 48,
+    "precision_determinate": 1.0,
+    "referral_rate": 0.125,
+    "referred": 6,
+    "selective_error_determinate": 0.0,
+    "sensitivity": 1.0
+  },
+  "by_event/channel_tunnel": {
+    "alerts_determinate": 3,
+    "alerts_on_indeterminate": 0,
+    "automatic_on_indeterminate": 0,
+    "confusion": {
+      "INDETERMINATE": {
+        "OTHER": 0,
+        "POST_ASSERTION": 0,
+        "REVIEW": 1
+      },
+      "OTHER": {
+        "OTHER": 4,
+        "POST_ASSERTION": 0,
+        "REVIEW": 0
+      },
+      "POST_ASSERTION": {
+        "OTHER": 0,
+        "POST_ASSERTION": 3,
+        "REVIEW": 0
+      }
+    },
+    "coverage": 0.875,
+    "n": 8,
+    "precision_determinate": 1.0,
+    "referral_rate": 0.125,
+    "referred": 1,
+    "selective_error_determinate": 0.0,
+    "sensitivity": 1.0
+  },
+  "by_event/hamburg_concert": {
+    "alerts_determinate": 3,
+    "alerts_on_indeterminate": 0,
+    "automatic_on_indeterminate": 0,
+    "confusion": {
+      "INDETERMINATE": {
+        "OTHER": 0,
+        "POST_ASSERTION": 0,
+        "REVIEW": 1
+      },
+      "OTHER": {
+        "OTHER": 4,
+        "POST_ASSERTION": 0,
+        "REVIEW": 0
+      },
+      "POST_ASSERTION": {
+        "OTHER": 0,
+        "POST_ASSERTION": 3,
+        "REVIEW": 0
+      }
+    },
+    "coverage": 0.875,
+    "n": 8,
+    "precision_determinate": 1.0,
+    "referral_rate": 0.125,
+    "referred": 1,
+    "selective_error_determinate": 0.0,
+    "sensitivity": 1.0
+  },
+  "by_event/lhc_circuit": {
+    "alerts_determinate": 3,
+    "alerts_on_indeterminate": 0,
+    "automatic_on_indeterminate": 0,
+    "confusion": {
+      "INDETERMINATE": {
+        "OTHER": 0,
+        "POST_ASSERTION": 0,
+        "REVIEW": 1
+      },
+      "OTHER": {
+        "OTHER": 4,
+        "POST_ASSERTION": 0,
+        "REVIEW": 0
+      },
+      "POST_ASSERTION": {
+        "OTHER": 0,
+        "POST_ASSERTION": 3,
+        "REVIEW": 0
+      }
+    },
+    "coverage": 0.875,
+    "n": 8,
+    "precision_determinate": 1.0,
+    "referral_rate": 0.125,
+    "referred": 1,
+    "selective_error_determinate": 0.0,
+    "sensitivity": 1.0
+  },
+  "by_event/ligo_detection": {
+    "alerts_determinate": 3,
+    "alerts_on_indeterminate": 0,
+    "automatic_on_indeterminate": 0,
+    "confusion": {
+      "INDETERMINATE": {
+        "OTHER": 0,
+        "POST_ASSERTION": 0,
+        "REVIEW": 1
+      },
+      "OTHER": {
+        "OTHER": 4,
+        "POST_ASSERTION": 0,
+        "REVIEW": 0
+      },
+      "POST_ASSERTION": {
+        "OTHER": 0,
+        "POST_ASSERTION": 3,
+        "REVIEW": 0
+      }
+    },
+    "coverage": 0.875,
+    "n": 8,
+    "precision_determinate": 1.0,
+    "referral_rate": 0.125,
+    "referred": 1,
+    "selective_error_determinate": 0.0,
+    "sensitivity": 1.0
+  },
+  "by_event/panama_expansion": {
+    "alerts_determinate": 3,
+    "alerts_on_indeterminate": 0,
+    "automatic_on_indeterminate": 0,
+    "confusion": {
+      "INDETERMINATE": {
+        "OTHER": 0,
+        "POST_ASSERTION": 0,
+        "REVIEW": 1
+      },
+      "OTHER": {
+        "OTHER": 4,
+        "POST_ASSERTION": 0,
+        "REVIEW": 0
+      },
+      "POST_ASSERTION": {
+        "OTHER": 0,
+        "POST_ASSERTION": 3,
+        "REVIEW": 0
+      }
+    },
+    "coverage": 0.875,
+    "n": 8,
+    "precision_determinate": 1.0,
+    "referral_rate": 0.125,
+    "referred": 1,
+    "selective_error_determinate": 0.0,
+    "sensitivity": 1.0
+  },
+  "by_event/sydney_opera": {
+    "alerts_determinate": 3,
+    "alerts_on_indeterminate": 0,
+    "automatic_on_indeterminate": 0,
+    "confusion": {
+      "INDETERMINATE": {
+        "OTHER": 0,
+        "POST_ASSERTION": 0,
+        "REVIEW": 1
+      },
+      "OTHER": {
+        "OTHER": 4,
+        "POST_ASSERTION": 0,
+        "REVIEW": 0
+      },
+      "POST_ASSERTION": {
+        "OTHER": 0,
+        "POST_ASSERTION": 3,
+        "REVIEW": 0
+      }
+    },
+    "coverage": 0.875,
+    "n": 8,
+    "precision_determinate": 1.0,
+    "referral_rate": 0.125,
+    "referred": 1,
+    "selective_error_determinate": 0.0,
+    "sensitivity": 1.0
+  },
+  "by_language/en": {
+    "alerts_determinate": 9,
+    "alerts_on_indeterminate": 0,
+    "automatic_on_indeterminate": 0,
+    "confusion": {
+      "INDETERMINATE": {
+        "OTHER": 0,
+        "POST_ASSERTION": 0,
+        "REVIEW": 3
+      },
+      "OTHER": {
+        "OTHER": 12,
+        "POST_ASSERTION": 0,
+        "REVIEW": 0
+      },
+      "POST_ASSERTION": {
+        "OTHER": 0,
+        "POST_ASSERTION": 9,
+        "REVIEW": 0
+      }
+    },
+    "coverage": 0.875,
+    "n": 24,
+    "precision_determinate": 1.0,
+    "referral_rate": 0.125,
+    "referred": 3,
+    "selective_error_determinate": 0.0,
+    "sensitivity": 1.0
+  },
+  "by_language/es": {
+    "alerts_determinate": 9,
+    "alerts_on_indeterminate": 0,
+    "automatic_on_indeterminate": 0,
+    "confusion": {
+      "INDETERMINATE": {
+        "OTHER": 0,
+        "POST_ASSERTION": 0,
+        "REVIEW": 3
+      },
+      "OTHER": {
+        "OTHER": 12,
+        "POST_ASSERTION": 0,
+        "REVIEW": 0
+      },
+      "POST_ASSERTION": {
+        "OTHER": 0,
+        "POST_ASSERTION": 9,
+        "REVIEW": 0
+      }
+    },
+    "coverage": 0.875,
+    "n": 24,
+    "precision_determinate": 1.0,
+    "referral_rate": 0.125,
+    "referred": 3,
+    "selective_error_determinate": 0.0,
+    "sensitivity": 1.0
+  },
+  "exploratory_cascade": {
+    "alerts_determinate": 19,
+    "alerts_on_indeterminate": 0,
+    "automatic_on_indeterminate": 3,
+    "confusion": {
+      "INDETERMINATE": {
+        "OTHER": 3,
+        "POST_ASSERTION": 0,
+        "REVIEW": 3
+      },
+      "OTHER": {
+        "OTHER": 23,
+        "POST_ASSERTION": 1,
+        "REVIEW": 0
+      },
+      "POST_ASSERTION": {
+        "OTHER": 0,
+        "POST_ASSERTION": 18,
+        "REVIEW": 0
+      }
+    },
+    "coverage": 0.9375,
+    "n": 48,
+    "precision_determinate": 0.9473684210526315,
+    "referral_rate": 0.0625,
+    "referred": 3,
+    "selective_error_determinate": 0.023809523809523808,
+    "sensitivity": 1.0
+  }
+}

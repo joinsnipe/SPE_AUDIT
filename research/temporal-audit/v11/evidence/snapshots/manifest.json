@@ -1,0 +1,17 @@
+{
+  "schema": "spe-snapshot-git-v1",
+  "file": "core-merkle.py.txt",
+  "bytes": 949,
+  "sha256": "b8c426752b9feb2239dc9d356f5c01b30bdf3a614e68728eb717dba96671d17a",
+  "source_url": "https://github.com/joinsnipe/SPE_AUDIT/blob/4f431863c63df6bba69ac85bdbf8defe36523d21/spe_engine/core/merkle.py",
+  "version": "4f431863c63df6bba69ac85bdbf8defe36523d21",
+  "git_blob_sha1": "d4f566a61057f841ceb5047e3211a8bc4ecd6112",
+  "times": {
+    "event": "2026-02-16T17:19:38Z",
+    "publication": null,
+    "effective": null,
+    "ingestion": null,
+    "capture": "2026-11-21T17:11:16Z"
+  },
+  "interpretation": "GitHub commit metadata supplies the event time for the named revision. Capture records the local packaging observation after a same-revision GitHub blob comparison. First public availability, legal effect and operational ingestion have no independent observation here."
+}

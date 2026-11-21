@@ -1,0 +1,30 @@
+{
+  "resource_type": "Related software on GitHub; no separate deposit requested",
+  "title": "SPE Audit: replication software for Temporal auditing of AI outputs",
+  "version": "1.1",
+  "description": "Reference to the public study replication code. No software DOI is proposed or needed for the paper deposit. The source repository supplies the software attribution and license notices.",
+  "keywords": [
+    "audit software",
+    "temporal evaluation",
+    "reproducibility",
+    "SPE Audit"
+  ],
+  "rights": {
+    "title": "Business Source License 1.1 as distributed with SPE Audit, including its Additional Use Grant and Change Date",
+    "spdx_family": "BUSL-1.1",
+    "url": "https://github.com/joinsnipe/SPE_AUDIT/blob/4f431863c63df6bba69ac85bdbf8defe36523d21/LICENSE",
+    "scope": "SPE code covered by the repository license. Preserve all third-party notices and the separate terms of any other assets."
+  },
+  "related_identifiers": [
+    {
+      "scheme": "url",
+      "identifier": "https://github.com/joinsnipe/SPE_AUDIT",
+      "relation": "IsPartOf"
+    },
+    {
+      "scheme": "doi",
+      "identifier": "10.5281/zenodo.24424024",
+      "relation": "IsSupplementTo"
+    }
+  ]
+}

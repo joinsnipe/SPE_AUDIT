@@ -1,0 +1,77 @@
+{
+  "resource_type": "Publication / Preprint",
+  "title": "Temporal auditing of AI outputs",
+  "creators": [
+    {
+      "type": "person",
+      "family_name": "Abella",
+      "given_names": "Rubén"
+    }
+  ],
+  "version": "1.1",
+  "languages": [
+    "English",
+    "Spanish"
+  ],
+  "publication_date": "2026-11-21",
+  "description": "A historical answer can name a later event while predicting it, quoting it or rejecting a claim about it. We study whether an auditor can detect an assertion of a completed post-cutoff outcome and inspect the request evidence that an application preserved. We review prior work, test a public implementation, compare explicit-year, proposition, character n-gram and small neural classifiers, and publish bilingual case-level evidence. On 48 newly authored English and Spanish cases about six events, 18 reference responses asserted a later outcome, 24 were controls and six were indeterminate. The year rule detected none of the 18 positives. The frozen proposition rules detected one, generated one false alert and referred 24 of 48 cases. A naive Bayes baseline detected 11 of 18 at the cost of six false alerts among controls and three alerts on indeterminate responses. The small neural classifier made nine decisions and detected no positives. A separate four-language replay of 112 previously public examples preserved all explicit years, producing identical year-rule decisions across languages. Proposition decisions changed for 17 English/Spanish pairs. The study distinguishes event date, public availability and the evidence captured at an application boundary. Neither a matching digest nor a correct linguistic label independently establishes which source caused a provider's output. We release the documented limitations, machine-checkable evidence and prior-art catalogue to support reproducible challenges to individual decisions. Original text and original figures are licensed CC BY 4.0. Trademarks are separate, third-party material retains its own terms, and linked SPE software remains under Business Source License 1.1.",
+  "keywords": [
+    "temporal evaluation",
+    "language models",
+    "retrieval-augmented generation",
+    "audit evidence",
+    "reproducibility",
+    "provenance"
+  ],
+  "rights": {
+    "id": "cc-by-4.0",
+    "title": "Creative Commons Attribution 4.0 International",
+    "url": "https://creativecommons.org/licenses/by/4.0/",
+    "scope": "Original text and original figures only. Trademarks are separate. Third-party material retains its original terms. Linked software remains subject to the Business Source License 1.1 and its notices."
+  },
+  "related_identifiers": [
+    {
+      "scheme": "url",
+      "identifier": "https://github.com/joinsnipe/SPE_AUDIT/tree/4f431863c63df6bba69ac85bdbf8defe36523d21",
+      "relation": "References"
+    },
+    {
+      "scheme": "url",
+      "identifier": "https://github.com/joinsnipe/SPE_AUDIT/tree/main/research/temporal-audit",
+      "relation": "IsSupplementedBy"
+    }
+  ],
+  "project_landing_page": "https://github.com/joinsnipe/SPE_AUDIT/tree/main/research/temporal-audit",
+  "doi": "10.5281/zenodo.24424024",
+  "doi_status": "Published on Zenodo on 2026-11-21",
+  "alternative_titles": [
+    {
+      "type": "TranslatedTitle",
+      "language": "Spanish",
+      "title": "Auditoría temporal de las respuestas de IA"
+    }
+  ],
+  "public_record_url": "https://zenodo.org/records/24424024",
+  "project_sections": {
+    "status": "planned research pages",
+    "en": "https://www.spetrace.com/research/temporal-audit",
+    "es": "https://www.spetrace.com/es/research/temporal-audit"
+  },
+  "concept_doi": "10.5281/zenodo.24424023",
+  "published_files": [
+    {
+      "language": "EN",
+      "public_filename": "SPE_Audit_1_1_EN.pdf",
+      "local_filename": "FULL_EN.pdf",
+      "sha256": "13848dfd04f0bea91814cd08ee12598077c69e942093282f4e3a4658c3060834",
+      "bytes": 1094906
+    },
+    {
+      "language": "ES",
+      "public_filename": "SPE_Audit_1_1_ES.pdf",
+      "local_filename": "FULL_ES.pdf",
+      "sha256": "4810c83704b6169440ef66cf3bea91d0989ed40a2a058d7f2b29dbe3c1686050",
+      "bytes": 1145066
+    }
+  ]
+}
