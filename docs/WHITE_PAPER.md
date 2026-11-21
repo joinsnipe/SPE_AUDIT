@@ -3,7 +3,7 @@
 ## White Paper: Cryptographic Certification for AI Outputs
 
 **Version 1.0 — February 2026**
-**Historical edition · © 2025–2026 SPE Audit**
+**Historical edition · © 2025–2026 Rubén Abella · SPE Audit**
 
 > **November 2026 editorial note.** This February paper records the original design and its claims. The November study examines those claims against the published API and prior art. The base API binds supplied output. Its default prompt and context fields do not demonstrate what a provider received. The year rule can flag forecasts and miss completed events. The November study includes an executable capture adapter, test cases and both measured failure rates. [Full paper in English](../research/temporal-audit/PAPER_EN.md) · [Edición en español](../research/temporal-audit/PAPER_ES.md)
 
@@ -177,4 +177,4 @@ A proof generated today is verifiable in ten years, on an air-gapped machine, by
 
 **SPE — Stateless. Portable. Verifiable.**
 
-_Patent Pending — © 2025–2026 SPE Audit_
+_Patent Pending — © 2025–2026 Rubén Abella · SPE Audit_

@@ -150,4 +150,4 @@ SPE_Proof_YYYYMMDD_HHMMSS.zip
 
 ---
 
-_© 2024-2026 SPE Audit — Patent Pending_
+_© 2024-2026 Rubén Abella · SPE Audit — Patent Pending_

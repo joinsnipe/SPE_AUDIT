@@ -106,7 +106,7 @@ def math_text(text):
 
 class PaperDoc(BaseDocTemplate):
     def __init__(self, path, title, subtitle, es, logo):
-        super().__init__(str(path),pagesize=A4,title=title,author='SPE Audit · Capriciousecret S.L.',
+        super().__init__(str(path),pagesize=A4,title=title,author='Rubén Abella',
                          creator='SPE Audit',subject=subtitle,
                          leftMargin=M,rightMargin=M,topMargin=57,bottomMargin=53)
         self.title_text, self.subtitle, self.es, self.logo = title, subtitle, es, logo
@@ -136,7 +136,7 @@ class PaperDoc(BaseDocTemplate):
             _, sh = p.wrap(AREA-30,120); p.drawOn(c,M,H-365-height-sh)
             c.setStrokeColor(COLOR('#466258')); c.line(M,107,W-M,107)
             c.setFillColor(colors.white); c.setFont('BodyB',11)
-            c.drawString(M,80,'SPE Audit · Capriciousecret S.L.')
+            c.drawString(M,80,'Rubén Abella · SPE Audit')
             c.setFont('Body',9); c.setFillColor(COLOR('#BBD4C9'))
             c.drawString(M,59,'21 de noviembre de 2026' if self.es else '21 November 2026')
             c.drawRightString(W-M,59,'EDICIÓN DE INVESTIGACIÓN 1.0  ·  ES' if self.es else 'RESEARCH EDITION 1.0  ·  EN')
@@ -148,7 +148,7 @@ class PaperDoc(BaseDocTemplate):
             c.drawRightString(W-M,H-31,self.title_text)
             c.setStrokeColor(COLOR('#C8DAD1')); c.line(M,H-42,W-M,H-42)
             c.line(M,39,W-M,39)
-            c.drawString(M,24,'Capriciousecret S.L.  ·  2026')
+            c.drawString(M,24,'Rubén Abella · SPE Audit  ·  2026')
             c.setFont('BodyB',8); c.drawRightString(W-M,24,str(doc.page))
         c.restoreState()
 
@@ -302,7 +302,7 @@ def main():
     front=tree['blocks']; first=front.index(render.first)
     subtitle=''; content=front
     if (len(front)>first+2 and front[first+1]['t']=='Para' and front[first+2]['t']=='Para'
-            and 'Capriciousecret' in plain(front[first+2]['c'])):
+            and 'Rubén Abella' in plain(front[first+2]['c'])):
         subtitle=plain(front[first+1]['c']); content=front[:first]+front[first+3:]
     out=PaperDoc(dest,render.title,subtitle,es,ImageReader(str(logo)))
     toc=TableOfContents(); toc.dotsMinLevel=0

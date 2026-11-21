@@ -2,7 +2,7 @@
 
 **Request-level evidence, prior art and the limits of automated detection**
 
-SPE Audit · Capriciousecret S.L. · 21 November 2026 · Research edition 1.0
+Rubén Abella · SPE Audit · 21 November 2026 · Research edition 1.0
 
 ## Abstract
 
@@ -334,9 +334,9 @@ One capability did survive testing. A third party can retain a digest, open the 
 
 The survey changes the way the contribution should be described. Dated retrieval, signed records, provenance, evaluation of future knowledge and measures of uncertainty have distinct technical histories. Publishing the studied implementations, their limits and an unfavourable result lets others challenge the design and test an alternative on the same material.
 
-### Materials, institutional responsibility and conditions
+### Materials, authorship and conditions
 
-Research edition by **SPE Audit · Capriciousecret S.L.** The team publishing the study develops the technology under evaluation. Literature retrieval, writing, code and example editing were AI-assisted. A separate AI-assisted editor wrote the challenge, knowing the research question but without prior access to the specific decision rules or development examples. Outputs were regenerated and decisions recounted. This public first edition has not undergone peer review or independent deployment evaluation. Both editions retain source titles in the original language. The tested sentences are English. Interface translations are editorial.
+Research edition by **Rubén Abella · SPE Audit** The team publishing the study develops the technology under evaluation. Literature retrieval, writing, code and example editing were AI-assisted. A separate AI-assisted editor wrote the challenge, knowing the research question but without prior access to the specific decision rules or development examples. Outputs were regenerated and decisions recounted. This public first edition has not undergone peer review or independent deployment evaluation. Both editions retain source titles in the original language. The tested sentences are English. Interface translations are editorial.
 
 The experiment uses original short summaries. Retaining the publication date reported by an agency makes the filter reproducible. A dispute over the content of a page at a particular time would also require an identified historical snapshot. The archival extracts permit a recount that preserves failures to return text. Output hashes can be compared by a party holding the original response.
 

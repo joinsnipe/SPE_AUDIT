@@ -2,7 +2,7 @@
 
 **Evidencia por petición, antecedentes técnicos y límites de la detección automática**
 
-SPE Audit · Capriciousecret S.L. · 21 de noviembre de 2026 · Edición de investigación 1.0
+Rubén Abella · SPE Audit · 21 de noviembre de 2026 · Edición de investigación 1.0
 
 ## Resumen
 
@@ -334,9 +334,9 @@ También hay una capacidad que se pudo demostrar con éxito. Un tercero puede co
 
 La revisión de antecedentes cambia la forma de presentar la contribución. La recuperación con fecha, los registros firmados, la procedencia, la evaluación del conocimiento futuro y el estudio de la incertidumbre tienen historias técnicas propias. Publicar las implementaciones estudiadas, sus límites y el resultado desfavorable permite que otro equipo cuestione el diseño y compare su alternativa sobre los mismos ejemplos.
 
-### Material, autoría institucional y condiciones
+### Material, autoría y condiciones
 
-Edición de investigación de **SPE Audit · Capriciousecret S.L.** El equipo que publica el estudio desarrolla la tecnología evaluada. La recuperación bibliográfica, la redacción, el código y la edición de los ejemplos recibieron asistencia de IA. El desafío fue redactado por separado por un editor asistido por IA, con conocimiento de la pregunta científica y sin acceso previo a las reglas específicas ni a los ejemplos de desarrollo. Las cifras se comprobaron regenerando los archivos y recontando las decisiones. Se trata de una primera edición pública sin revisión por pares ni evaluación independiente de despliegue. Las dos ediciones conservan los títulos de las fuentes en su lengua original. Las frases ensayadas están en inglés y las traducciones de la interfaz son editoriales.
+Edición de investigación de **Rubén Abella · SPE Audit** El equipo que publica el estudio desarrolla la tecnología evaluada. La recuperación bibliográfica, la redacción, el código y la edición de los ejemplos recibieron asistencia de IA. El desafío fue redactado por separado por un editor asistido por IA, con conocimiento de la pregunta científica y sin acceso previo a las reglas específicas ni a los ejemplos de desarrollo. Las cifras se comprobaron regenerando los archivos y recontando las decisiones. Se trata de una primera edición pública sin revisión por pares ni evaluación independiente de despliegue. Las dos ediciones conservan los títulos de las fuentes en su lengua original. Las frases ensayadas están en inglés y las traducciones de la interfaz son editoriales.
 
 Las fichas del experimento son resúmenes elaborados para este trabajo. Conservar la fecha de publicación que declara una agencia permite reproducir el filtro utilizado. Para una controversia sobre lo que una página decía en una fecha determinada haría falta una captura histórica identificada. Los extractos del piloto permiten recontar sus resultados preservando los turnos que fallaron. Los hashes de texto pueden cotejarse con el original que posea otra parte.
 

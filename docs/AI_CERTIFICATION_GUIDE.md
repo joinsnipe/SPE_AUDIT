@@ -295,4 +295,4 @@ the content existed in a specific form at a specific time — nothing more, noth
 
 _SPE — Stateless. Portable. Verifiable._
 
-_Patent Pending — © 2024-2026 SPE Audit / Joinsnipe_
+_Patent Pending — © 2024-2026 Rubén Abella · SPE Audit_
