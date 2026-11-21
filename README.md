@@ -14,7 +14,7 @@ In the new 48-case bilingual challenge, the frozen proposition rule flagged **1 
 | [Artículo en español](research/temporal-audit/v11/FULL_ES.pdf) · [English paper](research/temporal-audit/v11/FULL_EN.pdf) | [Demo en español](https://www.spetrace.com/es/research/temporal-audit) · [English demo](https://www.spetrace.com/research/temporal-audit) · [Demo sin conexión](research/temporal-audit/v11/explore/offline.zip) | [Datos, código e instrucciones](research/temporal-audit/v11/) |
 | [DOI 10.5281/zenodo.24424024](https://doi.org/10.5281/zenodo.24424024) | [Diapositivas](research/temporal-audit/v11/outreach/slides_es.pdf) · [Technical blog](research/temporal-audit/v11/outreach/blog_en.md) | [54 registros históricos](research/temporal-audit/landscape/legacy.csv) · [116 referencias](research/temporal-audit/landscape/bibliography.csv) · [Revisión de fechas](research/temporal-audit/v11/sources/dating_ledger.csv) |
 
-[Laboratorio abierto y piloto ciego de 16 casos · Open lab and 16-case pilot](research/temporal-audit/post11/)
+[Nota científica de seguimiento · Bilingual follow-up](research/temporal-audit/post11/brief/BRIEF_ES_EN.pdf) · [Laboratorio abierto y piloto ciego de 16 casos · Open lab and 16-case pilot](research/temporal-audit/post11/)
 
 ## Stateless Proof Engine
 

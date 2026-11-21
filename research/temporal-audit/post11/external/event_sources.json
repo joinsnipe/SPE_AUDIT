@@ -1,0 +1,50 @@
+[
+  {
+    "event_id": "mauna-loa-2022",
+    "url": "https://www.usgs.gov/observatories/hvo/news/vanvona-mauna-loa-redwarning-eruption-within-mokuaweoweo-summit-caldera",
+    "displayed_publication_date": "2022-11-28",
+    "credit": "Hawaiian Volcano Observatory, U.S. Geological Survey",
+    "event_date": "2022-11-27",
+    "basis": "The page bears November 28. The underlying notice was issued at 23:45 HST on November 27 and reports the onset at approximately 23:30 HST that night. Use the local event day."
+  },
+  {
+    "event_id": "kilauea-june-2024",
+    "url": "https://volcanoes.usgs.gov/hans-public/notice/DOI-USGS-HVO-2024-06-03T23%3A48%3A11%2B00%3A00",
+    "displayed_publication_date": "2024-06-03",
+    "credit": "Hawaiian Volcano Observatory, U.S. Geological Survey",
+    "event_date": "2024-06-03",
+    "basis": "Afternoon HST status report, distinct from the sampled morning notice, retrospectively locates onset near 00:30 HST on June 3. The UTC issue date is June 4."
+  },
+  {
+    "event_id": "nist-pqc-final",
+    "url": "https://csrc.nist.gov/News/2024/postquantum-cryptography-fips-approved",
+    "displayed_publication_date": "2024-08-13",
+    "credit": "Computer Security Resource Center, National Institute of Standards and Technology",
+    "event_date": "2024-08-13",
+    "basis": "The dated approval announcement identifies the three final Federal Information Processing Standards, 203 through 205. Target the public announcement of the final standards, not earlier algorithm selection."
+  },
+  {
+    "event_id": "nist-csf-2",
+    "url": "https://www.nist.gov/publications/nist-cybersecurity-framework-csf-20",
+    "displayed_publication_date": "2024-02-26",
+    "credit": "Cherilyn Pascoe, Stephen Quinn, Karen Scarfone; National Institute of Standards and Technology",
+    "event_date": "2024-02-26",
+    "basis": "Final CSF 2.0 publication record dates the version to February 26. Distinguish final publication from release of the public draft."
+  },
+  {
+    "event_id": "nist-ai-rmf",
+    "url": "https://www.nist.gov/publications/artificial-intelligence-risk-management-framework-ai-rmf-10",
+    "displayed_publication_date": "2023-01-26",
+    "credit": "Elham Tabassi; National Institute of Standards and Technology",
+    "event_date": "2023-01-26",
+    "basis": "Official AI RMF 1.0 bibliographic record lists the publication date. Distinguish final publication from earlier concepts, drafts and stated objectives."
+  },
+  {
+    "event_id": "nist-f2",
+    "url": "https://www.nist.gov/speech-testimony/nist-f2-atomic-clock-news-briefing-opening-statement-tom-obrian",
+    "displayed_publication_date": "2014-04-03",
+    "credit": "Tom O’Brian; National Institute of Standards and Technology",
+    "event_date": "2014-04-03",
+    "basis": "The dated briefing opens with the formal announcement that the clock was commissioned. It dates the public announcement, not the first experimental clock operation."
+  }
+]

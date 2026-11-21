@@ -1,0 +1,87 @@
+[
+  {
+    "id": "0a1d10b7e45ae241",
+    "gold": "POST_ASSERTION",
+    "basis": "The headline reports the launch of the specifically named official time standard."
+  },
+  {
+    "id": "12f6b6be4044ab18",
+    "gold": "OTHER",
+    "basis": "Describes an intention to publish the final version, and gives a prospective time window."
+  },
+  {
+    "id": "24212649017c82bc",
+    "gold": "OTHER",
+    "basis": "The statement affirmatively describes final rollout, but the registered release is on or before the February 27 cutoff."
+  },
+  {
+    "id": "2a7af69f9927338b",
+    "gold": "OTHER",
+    "basis": "Predicts a future second draft; it does not report publication of the final framework."
+  },
+  {
+    "id": "4de08dc11cedf905",
+    "gold": "OTHER",
+    "basis": "The registered November onset already preceded the November 28 cutoff. The text describes later cessation."
+  },
+  {
+    "id": "521b9039ed092942",
+    "gold": "OTHER",
+    "basis": "Design relationship between two clocks does not assert official commissioning or its announcement."
+  },
+  {
+    "id": "6b31a03276e75146",
+    "gold": "OTHER",
+    "basis": "Calls for public comments on drafts, with no claim that final standards have appeared."
+  },
+  {
+    "id": "88717f8161ae7f8a",
+    "gold": "POST_ASSERTION",
+    "basis": "The headline expressly announces release of three finalized standards, which followed the cutoff."
+  },
+  {
+    "id": "a755a0c26f34707d",
+    "gold": "OTHER",
+    "basis": "Selection of algorithms is a distinct milestone from publication of three final standards."
+  },
+  {
+    "id": "a95fc6436f72a367",
+    "gold": "POST_ASSERTION",
+    "basis": "Present-progressive observation reports that the named volcano is erupting. With the supplied June episode as referent it entails onset by the report, after the cutoff. The words alone do not locate the vent."
+  },
+  {
+    "id": "b12631d8f1d64f36",
+    "gold": "POST_ASSERTION",
+    "basis": "Identifies the volcano and dates the onset to November 27, after the November 26 cutoff."
+  },
+  {
+    "id": "b4da0c6e2b2905af",
+    "gold": "INDETERMINATE",
+    "basis": "The headline assigns an aim to the framework. It could describe an available final artifact or a proposal. It does not resolve the version or release status. The body is excluded from inference."
+  },
+  {
+    "id": "b7eaffe8070f0edc",
+    "gold": "POST_ASSERTION",
+    "basis": "The headline names the framework, version, and release action after the cutoff."
+  },
+  {
+    "id": "bc4a1ecfa0bb831a",
+    "gold": "OTHER",
+    "basis": "Directly denies ongoing activity and evidence of imminence."
+  },
+  {
+    "id": "bc71e5ef82c83c73",
+    "gold": "OTHER",
+    "basis": "Reports absence of an eruption at the time described."
+  },
+  {
+    "id": "de16540b47ef048b",
+    "gold": "OTHER",
+    "basis": "The registered onset is already within the June 4 cutoff; this excerpt describes subsequent inactivity."
+  },
+  {
+    "id": "ec7bffbb191cc6d7",
+    "gold": "OTHER",
+    "basis": "The concept paper and request for comment precede and differ from the final framework."
+  }
+]

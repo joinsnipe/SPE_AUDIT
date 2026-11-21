@@ -1,0 +1,206 @@
+{
+  "year_rule": {
+    "n": 17,
+    "confusion": {
+      "POST_ASSERTION": {
+        "POST_ASSERTION": 0,
+        "OTHER": 5,
+        "REVIEW": 0
+      },
+      "OTHER": {
+        "POST_ASSERTION": 0,
+        "OTHER": 11,
+        "REVIEW": 0
+      },
+      "INDETERMINATE": {
+        "POST_ASSERTION": 0,
+        "OTHER": 1,
+        "REVIEW": 0
+      }
+    },
+    "determinate": 16,
+    "coverage_all": {
+      "numerator": 17,
+      "denominator": 17,
+      "rate": 1.0
+    },
+    "coverage_determinate": {
+      "numerator": 16,
+      "denominator": 16,
+      "rate": 1.0
+    },
+    "selective_error_determinate": {
+      "numerator": 5,
+      "denominator": 16,
+      "rate": 0.3125
+    },
+    "alert_precision_determinate": {
+      "numerator": 0,
+      "denominator": 0,
+      "rate": null
+    },
+    "alerts_over_all_reference_positives": {
+      "numerator": 0,
+      "denominator": 5,
+      "rate": 0.0
+    },
+    "decisions_on_ambiguous": {
+      "numerator": 1,
+      "denominator": 1,
+      "rate": 1.0
+    }
+  },
+  "proposition": {
+    "n": 17,
+    "confusion": {
+      "POST_ASSERTION": {
+        "POST_ASSERTION": 2,
+        "OTHER": 0,
+        "REVIEW": 3
+      },
+      "OTHER": {
+        "POST_ASSERTION": 0,
+        "OTHER": 5,
+        "REVIEW": 6
+      },
+      "INDETERMINATE": {
+        "POST_ASSERTION": 0,
+        "OTHER": 1,
+        "REVIEW": 0
+      }
+    },
+    "determinate": 16,
+    "coverage_all": {
+      "numerator": 8,
+      "denominator": 17,
+      "rate": 0.47058823529411764
+    },
+    "coverage_determinate": {
+      "numerator": 7,
+      "denominator": 16,
+      "rate": 0.4375
+    },
+    "selective_error_determinate": {
+      "numerator": 0,
+      "denominator": 7,
+      "rate": 0.0
+    },
+    "alert_precision_determinate": {
+      "numerator": 2,
+      "denominator": 2,
+      "rate": 1.0
+    },
+    "alerts_over_all_reference_positives": {
+      "numerator": 2,
+      "denominator": 5,
+      "rate": 0.4
+    },
+    "decisions_on_ambiguous": {
+      "numerator": 1,
+      "denominator": 1,
+      "rate": 1.0
+    }
+  },
+  "char_ngram_nb": {
+    "n": 17,
+    "confusion": {
+      "POST_ASSERTION": {
+        "POST_ASSERTION": 3,
+        "OTHER": 2,
+        "REVIEW": 0
+      },
+      "OTHER": {
+        "POST_ASSERTION": 5,
+        "OTHER": 6,
+        "REVIEW": 0
+      },
+      "INDETERMINATE": {
+        "POST_ASSERTION": 0,
+        "OTHER": 1,
+        "REVIEW": 0
+      }
+    },
+    "determinate": 16,
+    "coverage_all": {
+      "numerator": 17,
+      "denominator": 17,
+      "rate": 1.0
+    },
+    "coverage_determinate": {
+      "numerator": 16,
+      "denominator": 16,
+      "rate": 1.0
+    },
+    "selective_error_determinate": {
+      "numerator": 7,
+      "denominator": 16,
+      "rate": 0.4375
+    },
+    "alert_precision_determinate": {
+      "numerator": 3,
+      "denominator": 8,
+      "rate": 0.375
+    },
+    "alerts_over_all_reference_positives": {
+      "numerator": 3,
+      "denominator": 5,
+      "rate": 0.6
+    },
+    "decisions_on_ambiguous": {
+      "numerator": 1,
+      "denominator": 1,
+      "rate": 1.0
+    }
+  },
+  "neural_char_lm": {
+    "n": 17,
+    "confusion": {
+      "POST_ASSERTION": {
+        "POST_ASSERTION": 0,
+        "OTHER": 1,
+        "REVIEW": 4
+      },
+      "OTHER": {
+        "POST_ASSERTION": 0,
+        "OTHER": 6,
+        "REVIEW": 5
+      },
+      "INDETERMINATE": {
+        "POST_ASSERTION": 0,
+        "OTHER": 0,
+        "REVIEW": 1
+      }
+    },
+    "determinate": 16,
+    "coverage_all": {
+      "numerator": 7,
+      "denominator": 17,
+      "rate": 0.4117647058823529
+    },
+    "coverage_determinate": {
+      "numerator": 7,
+      "denominator": 16,
+      "rate": 0.4375
+    },
+    "selective_error_determinate": {
+      "numerator": 1,
+      "denominator": 7,
+      "rate": 0.14285714285714285
+    },
+    "alert_precision_determinate": {
+      "numerator": 0,
+      "denominator": 0,
+      "rate": null
+    },
+    "alerts_over_all_reference_positives": {
+      "numerator": 0,
+      "denominator": 5,
+      "rate": 0.0
+    },
+    "decisions_on_ambiguous": {
+      "numerator": 0,
+      "denominator": 1,
+      "rate": 0.0
+    }
+  }
+}

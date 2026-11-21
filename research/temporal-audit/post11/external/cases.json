@@ -1,0 +1,138 @@
+[
+  {
+    "id": "0a1d10b7e45ae241",
+    "event_id": "nist-f2",
+    "language": "en",
+    "cutoff": "2014-04-02",
+    "prompt": "What does the passage say about the announcement of commissioning as a U.S. civilian time standard (NIST-F2)?",
+    "text": "NIST Launches a New U.S. Time Standard: NIST-F2 Atomic Clock"
+  },
+  {
+    "id": "12f6b6be4044ab18",
+    "event_id": "nist-csf-2",
+    "language": "en",
+    "cutoff": "2024-02-25",
+    "prompt": "What does the passage say about the release of the final version of the Cybersecurity Framework 2.0 (NIST Cybersecurity Framework 2.0)?",
+    "text": "The developers plan to publish the final version of CSF 2.0 in early 2024."
+  },
+  {
+    "id": "24212649017c82bc",
+    "event_id": "nist-csf-2",
+    "language": "en",
+    "cutoff": "2024-02-27",
+    "prompt": "What does the passage say about the release of the final version of the Cybersecurity Framework 2.0 (NIST Cybersecurity Framework 2.0)?",
+    "text": "NIST has rolled out the final version of Cybersecurity Framework (CSF) 2.0"
+  },
+  {
+    "id": "2a7af69f9927338b",
+    "event_id": "nist-ai-rmf",
+    "language": "en",
+    "cutoff": "2023-01-25",
+    "prompt": "What does the passage say about the release of the first final AI Risk Management Framework (NIST AI Risk Management Framework)?",
+    "text": "Feedback received by April 29 will be incorporated into a second draft issued this summer or fall."
+  },
+  {
+    "id": "4de08dc11cedf905",
+    "event_id": "mauna-loa-2022",
+    "language": "en",
+    "cutoff": "2022-11-28",
+    "prompt": "What does the passage say about the start of the November 2022 eruption (Mauna Loa)?",
+    "text": "Mauna Loa is no longer erupting."
+  },
+  {
+    "id": "521b9039ed092942",
+    "event_id": "nist-f2",
+    "language": "en",
+    "cutoff": "2014-04-02",
+    "prompt": "What does the passage say about the announcement of commissioning as a U.S. civilian time standard (NIST-F2)?",
+    "text": "F2 is really a refinement on NIST F-1."
+  },
+  {
+    "id": "6b31a03276e75146",
+    "event_id": "nist-pqc-final",
+    "language": "en",
+    "cutoff": "2024-08-12",
+    "prompt": "What does the passage say about the publication of the first three final post-quantum standards (NIST post-quantum cryptography standards)?",
+    "text": "Comments Requested on Three Draft FIPS for Post-Quantum Cryptography"
+  },
+  {
+    "id": "88717f8161ae7f8a",
+    "event_id": "nist-pqc-final",
+    "language": "en",
+    "cutoff": "2024-08-12",
+    "prompt": "What does the passage say about the publication of the first three final post-quantum standards (NIST post-quantum cryptography standards)?",
+    "text": "NIST Releases First 3 Finalized Post-Quantum Encryption Standards"
+  },
+  {
+    "id": "a755a0c26f34707d",
+    "event_id": "nist-pqc-final",
+    "language": "en",
+    "cutoff": "2024-08-12",
+    "prompt": "What does the passage say about the publication of the first three final post-quantum standards (NIST post-quantum cryptography standards)?",
+    "text": "NIST Announces First Four Quantum-Resistant Cryptographic Algorithms"
+  },
+  {
+    "id": "a95fc6436f72a367",
+    "event_id": "kilauea-june-2024",
+    "language": "en",
+    "cutoff": "2024-06-02",
+    "prompt": "What does the passage say about the start of the June 2024 eruption southwest of the summit (Kīlauea)?",
+    "text": "Kīlauea volcano is erupting."
+  },
+  {
+    "id": "b12631d8f1d64f36",
+    "event_id": "mauna-loa-2022",
+    "language": "en",
+    "cutoff": "2022-11-26",
+    "prompt": "What does the passage say about the start of the November 2022 eruption (Mauna Loa)?",
+    "text": "On Sunday, Nov. 27, 2022, Mauna Loa volcano on the island of Hawai‘i began to erupt."
+  },
+  {
+    "id": "b4da0c6e2b2905af",
+    "event_id": "nist-ai-rmf",
+    "language": "en",
+    "cutoff": "2023-01-25",
+    "prompt": "What does the passage say about the release of the first final AI Risk Management Framework (NIST AI Risk Management Framework)?",
+    "text": "NIST Risk Management Framework Aims to Improve Trustworthiness of Artificial Intelligence"
+  },
+  {
+    "id": "b7eaffe8070f0edc",
+    "event_id": "nist-csf-2",
+    "language": "en",
+    "cutoff": "2024-02-25",
+    "prompt": "What does the passage say about the release of the final version of the Cybersecurity Framework 2.0 (NIST Cybersecurity Framework 2.0)?",
+    "text": "NIST Releases Version 2.0 of Landmark Cybersecurity Framework"
+  },
+  {
+    "id": "bc4a1ecfa0bb831a",
+    "event_id": "mauna-loa-2022",
+    "language": "en",
+    "cutoff": "2022-11-26",
+    "prompt": "What does the passage say about the start of the November 2022 eruption (Mauna Loa)?",
+    "text": "Mauna Loa is not erupting and there are no signs of an imminent eruption at this time."
+  },
+  {
+    "id": "bc71e5ef82c83c73",
+    "event_id": "kilauea-june-2024",
+    "language": "en",
+    "cutoff": "2024-06-02",
+    "prompt": "What does the passage say about the start of the June 2024 eruption southwest of the summit (Kīlauea)?",
+    "text": "Kīlauea is not erupting."
+  },
+  {
+    "id": "de16540b47ef048b",
+    "event_id": "kilauea-june-2024",
+    "language": "en",
+    "cutoff": "2024-06-04",
+    "prompt": "What does the passage say about the start of the June 2024 eruption southwest of the summit (Kīlauea)?",
+    "text": "Kīlauea volcano is not erupting."
+  },
+  {
+    "id": "ec7bffbb191cc6d7",
+    "event_id": "nist-ai-rmf",
+    "language": "en",
+    "cutoff": "2023-01-25",
+    "prompt": "What does the passage say about the release of the first final AI Risk Management Framework (NIST AI Risk Management Framework)?",
+    "text": "NIST Seeks Comments on Concept Paper for AI Risk Management Framework"
+  }
+]

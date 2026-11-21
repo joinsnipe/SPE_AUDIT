@@ -1,0 +1,13 @@
+corpus,pass,reference,pred_POST_ASSERTION,pred_OTHER,pred_REVIEW,transport_or_validation_error,row_total
+replay,run1,POST_ASSERTION,11,2,5,0,18
+replay,run1,OTHER,13,0,11,0,24
+replay,run1,REVIEW,5,0,1,0,6
+replay,run2,POST_ASSERTION,11,2,5,0,18
+replay,run2,OTHER,13,0,11,0,24
+replay,run2,REVIEW,5,0,1,0,6
+external,run1,POST_ASSERTION,0,1,4,0,5
+external,run1,OTHER,0,0,11,0,11
+external,run1,REVIEW,0,0,1,0,1
+external,run2,POST_ASSERTION,0,1,4,0,5
+external,run2,OTHER,0,0,11,0,11
+external,run2,REVIEW,0,0,1,0,1

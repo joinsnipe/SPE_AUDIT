@@ -1,0 +1,114 @@
+[
+  {
+    "id": "mauna-loa-2022",
+    "name": "Mauna Loa",
+    "event_date": "2022-11-27",
+    "description": "start of the November 2022 eruption",
+    "aliases": [
+      "Moku‘āweoweo"
+    ],
+    "outcome_terms": [
+      "began erupting",
+      "erupted",
+      "eruption began",
+      "is erupting",
+      "started to erupt"
+    ],
+    "source_url": "https://www.usgs.gov/observatories/hvo/news/vanvona-mauna-loa-redwarning-eruption-within-mokuaweoweo-summit-caldera"
+  },
+  {
+    "id": "kilauea-june-2024",
+    "name": "Kīlauea",
+    "event_date": "2024-06-03",
+    "description": "start of the June 2024 eruption southwest of the summit",
+    "aliases": [
+      "Kilauea",
+      "Southwest Rift Zone"
+    ],
+    "outcome_terms": [
+      "began erupting",
+      "erupted",
+      "eruption began",
+      "is erupting",
+      "started to erupt"
+    ],
+    "source_url": "https://volcanoes.usgs.gov/hans-public/notice/DOI-USGS-HVO-2024-06-03T23%3A48%3A11%2B00%3A00"
+  },
+  {
+    "id": "nist-pqc-final",
+    "name": "NIST post-quantum cryptography standards",
+    "event_date": "2024-08-13",
+    "description": "publication of the first three final post-quantum standards",
+    "aliases": [
+      "NIST",
+      "FIPS 203",
+      "FIPS 204",
+      "FIPS 205"
+    ],
+    "outcome_terms": [
+      "published",
+      "released",
+      "finalized",
+      "approved",
+      "final standards"
+    ],
+    "source_url": "https://csrc.nist.gov/News/2024/postquantum-cryptography-fips-approved"
+  },
+  {
+    "id": "nist-csf-2",
+    "name": "NIST Cybersecurity Framework 2.0",
+    "event_date": "2024-02-26",
+    "description": "release of the final version of the Cybersecurity Framework 2.0",
+    "aliases": [
+      "NIST",
+      "CSF 2.0",
+      "Cybersecurity Framework"
+    ],
+    "outcome_terms": [
+      "released",
+      "published",
+      "launched",
+      "final version",
+      "made available"
+    ],
+    "source_url": "https://www.nist.gov/publications/nist-cybersecurity-framework-csf-20"
+  },
+  {
+    "id": "nist-ai-rmf",
+    "name": "NIST AI Risk Management Framework",
+    "event_date": "2023-01-26",
+    "description": "release of the first final AI Risk Management Framework",
+    "aliases": [
+      "NIST",
+      "AI RMF",
+      "Artificial Intelligence Risk Management Framework"
+    ],
+    "outcome_terms": [
+      "released",
+      "published",
+      "launched",
+      "made available",
+      "final version"
+    ],
+    "source_url": "https://www.nist.gov/publications/artificial-intelligence-risk-management-framework-ai-rmf-10"
+  },
+  {
+    "id": "nist-f2",
+    "name": "NIST-F2",
+    "event_date": "2014-04-03",
+    "description": "announcement of commissioning as a U.S. civilian time standard",
+    "aliases": [
+      "NIST",
+      "NIST-F2",
+      "cesium fountain"
+    ],
+    "outcome_terms": [
+      "launched",
+      "commissioned",
+      "began operating",
+      "officially announced",
+      "commissioning"
+    ],
+    "source_url": "https://www.nist.gov/speech-testimony/nist-f2-atomic-clock-news-briefing-opening-statement-tom-obrian"
+  }
+]
