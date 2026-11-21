@@ -1,0 +1,117 @@
+id,nota_es
+B001,El método resume un grafo para recuperar evidencia pertinente a lo largo del tiempo. Evalúa la selección de documentos. Queda fuera de su objetivo comprobar qué secuencia exacta de bytes se envió al modelo.
+B002,Los metadatos temporales y la cobertura de intervalos ayudan a responder preguntas sobre cambios a lo largo del tiempo. La pertinencia respecto a una fecha no garantiza la exclusión de todos los documentos posteriores.
+B003,Estima la incertidumbre a partir de la densidad semántica de las respuestas. La confianza de un modelo no permite determinar cuándo se conoció un hecho ni de dónde proviene.
+B004,Combina la estructura temporal del vídeo con ponderación por entropía para recuperar segmentos de vídeos largos. La posición de un segmento dentro de la grabación y la fecha de publicación de una fuente son variables diferentes.
+B005,Aegon registra accesos mediante tokens vinculados a un registro y recibos atestados por el dispositivo móvil. Acreditar un acceso concreto deja abierta la cuestión de cuándo estuvo disponible públicamente el hecho descrito.
+B006,"Perfil bibliográfico de Antony Rowstron, conservado como pista para localizar publicaciones. La página actual del perfil no acredita la primera fecha de publicación de una obra."
+B007,Comentario sobre el escrutinio de afirmaciones comerciales relacionadas con la IA. Para establecer que hubo un procedimiento concreto se necesita la fuente del organismo competente.
+B008,Análisis jurídico de la operación AI Comply. Aporta contexto sobre la actuación de la FTC. La existencia y el alcance de cada procedimiento deben cotejarse en sus documentos oficiales.
+B009,Balance de actuaciones en ciberseguridad e IA. Es una fuente de contexto regulatorio. La constatación de un procedimiento concreto requiere el expediente del regulador.
+B010,Marco de gobernanza de FINOS. En esta revisión no se evaluó un detector temporal del proyecto con versión fechada y replicación independiente.
+B011,Presentación del protocolo Biteris como proyecto de confianza y gobernanza. No se examinó un detector temporal de versión fechada y replicado de forma independiente.
+B012,Ficha secundaria que permite localizar trabajos sobre RAG y grafos temporales. Su fecha actual carece de valor probatorio sobre la primera publicación del mecanismo.
+B013,Recurso divulgativo para localizar métodos de cuantificación de incertidumbre. La página consultada no permite determinar cuándo se publicó por primera vez cada método.
+B014,Artículo divulgativo sobre densidad semántica. Orienta hacia el trabajo de investigación. Su versión actual no acredita la fecha de primera divulgación del método.
+B015,"Estima la incertidumbre geométrica a partir de representaciones de las salidas. Puede informar una puntuación de alucinación, pero no permite fechar retrospectivamente la información."
+B016,Lista de recursos sobre detección de alucinaciones. Sirve para localizar estudios. La página actual del repositorio no acredita su primera fecha de publicación.
+B017,UQLM reúne software y métodos de referencia para cuantificar la incertidumbre. La revisión no pudo fijar una versión histórica concreta del paquete.
+B018,Describe una arquitectura de estados definidos por software. El documento no aporta evidencia específica de una auditoría de RAG con fecha de corte.
+B019,"Describe un sistema programable de transacciones y criptomonedas. Aporta contexto sobre registros distribuidos, sin demostrar un método de detección lingüística de información posterior a una fecha."
+B020,Describe cómo un testigo puede atestiguar la actividad de un agente preservando su privacidad. Es una comparación posterior al corte sobre el alcance del entorno de ejecución de confianza.
+B021,Análisis jurídico de la actividad supervisora federal y estatal. Para acreditar el inicio o resultado de una actuación concreta hay que consultar al organismo responsable.
+B022,"Comentario jurídico sobre publicidad de IA. Ayuda a interpretar el contexto, mientras que la constatación de un procedimiento requiere una fuente oficial."
+B023,"Colección divulgativa de documentos y esquemas, incluida como vía de descubrimiento. La página actual no acredita cuándo se publicó por primera vez una propuesta."
+B024,Comentario jurídico sobre un caso de publicidad engañosa relacionada con IA. Para acreditar el procedimiento y sus términos se necesita el expediente de la FTC.
+B025,Análisis de un caso sobre agentes de IA y promesas de productividad. Aporta contexto jurídico. Las actuaciones se comprueban en las fuentes del regulador.
+B026,Explicación comercial sobre visibilidad en buscadores convencionales y generativos. No compara la implementación de esas técnicas con el método de auditoría.
+B027,Recurso comercial sobre optimización de contenidos para motores generativos. Sirve como contexto editorial. No aporta una comparación técnica con la implementación auditada.
+B028,Artículo comercial sobre visibilidad en motores de búsqueda. No contiene una comparación de implementación con la auditoría temporal.
+B029,"Mide el rendimiento de sistemas RAG de extremo a extremo. Aporta contexto para diseñar evaluaciones, pero medir rendimiento no demuestra que se detecte contenido posterior a la fecha de corte."
+B030,Describe operaciones de recuperación y actuación sobre grafos jurídicos temporales. La v1 se titulaba Deterministic Legal Retrieval. Los cambios de formulación y las afirmaciones de versiones posteriores requieren sus propias fechas.
+B031,Describe una arquitectura para estados de entretenimiento y criptomonedas con funciones protegidas separadas. La comparación de esta patente relacionada se limitó al identificador.
+B032,Presentación de SPE AUDIT por su proveedor. Documenta la descripción del producto y no aporta validación independiente ni prueba de prioridad.
+B033,Explicación de SPE Trace publicada por el propio proyecto. Describe cómo se presenta el producto al público. No acredita de forma independiente su rendimiento ni su prioridad.
+B034,Ficha de SPE Trace en una tienda de extensiones. Documenta la presentación del producto en ese canal. De ella no se deducen validación independiente ni prioridad.
+B035,"Comparativa comercial de herramientas de auditoría para profesionales contables. Se conserva como contexto de mercado, sin avalar el rendimiento de los proveedores."
+B036,Clasificación comercial de productos de auditoría con IA. Orienta sobre la oferta del mercado. No verifica el rendimiento anunciado de cada producto.
+B037,"Comparativa sectorial de plataformas de verificación de evidencias financieras. Aporta contexto de mercado, sin validar las prestaciones de los proveedores."
+B038,Comentario sectorial sobre la contabilidad forense y la IA. Sitúa el contexto profesional y no acredita el rendimiento de una herramienta.
+B039,Comentario sectorial sobre automatización de finanzas públicas. Aporta contexto de mercado y no valida las prestaciones de productos de auditoría.
+B040,Selección comercial de herramientas de ciberseguridad. Su utilidad se limita al contexto de mercado. No avala el rendimiento de los productos citados.
+B041,"Comparativa comercial de productos de seguridad para aplicaciones e interfaces. Se conserva como referencia de mercado, sin validación del rendimiento."
+B042,Selección comercial de herramientas de visibilidad en IA. La presencia de un producto en la lista no acredita su rendimiento.
+B043,Comparativa comercial de seguimiento de marcas en plataformas de IA. Sirve como contexto de mercado. No constituye una evaluación independiente de las prestaciones.
+B044,"Clasificación comercial de herramientas de visibilidad de marca. Ilustra la oferta del sector, sin verificar el rendimiento anunciado."
+B045,"Comparativa comercial de herramientas que siguen la presencia de marcas en respuestas de modelos de lenguaje. Se usa para describir el mercado, sin avalar productos."
+B046,Guía comercial de herramientas de seguimiento en modos de búsqueda con IA. Documenta la oferta del mercado. No acredita el rendimiento de las herramientas.
+B047,Estudia cómo cambia la precisión al variar la información por token de una instrucción. Aquí «densidad» designa una propiedad de la entrada. La incertidumbre de una respuesta y su respaldo documental fechado requieren otras medidas.
+B048,Estudia la puntuación de lenguaje clínico mediante instrucciones a un modelo. La relación con la auditoría temporal es indirecta. Este estudio no emplea datos clínicos.
+B049,Estudio de supervisión conjunta de visión y lenguaje. La cita no avala la afirmación independiente sobre JEPA que la acompañaba ni valida una auditoría temporal.
+B050,La v1 se publicó como HugRAG y el trabajo se retituló CausalRAG2. Trata de recuperación con grafos causales jerárquicos. Es una obra distinta del CausalRAG publicado en marzo de 2025.
+B051,Listado de novedades de investigación que ayuda a localizar artículos. La lista no demuestra por sí sola la existencia histórica de un mecanismo con unas características concretas.
+B052,CausalRAG emplea grafos causales en la recuperación. Su v1 de marzo de 2025 precede al corte. Véase M39. La presencia de un grafo causal en la búsqueda no demuestra el origen de una respuesta.
+B053,Perfil de Jing Ma usado para localizar publicaciones. Por sí solo no documenta la implementación histórica de un mecanismo.
+B054,Perfil académico de Ah-Lian Kor usado como vía de descubrimiento. La existencia del perfil no acredita el alcance técnico ni la primera divulgación de un trabajo.
+B055,Índice de novedades de Hugging Face. Permite buscar obras. Para acreditar históricamente un mecanismo hay que consultar la obra y su versión.
+B056,Interpretación de terceros sobre transparencia. La correspondencia con artículos del Reglamento de IA de la UE se basa en el texto legislativo consolidado.
+B057,"Resumen del Reglamento de IA elaborado por terceros. Para relacionar controles técnicos y artículos, el estudio se remite al texto legislativo consolidado."
+B058,Explicación de terceros del artículo 12 sobre conservación de registros. El análisis del artículo en este estudio se basa en el texto consolidado del Reglamento.
+B059,Comparación de terceros entre gestión de registros según ISO 42001 y el Reglamento de IA. Las obligaciones por artículo se contrastan con el texto legislativo consolidado.
+B060,Guía de terceros para aplicar requisitos de sistemas de alto riesgo. La correspondencia jurídica empleada en el estudio se establece a partir del texto consolidado del Reglamento.
+B061,Marco de gestión de riesgos de IA de NIST. Para interpretar una fuente de política pública hay que identificar su emisor y alcance. Un comentario remitido en una consulta carece por sí mismo de la autoridad de una guía de la agencia.
+B062,Guía de NIST sobre riesgos de IA generativa. Aporta contexto de gestión de riesgos. No establece una prueba de rendimiento ni una determinación jurídica.
+B063,Interpretación de terceros sobre NIST AI RMF y el Reglamento de IA. Las obligaciones europeas se cotejan por artículo en el texto legislativo consolidado.
+B064,Explicación de terceros de las funciones del marco NIST AI RMF. La correspondencia regulatoria europea del estudio se basa en el texto legislativo consolidado.
+B065,Anuncio del Tesoro estadounidense sobre una iniciativa de innovación en IA. Documenta una actuación de política pública. Conviene distinguir los documentos oficiales de los comentarios remitidos por terceros.
+B066,Escrito presentado en respuesta a una consulta pública. Atribuye la posición a quien la presenta. Su incorporación al expediente no la convierte en orientación oficial del organismo.
+B067,Documento presupuestario de la USPTO. Ayuda a entender el contexto económico de la revisión. Los importes pueden cambiar y no constituyen un antecedente técnico.
+B068,Tabla de tasas de la USPTO. Los importes pueden cambiar y no aportan antecedentes técnicos. La variante del nombre de archivo P46 se agrupó por organismo emisor y denominación. No se verificaron la identidad de bytes ni su revisión histórica.
+B069,Tabla comparativa de tasas y costes de la USPTO. Aporta contexto económico. Las tarifas pueden cambiar y no acreditan una divulgación técnica.
+B070,Tabla de tasas de la USPTO. Se conserva como contexto administrativo. Los importes están sujetos a cambios y carecen de valor como antecedente técnico.
+B071,"Tarifario de la USPTO. El importe aplicable depende de la fecha. Se documentó por su relevancia para el coste de la revisión, sin atribuirle contenido técnico."
+B072,Comentario profesional sobre los cambios de tasas previstos para enero de 2025. Es contexto presupuestario sujeto a revisión y no aporta antecedentes técnicos.
+B073,"ZKPROV aborda la prueba de procedencia de conjuntos de datos para modelos de lenguaje. Su v1 de junio de 2025 es anterior al corte, aunque figurase entre los trabajos posteriores. La v2 de diciembre tiene fecha propia."
+B074,VeriLLM estudia la inferencia descentralizada verificable por el público. El primer manuscrito es de septiembre de 2025. Las afirmaciones introducidas en revisiones posteriores requieren fechas propias.
+B075,"MathLedger registra y atestigua la realimentación usada durante el aprendizaje. Se envió el 22 de diciembre de 2025, aunque el identificador de arXiv corresponda a enero. Es una comparación posterior al corte."
+B076,SecureInfer separa el procesamiento de tensores sensibles en un entorno protegido y la aceleración en GPU. Esta distribución delimita qué componentes deben considerarse de confianza. La ejecución confidencial por sí sola no acredita una afirmación temporal.
+B077,TZ-LLM protege modelos ejecutados en el propio dispositivo mediante Arm TrustZone. Aporta mecanismos de integridad y confidencialidad de ejecución. La fecha de un hecho requiere verificación independiente.
+B078,AgenTEE estudia la ejecución confidencial de agentes en el propio dispositivo. Es una referencia posterior al corte para comparar mecanismos de aislamiento.
+B079,FlexServe ofrece un servicio de inferencia móvil con aislamiento flexible de recursos. Es una comparación posterior. El trabajo no estaba disponible en la fecha de referencia de diciembre.
+B080,Estudia la integridad autenticada del contexto y de la instrucción. Es un precedente posterior para la integridad de entradas. Las afirmaciones sobre la veracidad histórica del texto suministrado necesitan evidencia independiente.
+B081,SEAL incorpora marcas de agua en adaptaciones LoRA para respaldar atribuciones de titularidad del modelo. Fijar criptográficamente la versión utilizada durante una ejecución requiere una comprobación distinta.
+B082,Describe almacenamiento en la nube y verificación de integridad con árboles de Merkle. Un compromiso genérico de datos no acredita que un hecho fuese desconocido antes de una fecha.
+B083,Describe la verificación de información seleccionada ligada a un elemento de datos. Permite comparar mecanismos que autentican los elementos de un conjunto.
+B084,Plataforma de registros digitales con varias partes mediante un registro distribuido. La comparación no incluye un análisis de infracción reivindicación por reivindicación.
+B085,Describe la validación de datos en una red de cadena de bloques. Es una referencia de infraestructura de verificación. No contiene una prueba de evaluación de texto histórico.
+B086,Describe pruebas de Merkle y las entidades asociadas. Acreditar la pertenencia a un conjunto demuestra una propiedad más limitada que determinar qué sabía un modelo.
+B087,KEA Explain usa núcleos sobre grafos para explicar alucinaciones. Es pertinente para comparar significado y respaldo. Su puntuación no atestigua la fecha de la evidencia.
+B088,La entropía sobre grupos de respuestas semánticamente equivalentes puede detectar ciertas invenciones. La confianza estimada no permite por sí sola fechar la divulgación de un hecho.
+B089,Jolt aborda la computación verificable de propósito general. Una prueba sobre una entrada no establece la disponibilidad histórica de los hechos descritos en ella.
+B090,vCNN verifica cálculos de redes neuronales convolucionales. Esa verificación no documenta cuándo estuvo disponible una información para el modelo.
+B091,"Propuesta autopublicada que vincula huellas del estado del modelo con la procedencia de contenidos. La fecha procede del editor. No se acreditaron un depósito independiente, efectos jurídicos ni una implementación."
+B092,Un directorio público de empresas identifica el producto V-Proof Protocol. La ficha no acredita una divulgación suficientemente detallada para reproducirlo ni la primera fecha de acceso público.
+B093,Varios proyectos independientes emplean el nombre GRAIL Protocol. No se pudo identificar inequívocamente el que correspondería a la descripción de inferencia verificable.
+B094,"La pista MECM ofrecía una sigla, sin identificador único, título ni autor. Al no poder identificar la fuente, quedó fuera de las conclusiones técnicas."
+B095,"Página del propio proyecto Giza, perteneciente al ámbito del aprendizaje automático verificable. La página cambia con el tiempo y no permite establecer qué funciones existían al corte."
+B096,Página del propio proyecto Aleo para localizar su infraestructura de ejecución verificable. No quedó fijada una versión histórica concreta.
+B097,"Una autoridad de sellado temporal puede vincular una huella digital a la hora declarada, bajo los supuestos de confianza del servicio. El sello no determina cuándo ocurrió el hecho descrito en los datos."
+B098,Norma de sistemas de gestión de IA mencionada en relación con las obligaciones de registro. La cita no constituye una certificación.
+B099,Marco regulador citado en ambas revisiones. Cada obligación debe cotejarse con el texto consolidado aplicable y el calendario de aplicación del artículo correspondiente. La evidencia técnica por sí sola no acredita conformidad.
+B100,"Comunicado de la SEC sobre dos asesores de inversión, citado para identificar una actuación relacionada con publicidad y divulgación de información. Las resoluciones no validan el método estudiado."
+B101,Anuncio oficial de la FTC sobre varios procedimientos. Acredita que la agencia hizo el anuncio y permite reemplazar los resúmenes de terceros para documentar ese hecho.
+B102,Alice se cita por su papel en el debate estadounidense sobre qué materias pueden patentarse. La sentencia no se trata como divulgación técnica ni determina la patentabilidad de este expediente.
+B103,Enfish se cita como jurisprudencia estadounidense sobre materia patentable. De la decisión no se deriva un antecedente técnico ni una conclusión de patentabilidad para este expediente.
+B104,McRO aporta contexto jurisprudencial estadounidense sobre materia patentable. No se le atribuyen una divulgación técnica ni una decisión sobre la patentabilidad del método aquí estudiado.
+B105,BASCOM figura como contexto estadounidense sobre materia patentable. Su inclusión no la convierte en un antecedente técnico ni establece la patentabilidad de este expediente.
+B106,Berkheimer se conserva como referencia judicial estadounidense sobre materia patentable. No se extrae de la sentencia una divulgación técnica ni una conclusión específica sobre la solicitud estudiada.
+B107,Diamond v. Diehr se cita como contexto jurisprudencial estadounidense sobre materia patentable. La sentencia no se invoca como divulgación técnica ni como resolución de este expediente.
+B108,Finjan ilustra el debate estadounidense sobre materia patentable. Aquí no se le atribuyen una divulgación técnica ni una determinación de patentabilidad para el método estudiado.
+B109,Core Wireless se cita por la discusión estadounidense sobre materia patentable. No aporta una divulgación técnica de este método ni resuelve la patentabilidad del expediente.
+B110,"La especificación identifica las reglas de codificación ASN.1, incluidas las DER, mencionadas en la revisión. Normalizar los bytes permite reproducir una codificación. No identifica toda la evidencia disponible en una fecha."
+B111,"Artículo original sobre HNSW, método citado en la revisión. Una búsqueda aproximada de vecinos más próximos puede omitir elementos admisibles. Esas omisiones importan al interpretar el resultado de la auditoría."
+B112,La SEC anunció la resolución acordada de cargos relacionados con declaraciones sobre Presto Voice. Una descripción anterior había atribuido erróneamente el procedimiento a la FTC.
+B113,"Según la SEC, su demanda civil en el caso Nate se presentó el 9 de abril de 2025. La fecha consignada en la ficha corresponde al comunicado."
+B114,Anuncio del Departamento de Justicia sobre una acusación penal en el caso Nate. Es un procedimiento distinto de la demanda civil de la SEC. El anuncio recoge alegaciones.
+B115,"La fecha corresponde a la demanda de la FTC sobre Air AI. La actuación abarca la comercialización, las afirmaciones de ingresos y los reembolsos. La misma página documenta también un acuerdo posterior."
+B116,"Copia pública de la demanda presentada por The New York Times, citada para identificar un litigio de derechos de autor. Las alegaciones del escrito no constituyen hechos declarados probados."

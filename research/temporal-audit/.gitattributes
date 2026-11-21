@@ -1,0 +1,9 @@
+# Ensure identical checkouts for the byte-pinned research inputs and outputs.
+*.py text eol=lf
+*.json text eol=lf
+*.jsonl text eol=lf
+*.csv text eol=lf
+*.md text eol=lf
+*.html text eol=lf
+*.pdf binary
+*.zip binary

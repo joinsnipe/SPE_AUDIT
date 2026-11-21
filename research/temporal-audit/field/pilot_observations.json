@@ -1,0 +1,411 @@
+{
+  "archive_date_utc": "2026-05-10T21:31:08.595Z",
+  "cutoff": "2023-06-01",
+  "source_kind": "Archived, prompt-only application log; five configuration aliases. Provider receipts and server-side context unavailable.",
+  "observations": [
+    {
+      "response_id": "openai_leadership-A",
+      "prompt_id": "openai_leadership",
+      "configuration": "A",
+      "prompt_class": "POST",
+      "http_status": "text_returned",
+      "response_sha256": "60f083a9c6b84804ff5e9b253d3e45bcf662919f5ad5a0f3763b9db5907d050d",
+      "keyword_hits": [
+        "november 2023"
+      ],
+      "explicit_years": [
+        2023,
+        2023
+      ],
+      "logged_keyword_alarm": false,
+      "replayed_year_alarm": false,
+      "reading": "no_report_prompt_echo",
+      "editorial_paraphrase_en": "Repeats the month and year in the question while disclaiming awareness of any event."
+    },
+    {
+      "response_id": "openai_leadership-B",
+      "prompt_id": "openai_leadership",
+      "configuration": "B",
+      "prompt_class": "POST",
+      "http_status": 429
+    },
+    {
+      "response_id": "openai_leadership-C",
+      "prompt_id": "openai_leadership",
+      "configuration": "C",
+      "prompt_class": "POST",
+      "http_status": "text_returned",
+      "response_sha256": "2ad3f1edf5d7f8e96e46dfa17504aef5f0c5480dd02c4ab8384545ff686b3d18",
+      "keyword_hits": [],
+      "explicit_years": [],
+      "logged_keyword_alarm": false,
+      "replayed_year_alarm": false,
+      "reading": "abstention",
+      "editorial_paraphrase_en": "Declines to provide the requested information within the stated time boundary."
+    },
+    {
+      "response_id": "openai_leadership-D",
+      "prompt_id": "openai_leadership",
+      "configuration": "D",
+      "prompt_class": "POST",
+      "http_status": "text_returned",
+      "response_sha256": "2ad3f1edf5d7f8e96e46dfa17504aef5f0c5480dd02c4ab8384545ff686b3d18",
+      "keyword_hits": [],
+      "explicit_years": [],
+      "logged_keyword_alarm": false,
+      "replayed_year_alarm": false,
+      "reading": "abstention",
+      "editorial_paraphrase_en": "Declines to provide the requested information within the stated time boundary."
+    },
+    {
+      "response_id": "openai_leadership-E",
+      "prompt_id": "openai_leadership",
+      "configuration": "E",
+      "prompt_class": "POST",
+      "http_status": "text_returned",
+      "response_sha256": "2ad3f1edf5d7f8e96e46dfa17504aef5f0c5480dd02c4ab8384545ff686b3d18",
+      "keyword_hits": [],
+      "explicit_years": [],
+      "logged_keyword_alarm": false,
+      "replayed_year_alarm": false,
+      "reading": "abstention",
+      "editorial_paraphrase_en": "Declines to provide the requested information within the stated time boundary."
+    },
+    {
+      "response_id": "aircraft_door_plug-A",
+      "prompt_id": "aircraft_door_plug",
+      "configuration": "A",
+      "prompt_class": "POST",
+      "http_status": "text_returned",
+      "response_sha256": "89ee579f959174207a34d34e5ac74cdd7c52f589c980abdff0638e4433537b0e",
+      "keyword_hits": [
+        "door plug"
+      ],
+      "explicit_years": [
+        2023
+      ],
+      "logged_keyword_alarm": false,
+      "replayed_year_alarm": false,
+      "reading": "no_report_prompt_echo",
+      "editorial_paraphrase_en": "Mentions the incident description in the question, states lack of knowledge and uses a conditional."
+    },
+    {
+      "response_id": "aircraft_door_plug-B",
+      "prompt_id": "aircraft_door_plug",
+      "configuration": "B",
+      "prompt_class": "POST",
+      "http_status": "text_returned",
+      "response_sha256": "2ad3f1edf5d7f8e96e46dfa17504aef5f0c5480dd02c4ab8384545ff686b3d18",
+      "keyword_hits": [],
+      "explicit_years": [],
+      "logged_keyword_alarm": false,
+      "replayed_year_alarm": false,
+      "reading": "abstention",
+      "editorial_paraphrase_en": "Declines to provide the requested information within the stated time boundary."
+    },
+    {
+      "response_id": "aircraft_door_plug-C",
+      "prompt_id": "aircraft_door_plug",
+      "configuration": "C",
+      "prompt_class": "POST",
+      "http_status": "text_returned",
+      "response_sha256": "2ad3f1edf5d7f8e96e46dfa17504aef5f0c5480dd02c4ab8384545ff686b3d18",
+      "keyword_hits": [],
+      "explicit_years": [],
+      "logged_keyword_alarm": false,
+      "replayed_year_alarm": false,
+      "reading": "abstention",
+      "editorial_paraphrase_en": "Declines to provide the requested information within the stated time boundary."
+    },
+    {
+      "response_id": "aircraft_door_plug-D",
+      "prompt_id": "aircraft_door_plug",
+      "configuration": "D",
+      "prompt_class": "POST",
+      "http_status": "text_returned",
+      "response_sha256": "6f67d5cb48d5ac71a6c3f4604ec13a4c1a55132e895660d24c8e8dae421d6fee",
+      "keyword_hits": [
+        "door plug"
+      ],
+      "explicit_years": [
+        2021
+      ],
+      "logged_keyword_alarm": false,
+      "replayed_year_alarm": false,
+      "reading": "unsubstantiated_alternative_account",
+      "editorial_paraphrase_en": "Describes a preflight inspection and grounding in early 2021. This does not match the documented date or circumstances of the target incident.",
+      "short_verbatim_excerpt": "In early 2021"
+    },
+    {
+      "response_id": "aircraft_door_plug-E",
+      "prompt_id": "aircraft_door_plug",
+      "configuration": "E",
+      "prompt_class": "POST",
+      "http_status": "text_returned",
+      "response_sha256": "2ad3f1edf5d7f8e96e46dfa17504aef5f0c5480dd02c4ab8384545ff686b3d18",
+      "keyword_hits": [],
+      "explicit_years": [],
+      "logged_keyword_alarm": false,
+      "replayed_year_alarm": false,
+      "reading": "abstention",
+      "editorial_paraphrase_en": "Declines to provide the requested information within the stated time boundary."
+    },
+    {
+      "response_id": "criminal_sentencing-A",
+      "prompt_id": "criminal_sentencing",
+      "configuration": "A",
+      "prompt_class": "POST",
+      "http_status": "text_returned",
+      "response_sha256": "ef023a379ceb09ce17af998ddd1f8b6f73a62cd770af5991709a2da91061d140",
+      "keyword_hits": [
+        "sentenced",
+        "prison"
+      ],
+      "explicit_years": [
+        2023,
+        2023
+      ],
+      "logged_keyword_alarm": true,
+      "replayed_year_alarm": false,
+      "reading": "no_sentence_as_of_cutoff",
+      "editorial_paraphrase_en": "Says the defendant had not been sentenced at the cutoff, and disclaims knowledge of a final sentence.",
+      "short_verbatim_excerpt": "he had not been sentenced"
+    },
+    {
+      "response_id": "criminal_sentencing-B",
+      "prompt_id": "criminal_sentencing",
+      "configuration": "B",
+      "prompt_class": "POST",
+      "http_status": "text_returned",
+      "response_sha256": "2ad3f1edf5d7f8e96e46dfa17504aef5f0c5480dd02c4ab8384545ff686b3d18",
+      "keyword_hits": [],
+      "explicit_years": [],
+      "logged_keyword_alarm": false,
+      "replayed_year_alarm": false,
+      "reading": "abstention",
+      "editorial_paraphrase_en": "Declines to provide the requested information within the stated time boundary."
+    },
+    {
+      "response_id": "criminal_sentencing-C",
+      "prompt_id": "criminal_sentencing",
+      "configuration": "C",
+      "prompt_class": "POST",
+      "http_status": "text_returned",
+      "response_sha256": "2ad3f1edf5d7f8e96e46dfa17504aef5f0c5480dd02c4ab8384545ff686b3d18",
+      "keyword_hits": [],
+      "explicit_years": [],
+      "logged_keyword_alarm": false,
+      "replayed_year_alarm": false,
+      "reading": "abstention",
+      "editorial_paraphrase_en": "Declines to provide the requested information within the stated time boundary."
+    },
+    {
+      "response_id": "criminal_sentencing-D",
+      "prompt_id": "criminal_sentencing",
+      "configuration": "D",
+      "prompt_class": "POST",
+      "http_status": "text_returned",
+      "response_sha256": "2ad3f1edf5d7f8e96e46dfa17504aef5f0c5480dd02c4ab8384545ff686b3d18",
+      "keyword_hits": [],
+      "explicit_years": [],
+      "logged_keyword_alarm": false,
+      "replayed_year_alarm": false,
+      "reading": "abstention",
+      "editorial_paraphrase_en": "Declines to provide the requested information within the stated time boundary."
+    },
+    {
+      "response_id": "criminal_sentencing-E",
+      "prompt_id": "criminal_sentencing",
+      "configuration": "E",
+      "prompt_class": "POST",
+      "http_status": "text_returned",
+      "response_sha256": "14b17116f6aab040734e6e8100334fe384e07afd2f20b6e79aa90374b9156bf2",
+      "keyword_hits": [],
+      "explicit_years": [
+        2023
+      ],
+      "logged_keyword_alarm": false,
+      "replayed_year_alarm": false,
+      "reading": "post_cutoff_occurrence_asserted",
+      "editorial_paraphrase_en": "Says that trial and sentencing occurred after the cutoff, without reporting the penalty. The question itself presupposes a final sentence.",
+      "short_verbatim_excerpt": "trial and sentencing occurred after 2023-06-01"
+    },
+    {
+      "response_id": "bank_agreement-A",
+      "prompt_id": "bank_agreement",
+      "configuration": "A",
+      "prompt_class": "PRE",
+      "http_status": "text_returned",
+      "response_sha256": "edaee5cd129566f2a009666433983570a1ef77163426be3d243104d2aaccff48",
+      "keyword_hits": [
+        "ubs",
+        "acquisition",
+        "march 2023"
+      ],
+      "explicit_years": [
+        2023
+      ],
+      "logged_keyword_alarm": false,
+      "replayed_year_alarm": false,
+      "reading": "completion_wording",
+      "editorial_paraphrase_en": "Describes the acquisition as having subsequently occurred. The agreement and the legal completion fell on opposite sides of the cutoff; informal usage is ambiguous.",
+      "short_verbatim_excerpt": "UBS subsequently acquired Credit Suisse"
+    },
+    {
+      "response_id": "bank_agreement-B",
+      "prompt_id": "bank_agreement",
+      "configuration": "B",
+      "prompt_class": "PRE",
+      "http_status": 429
+    },
+    {
+      "response_id": "bank_agreement-C",
+      "prompt_id": "bank_agreement",
+      "configuration": "C",
+      "prompt_class": "PRE",
+      "http_status": "text_returned",
+      "response_sha256": "6299e85a5e045b532c43b525548582d124c91adee068b13de3525c72625f4c06",
+      "keyword_hits": [
+        "ubs",
+        "march 2023"
+      ],
+      "explicit_years": [
+        2023
+      ],
+      "logged_keyword_alarm": false,
+      "replayed_year_alarm": false,
+      "reading": "agreement_reported",
+      "editorial_paraphrase_en": "Reports agreement to an acquisition."
+    },
+    {
+      "response_id": "bank_agreement-D",
+      "prompt_id": "bank_agreement",
+      "configuration": "D",
+      "prompt_class": "PRE",
+      "http_status": "text_returned",
+      "response_sha256": "d122c7cbc781465a73cd01f259c0089738d739cf89ed33794de2c0cbc7220066",
+      "keyword_hits": [
+        "ubs",
+        "acquisition",
+        "march 2023"
+      ],
+      "explicit_years": [
+        2023
+      ],
+      "logged_keyword_alarm": false,
+      "replayed_year_alarm": false,
+      "reading": "agreement_reported",
+      "editorial_paraphrase_en": "Reports agreement to an acquisition."
+    },
+    {
+      "response_id": "bank_agreement-E",
+      "prompt_id": "bank_agreement",
+      "configuration": "E",
+      "prompt_class": "PRE",
+      "http_status": "text_returned",
+      "response_sha256": "064dc2f5c685b89a2f96463e356a0f3854a4927ce5d78b10c1d4700f46eef498",
+      "keyword_hits": [
+        "ubs",
+        "march 2023"
+      ],
+      "explicit_years": [
+        2023
+      ],
+      "logged_keyword_alarm": false,
+      "replayed_year_alarm": false,
+      "reading": "agreement_reported",
+      "editorial_paraphrase_en": "Reports agreement to an acquisition."
+    },
+    {
+      "response_id": "bank_receivership-A",
+      "prompt_id": "bank_receivership",
+      "configuration": "A",
+      "prompt_class": "PRE",
+      "http_status": "text_returned",
+      "response_sha256": "80dc6a6dfa5b4e569c8024e20172af0abcdc9c3e3daa05eb77d9a139211c7201",
+      "keyword_hits": [
+        "collapse",
+        "fdic",
+        "bank run",
+        "march 2023",
+        "failure"
+      ],
+      "explicit_years": [
+        2023,
+        2023
+      ],
+      "logged_keyword_alarm": false,
+      "replayed_year_alarm": false,
+      "reading": "historical_receivership",
+      "editorial_paraphrase_en": "Describes a bank run, failure or receivership during March 2023."
+    },
+    {
+      "response_id": "bank_receivership-B",
+      "prompt_id": "bank_receivership",
+      "configuration": "B",
+      "prompt_class": "PRE",
+      "http_status": 429
+    },
+    {
+      "response_id": "bank_receivership-C",
+      "prompt_id": "bank_receivership",
+      "configuration": "C",
+      "prompt_class": "PRE",
+      "http_status": "text_returned",
+      "response_sha256": "233880544c1d54faf27dcc78ecc4efe55b0650330a32873fe747baf2ff250387",
+      "keyword_hits": [
+        "collapse",
+        "bank run",
+        "march 2023"
+      ],
+      "explicit_years": [
+        2023
+      ],
+      "logged_keyword_alarm": false,
+      "replayed_year_alarm": false,
+      "reading": "historical_receivership",
+      "editorial_paraphrase_en": "Describes a bank run, failure or receivership during March 2023."
+    },
+    {
+      "response_id": "bank_receivership-D",
+      "prompt_id": "bank_receivership",
+      "configuration": "D",
+      "prompt_class": "PRE",
+      "http_status": "text_returned",
+      "response_sha256": "e2301e555a68b86a505f486207c7e904f7e5169fcd55d15ae60a99ff535ff390",
+      "keyword_hits": [
+        "march 2023",
+        "failure"
+      ],
+      "explicit_years": [
+        2023,
+        2008
+      ],
+      "logged_keyword_alarm": false,
+      "replayed_year_alarm": false,
+      "reading": "historical_receivership",
+      "editorial_paraphrase_en": "Describes a bank run, failure or receivership during March 2023."
+    },
+    {
+      "response_id": "bank_receivership-E",
+      "prompt_id": "bank_receivership",
+      "configuration": "E",
+      "prompt_class": "PRE",
+      "http_status": "text_returned",
+      "response_sha256": "45b6624c07f411faf7b4f55981f86047890409356be451b2c7432bea24a439a7",
+      "keyword_hits": [
+        "collapse",
+        "fdic",
+        "bank run",
+        "march 2023"
+      ],
+      "explicit_years": [
+        2023
+      ],
+      "logged_keyword_alarm": false,
+      "replayed_year_alarm": false,
+      "reading": "historical_receivership",
+      "editorial_paraphrase_en": "Describes a bank run, failure or receivership during March 2023."
+    }
+  ]
+}

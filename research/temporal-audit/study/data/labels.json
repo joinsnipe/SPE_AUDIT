@@ -1,0 +1,482 @@
+{
+  "perseverance-01": {
+    "label": "POST_ASSERTION",
+    "form": "dated",
+    "cutoff_group": "prior_year"
+  },
+  "perseverance-02": {
+    "label": "POST_ASSERTION",
+    "form": "undated",
+    "cutoff_group": "prior_year"
+  },
+  "perseverance-03": {
+    "label": "POST_ASSERTION",
+    "form": "paraphrase",
+    "cutoff_group": "prior_year"
+  },
+  "perseverance-04": {
+    "label": "OTHER",
+    "form": "forecast",
+    "cutoff_group": "prior_year"
+  },
+  "perseverance-05": {
+    "label": "OTHER",
+    "form": "denial",
+    "cutoff_group": "prior_year"
+  },
+  "perseverance-06": {
+    "label": "OTHER",
+    "form": "question",
+    "cutoff_group": "prior_year"
+  },
+  "perseverance-07": {
+    "label": "OTHER",
+    "form": "abstention",
+    "cutoff_group": "prior_year"
+  },
+  "perseverance-08": {
+    "label": "POST_ASSERTION",
+    "form": "mixed",
+    "cutoff_group": "prior_year"
+  },
+  "perseverance-09": {
+    "label": "POST_ASSERTION",
+    "form": "dated",
+    "cutoff_group": "same_year_before"
+  },
+  "perseverance-10": {
+    "label": "POST_ASSERTION",
+    "form": "undated",
+    "cutoff_group": "same_year_before"
+  },
+  "perseverance-11": {
+    "label": "POST_ASSERTION",
+    "form": "paraphrase",
+    "cutoff_group": "same_year_before"
+  },
+  "perseverance-12": {
+    "label": "OTHER",
+    "form": "forecast",
+    "cutoff_group": "same_year_before"
+  },
+  "perseverance-13": {
+    "label": "OTHER",
+    "form": "denial",
+    "cutoff_group": "same_year_before"
+  },
+  "perseverance-14": {
+    "label": "OTHER",
+    "form": "question",
+    "cutoff_group": "same_year_before"
+  },
+  "perseverance-15": {
+    "label": "OTHER",
+    "form": "abstention",
+    "cutoff_group": "same_year_before"
+  },
+  "perseverance-16": {
+    "label": "POST_ASSERTION",
+    "form": "mixed",
+    "cutoff_group": "same_year_before"
+  },
+  "perseverance-17": {
+    "label": "OTHER",
+    "form": "dated",
+    "cutoff_group": "after_outcome"
+  },
+  "perseverance-18": {
+    "label": "OTHER",
+    "form": "undated",
+    "cutoff_group": "after_outcome"
+  },
+  "perseverance-19": {
+    "label": "OTHER",
+    "form": "paraphrase",
+    "cutoff_group": "after_outcome"
+  },
+  "perseverance-20": {
+    "label": "OTHER",
+    "form": "forecast",
+    "cutoff_group": "after_outcome"
+  },
+  "perseverance-21": {
+    "label": "OTHER",
+    "form": "denial",
+    "cutoff_group": "after_outcome"
+  },
+  "perseverance-22": {
+    "label": "OTHER",
+    "form": "question",
+    "cutoff_group": "after_outcome"
+  },
+  "perseverance-23": {
+    "label": "OTHER",
+    "form": "abstention",
+    "cutoff_group": "after_outcome"
+  },
+  "perseverance-24": {
+    "label": "OTHER",
+    "form": "mixed",
+    "cutoff_group": "after_outcome"
+  },
+  "dart-01": {
+    "label": "POST_ASSERTION",
+    "form": "dated",
+    "cutoff_group": "prior_year"
+  },
+  "dart-02": {
+    "label": "POST_ASSERTION",
+    "form": "undated",
+    "cutoff_group": "prior_year"
+  },
+  "dart-03": {
+    "label": "POST_ASSERTION",
+    "form": "paraphrase",
+    "cutoff_group": "prior_year"
+  },
+  "dart-04": {
+    "label": "OTHER",
+    "form": "forecast",
+    "cutoff_group": "prior_year"
+  },
+  "dart-05": {
+    "label": "OTHER",
+    "form": "denial",
+    "cutoff_group": "prior_year"
+  },
+  "dart-06": {
+    "label": "OTHER",
+    "form": "question",
+    "cutoff_group": "prior_year"
+  },
+  "dart-07": {
+    "label": "OTHER",
+    "form": "abstention",
+    "cutoff_group": "prior_year"
+  },
+  "dart-08": {
+    "label": "POST_ASSERTION",
+    "form": "mixed",
+    "cutoff_group": "prior_year"
+  },
+  "dart-09": {
+    "label": "POST_ASSERTION",
+    "form": "dated",
+    "cutoff_group": "same_year_before"
+  },
+  "dart-10": {
+    "label": "POST_ASSERTION",
+    "form": "undated",
+    "cutoff_group": "same_year_before"
+  },
+  "dart-11": {
+    "label": "POST_ASSERTION",
+    "form": "paraphrase",
+    "cutoff_group": "same_year_before"
+  },
+  "dart-12": {
+    "label": "OTHER",
+    "form": "forecast",
+    "cutoff_group": "same_year_before"
+  },
+  "dart-13": {
+    "label": "OTHER",
+    "form": "denial",
+    "cutoff_group": "same_year_before"
+  },
+  "dart-14": {
+    "label": "OTHER",
+    "form": "question",
+    "cutoff_group": "same_year_before"
+  },
+  "dart-15": {
+    "label": "OTHER",
+    "form": "abstention",
+    "cutoff_group": "same_year_before"
+  },
+  "dart-16": {
+    "label": "POST_ASSERTION",
+    "form": "mixed",
+    "cutoff_group": "same_year_before"
+  },
+  "dart-17": {
+    "label": "OTHER",
+    "form": "dated",
+    "cutoff_group": "after_outcome"
+  },
+  "dart-18": {
+    "label": "OTHER",
+    "form": "undated",
+    "cutoff_group": "after_outcome"
+  },
+  "dart-19": {
+    "label": "OTHER",
+    "form": "paraphrase",
+    "cutoff_group": "after_outcome"
+  },
+  "dart-20": {
+    "label": "OTHER",
+    "form": "forecast",
+    "cutoff_group": "after_outcome"
+  },
+  "dart-21": {
+    "label": "OTHER",
+    "form": "denial",
+    "cutoff_group": "after_outcome"
+  },
+  "dart-22": {
+    "label": "OTHER",
+    "form": "question",
+    "cutoff_group": "after_outcome"
+  },
+  "dart-23": {
+    "label": "OTHER",
+    "form": "abstention",
+    "cutoff_group": "after_outcome"
+  },
+  "dart-24": {
+    "label": "OTHER",
+    "form": "mixed",
+    "cutoff_group": "after_outcome"
+  },
+  "osiris-01": {
+    "label": "POST_ASSERTION",
+    "form": "dated",
+    "cutoff_group": "prior_year"
+  },
+  "osiris-02": {
+    "label": "POST_ASSERTION",
+    "form": "undated",
+    "cutoff_group": "prior_year"
+  },
+  "osiris-03": {
+    "label": "POST_ASSERTION",
+    "form": "paraphrase",
+    "cutoff_group": "prior_year"
+  },
+  "osiris-04": {
+    "label": "OTHER",
+    "form": "forecast",
+    "cutoff_group": "prior_year"
+  },
+  "osiris-05": {
+    "label": "OTHER",
+    "form": "denial",
+    "cutoff_group": "prior_year"
+  },
+  "osiris-06": {
+    "label": "OTHER",
+    "form": "question",
+    "cutoff_group": "prior_year"
+  },
+  "osiris-07": {
+    "label": "OTHER",
+    "form": "abstention",
+    "cutoff_group": "prior_year"
+  },
+  "osiris-08": {
+    "label": "POST_ASSERTION",
+    "form": "mixed",
+    "cutoff_group": "prior_year"
+  },
+  "osiris-09": {
+    "label": "POST_ASSERTION",
+    "form": "dated",
+    "cutoff_group": "same_year_before"
+  },
+  "osiris-10": {
+    "label": "POST_ASSERTION",
+    "form": "undated",
+    "cutoff_group": "same_year_before"
+  },
+  "osiris-11": {
+    "label": "POST_ASSERTION",
+    "form": "paraphrase",
+    "cutoff_group": "same_year_before"
+  },
+  "osiris-12": {
+    "label": "OTHER",
+    "form": "forecast",
+    "cutoff_group": "same_year_before"
+  },
+  "osiris-13": {
+    "label": "OTHER",
+    "form": "denial",
+    "cutoff_group": "same_year_before"
+  },
+  "osiris-14": {
+    "label": "OTHER",
+    "form": "question",
+    "cutoff_group": "same_year_before"
+  },
+  "osiris-15": {
+    "label": "OTHER",
+    "form": "abstention",
+    "cutoff_group": "same_year_before"
+  },
+  "osiris-16": {
+    "label": "POST_ASSERTION",
+    "form": "mixed",
+    "cutoff_group": "same_year_before"
+  },
+  "osiris-17": {
+    "label": "OTHER",
+    "form": "dated",
+    "cutoff_group": "after_outcome"
+  },
+  "osiris-18": {
+    "label": "OTHER",
+    "form": "undated",
+    "cutoff_group": "after_outcome"
+  },
+  "osiris-19": {
+    "label": "OTHER",
+    "form": "paraphrase",
+    "cutoff_group": "after_outcome"
+  },
+  "osiris-20": {
+    "label": "OTHER",
+    "form": "forecast",
+    "cutoff_group": "after_outcome"
+  },
+  "osiris-21": {
+    "label": "OTHER",
+    "form": "denial",
+    "cutoff_group": "after_outcome"
+  },
+  "osiris-22": {
+    "label": "OTHER",
+    "form": "question",
+    "cutoff_group": "after_outcome"
+  },
+  "osiris-23": {
+    "label": "OTHER",
+    "form": "abstention",
+    "cutoff_group": "after_outcome"
+  },
+  "osiris-24": {
+    "label": "OTHER",
+    "form": "mixed",
+    "cutoff_group": "after_outcome"
+  },
+  "rosetta-01": {
+    "label": "POST_ASSERTION",
+    "form": "dated",
+    "cutoff_group": "prior_year"
+  },
+  "rosetta-02": {
+    "label": "POST_ASSERTION",
+    "form": "undated",
+    "cutoff_group": "prior_year"
+  },
+  "rosetta-03": {
+    "label": "POST_ASSERTION",
+    "form": "paraphrase",
+    "cutoff_group": "prior_year"
+  },
+  "rosetta-04": {
+    "label": "OTHER",
+    "form": "forecast",
+    "cutoff_group": "prior_year"
+  },
+  "rosetta-05": {
+    "label": "OTHER",
+    "form": "denial",
+    "cutoff_group": "prior_year"
+  },
+  "rosetta-06": {
+    "label": "OTHER",
+    "form": "question",
+    "cutoff_group": "prior_year"
+  },
+  "rosetta-07": {
+    "label": "OTHER",
+    "form": "abstention",
+    "cutoff_group": "prior_year"
+  },
+  "rosetta-08": {
+    "label": "POST_ASSERTION",
+    "form": "mixed",
+    "cutoff_group": "prior_year"
+  },
+  "rosetta-09": {
+    "label": "POST_ASSERTION",
+    "form": "dated",
+    "cutoff_group": "same_year_before"
+  },
+  "rosetta-10": {
+    "label": "POST_ASSERTION",
+    "form": "undated",
+    "cutoff_group": "same_year_before"
+  },
+  "rosetta-11": {
+    "label": "POST_ASSERTION",
+    "form": "paraphrase",
+    "cutoff_group": "same_year_before"
+  },
+  "rosetta-12": {
+    "label": "OTHER",
+    "form": "forecast",
+    "cutoff_group": "same_year_before"
+  },
+  "rosetta-13": {
+    "label": "OTHER",
+    "form": "denial",
+    "cutoff_group": "same_year_before"
+  },
+  "rosetta-14": {
+    "label": "OTHER",
+    "form": "question",
+    "cutoff_group": "same_year_before"
+  },
+  "rosetta-15": {
+    "label": "OTHER",
+    "form": "abstention",
+    "cutoff_group": "same_year_before"
+  },
+  "rosetta-16": {
+    "label": "POST_ASSERTION",
+    "form": "mixed",
+    "cutoff_group": "same_year_before"
+  },
+  "rosetta-17": {
+    "label": "OTHER",
+    "form": "dated",
+    "cutoff_group": "after_outcome"
+  },
+  "rosetta-18": {
+    "label": "OTHER",
+    "form": "undated",
+    "cutoff_group": "after_outcome"
+  },
+  "rosetta-19": {
+    "label": "OTHER",
+    "form": "paraphrase",
+    "cutoff_group": "after_outcome"
+  },
+  "rosetta-20": {
+    "label": "OTHER",
+    "form": "forecast",
+    "cutoff_group": "after_outcome"
+  },
+  "rosetta-21": {
+    "label": "OTHER",
+    "form": "denial",
+    "cutoff_group": "after_outcome"
+  },
+  "rosetta-22": {
+    "label": "OTHER",
+    "form": "question",
+    "cutoff_group": "after_outcome"
+  },
+  "rosetta-23": {
+    "label": "OTHER",
+    "form": "abstention",
+    "cutoff_group": "after_outcome"
+  },
+  "rosetta-24": {
+    "label": "OTHER",
+    "form": "mixed",
+    "cutoff_group": "after_outcome"
+  }
+}

@@ -1,0 +1,94 @@
+[
+  {
+    "id": "perseverance",
+    "name": "Perseverance",
+    "event_date": "2021-02-18",
+    "outcome_card": "perseverance-outcome",
+    "affirmed_phrases": [
+      "landed on Mars"
+    ],
+    "sources": [
+      {
+        "id": "perseverance-plan",
+        "date": "2020-07-30",
+        "text": "NASA launched Perseverance toward Mars and scheduled a landing in 2021.",
+        "url": "https://www.nasa.gov/news-release/nasa-ula-launch-mars-2020-perseverance-rover-mission-to-red-planet/"
+      },
+      {
+        "id": "perseverance-outcome",
+        "date": "2021-02-18",
+        "text": "NASA reported that Perseverance had landed on Mars.",
+        "url": "https://science.nasa.gov/resource/nasas-perseverance-rover-lands-successfully-on-mars/"
+      }
+    ]
+  },
+  {
+    "id": "dart",
+    "name": "DART",
+    "event_date": "2022-09-26",
+    "outcome_card": "dart-outcome",
+    "affirmed_phrases": [
+      "hit Dimorphos"
+    ],
+    "sources": [
+      {
+        "id": "dart-plan",
+        "date": "2021-11-24",
+        "text": "NASA announced the launch of DART and an intended collision with Dimorphos in 2022.",
+        "url": "https://www.nasa.gov/news-release/nasa-spacex-launch-dart-first-test-mission-to-defend-planet-earth/"
+      },
+      {
+        "id": "dart-outcome",
+        "date": "2022-09-27",
+        "text": "NASA reported the DART impact on Dimorphos on the preceding day.",
+        "url": "https://www.nasa.gov/solar-system/darts-final-images-prior-to-impact/"
+      }
+    ]
+  },
+  {
+    "id": "osiris",
+    "name": "OSIRIS-REx",
+    "event_date": "2023-09-24",
+    "outcome_card": "osiris-outcome",
+    "affirmed_phrases": [
+      "delivered the Bennu sample"
+    ],
+    "sources": [
+      {
+        "id": "osiris-plan",
+        "date": "2021-05-10",
+        "text": "NASA announced the return cruise from Bennu and expected a sample delivery to Earth in 2023.",
+        "url": "https://www.nasa.gov/news-release/nasas-osiris-rex-spacecraft-heads-for-earth-with-asteroid-sample/"
+      },
+      {
+        "id": "osiris-outcome",
+        "date": "2023-09-24",
+        "text": "NASA announced the arrival of the Bennu sample capsule in Utah.",
+        "url": "https://www.nasa.gov/news-release/nasas-first-asteroid-sample-has-landed-now-secure-in-clean-room/"
+      }
+    ]
+  },
+  {
+    "id": "rosetta",
+    "name": "Rosetta",
+    "event_date": "2014-01-20",
+    "outcome_card": "rosetta-outcome",
+    "affirmed_phrases": [
+      "woke from hibernation"
+    ],
+    "sources": [
+      {
+        "id": "rosetta-plan",
+        "date": "2011-06-03",
+        "text": "ESA described a plan to wake Rosetta and receive a signal in January 2014.",
+        "url": "https://www.esa.int/Enabling_Support/Operations/Rosetta_to_sleep_through_loneliest_leg_of_comet_mission"
+      },
+      {
+        "id": "rosetta-outcome",
+        "date": "2014-01-20",
+        "text": "ESA reported receiving a signal from Rosetta after deep-space hibernation.",
+        "url": "https://www.esa.int/Newsroom/Press_Releases/Rosetta_ESA_s_sleeping_beauty_wakes_up_from_deep_space_hibernation"
+      }
+    ]
+  }
+]

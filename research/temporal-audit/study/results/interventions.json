@@ -1,0 +1,86 @@
+[
+  {
+    "condition": "before",
+    "event": "perseverance",
+    "output": "NASA launched Perseverance toward Mars and scheduled a landing in 2021.",
+    "record_line": 113,
+    "record_sha256": "1c54a32a969937d052cb1e9d74dd976e308ad90bb9215d17ed696d7cf2082973"
+  },
+  {
+    "condition": "after",
+    "event": "perseverance",
+    "output": "NASA reported that Perseverance had landed on Mars.",
+    "record_line": 114,
+    "record_sha256": "b201930da63905be2c3136a576c067a7c8c4fd4e0e7211cb8ecf12d99e2475e1"
+  },
+  {
+    "condition": "after_without_outcome",
+    "event": "perseverance",
+    "output": "NASA launched Perseverance toward Mars and scheduled a landing in 2021.",
+    "record_line": 115,
+    "record_sha256": "2866416e817d66ddf6fef757ee047a2ff141c1f0303f97b7b15a694f3248ca29"
+  },
+  {
+    "condition": "before",
+    "event": "dart",
+    "output": "NASA announced the launch of DART and an intended collision with Dimorphos in 2022.",
+    "record_line": 116,
+    "record_sha256": "baf4d54d32dc7fdf2d81890a0f7bc6a245c769e39bdefafe6b96bc7d761d7ed1"
+  },
+  {
+    "condition": "after",
+    "event": "dart",
+    "output": "NASA reported the DART impact on Dimorphos on the preceding day.",
+    "record_line": 117,
+    "record_sha256": "0db7462d7905e2967d5764a964b3e91d8e3d14cfdd141cdad1f4b8f77bb8db98"
+  },
+  {
+    "condition": "after_without_outcome",
+    "event": "dart",
+    "output": "NASA announced the launch of DART and an intended collision with Dimorphos in 2022.",
+    "record_line": 118,
+    "record_sha256": "5d7a6bbb85bfa1350a77c9ad876440e086a3bb0a5c004f46f666f02d48c566bf"
+  },
+  {
+    "condition": "before",
+    "event": "osiris",
+    "output": "NASA announced the return cruise from Bennu and expected a sample delivery to Earth in 2023.",
+    "record_line": 119,
+    "record_sha256": "2802fb429868ad0138867aaed1a51cc0273359a2d7107268462596760ac5f492"
+  },
+  {
+    "condition": "after",
+    "event": "osiris",
+    "output": "NASA announced the arrival of the Bennu sample capsule in Utah.",
+    "record_line": 120,
+    "record_sha256": "cc72726b19c208fdcd2851f4cb9c8ec654b5473644ce1c1c39f49a84e3163688"
+  },
+  {
+    "condition": "after_without_outcome",
+    "event": "osiris",
+    "output": "NASA announced the return cruise from Bennu and expected a sample delivery to Earth in 2023.",
+    "record_line": 121,
+    "record_sha256": "a181d9aa6a141927330a0fc033e5c5aa4d37e2f65d0558541520cd8ad6429677"
+  },
+  {
+    "condition": "before",
+    "event": "rosetta",
+    "output": "ESA described a plan to wake Rosetta and receive a signal in January 2014.",
+    "record_line": 122,
+    "record_sha256": "a7110d5edce50e9e58e7e9e4999f5648d90f2064375c3bfcaafb43e9b760a5b8"
+  },
+  {
+    "condition": "after",
+    "event": "rosetta",
+    "output": "ESA reported receiving a signal from Rosetta after deep-space hibernation.",
+    "record_line": 123,
+    "record_sha256": "44da3ed831f548abf86f56c4b81ccc3dfe0035bc1895aa11b7db8e5ae899042a"
+  },
+  {
+    "condition": "after_without_outcome",
+    "event": "rosetta",
+    "output": "ESA described a plan to wake Rosetta and receive a signal in January 2014.",
+    "record_line": 124,
+    "record_sha256": "b85b02de7446856efd66c14f681662ec29a3a22fbb80ac832d96f5c2e6810862"
+  }
+]

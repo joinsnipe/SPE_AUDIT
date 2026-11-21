@@ -1,45 +1,19 @@
-# SPE — Stateless Proof Engine
+<p align="center"><img src="research/temporal-audit/assets/banner.png" width="100%" alt="SPE Audit · Temporal auditing of AI outputs / Auditoría temporal de las respuestas de IA. A timeline shows evidence available before a cutoff and evidence published later."></p>
 
-**Certify AI Outputs. Detect Temporal Violations. Verify Offline. Forever.**
+# SPE Audit
 
-[![License: BSL 1.1](https://img.shields.io/badge/License-BSL%201.1-blue.svg)](LICENSE)
-[![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
-[![Ed25519](https://img.shields.io/badge/crypto-Ed25519-green.svg)](#cryptographic-stack)
-[![SHA-256](https://img.shields.io/badge/hash-SHA--256-green.svg)](#cryptographic-stack)
-[![Tests](https://img.shields.io/badge/tests-15%2F15%20passed-brightgreen.svg)](#tests)
-[![White Paper](https://img.shields.io/badge/White%20Paper-v1.0-orange.svg)](docs/WHITE_PAPER.md)
+**¿Qué podía afirmarse en esa fecha y qué puede comprobar hoy quien recibe la respuesta?** Esta investigación pública reconstruye los antecedentes, abre las capturas y somete las reglas de SPE a un desafío de redacción. El informe incluye todos los registros de las listas recuperadas, sus fuentes y las pistas pendientes de identificar.
 
----
+**What could be asserted at the time, and what can a reader verify today?** The public study combines an annotated landscape, request-level captures, and a reproducible wording challenge. The event-aware rule flagged 24 of 32 positives on constructed examples. With independently worded examples covering the same events, it flagged zero of eight and referred all eight for review.
 
-## What is SPE?
+| Leer · Read | Explorar · Explore | Reproducir · Reproduce |
+|---|---|---|
+| [PDF en español](research/temporal-audit/PAPER_ES.pdf) · [English PDF](research/temporal-audit/PAPER_EN.pdf) | [Estudio y demo · Study and demo](research/temporal-audit/) | [Download the offline kit](https://github.com/joinsnipe/SPE_AUDIT/raw/refs/heads/main/research/temporal-audit/replication.zip) |
+| [Texto español](research/temporal-audit/PAPER_ES.md) · [English text](research/temporal-audit/PAPER_EN.md) | [54 registros históricos](research/temporal-audit/landscape/legacy.csv) · [116 referencias adicionales o reconciliadas](research/temporal-audit/landscape/bibliography.csv) | [Read the verification report](research/temporal-audit/study/REVIEW.md) |
 
-**SPE (Stateless Proof Engine)** is an open cryptographic engine for **certifying AI outputs** — proving that what an LLM said, when it said it, and what context it had, has not been tampered with.
+## Stateless Proof Engine
 
-### 🤖 Built for the AI Era
-
-- **Certify LLM outputs** — GPT-4, Claude, Gemini, Llama, or any model
-- **Detect temporal violations** — TVOC: when an AI "knows" things it shouldn't
-- **Prove context integrity** — Which RAG documents fed the AI response
-- **Verify offline forever** — No server, no blockchain, no dependency on SPE
-
-### 📄 Also Works For
-
-- Digital forensics and legal evidence
-- Compliance and regulatory auditing (GDPR, HIPAA, ISO 27001)
-- Email and communication integrity
-
-### Why Not Blockchain?
-
-| Feature              | SPE                 | Blockchain Notaries          | Traditional Notaries       |
-| -------------------- | ------------------- | ---------------------------- | -------------------------- |
-| Offline Verification | ✅ Yes              | ❌ No (requires node)        | ❌ No (requires authority) |
-| Data Custody         | ❌ None (stateless) | ⚠️ Public ledger             | ✅ Centralized             |
-| Cost per Proof       | Free (self-hosted)  | €5–50                        | €20–100                    |
-| Speed                | < 2 seconds         | Minutes (block confirmation) | Days (manual process)      |
-| Privacy              | ✅ Stateless        | ❌ Public                    | ⚠️ Centralized logs        |
-| Long-Term Viability  | ✅ Offline forever  | ⚠️ Depends on blockchain     | ⚠️ Depends on notary       |
-
----
+The original Python engine packages a supplied file, text or digest and checks its integrity against the resulting bundle. The optional signature, local clock, declared model identifier and caller-supplied context indicator have different evidentiary roles. The November study adds a separate local request capture and reports the performance of the public year rule. [Research methods and limits](research/temporal-audit/PAPER_EN.md)
 
 ## Core Design Philosophy
 
@@ -92,44 +66,6 @@ result = generate_proof(hash_hex="a" * 64)
 print(f"Proof generated: {result.zip_path}")
 ```
 
-### Generate a Proof (CLI)
-
-```bash
-# Certify a text document
-python -m cli attest \
-  --t_target 2026 \
-  --policy strict \
-  --text_file my_document.txt \
-  --out_dir my_proof/
-
-# Export a human-readable proof block
-python -m cli proof \
-  --capsule my_proof/forensic_capsule.json \
-  --ledger my_proof/ledger.sqlite
-```
-
-### Verify a Proof (CLI)
-
-```bash
-# Verify a proof bundle (offline)
-cd my_proof/verify/
-python verify_bundle.py \
-  --capsule ../forensic_capsule.json \
-  --ledger ../ledger.sqlite \
-  --file ../original_document.pdf
-```
-
-**Output:**
-
-```
-LEDGER: VALID
-CAPSULE_BINDING: VALID
-PROOF_INPUT_HASH: 7f83b1657ff1fc53b92dc18148a1d65dfc2d4b1fa3d677284addd200126d9069
-SIGNATURE: VALID
-ORIGIN_SPE: UNKNOWN
-OBJECT: MATCH
-```
-
 ### Verify a Proof (Python API)
 
 ```python
@@ -150,9 +86,9 @@ print(f"Match: {result.match_status}")  # "MATCH" or "MISMATCH"
 
 | Result                     | Meaning                                                                  |
 | -------------------------- | ------------------------------------------------------------------------ |
-| **LEDGER: VALID**          | The hash-chain is mathematically intact (no entries modified or removed) |
+| **LEDGER: VALID**          | Stored chain links are internally consistent. An independent checkpoint is needed to detect a rewritten or shortened history |
 | **CAPSULE_BINDING: VALID** | The forensic capsule matches the ledger's recorded capsule hash          |
-| **SIGNATURE: VALID**       | Ed25519 signature verified against the embedded public key               |
+| **SIGNATURE: VALID**       | Ed25519 signature verified against the key in the proof. Establish key ownership separately               |
 | **OBJECT: MATCH**          | The file is byte-for-byte identical to the certified version             |
 | **OBJECT: MISMATCH**       | The file has been altered since certification                            |
 
@@ -167,30 +103,12 @@ print(f"Match: {result.match_status}")  # "MATCH" or "MISMATCH"
 
 ## Architecture
 
-```
-SPE_AUDIT/
-├── spe_engine/               # Core cryptographic engine
-│   ├── core/                 # Capsule, Ledger, Context, Merkle, Temporal
-│   ├── crypto/               # SHA-256 hashing, Ed25519 signing
-│   ├── proof_input/          # Manifest canonicalization and signing
-│   ├── tvoc/                 # Temporal Violation of Context detection
-│   └── api.py                # High-level generate_proof / verify_proof
-├── cli/                      # Command-line tools
-│   ├── attest.py             # Generate attestation from text + context
-│   ├── proof.py              # Export human-readable proof block
-│   └── verify_object.py      # Verify file against capsule
-├── verify_kit/               # Hermetic offline verifier
-│   ├── verify_bundle.py      # Zero-dependency verification script
-│   └── capsule_ledger/       # Portable data structures for verification
-├── tests/                    # Test suite
-├── docs/                     # Technical documentation
-│   ├── WHITE_PAPER.md        # White Paper v1.0
-│   ├── PROTOCOL_SPEC.md
-│   ├── ARCHITECTURE.md
-│   └── AI_CERTIFICATION_GUIDE.md
-├── examples/                 # Usage examples
-└── requirements.txt
-```
+| Directory | Contents |
+|---|---|
+| [spe_engine/](spe_engine/) | Public Python API, hashing, capsule and ledger, signature helpers and temporal year rule |
+| [tests/](tests/) | Base engine tests |
+| [docs/](docs/) | Protocol and historical design documents |
+| [research/temporal-audit/](research/temporal-audit/) | Bilingual monograph, capture adapter, offline demonstration, data and reproduction code |
 
 ---
 
@@ -202,8 +120,7 @@ A proof bundle (`.zip`) contains:
 | ----------------------- | -------------------------------------------------------- |
 | `forensic_capsule.json` | The core attestation record (hashes, timestamps, policy) |
 | `ledger.sqlite`         | Append-only hash-chain for anti-tampering                |
-| `signature.json`        | Optional Ed25519 origin signature                        |
-| `verify/`               | Self-contained verification kit (works offline forever)  |
+| `proof_input.json`      | Input manifest, with an optional Ed25519 signature       |
 
 ### Forensic Capsule Structure
 
@@ -229,7 +146,7 @@ A proof bundle (`.zip`) contains:
 
 ### 1. AI Output Certification
 
-Certify what an AI said, when it said it, and what context it had:
+Record supplied output text with caller-declared metadata. The study adapter can additionally record the bytes supplied to a local sender.
 
 ```python
 from spe_engine import generate_proof
@@ -246,7 +163,7 @@ result = generate_proof(
 
 ### 2. Document Integrity
 
-Prove a file existed in a specific form at a specific time:
+Bind a file digest to the bundle and compare it later with an independently retained copy.
 
 ```python
 result = generate_proof(
@@ -257,7 +174,7 @@ result = generate_proof(
 
 ### 3. TVOC Detection (Temporal Violation of Context)
 
-Detect when an AI produces information it shouldn't know based on the declared time:
+Flag explicit years later than the declared target year when the caller reports no later context. Forecasts, questions and denials can also contain later years.
 
 ```python
 from spe_engine.tvoc import detect_tvoc_strong
@@ -321,4 +238,4 @@ See [LICENSE](LICENSE) for full terms.
 
 **SPE** — _Stateless. Portable. Verifiable._
 
-_Patent Pending — © 2024-2026 SPE Audit / Joinsnipe_
+© 2024–2026 SPE Audit / Joinsnipe

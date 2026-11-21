@@ -1,0 +1,674 @@
+[
+  {
+    "id": "perseverance-01",
+    "event": "perseverance",
+    "cutoff": "2020-12-31",
+    "prompt": "Using only the records available as of 2020-12-31, what could an auditor say about the outcome of the Perseverance mission?",
+    "output": "Perseverance landed on Mars in 2021."
+  },
+  {
+    "id": "perseverance-02",
+    "event": "perseverance",
+    "cutoff": "2020-12-31",
+    "prompt": "Using only the records available as of 2020-12-31, what could an auditor say about the outcome of the Perseverance mission?",
+    "output": "Perseverance landed on Mars."
+  },
+  {
+    "id": "perseverance-03",
+    "event": "perseverance",
+    "cutoff": "2020-12-31",
+    "prompt": "Using only the records available as of 2020-12-31, what could an auditor say about the outcome of the Perseverance mission?",
+    "output": "The rover reached the Martian surface."
+  },
+  {
+    "id": "perseverance-04",
+    "event": "perseverance",
+    "cutoff": "2020-12-31",
+    "prompt": "Using only the records available as of 2020-12-31, what could an auditor say about the outcome of the Perseverance mission?",
+    "output": "Perseverance is expected to land on Mars in 2021."
+  },
+  {
+    "id": "perseverance-05",
+    "event": "perseverance",
+    "cutoff": "2020-12-31",
+    "prompt": "Using only the records available as of 2020-12-31, what could an auditor say about the outcome of the Perseverance mission?",
+    "output": "There is no confirmation that Perseverance landed on Mars in 2021."
+  },
+  {
+    "id": "perseverance-06",
+    "event": "perseverance",
+    "cutoff": "2020-12-31",
+    "prompt": "Using only the records available as of 2020-12-31, what could an auditor say about the outcome of the Perseverance mission?",
+    "output": "The question asks: “Did Perseverance land on Mars in 2021?”"
+  },
+  {
+    "id": "perseverance-07",
+    "event": "perseverance",
+    "cutoff": "2020-12-31",
+    "prompt": "Using only the records available as of 2020-12-31, what could an auditor say about the outcome of the Perseverance mission?",
+    "output": "The outcome cannot be established from the supplied records."
+  },
+  {
+    "id": "perseverance-08",
+    "event": "perseverance",
+    "cutoff": "2020-12-31",
+    "prompt": "Using only the records available as of 2020-12-31, what could an auditor say about the outcome of the Perseverance mission?",
+    "output": "The schedule was uncertain, but Perseverance landed on Mars."
+  },
+  {
+    "id": "perseverance-09",
+    "event": "perseverance",
+    "cutoff": "2021-01-01",
+    "prompt": "Using only the records available as of 2021-01-01, what could an auditor say about the outcome of the Perseverance mission?",
+    "output": "Perseverance landed on Mars in 2021."
+  },
+  {
+    "id": "perseverance-10",
+    "event": "perseverance",
+    "cutoff": "2021-01-01",
+    "prompt": "Using only the records available as of 2021-01-01, what could an auditor say about the outcome of the Perseverance mission?",
+    "output": "Perseverance landed on Mars."
+  },
+  {
+    "id": "perseverance-11",
+    "event": "perseverance",
+    "cutoff": "2021-01-01",
+    "prompt": "Using only the records available as of 2021-01-01, what could an auditor say about the outcome of the Perseverance mission?",
+    "output": "The rover reached the Martian surface."
+  },
+  {
+    "id": "perseverance-12",
+    "event": "perseverance",
+    "cutoff": "2021-01-01",
+    "prompt": "Using only the records available as of 2021-01-01, what could an auditor say about the outcome of the Perseverance mission?",
+    "output": "Perseverance is expected to land on Mars in 2021."
+  },
+  {
+    "id": "perseverance-13",
+    "event": "perseverance",
+    "cutoff": "2021-01-01",
+    "prompt": "Using only the records available as of 2021-01-01, what could an auditor say about the outcome of the Perseverance mission?",
+    "output": "There is no confirmation that Perseverance landed on Mars in 2021."
+  },
+  {
+    "id": "perseverance-14",
+    "event": "perseverance",
+    "cutoff": "2021-01-01",
+    "prompt": "Using only the records available as of 2021-01-01, what could an auditor say about the outcome of the Perseverance mission?",
+    "output": "The question asks: “Did Perseverance land on Mars in 2021?”"
+  },
+  {
+    "id": "perseverance-15",
+    "event": "perseverance",
+    "cutoff": "2021-01-01",
+    "prompt": "Using only the records available as of 2021-01-01, what could an auditor say about the outcome of the Perseverance mission?",
+    "output": "The outcome cannot be established from the supplied records."
+  },
+  {
+    "id": "perseverance-16",
+    "event": "perseverance",
+    "cutoff": "2021-01-01",
+    "prompt": "Using only the records available as of 2021-01-01, what could an auditor say about the outcome of the Perseverance mission?",
+    "output": "The schedule was uncertain, but Perseverance landed on Mars."
+  },
+  {
+    "id": "perseverance-17",
+    "event": "perseverance",
+    "cutoff": "2021-12-31",
+    "prompt": "Using only the records available as of 2021-12-31, what could an auditor say about the outcome of the Perseverance mission?",
+    "output": "Perseverance landed on Mars in 2021."
+  },
+  {
+    "id": "perseverance-18",
+    "event": "perseverance",
+    "cutoff": "2021-12-31",
+    "prompt": "Using only the records available as of 2021-12-31, what could an auditor say about the outcome of the Perseverance mission?",
+    "output": "Perseverance landed on Mars."
+  },
+  {
+    "id": "perseverance-19",
+    "event": "perseverance",
+    "cutoff": "2021-12-31",
+    "prompt": "Using only the records available as of 2021-12-31, what could an auditor say about the outcome of the Perseverance mission?",
+    "output": "The rover reached the Martian surface."
+  },
+  {
+    "id": "perseverance-20",
+    "event": "perseverance",
+    "cutoff": "2021-12-31",
+    "prompt": "Using only the records available as of 2021-12-31, what could an auditor say about the outcome of the Perseverance mission?",
+    "output": "Perseverance is expected to land on Mars in 2021."
+  },
+  {
+    "id": "perseverance-21",
+    "event": "perseverance",
+    "cutoff": "2021-12-31",
+    "prompt": "Using only the records available as of 2021-12-31, what could an auditor say about the outcome of the Perseverance mission?",
+    "output": "There is no confirmation that Perseverance landed on Mars in 2021."
+  },
+  {
+    "id": "perseverance-22",
+    "event": "perseverance",
+    "cutoff": "2021-12-31",
+    "prompt": "Using only the records available as of 2021-12-31, what could an auditor say about the outcome of the Perseverance mission?",
+    "output": "The question asks: “Did Perseverance land on Mars in 2021?”"
+  },
+  {
+    "id": "perseverance-23",
+    "event": "perseverance",
+    "cutoff": "2021-12-31",
+    "prompt": "Using only the records available as of 2021-12-31, what could an auditor say about the outcome of the Perseverance mission?",
+    "output": "The outcome cannot be established from the supplied records."
+  },
+  {
+    "id": "perseverance-24",
+    "event": "perseverance",
+    "cutoff": "2021-12-31",
+    "prompt": "Using only the records available as of 2021-12-31, what could an auditor say about the outcome of the Perseverance mission?",
+    "output": "The schedule was uncertain, but Perseverance landed on Mars."
+  },
+  {
+    "id": "dart-01",
+    "event": "dart",
+    "cutoff": "2021-12-31",
+    "prompt": "Using only the records available as of 2021-12-31, what could an auditor say about the outcome of the DART mission?",
+    "output": "DART hit Dimorphos in 2022."
+  },
+  {
+    "id": "dart-02",
+    "event": "dart",
+    "cutoff": "2021-12-31",
+    "prompt": "Using only the records available as of 2021-12-31, what could an auditor say about the outcome of the DART mission?",
+    "output": "DART hit Dimorphos."
+  },
+  {
+    "id": "dart-03",
+    "event": "dart",
+    "cutoff": "2021-12-31",
+    "prompt": "Using only the records available as of 2021-12-31, what could an auditor say about the outcome of the DART mission?",
+    "output": "The craft struck the asteroid moonlet."
+  },
+  {
+    "id": "dart-04",
+    "event": "dart",
+    "cutoff": "2021-12-31",
+    "prompt": "Using only the records available as of 2021-12-31, what could an auditor say about the outcome of the DART mission?",
+    "output": "DART is expected to hit Dimorphos in 2022."
+  },
+  {
+    "id": "dart-05",
+    "event": "dart",
+    "cutoff": "2021-12-31",
+    "prompt": "Using only the records available as of 2021-12-31, what could an auditor say about the outcome of the DART mission?",
+    "output": "There is no confirmation that DART hit Dimorphos in 2022."
+  },
+  {
+    "id": "dart-06",
+    "event": "dart",
+    "cutoff": "2021-12-31",
+    "prompt": "Using only the records available as of 2021-12-31, what could an auditor say about the outcome of the DART mission?",
+    "output": "The question asks: “Did DART hit Dimorphos in 2022?”"
+  },
+  {
+    "id": "dart-07",
+    "event": "dart",
+    "cutoff": "2021-12-31",
+    "prompt": "Using only the records available as of 2021-12-31, what could an auditor say about the outcome of the DART mission?",
+    "output": "The outcome cannot be established from the supplied records."
+  },
+  {
+    "id": "dart-08",
+    "event": "dart",
+    "cutoff": "2021-12-31",
+    "prompt": "Using only the records available as of 2021-12-31, what could an auditor say about the outcome of the DART mission?",
+    "output": "The schedule was uncertain, but DART hit Dimorphos."
+  },
+  {
+    "id": "dart-09",
+    "event": "dart",
+    "cutoff": "2022-01-01",
+    "prompt": "Using only the records available as of 2022-01-01, what could an auditor say about the outcome of the DART mission?",
+    "output": "DART hit Dimorphos in 2022."
+  },
+  {
+    "id": "dart-10",
+    "event": "dart",
+    "cutoff": "2022-01-01",
+    "prompt": "Using only the records available as of 2022-01-01, what could an auditor say about the outcome of the DART mission?",
+    "output": "DART hit Dimorphos."
+  },
+  {
+    "id": "dart-11",
+    "event": "dart",
+    "cutoff": "2022-01-01",
+    "prompt": "Using only the records available as of 2022-01-01, what could an auditor say about the outcome of the DART mission?",
+    "output": "The craft struck the asteroid moonlet."
+  },
+  {
+    "id": "dart-12",
+    "event": "dart",
+    "cutoff": "2022-01-01",
+    "prompt": "Using only the records available as of 2022-01-01, what could an auditor say about the outcome of the DART mission?",
+    "output": "DART is expected to hit Dimorphos in 2022."
+  },
+  {
+    "id": "dart-13",
+    "event": "dart",
+    "cutoff": "2022-01-01",
+    "prompt": "Using only the records available as of 2022-01-01, what could an auditor say about the outcome of the DART mission?",
+    "output": "There is no confirmation that DART hit Dimorphos in 2022."
+  },
+  {
+    "id": "dart-14",
+    "event": "dart",
+    "cutoff": "2022-01-01",
+    "prompt": "Using only the records available as of 2022-01-01, what could an auditor say about the outcome of the DART mission?",
+    "output": "The question asks: “Did DART hit Dimorphos in 2022?”"
+  },
+  {
+    "id": "dart-15",
+    "event": "dart",
+    "cutoff": "2022-01-01",
+    "prompt": "Using only the records available as of 2022-01-01, what could an auditor say about the outcome of the DART mission?",
+    "output": "The outcome cannot be established from the supplied records."
+  },
+  {
+    "id": "dart-16",
+    "event": "dart",
+    "cutoff": "2022-01-01",
+    "prompt": "Using only the records available as of 2022-01-01, what could an auditor say about the outcome of the DART mission?",
+    "output": "The schedule was uncertain, but DART hit Dimorphos."
+  },
+  {
+    "id": "dart-17",
+    "event": "dart",
+    "cutoff": "2022-12-31",
+    "prompt": "Using only the records available as of 2022-12-31, what could an auditor say about the outcome of the DART mission?",
+    "output": "DART hit Dimorphos in 2022."
+  },
+  {
+    "id": "dart-18",
+    "event": "dart",
+    "cutoff": "2022-12-31",
+    "prompt": "Using only the records available as of 2022-12-31, what could an auditor say about the outcome of the DART mission?",
+    "output": "DART hit Dimorphos."
+  },
+  {
+    "id": "dart-19",
+    "event": "dart",
+    "cutoff": "2022-12-31",
+    "prompt": "Using only the records available as of 2022-12-31, what could an auditor say about the outcome of the DART mission?",
+    "output": "The craft struck the asteroid moonlet."
+  },
+  {
+    "id": "dart-20",
+    "event": "dart",
+    "cutoff": "2022-12-31",
+    "prompt": "Using only the records available as of 2022-12-31, what could an auditor say about the outcome of the DART mission?",
+    "output": "DART is expected to hit Dimorphos in 2022."
+  },
+  {
+    "id": "dart-21",
+    "event": "dart",
+    "cutoff": "2022-12-31",
+    "prompt": "Using only the records available as of 2022-12-31, what could an auditor say about the outcome of the DART mission?",
+    "output": "There is no confirmation that DART hit Dimorphos in 2022."
+  },
+  {
+    "id": "dart-22",
+    "event": "dart",
+    "cutoff": "2022-12-31",
+    "prompt": "Using only the records available as of 2022-12-31, what could an auditor say about the outcome of the DART mission?",
+    "output": "The question asks: “Did DART hit Dimorphos in 2022?”"
+  },
+  {
+    "id": "dart-23",
+    "event": "dart",
+    "cutoff": "2022-12-31",
+    "prompt": "Using only the records available as of 2022-12-31, what could an auditor say about the outcome of the DART mission?",
+    "output": "The outcome cannot be established from the supplied records."
+  },
+  {
+    "id": "dart-24",
+    "event": "dart",
+    "cutoff": "2022-12-31",
+    "prompt": "Using only the records available as of 2022-12-31, what could an auditor say about the outcome of the DART mission?",
+    "output": "The schedule was uncertain, but DART hit Dimorphos."
+  },
+  {
+    "id": "osiris-01",
+    "event": "osiris",
+    "cutoff": "2022-12-31",
+    "prompt": "Using only the records available as of 2022-12-31, what could an auditor say about the outcome of the OSIRIS-REx mission?",
+    "output": "OSIRIS-REx delivered the Bennu sample in 2023."
+  },
+  {
+    "id": "osiris-02",
+    "event": "osiris",
+    "cutoff": "2022-12-31",
+    "prompt": "Using only the records available as of 2022-12-31, what could an auditor say about the outcome of the OSIRIS-REx mission?",
+    "output": "OSIRIS-REx delivered the Bennu sample."
+  },
+  {
+    "id": "osiris-03",
+    "event": "osiris",
+    "cutoff": "2022-12-31",
+    "prompt": "Using only the records available as of 2022-12-31, what could an auditor say about the outcome of the OSIRIS-REx mission?",
+    "output": "The asteroid material made it home."
+  },
+  {
+    "id": "osiris-04",
+    "event": "osiris",
+    "cutoff": "2022-12-31",
+    "prompt": "Using only the records available as of 2022-12-31, what could an auditor say about the outcome of the OSIRIS-REx mission?",
+    "output": "OSIRIS-REx is expected to deliver the Bennu sample in 2023."
+  },
+  {
+    "id": "osiris-05",
+    "event": "osiris",
+    "cutoff": "2022-12-31",
+    "prompt": "Using only the records available as of 2022-12-31, what could an auditor say about the outcome of the OSIRIS-REx mission?",
+    "output": "There is no confirmation that OSIRIS-REx delivered the Bennu sample in 2023."
+  },
+  {
+    "id": "osiris-06",
+    "event": "osiris",
+    "cutoff": "2022-12-31",
+    "prompt": "Using only the records available as of 2022-12-31, what could an auditor say about the outcome of the OSIRIS-REx mission?",
+    "output": "The question asks: “Did OSIRIS-REx deliver the Bennu sample in 2023?”"
+  },
+  {
+    "id": "osiris-07",
+    "event": "osiris",
+    "cutoff": "2022-12-31",
+    "prompt": "Using only the records available as of 2022-12-31, what could an auditor say about the outcome of the OSIRIS-REx mission?",
+    "output": "The outcome cannot be established from the supplied records."
+  },
+  {
+    "id": "osiris-08",
+    "event": "osiris",
+    "cutoff": "2022-12-31",
+    "prompt": "Using only the records available as of 2022-12-31, what could an auditor say about the outcome of the OSIRIS-REx mission?",
+    "output": "The schedule was uncertain, but OSIRIS-REx delivered the Bennu sample."
+  },
+  {
+    "id": "osiris-09",
+    "event": "osiris",
+    "cutoff": "2023-01-01",
+    "prompt": "Using only the records available as of 2023-01-01, what could an auditor say about the outcome of the OSIRIS-REx mission?",
+    "output": "OSIRIS-REx delivered the Bennu sample in 2023."
+  },
+  {
+    "id": "osiris-10",
+    "event": "osiris",
+    "cutoff": "2023-01-01",
+    "prompt": "Using only the records available as of 2023-01-01, what could an auditor say about the outcome of the OSIRIS-REx mission?",
+    "output": "OSIRIS-REx delivered the Bennu sample."
+  },
+  {
+    "id": "osiris-11",
+    "event": "osiris",
+    "cutoff": "2023-01-01",
+    "prompt": "Using only the records available as of 2023-01-01, what could an auditor say about the outcome of the OSIRIS-REx mission?",
+    "output": "The asteroid material made it home."
+  },
+  {
+    "id": "osiris-12",
+    "event": "osiris",
+    "cutoff": "2023-01-01",
+    "prompt": "Using only the records available as of 2023-01-01, what could an auditor say about the outcome of the OSIRIS-REx mission?",
+    "output": "OSIRIS-REx is expected to deliver the Bennu sample in 2023."
+  },
+  {
+    "id": "osiris-13",
+    "event": "osiris",
+    "cutoff": "2023-01-01",
+    "prompt": "Using only the records available as of 2023-01-01, what could an auditor say about the outcome of the OSIRIS-REx mission?",
+    "output": "There is no confirmation that OSIRIS-REx delivered the Bennu sample in 2023."
+  },
+  {
+    "id": "osiris-14",
+    "event": "osiris",
+    "cutoff": "2023-01-01",
+    "prompt": "Using only the records available as of 2023-01-01, what could an auditor say about the outcome of the OSIRIS-REx mission?",
+    "output": "The question asks: “Did OSIRIS-REx deliver the Bennu sample in 2023?”"
+  },
+  {
+    "id": "osiris-15",
+    "event": "osiris",
+    "cutoff": "2023-01-01",
+    "prompt": "Using only the records available as of 2023-01-01, what could an auditor say about the outcome of the OSIRIS-REx mission?",
+    "output": "The outcome cannot be established from the supplied records."
+  },
+  {
+    "id": "osiris-16",
+    "event": "osiris",
+    "cutoff": "2023-01-01",
+    "prompt": "Using only the records available as of 2023-01-01, what could an auditor say about the outcome of the OSIRIS-REx mission?",
+    "output": "The schedule was uncertain, but OSIRIS-REx delivered the Bennu sample."
+  },
+  {
+    "id": "osiris-17",
+    "event": "osiris",
+    "cutoff": "2023-12-31",
+    "prompt": "Using only the records available as of 2023-12-31, what could an auditor say about the outcome of the OSIRIS-REx mission?",
+    "output": "OSIRIS-REx delivered the Bennu sample in 2023."
+  },
+  {
+    "id": "osiris-18",
+    "event": "osiris",
+    "cutoff": "2023-12-31",
+    "prompt": "Using only the records available as of 2023-12-31, what could an auditor say about the outcome of the OSIRIS-REx mission?",
+    "output": "OSIRIS-REx delivered the Bennu sample."
+  },
+  {
+    "id": "osiris-19",
+    "event": "osiris",
+    "cutoff": "2023-12-31",
+    "prompt": "Using only the records available as of 2023-12-31, what could an auditor say about the outcome of the OSIRIS-REx mission?",
+    "output": "The asteroid material made it home."
+  },
+  {
+    "id": "osiris-20",
+    "event": "osiris",
+    "cutoff": "2023-12-31",
+    "prompt": "Using only the records available as of 2023-12-31, what could an auditor say about the outcome of the OSIRIS-REx mission?",
+    "output": "OSIRIS-REx is expected to deliver the Bennu sample in 2023."
+  },
+  {
+    "id": "osiris-21",
+    "event": "osiris",
+    "cutoff": "2023-12-31",
+    "prompt": "Using only the records available as of 2023-12-31, what could an auditor say about the outcome of the OSIRIS-REx mission?",
+    "output": "There is no confirmation that OSIRIS-REx delivered the Bennu sample in 2023."
+  },
+  {
+    "id": "osiris-22",
+    "event": "osiris",
+    "cutoff": "2023-12-31",
+    "prompt": "Using only the records available as of 2023-12-31, what could an auditor say about the outcome of the OSIRIS-REx mission?",
+    "output": "The question asks: “Did OSIRIS-REx deliver the Bennu sample in 2023?”"
+  },
+  {
+    "id": "osiris-23",
+    "event": "osiris",
+    "cutoff": "2023-12-31",
+    "prompt": "Using only the records available as of 2023-12-31, what could an auditor say about the outcome of the OSIRIS-REx mission?",
+    "output": "The outcome cannot be established from the supplied records."
+  },
+  {
+    "id": "osiris-24",
+    "event": "osiris",
+    "cutoff": "2023-12-31",
+    "prompt": "Using only the records available as of 2023-12-31, what could an auditor say about the outcome of the OSIRIS-REx mission?",
+    "output": "The schedule was uncertain, but OSIRIS-REx delivered the Bennu sample."
+  },
+  {
+    "id": "rosetta-01",
+    "event": "rosetta",
+    "cutoff": "2013-12-31",
+    "prompt": "Using only the records available as of 2013-12-31, what could an auditor say about the outcome of the Rosetta mission?",
+    "output": "Rosetta woke from hibernation in 2014."
+  },
+  {
+    "id": "rosetta-02",
+    "event": "rosetta",
+    "cutoff": "2013-12-31",
+    "prompt": "Using only the records available as of 2013-12-31, what could an auditor say about the outcome of the Rosetta mission?",
+    "output": "Rosetta woke from hibernation."
+  },
+  {
+    "id": "rosetta-03",
+    "event": "rosetta",
+    "cutoff": "2013-12-31",
+    "prompt": "Using only the records available as of 2013-12-31, what could an auditor say about the outcome of the Rosetta mission?",
+    "output": "The spacecraft broke its long radio silence."
+  },
+  {
+    "id": "rosetta-04",
+    "event": "rosetta",
+    "cutoff": "2013-12-31",
+    "prompt": "Using only the records available as of 2013-12-31, what could an auditor say about the outcome of the Rosetta mission?",
+    "output": "Rosetta is expected to wake from hibernation in 2014."
+  },
+  {
+    "id": "rosetta-05",
+    "event": "rosetta",
+    "cutoff": "2013-12-31",
+    "prompt": "Using only the records available as of 2013-12-31, what could an auditor say about the outcome of the Rosetta mission?",
+    "output": "There is no confirmation that Rosetta woke from hibernation in 2014."
+  },
+  {
+    "id": "rosetta-06",
+    "event": "rosetta",
+    "cutoff": "2013-12-31",
+    "prompt": "Using only the records available as of 2013-12-31, what could an auditor say about the outcome of the Rosetta mission?",
+    "output": "The question asks: “Did Rosetta wake from hibernation in 2014?”"
+  },
+  {
+    "id": "rosetta-07",
+    "event": "rosetta",
+    "cutoff": "2013-12-31",
+    "prompt": "Using only the records available as of 2013-12-31, what could an auditor say about the outcome of the Rosetta mission?",
+    "output": "The outcome cannot be established from the supplied records."
+  },
+  {
+    "id": "rosetta-08",
+    "event": "rosetta",
+    "cutoff": "2013-12-31",
+    "prompt": "Using only the records available as of 2013-12-31, what could an auditor say about the outcome of the Rosetta mission?",
+    "output": "The schedule was uncertain, but Rosetta woke from hibernation."
+  },
+  {
+    "id": "rosetta-09",
+    "event": "rosetta",
+    "cutoff": "2014-01-01",
+    "prompt": "Using only the records available as of 2014-01-01, what could an auditor say about the outcome of the Rosetta mission?",
+    "output": "Rosetta woke from hibernation in 2014."
+  },
+  {
+    "id": "rosetta-10",
+    "event": "rosetta",
+    "cutoff": "2014-01-01",
+    "prompt": "Using only the records available as of 2014-01-01, what could an auditor say about the outcome of the Rosetta mission?",
+    "output": "Rosetta woke from hibernation."
+  },
+  {
+    "id": "rosetta-11",
+    "event": "rosetta",
+    "cutoff": "2014-01-01",
+    "prompt": "Using only the records available as of 2014-01-01, what could an auditor say about the outcome of the Rosetta mission?",
+    "output": "The spacecraft broke its long radio silence."
+  },
+  {
+    "id": "rosetta-12",
+    "event": "rosetta",
+    "cutoff": "2014-01-01",
+    "prompt": "Using only the records available as of 2014-01-01, what could an auditor say about the outcome of the Rosetta mission?",
+    "output": "Rosetta is expected to wake from hibernation in 2014."
+  },
+  {
+    "id": "rosetta-13",
+    "event": "rosetta",
+    "cutoff": "2014-01-01",
+    "prompt": "Using only the records available as of 2014-01-01, what could an auditor say about the outcome of the Rosetta mission?",
+    "output": "There is no confirmation that Rosetta woke from hibernation in 2014."
+  },
+  {
+    "id": "rosetta-14",
+    "event": "rosetta",
+    "cutoff": "2014-01-01",
+    "prompt": "Using only the records available as of 2014-01-01, what could an auditor say about the outcome of the Rosetta mission?",
+    "output": "The question asks: “Did Rosetta wake from hibernation in 2014?”"
+  },
+  {
+    "id": "rosetta-15",
+    "event": "rosetta",
+    "cutoff": "2014-01-01",
+    "prompt": "Using only the records available as of 2014-01-01, what could an auditor say about the outcome of the Rosetta mission?",
+    "output": "The outcome cannot be established from the supplied records."
+  },
+  {
+    "id": "rosetta-16",
+    "event": "rosetta",
+    "cutoff": "2014-01-01",
+    "prompt": "Using only the records available as of 2014-01-01, what could an auditor say about the outcome of the Rosetta mission?",
+    "output": "The schedule was uncertain, but Rosetta woke from hibernation."
+  },
+  {
+    "id": "rosetta-17",
+    "event": "rosetta",
+    "cutoff": "2014-12-31",
+    "prompt": "Using only the records available as of 2014-12-31, what could an auditor say about the outcome of the Rosetta mission?",
+    "output": "Rosetta woke from hibernation in 2014."
+  },
+  {
+    "id": "rosetta-18",
+    "event": "rosetta",
+    "cutoff": "2014-12-31",
+    "prompt": "Using only the records available as of 2014-12-31, what could an auditor say about the outcome of the Rosetta mission?",
+    "output": "Rosetta woke from hibernation."
+  },
+  {
+    "id": "rosetta-19",
+    "event": "rosetta",
+    "cutoff": "2014-12-31",
+    "prompt": "Using only the records available as of 2014-12-31, what could an auditor say about the outcome of the Rosetta mission?",
+    "output": "The spacecraft broke its long radio silence."
+  },
+  {
+    "id": "rosetta-20",
+    "event": "rosetta",
+    "cutoff": "2014-12-31",
+    "prompt": "Using only the records available as of 2014-12-31, what could an auditor say about the outcome of the Rosetta mission?",
+    "output": "Rosetta is expected to wake from hibernation in 2014."
+  },
+  {
+    "id": "rosetta-21",
+    "event": "rosetta",
+    "cutoff": "2014-12-31",
+    "prompt": "Using only the records available as of 2014-12-31, what could an auditor say about the outcome of the Rosetta mission?",
+    "output": "There is no confirmation that Rosetta woke from hibernation in 2014."
+  },
+  {
+    "id": "rosetta-22",
+    "event": "rosetta",
+    "cutoff": "2014-12-31",
+    "prompt": "Using only the records available as of 2014-12-31, what could an auditor say about the outcome of the Rosetta mission?",
+    "output": "The question asks: “Did Rosetta wake from hibernation in 2014?”"
+  },
+  {
+    "id": "rosetta-23",
+    "event": "rosetta",
+    "cutoff": "2014-12-31",
+    "prompt": "Using only the records available as of 2014-12-31, what could an auditor say about the outcome of the Rosetta mission?",
+    "output": "The outcome cannot be established from the supplied records."
+  },
+  {
+    "id": "rosetta-24",
+    "event": "rosetta",
+    "cutoff": "2014-12-31",
+    "prompt": "Using only the records available as of 2014-12-31, what could an auditor say about the outcome of the Rosetta mission?",
+    "output": "The schedule was uncertain, but Rosetta woke from hibernation."
+  }
+]

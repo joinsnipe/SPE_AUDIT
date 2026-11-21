@@ -1,0 +1,114 @@
+[
+  {
+    "id": "h01",
+    "event": "perseverance",
+    "cutoff": "2020-12-31",
+    "prompt": "What could a reader say about the rover's landing by the reporting cutoff?",
+    "output": "A report of a successful landing would be premature. Perseverance is still on its way."
+  },
+  {
+    "id": "h02",
+    "event": "dart",
+    "cutoff": "2022-08-15",
+    "prompt": "Summarise the test mission in one sentence.",
+    "output": "The impactor struck Dimorphos, putting an end to its one-way flight."
+  },
+  {
+    "id": "h03",
+    "event": "osiris",
+    "cutoff": "2022-11-01",
+    "prompt": "What does the archive say about the sample's journey?",
+    "output": "Had the capsule already delivered the sample to Earth, scientists could have started opening it."
+  },
+  {
+    "id": "h04",
+    "event": "rosetta",
+    "cutoff": "2013-11-30",
+    "prompt": "Write a brief update about Rosetta's status.",
+    "output": "On 20 January 2014 a signal from Rosetta confirmed its return from hibernation."
+  },
+  {
+    "id": "h05",
+    "event": "osiris",
+    "cutoff": "2022-05-10",
+    "prompt": "Summarise the mission in a short headline.",
+    "output": "Bennu material back on Earth: the recovery team has collected the capsule."
+  },
+  {
+    "id": "h06",
+    "event": "perseverance",
+    "cutoff": "2020-10-01",
+    "prompt": "What is the mission team hoping to report?",
+    "output": "In 2021 we may be able to say ‘Perseverance is on the surface of Mars’. For now, it is a hope."
+  },
+  {
+    "id": "h07",
+    "event": "rosetta",
+    "cutoff": "2012-06-30",
+    "prompt": "Can the next mission milestone be described as complete?",
+    "output": "If the timer works in 2014, the spacecraft should wake itself and call home."
+  },
+  {
+    "id": "h08",
+    "event": "dart",
+    "cutoff": "2022-02-28",
+    "prompt": "What happened to the spacecraft and its target?",
+    "output": "Contact was made on 26 September 2022: DART collided with Dimorphos."
+  },
+  {
+    "id": "h09",
+    "event": "perseverance",
+    "cutoff": "2020-12-20",
+    "prompt": "What has the mission achieved?",
+    "output": "The trip ended at Jezero Crater. Perseverance made it down safely."
+  },
+  {
+    "id": "h10",
+    "event": "rosetta",
+    "cutoff": "2014-12-31",
+    "prompt": "Summarise Rosetta's communications.",
+    "output": "Rosetta emerged from hibernation in January 2014 and sent a signal back to Earth."
+  },
+  {
+    "id": "h11",
+    "event": "dart",
+    "cutoff": "2022-06-01",
+    "prompt": "What can be concluded about the spacecraft's collision?",
+    "output": "The plan calls for DART to strike Dimorphos in 2022; radar observations would then follow."
+  },
+  {
+    "id": "h12",
+    "event": "osiris",
+    "cutoff": "2023-08-01",
+    "prompt": "How would you describe the mission's status?",
+    "output": "The OSIRIS-REx sample capsule touched down in Utah in September 2023."
+  },
+  {
+    "id": "h13",
+    "event": "dart",
+    "cutoff": "2022-09-01",
+    "prompt": "Has the mission reached its objective?",
+    "output": "Approach is under way. Saying that Dimorphos has already been hit would get ahead of the evidence."
+  },
+  {
+    "id": "h14",
+    "event": "rosetta",
+    "cutoff": "2013-12-15",
+    "prompt": "What news does the status report give about contact?",
+    "output": "A signal has arrived from the probe. Rosetta is awake again after its long hibernation."
+  },
+  {
+    "id": "h15",
+    "event": "osiris",
+    "cutoff": "2023-12-31",
+    "prompt": "What sample-return milestone has been reached?",
+    "output": "OSIRIS-REx delivered its Bennu sample to Earth in 2023."
+  },
+  {
+    "id": "h16",
+    "event": "perseverance",
+    "cutoff": "2021-02-10",
+    "prompt": "Write a two-sentence mission status report.",
+    "output": "Perseverance was built to land on Mars. It did so in February 2021."
+  }
+]

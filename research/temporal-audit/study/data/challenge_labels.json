@@ -1,0 +1,82 @@
+{
+  "h01": {
+    "label": "OTHER",
+    "form": "denial of completion",
+    "cutoff_group": "challenge"
+  },
+  "h02": {
+    "label": "POST_ASSERTION",
+    "form": "asserted outcome without year",
+    "cutoff_group": "challenge"
+  },
+  "h03": {
+    "label": "OTHER",
+    "form": "counterfactual completion",
+    "cutoff_group": "challenge"
+  },
+  "h04": {
+    "label": "POST_ASSERTION",
+    "form": "dated retrospective indirect assertion",
+    "cutoff_group": "challenge"
+  },
+  "h05": {
+    "label": "POST_ASSERTION",
+    "form": "asserted outcome without year",
+    "cutoff_group": "challenge"
+  },
+  "h06": {
+    "label": "OTHER",
+    "form": "future quotation and explicit year",
+    "cutoff_group": "challenge"
+  },
+  "h07": {
+    "label": "OTHER",
+    "form": "conditional forecast with year",
+    "cutoff_group": "challenge"
+  },
+  "h08": {
+    "label": "POST_ASSERTION",
+    "form": "dated outcome in passive and active voices",
+    "cutoff_group": "challenge"
+  },
+  "h09": {
+    "label": "POST_ASSERTION",
+    "form": "asserted completed landing through paraphrase",
+    "cutoff_group": "challenge"
+  },
+  "h10": {
+    "label": "OTHER",
+    "form": "historical assertion after outcome",
+    "cutoff_group": "challenge"
+  },
+  "h11": {
+    "label": "OTHER",
+    "form": "forecast and conditional follow-up in the cutoff year",
+    "cutoff_group": "challenge"
+  },
+  "h12": {
+    "label": "POST_ASSERTION",
+    "form": "explicit year equal to cutoff year",
+    "cutoff_group": "challenge"
+  },
+  "h13": {
+    "label": "OTHER",
+    "form": "rejected embedded assertion",
+    "cutoff_group": "challenge"
+  },
+  "h14": {
+    "label": "POST_ASSERTION",
+    "form": "asserted change of state without year",
+    "cutoff_group": "challenge"
+  },
+  "h15": {
+    "label": "OTHER",
+    "form": "historical assertion after outcome",
+    "cutoff_group": "challenge"
+  },
+  "h16": {
+    "label": "POST_ASSERTION",
+    "form": "anaphoric dated completion in cutoff year",
+    "cutoff_group": "challenge"
+  }
+}

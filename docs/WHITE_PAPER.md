@@ -3,7 +3,9 @@
 ## White Paper: Cryptographic Certification for AI Outputs
 
 **Version 1.0 — February 2026**
-**Patent Pending — © 2025–2026 SPE Audit**
+**Historical edition · © 2025–2026 SPE Audit**
+
+> **November 2026 editorial note.** This February paper records the original design and its claims. The November study examines those claims against the published API and prior art. The base API binds supplied output. Its default prompt and context fields do not demonstrate what a provider received. The year rule can flag forecasts and miss completed events. The November study includes an executable capture adapter, test cases and both measured failure rates. [Full paper in English](../research/temporal-audit/PAPER_EN.md) · [Edición en español](../research/temporal-audit/PAPER_ES.md)
 
 ---
 
@@ -90,20 +92,9 @@ proof = generate_proof(
 )
 ```
 
-### Full RAG Pipeline
+### Full RAG pipeline in the design
 
-```python
-proof = generate_proof(
-    content=ai_response,
-    model_id="gpt-4-turbo",
-    artifact_type="ai-output",
-    t_target=2025,
-    context_items=rag_documents,
-    policy="strict",
-)
-```
-
-SPE also integrates as HTTP middleware, LangChain callbacks, or batch processors — certifying every response automatically with zero changes to your model or provider.
+The February design envisaged passing retrieved documents alongside the output. The public `generate_proof` signature in the studied release accepts text, a file or a hash. The executable research adapter records the request and response at a local sender boundary. [Adapter](../research/temporal-audit/study/capture.py) · [Executable examples and verification](../research/temporal-audit/)
 
 ---
 

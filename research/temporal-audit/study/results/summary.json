@@ -1,0 +1,165 @@
+{
+  "capsules_sha256": "174ca466891bbd35e8c5b208b612d74dddf4984b9e7a31537bf7e02d41447e20",
+  "cutoff_groups": {
+    "after_outcome": {
+      "dated_matcher": {
+        "covered": 28,
+        "fn": 0,
+        "fp": 0,
+        "n": 32,
+        "negative_total": 32,
+        "positive_total": 0,
+        "review_negative": 4,
+        "review_positive": 0,
+        "tn": 28,
+        "tp": 0
+      },
+      "year_rule": {
+        "covered": 32,
+        "fn": 0,
+        "fp": 0,
+        "n": 32,
+        "negative_total": 32,
+        "positive_total": 0,
+        "review_negative": 0,
+        "review_positive": 0,
+        "tn": 32,
+        "tp": 0
+      }
+    },
+    "challenge": {
+      "dated_matcher": {
+        "covered": 2,
+        "fn": 0,
+        "fp": 0,
+        "n": 16,
+        "negative_total": 8,
+        "positive_total": 8,
+        "review_negative": 6,
+        "review_positive": 8,
+        "tn": 2,
+        "tp": 0
+      },
+      "year_rule": {
+        "covered": 16,
+        "fn": 7,
+        "fp": 2,
+        "n": 16,
+        "negative_total": 8,
+        "positive_total": 8,
+        "review_negative": 0,
+        "review_positive": 0,
+        "tn": 6,
+        "tp": 1
+      }
+    },
+    "prior_year": {
+      "dated_matcher": {
+        "covered": 28,
+        "fn": 0,
+        "fp": 0,
+        "n": 32,
+        "negative_total": 16,
+        "positive_total": 16,
+        "review_negative": 0,
+        "review_positive": 4,
+        "tn": 16,
+        "tp": 12
+      },
+      "year_rule": {
+        "covered": 32,
+        "fn": 12,
+        "fp": 12,
+        "n": 32,
+        "negative_total": 16,
+        "positive_total": 16,
+        "review_negative": 0,
+        "review_positive": 0,
+        "tn": 4,
+        "tp": 4
+      }
+    },
+    "same_year_before": {
+      "dated_matcher": {
+        "covered": 28,
+        "fn": 0,
+        "fp": 0,
+        "n": 32,
+        "negative_total": 16,
+        "positive_total": 16,
+        "review_negative": 0,
+        "review_positive": 4,
+        "tn": 16,
+        "tp": 12
+      },
+      "year_rule": {
+        "covered": 32,
+        "fn": 16,
+        "fp": 0,
+        "n": 32,
+        "negative_total": 16,
+        "positive_total": 16,
+        "review_negative": 0,
+        "review_positive": 0,
+        "tn": 16,
+        "tp": 0
+      }
+    }
+  },
+  "interventions": 12,
+  "record_count": 124,
+  "splits": {
+    "challenge": {
+      "dated_matcher": {
+        "covered": 2,
+        "fn": 0,
+        "fp": 0,
+        "n": 16,
+        "negative_total": 8,
+        "positive_total": 8,
+        "review_negative": 6,
+        "review_positive": 8,
+        "tn": 2,
+        "tp": 0
+      },
+      "year_rule": {
+        "covered": 16,
+        "fn": 7,
+        "fp": 2,
+        "n": 16,
+        "negative_total": 8,
+        "positive_total": 8,
+        "review_negative": 0,
+        "review_positive": 0,
+        "tn": 6,
+        "tp": 1
+      }
+    },
+    "constructed": {
+      "dated_matcher": {
+        "covered": 84,
+        "fn": 0,
+        "fp": 0,
+        "n": 96,
+        "negative_total": 64,
+        "positive_total": 32,
+        "review_negative": 4,
+        "review_positive": 8,
+        "tn": 60,
+        "tp": 24
+      },
+      "year_rule": {
+        "covered": 96,
+        "fn": 28,
+        "fp": 12,
+        "n": 96,
+        "negative_total": 64,
+        "positive_total": 32,
+        "review_negative": 0,
+        "review_positive": 0,
+        "tn": 52,
+        "tp": 4
+      }
+    }
+  }
+}
