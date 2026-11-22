@@ -205,4 +205,4 @@ Matches 4-digit years from 1900-2099 at word boundaries.
 ---
 
 _Protocol Specification v2.6 — February 2026_
-_Patent Pending — © 2024-2026 Rubén Abella · SPE Audit_
+_© 2024-2026 Rubén Abella · SPE Audit_

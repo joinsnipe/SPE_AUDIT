@@ -177,4 +177,4 @@ A proof generated today is verifiable in ten years, on an air-gapped machine, by
 
 **SPE — Stateless. Portable. Verifiable.**
 
-_Patent Pending — © 2025–2026 Rubén Abella · SPE Audit_
+_© 2025–2026 Rubén Abella · SPE Audit_
