@@ -14,6 +14,6 @@ preferred-citation:
   title: "Temporal auditing of AI outputs"
   year: 2026
   date-released: "2026-11-22"
-  version: "1.2"
-  doi: "10.5281/zenodo.24447732"
-  url: "https://github.com/joinsnipe/SPE_AUDIT/tree/main/research/temporal-audit/v12"
+  version: "1.2.1"
+  doi: "10.5281/zenodo.24448090"
+  url: "https://github.com/joinsnipe/SPE_AUDIT/tree/main/research/temporal-audit/v121"

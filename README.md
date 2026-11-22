@@ -5,11 +5,15 @@
 **Rubén Abella · SPE Audit**  
 Auditoría temporal de las respuestas de IA · Temporal auditing of AI outputs
 
-**Edición de investigación 1.2 · 22 noviembre 2026.** El estudio base examina cuatro misiones; sus 96 filas de desarrollo y sus 16 frases de reto comparten esos sucesos. Esta edición repite la lectura de las 112 respuestas con un modelo local en dos condiciones emparejadas y publica por separado las remisiones a revisión. El artículo, el catálogo y el registro de candidatos se pueden descargar individualmente.
+**Edición integral 1.2.1 · 22 de noviembre de 2026 · Rubén Abella**
 
-**Research edition 1.2.** The original development and wording cohorts share four events. The new paired study varies access to the recorded event date and keeps row-level review outcomes visible.
+[Descargar el volumen completo en español](research/temporal-audit/v121/FULL_ES.pdf) · [Download the complete English volume](research/temporal-audit/v121/FULL_EN.pdf) · [DOI 10.5281/zenodo.24448090](https://doi.org/10.5281/zenodo.24448090)
 
-[Artículo 1.2 en español](research/temporal-audit/v12/PAPER_ES.pdf) · [English paper 1.2](research/temporal-audit/v12/PAPER_EN.pdf) · [Catálogo de antecedentes · Prior art](research/temporal-audit/v12/Prior_art_catalogue.pdf) · [Código y datos · Reproduction](research/temporal-audit/v12/) · [DOI 1.2](https://doi.org/10.5281/zenodo.24447732)
+El volumen reúne el estudio original y su suplemento, el seguimiento, el ensayo emparejado de 112 respuestas y el catálogo de antecedentes. Los 34 acontecimientos para un próximo estudio se identifican como candidatos. Los métodos, denominadores y derivaciones a revisión acompañan a cada comparación. La síntesis de nueve páginas de la edición 1.2 se conserva como lectura breve.
+
+The integrated volume brings together the original study and supplement, follow-up research, the paired 112-answer replay and the prior-art catalogue. The register distinguishes 34 candidate events from evaluated cases. The short reading edition remains available separately.
+
+[Guía del volumen · Reader’s guide](research/temporal-audit/v121/) · [Resultados y reproducción · Data and scoring](research/temporal-audit/v12/) · [Piloto de revisión independiente · Open review pilot](research/temporal-audit/post11/open-pilot/)
 
 Este proyecto de Rubén Abella nació de un estudio previo sobre auditoría temporal de sistemas de IA que dio lugar a una solicitud provisional estadounidense presentada por el autor a título personal. La publicación reúne la revisión de antecedentes, el método de captura, los experimentos y sus límites. El artículo y los materiales de reproducción quedan disponibles para su cita, contraste y continuación.
 

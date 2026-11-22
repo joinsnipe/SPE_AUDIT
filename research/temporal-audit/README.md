@@ -2,7 +2,17 @@
 
 # Auditoría temporal de las respuestas de IA · Temporal auditing of AI outputs
 
-**Rubén Abella · SPE Audit · 22 noviembre / November 2026 · Edición 1.2**
+**Rubén Abella · SPE Audit · 22 noviembre / November 2026 · Edición integral 1.2.1**
+
+| Volumen completo / complete volume | Español | English |
+|---|---|---|
+| Artículo, suplementos y anexos | [Descargar PDF íntegro](v121/FULL_ES.pdf) | [Download complete PDF](v121/FULL_EN.pdf) |
+| Edición publicada | [DOI 10.5281/zenodo.24448090](https://doi.org/10.5281/zenodo.24448090) | [Edition guide, data and provenance](v121/) |
+
+El PDF integrado incluye íntegro el volumen anterior, el seguimiento del lector, la comparación con y sin la fecha del desenlace, el catálogo revisado de 116 fichas y el registro de 34 candidatos. Las nueve páginas de la edición 1.2 ofrecen una síntesis del ensayo emparejado. The integrated PDF includes the full earlier volume and the follow-up material, with an updated catalogue and a separate register of future cases. The nine-page reading edition covers the paired experiment.
+
+## Síntesis y datos de la edición 1.2 · Short edition and underlying data
+
 
 El estudio original se construyó sobre cuatro misiones. Al cambiar la redacción en esas mismas misiones, la regla fechada dejó en revisión 14 de 16 respuestas y detectó 0 de 8 positivos. El nuevo estudio compara sobre las 112 filas originales dos lecturas del mismo modelo con diferentes datos de entrada. Distingue lo que afirma el texto de la evidencia que permitiría atribuirle un origen. El autor desarrolla la tecnología evaluada. Las referencias son editoriales.
 
@@ -10,7 +20,7 @@ The original corpus covered four space missions. On new wording about those same
 
 | Edición 1.2 | Español | English |
 |---|---|---|
-| Artículo | [PDF para lectura y descarga](v12/PAPER_ES.pdf) · [Texto accesible](v12/PAPER_ES.md) | [Download PDF](v12/PAPER_EN.pdf) · [Accessible text](v12/PAPER_EN.md) |
+| Síntesis de nueve páginas | [Descargar síntesis](v12/PAPER_ES.pdf) · [Texto accesible](v12/PAPER_ES.md) | [Download nine-page summary](v12/PAPER_EN.pdf) · [Accessible text](v12/PAPER_EN.md) |
 | Anexo de 116 referencias | [Catálogo bibliográfico](v12/Prior_art_catalogue.pdf) | [Bilingual prior-art catalogue](v12/Prior_art_catalogue.pdf) |
 | Reproducción y proyecto abierto | [112 comparaciones](v12/paired_decisions.csv) · [34 sucesos candidatos](v12/candidate_events.csv) | [Inputs and receipts](v12/README.md) · [Independent replication design](v12/NEXT_STUDY.md) |
 
