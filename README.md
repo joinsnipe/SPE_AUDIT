@@ -234,7 +234,7 @@ We welcome contributions! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for guid
 
 ## License
 
-The SPE software is licensed under the **Business Source License 1.1 (BSL 1.1)**. Rubén Abella licenses the original article text and original figures under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Trademarks and third-party materials retain their respective rights.
+The SPE software is **source-available under the Business Source License 1.1 (BSL 1.1)**. Rubén Abella licenses the original article text and original figures under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Trademarks and third-party materials retain their respective rights.
 
 - ✅ **Free for non-commercial use**, research, education, and personal projects
 - ✅ **Free for internal evaluation** and testing

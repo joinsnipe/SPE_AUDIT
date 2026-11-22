@@ -19,6 +19,22 @@ El estudio original usó cuatro sucesos en 96 filas de desarrollo y 16 frases de
 
 La convocatoria de revisión humana sigue abierta. El [kit del piloto](../post11/open-pilot/) selecciona ocho casos en español y ocho en inglés del conjunto de 48 de la edición 1.1. Es un ejercicio distinto del reto original de 16 frases en inglés. Dos personas reciben los mismos casos en orden distinto y emiten sus decisiones por separado. Una tercera examina los desacuerdos. La [mesa pública](https://www.spetrace.com/es/research/temporal-audit/review-desk) permite explorar ejemplos resueltos; quienes participen en el piloto pueden registrar cualquier exposición previa.
 
+## Qué cuenta cada cifra · What the numbers count
+
+| Unidad / Unit | Español | English |
+|---|---|---|
+| 96 + 16 = 112 respuestas / answers | Cuatro misiones espaciales. Las 96 respuestas de desarrollo combinan plantillas y fechas de corte. Las 16 reformulaciones pertenecen a las mismas misiones. | Four space missions. The 96 development answers vary templates and cutoff dates. The 16 reworded answers concern the same missions. |
+| 48 respuestas / answers | Seis sucesos adicionales, con 18 positivos, 24 controles y 6 referencias indeterminadas en español e inglés. | Six additional events, with 18 positives, 24 controls and 6 indeterminate references across English and Spanish. |
+| 160 fichas / cases | El explorador reúne las 112 respuestas originales y las 48 posteriores. Cada conjunto tiene su propio denominador. | The explorer contains the original 112 answers plus the later 48. Each cohort has its own denominator. |
+| 224 lecturas / readouts | Un lector local evaluó dos veces las mismas 112 respuestas. Un pase recibió además la fecha del desenlace. | One local reader evaluated the same 112 answers twice. One pass also received the outcome date. |
+| 17 pasajes / passages | Textos de terceros (NIST y USGS). El proyecto asignó las etiquetas de referencia. | Third-party texts from NIST and USGS. The project supplied the reference labels. |
+| 34 sucesos / events | Sucesos propuestos para una réplica. La edición publicada contiene sus fuentes. Las preguntas, respuestas y etiquetas de esa evaluación siguen pendientes. | Events proposed for a replication. The published edition supplies their sources. Questions, answers and reference labels for that evaluation remain to be produced. |
+| 16 casos del piloto / pilot cases | Selección de 8 casos en español y 8 en inglés, extraídos de los 48. En las observaciones publicadas constan cero decisiones humanas y cero minutos medidos. | A selection of 8 Spanish and 8 English cases drawn from the 48. The published observations contain zero human decisions and zero measured minutes. |
+
+La regla de proposiciones detectó 30/32 positivos en desarrollo, 4/8 en las reformulaciones y 1/18 en los seis sucesos adicionales. En este último conjunto remitió 17 de los 18 positivos a revisión. Con SmolLM2-135M, incluir la fecha del desenlace cambió seis decisiones de desarrollo y ninguna de las 16 reformulaciones. La lectura exploratoria de 18/18 positivos se hizo a posteriori, con referencias internas. La evaluación independiente propuesta permitiría medir el acuerdo entre personas y el tiempo que dedican a resolver los casos. [Resultados por conjunto](../post11/generalization/cohorts.csv) · [Cambios al añadir la fecha](../v12/transitions.csv) · [Convocatoria y método del piloto](../post11/open-pilot/)
+
+The proposition rule detected 30/32 positives in development, 4/8 on reworded answers and 1/18 across the six additional events. In that last cohort it sent 17 of the 18 positives to review. With SmolLM2-135M, providing the outcome date changed six development decisions and none of the 16 reworded cases. The exploratory reading that flagged 18/18 positives took place after the fact and used internal reference labels. The proposed independent evaluation would measure human agreement and active review time. [Cohort counts](../post11/generalization/cohorts.csv) · [Date-access transitions](../v12/transitions.csv) · [Open pilot](../post11/open-pilot/)
+
 ## For readers and replicators
 
 Each PDF brings the research, the original volume, follow-up results, updated catalogue and future event register together. The edition preserves the earlier volume in full. Its original folios and DOI identify the historical pages. The new front matter provides navigation across the integrated volume.
