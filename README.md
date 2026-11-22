@@ -5,6 +5,12 @@
 **Rubén Abella · SPE Audit**  
 Auditoría temporal de las respuestas de IA · Temporal auditing of AI outputs
 
+**Edición de investigación 1.2 · 22 noviembre 2026.** El estudio base examina cuatro misiones; sus 96 filas de desarrollo y sus 16 frases de reto comparten esos sucesos. Esta edición repite la lectura de las 112 respuestas con un modelo local en dos condiciones emparejadas y publica por separado las remisiones a revisión. El artículo, el catálogo y el registro de candidatos se pueden descargar individualmente.
+
+**Research edition 1.2.** The original development and wording cohorts share four events. The new paired study varies access to the recorded event date and keeps row-level review outcomes visible.
+
+[Artículo 1.2 en español](research/temporal-audit/v12/PAPER_ES.pdf) · [English paper 1.2](research/temporal-audit/v12/PAPER_EN.pdf) · [Catálogo de antecedentes · Prior art](research/temporal-audit/v12/Prior_art_catalogue.pdf) · [Código y datos · Reproduction](research/temporal-audit/v12/) · [DOI 1.2](https://doi.org/10.5281/zenodo.24447732)
+
 Este proyecto de Rubén Abella nació de un estudio previo sobre auditoría temporal de sistemas de IA que dio lugar a una solicitud provisional estadounidense presentada por el autor a título personal. La publicación reúne la revisión de antecedentes, el método de captura, los experimentos y sus límites. El artículo y los materiales de reproducción quedan disponibles para su cita, contraste y continuación.
 
 This research grew out of Rubén Abella’s earlier study of temporal auditing of AI systems and his US provisional patent application. The public edition documents the prior art, the capture method, the experiments and the limits of the evidence.
@@ -13,7 +19,7 @@ This research grew out of Rubén Abella’s earlier study of temporal auditing o
 
 | Leer · Read | Explorar · Explore | Reproducir · Reproduce |
 |---|---|---|
-| [Artículo en español](research/temporal-audit/v11/FULL_ES.pdf) · [English paper](research/temporal-audit/v11/FULL_EN.pdf) | [Demo en español](https://www.spetrace.com/es/research/temporal-audit) · [English demo](https://www.spetrace.com/research/temporal-audit) · [Demo sin conexión](research/temporal-audit/v11/explore/offline.zip) | [Datos, código e instrucciones](research/temporal-audit/v11/) |
+| [Volumen íntegro 1.1 en español](research/temporal-audit/v11/FULL_ES.pdf) · [Complete English volume 1.1](research/temporal-audit/v11/FULL_EN.pdf) | [Demo en español](https://www.spetrace.com/es/research/temporal-audit) · [English demo](https://www.spetrace.com/research/temporal-audit) · [Demo sin conexión](research/temporal-audit/v11/explore/offline.zip) | [Datos, código e instrucciones](research/temporal-audit/v11/) |
 | [DOI 10.5281/zenodo.24424024](https://doi.org/10.5281/zenodo.24424024) | [Diapositivas](research/temporal-audit/v11/outreach/slides_es.pdf) · [Technical blog](research/temporal-audit/v11/outreach/blog_en.md) | [54 registros históricos](research/temporal-audit/landscape/legacy.csv) · [116 referencias](research/temporal-audit/landscape/bibliography.csv) · [Revisión de fechas](research/temporal-audit/v11/sources/dating_ledger.csv) |
 
 [Nota científica de seguimiento · Bilingual follow-up](research/temporal-audit/post11/brief/BRIEF_ES_EN.pdf) · [Laboratorio abierto y piloto ciego de 16 casos · Open lab and 16-case pilot](research/temporal-audit/post11/)

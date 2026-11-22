@@ -2,6 +2,22 @@
 
 # Auditoría temporal de las respuestas de IA · Temporal auditing of AI outputs
 
+**Rubén Abella · SPE Audit · 22 noviembre / November 2026 · Edición 1.2**
+
+El estudio original se construyó sobre cuatro misiones. Al cambiar la redacción en esas mismas misiones, la regla fechada dejó en revisión 14 de 16 respuestas y detectó 0 de 8 positivos. El nuevo estudio compara sobre las 112 filas originales dos lecturas del mismo modelo con diferentes datos de entrada. Distingue lo que afirma el texto de la evidencia que permitiría atribuirle un origen. El autor desarrolla la tecnología evaluada. Las referencias son editoriales.
+
+The original corpus covered four space missions. On new wording about those same missions, the dated rule referred 14 of 16 answers and alerted on 0 of 8 positives. The new study compares two information conditions for a single local model on the identical 112 rows. The author develops the evaluated technology; reference labels were prepared within the project.
+
+| Edición 1.2 | Español | English |
+|---|---|---|
+| Artículo | [PDF para lectura y descarga](v12/PAPER_ES.pdf) · [Texto accesible](v12/PAPER_ES.md) | [Download PDF](v12/PAPER_EN.pdf) · [Accessible text](v12/PAPER_EN.md) |
+| Anexo de 116 referencias | [Catálogo bibliográfico](v12/Prior_art_catalogue.pdf) | [Bilingual prior-art catalogue](v12/Prior_art_catalogue.pdf) |
+| Reproducción y proyecto abierto | [112 comparaciones](v12/paired_decisions.csv) · [34 sucesos candidatos](v12/candidate_events.csv) | [Inputs and receipts](v12/README.md) · [Independent replication design](v12/NEXT_STUDY.md) |
+
+[DOI de la edición 1.2](https://doi.org/10.5281/zenodo.24447732) · [Todas las versiones · All versions](https://doi.org/10.5281/zenodo.24424023)
+
+## Archivo de la edición 1.1 · Edition 1.1 archive
+
 **Rubén Abella · SPE Audit · 21 de noviembre de 2026 · Edición 1.1**
 
 El estudio y la solicitud provisional estadounidense de la que parte esta publicación corresponden a Rubén Abella. Para citar la edición ampliada en cualquiera de los dos idiomas, utilice el [registro en Zenodo](https://doi.org/10.5281/zenodo.24424024).
